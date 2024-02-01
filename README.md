@@ -1,9 +1,9 @@
 # Get Started
 
 `git clone https://github.com/jackyzha0/quartz.git`
-`cd quartz
-npm i
-npx quartz create`
+`cd quartz`
+`npm i`
+`npx quartz create`
 
 # Building your Quartz
 
