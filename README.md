@@ -3,7 +3,7 @@
 `git clone https://github.com/jackyzha0/quartz.git`\
 `cd quartz`\
 `npm i`\
-`npx quartz create`\
+`npx quartz create`
 
 # Building your Quartz
 
@@ -19,4 +19,4 @@ In future updates, you can simply run `npx quartz sync` every time you want to p
 ## Resources
 
 [Configuration Quartz](https://quartz.jzhao.xyz/configuration)\
-[Editing Quartz](https://quartz.jzhao.xyz/layout)\
+[Editing Quartz](https://quartz.jzhao.xyz/layout)
