@@ -1,18 +1,16 @@
-# Quartz v4
+# Get Started
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+`git clone https://github.com/jackyzha0/quartz.git`
+`cd quartz
+npm i
+npx quartz create`
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+# Building your Quartz
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+`npx quartz build --serve`
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+# Syncing Content
 
-## Sponsors
+`npx quartz sync --no-pull`
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+In future updates, you can simply run `npx quartz sync` every time you want to push updates to your repository.
