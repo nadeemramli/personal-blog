@@ -3,19 +3,17 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Bro Cuba Menulis",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    baseUrl: "quartz.jzhao.xyz",
+    analytics: null,
+    baseUrl: "nadeemramli.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Poppins",
+        body: "Poppins",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -30,12 +28,12 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
+          light: "#202124",
+          lightgray: "#2D2E30",
           gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
+          darkgray: "#FFFFFF",
+          dark: "#FFFFFF",
+          secondary: "#DE194E",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
