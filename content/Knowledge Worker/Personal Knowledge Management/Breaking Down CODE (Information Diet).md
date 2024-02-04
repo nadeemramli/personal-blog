@@ -4,7 +4,7 @@ draft: false
 tags:
   - Meta-Learning
 ---
-In this article, we’re going to discuss how to use a framework/model called CODE as a way to manage and optimize your information diet. Growth and staying ahead is a big part of personal development, and in my opinion the requirement for growth is exposure.
+In this writing, we’re going to discuss how to use a framework/model called CODE as a way to manage and optimize your information diet. Growth and staying ahead is a big part of personal development, and in my opinion the requirement for growth is exposure.
 
 So what is CODE?
 
