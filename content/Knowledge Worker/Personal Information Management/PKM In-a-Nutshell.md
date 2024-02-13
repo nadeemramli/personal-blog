@@ -1,10 +1,10 @@
 ---
 title: 
-draft: false
+draft: true
 tags:
 ---
  
-Experience Life
+Experience a Great Life
 1. Reeaw
 
 Write as much about it
@@ -13,7 +13,7 @@ The people with write about.
 - mind wandering
 
 
-Reflect and improve
+Reflect and Improve
 
 ![[Pasted image 20240204051300.png]]
 

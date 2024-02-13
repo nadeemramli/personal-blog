@@ -2,7 +2,7 @@
 title: Nadeem's Space
 ---
 ## About Me
-Halo, Nadeem here. 
+Hihi, Nadeem here. 
 
 
 ---
@@ -24,3 +24,7 @@ Also to note, despite of this blog has more zettelkasten approach, I still use f
 *p.s: I don't really wanna waste anyone's time, but if you happened to be reading this. I am thankful for that.*
 
 ---------
+Write more:
+
+1. Mental Models
+2. Books
