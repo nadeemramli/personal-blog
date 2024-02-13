@@ -1,6 +1,6 @@
 ---
 title: "Meta-Learning: Breaking Down CODE (Information Diet)"
-draft: true
+draft: false
 tags:
   - Meta-Learning
 ---
@@ -26,8 +26,6 @@ Capturing information involves various sources like YouTube, Twitter, email, and
 ######  _“On mark 21-minutes, Marc describe how he source most of his information: Social Media for Leading Edge information, and books for Permanent Value. He applied Barbell Strategy for managing his information diet - He also explained why he followed up to 20,000 people on Twitter”_
 
 Permanent knowledge, fundamental principles, and long-form learning play a crucial role in shaping foundational knowledge. However, effectively absorbing this information can be tough. To manage this, using a model called PARA is useful. It involves categorizing resources into projects, resources, and archives, making it easier to access relevant knowledge.
-
-Type of capture,
 
 # Organize
 
