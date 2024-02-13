@@ -3,7 +3,7 @@ title: Level and Gap
 draft: false
 tags:
 ---
-## Level and Gap
+### Level and Gap
 -------
 **Level and Gap is important for growth.**
 
