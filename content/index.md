@@ -1,9 +1,8 @@
 ---
-title: Nadeem's Space
+title: Hit Home
 ---
 ## About Me
 Hihi, Nadeem here. 
-
 
 ---
 #### Setting Expectations
@@ -28,3 +27,4 @@ Write more:
 
 1. Mental Models
 2. Books
+
