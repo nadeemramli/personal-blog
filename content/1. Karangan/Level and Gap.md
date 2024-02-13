@@ -15,19 +15,17 @@ If you look too forward and hyperfixating the ceiling or the objective, it gave 
 
 ==Nassim Taleb describe this problem as Top-down Approach, a top-down approach are just too fragile, it was design and focused to be oversimplify due to reductionism and lack of knowledge.==
 
-> [!Nadeem's Note]
 > *I also think that a top-down approach has too much of noises, where we're actually focusing too much at a [[Layers of Cause and Effect|prescription]] of a problem/results. Essentially, it need more than just observations.*
 
 While we also have a Bottom-up Approach, where we just grow and scale from point A (current/local) to point B (next), and eventually reach a ceiling/objective. Bottom-up Approach also can be deceiving, but this time the one that deluded it is ourselves. 
 
-> [!Nadeem's Note]
 > *Bottom-Up Approach focus more on intrinsic growth/values. Where decision-making and "strategy" are focused more towards empirical evidence and practical experience. This type of approach rely heavily on one's capacity to be present and persistency*
 
-We often time don't see that it is required to grow through bottom-up approach due to the lack of visibility (clarity) of those changes, and also due to the pain/stress it incurred to be present during the changes.
+==We often time don't see that it is required to grow through bottom-up approach due to the lack of visibility (clarity) of those changes, and also due to the pain/stress it incurred to be present during the changes.==
 
 ### Why Level and Gap is Important for Growth?
 ------
-This is why level and gap is important for growth. It was meant to give a clear indicator of our current state to our ideal state. 
+This is why level and gap is important for growth. It was meant to give ==a clear indicator of our current state to our ideal state.== 
 
 Meaning, it's important to always think about the level and gap of our goal, it will help us approach it "bottom-up" rather than subconsciously doing it "top-down".
 
@@ -67,12 +65,12 @@ Thinking about the level and gap of them just like that, has kept me inspired an
 
 ### What Can We Do?
 -----
-Thinking with level and gap help you understand the amount of work it needed to be at the level you want and also it help you to approach it "bottom-up" rather than "top-down". 
+==Thinking with level and gap help you understand the amount of work it needed to be at the level you want and also it help you to approach it "bottom-up" rather than "top-down".== 
 
 It is an awareness aswell to kept believing that we can always grow.
 
 Just like bodybuilding, learning and thinking can aswell, grow. We should always strive to read more, to learn more, to find better ways to understand ourselves, and to improve our competency. It's a hard knock to the head to basically says that life is within our control, and we should have as much agency to act upon it.
 
-So yeah, kept on treading man.
+So yeah, kept on treading man, kept thinking of the level and gap.
 
 ~~*This concept actually help me to realize how stupid and underwork myself is. There's so much work to be done, and it just a beginning. All these work for the past 4 years are just prologue.*~~ 
