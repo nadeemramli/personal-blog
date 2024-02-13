@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"97084b36aba58fa4","x":120,"y":-600,"width":400,"height":400,"color":"2","type":"file","file":"2. Panduan Ringkas/Principles/Meta-learning = How PKM and Learning Technique Dynamically Work Together.md"},
+		{"id":"7c2ac5b84c0c78e8","x":-640,"y":-200,"width":400,"height":640,"type":"file","file":"2. Panduan Ringkas/Principles/It's Should've Been A Habit.md"},
+		{"id":"e777607cae6b3ebd","x":120,"y":120,"width":400,"height":400,"type":"file","file":"2. Panduan Ringkas/Principles/Understanding Tools.md"}
+	],
+	"edges":[
+		{"id":"bfeccbb4894ea564","fromNode":"97084b36aba58fa4","fromSide":"left","toNode":"7c2ac5b84c0c78e8","toSide":"right"},
+		{"id":"1fbaf681948eb940","fromNode":"97084b36aba58fa4","fromSide":"bottom","toNode":"e777607cae6b3ebd","toSide":"top"}
+	]
+}

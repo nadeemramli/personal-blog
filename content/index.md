@@ -2,10 +2,11 @@
 title: Hit Home
 ---
 ## About Me
-Hihi, Nadeem here. 
+-----
+Hihi, Nadeem here. I do growth marketing, and just an avid learner. I built and help businesses on side, check out [[Project Juta Juta|some project]]. 
 
----
 #### Setting Expectations
+--------
 I use this space as a way to put all of my permanent notes and some of my progressive summarization notes.
 
 It's really fun when you can refer to your own writing to answer some of your life problem (which why I actually encourage all to do the same aswell):
@@ -21,10 +22,3 @@ So what kind of "reference" can we expect from this ?
 Also to note, despite of this blog has more zettelkasten approach, I still use folder for the sake of navigation and reading experiences. But still, you can always check 
 
 *p.s: I don't really wanna waste anyone's time, but if you happened to be reading this. I am thankful for that.*
-
----------
-Write more:
-
-1. Mental Models
-2. Books
-
