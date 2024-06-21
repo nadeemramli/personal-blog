@@ -1,7 +1,8 @@
 ---
 title: Plan Your Writing In 2-Step
 draft: false
-tags:
+tags: 
+date: "{{date}}"
 ---
  The easiest framework you can use, to double up your learning experiences are just simply ask these two question whenever you wanted to embark in your adventure of curiosity.
 

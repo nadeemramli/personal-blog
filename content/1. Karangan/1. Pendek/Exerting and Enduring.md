@@ -1,3 +1,8 @@
+---
+title: 
+draft: true
+tags:
+---
 When you felt like you've been working hard, and pushing through obstacles and you felt like you have it and you want to make it right. 
 
 Practice this

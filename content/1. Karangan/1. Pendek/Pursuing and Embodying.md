@@ -3,5 +3,6 @@ title:
 draft: true
 tags:
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
+![[Pasted image 20240612151153.png]]
+
+Liking the Laife Doing It.
