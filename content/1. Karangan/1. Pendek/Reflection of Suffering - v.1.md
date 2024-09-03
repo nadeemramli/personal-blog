@@ -1,6 +1,6 @@
 ---
-title: 
-draft: true
+title: Reflection of Suffering - v.1
+draft: false
 tags: 
 date: 2024-09-03
 ---
