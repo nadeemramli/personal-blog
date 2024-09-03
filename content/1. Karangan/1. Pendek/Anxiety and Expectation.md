@@ -1,7 +1,8 @@
 ---
 title: 
 draft: true
-tags:
+tags: 
+date:
 ---
 I've recently talk to a mentor (bang Lan)
 

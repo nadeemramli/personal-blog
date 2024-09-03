@@ -1,7 +1,8 @@
 ---
 title: 
 draft: true
-tags:
+tags: 
+date:
 ---
 What you use as benchmark/comparison of success, is exactly what you value.
 

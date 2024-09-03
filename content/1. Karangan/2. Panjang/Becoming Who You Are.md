@@ -12,7 +12,7 @@ tags:
 Pain x Reflection = Progress
 Stressor
 Apply for jobs you're not qualify of
-
+o
 Friedrich
 Henry Ford
 Steve Jobs - Red Pill
@@ -38,4 +38,10 @@ Inversion
 - Others bad judgment, avoid them.
 
 Individuation
+
+
+Isolation
+
+Avoiding FOMO
+Status
 

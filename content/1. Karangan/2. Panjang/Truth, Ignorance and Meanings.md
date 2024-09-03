@@ -86,3 +86,5 @@ Self-improvement model
 
 -------
 
+Andrej Karpathy tips:
+![[Pasted image 20240629021640.png]]

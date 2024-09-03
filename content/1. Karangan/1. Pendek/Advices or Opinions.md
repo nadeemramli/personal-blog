@@ -1,7 +1,8 @@
 ---
 title: 
 draft: true
-tags:
+tags: 
+date:
 ---
 I think now we live in this world where, we can easily say our opinion, or provide advice to others, and those information will either be broadcasted or misinterpreted. 
 

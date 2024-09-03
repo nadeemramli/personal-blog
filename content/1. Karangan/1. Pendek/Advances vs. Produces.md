@@ -1,7 +1,8 @@
 ---
 title: Advances vs. Produces
 draft: true
-tags:
+tags: 
+date: "{{date}}"
 ---
 I've always seen a pattern and a negative cause-effect relationship with advancement and production.
 

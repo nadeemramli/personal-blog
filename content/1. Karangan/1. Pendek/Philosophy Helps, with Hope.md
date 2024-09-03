@@ -1,8 +1,7 @@
 ---
 title: 
-draft: true
+draft: false
 tags: 
-date: 2022, 4 August,
+date: August 4, 2022
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
+When life getting boring-ish, it’s a sign that you’re stagnant. Be more by learning more philosophy.
