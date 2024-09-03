@@ -1,11 +1,12 @@
 ---
-
 excalidraw-plugin: parsed
-tags: [excalidraw]
-
+tags:
+  - excalidraw
+draft: true
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
+---
 
 # Text Elements
 Attended,User Name (Original Name),First Name,Last Name,Email,Registration Time,Approval Status,Join Time,Leave Time,Time in Session (minutes),Is Guest,Country/Region Name,Source Name,Topic,Webinar ID,Actual Start Time ^3SllC2ez
