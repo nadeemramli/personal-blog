@@ -1,6 +1,6 @@
 ---
-title: 
-draft: true
+title: Would Or Could
+draft: false
 tags:
 ---
 For a generalist, I think this could be a common advice for some out there.
@@ -37,6 +37,8 @@ This is where all test of reasonings and motivations come to play, we ask our te
 
 What exactly the WOULD part?
 
+
+
 Well, I don't really know what is it, but I can surely says the outcome of it.
 
 The would what give birth to Persistence, Grit and Perseverance. Which to Nassim Taleb, the most important but in challenging/tough times. 
@@ -49,6 +51,7 @@ Don't ask whether you Could, Ask whether you Would.
 
 I don't really ask myself of Should cause a lot of times, "Should" can be answer through Would. 
 
+At early stage of your life, your mission usually is to answer the question whether you're capable to do "it", at later stage you begun to the journey to answer the question whether it's worth it to do it. The pursuit here is subtle cause the later will determine the 
 
 The best thing to ask yourself is "If you couldn't do it, would you do it."
 
