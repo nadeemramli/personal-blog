@@ -1,6 +1,6 @@
 ---
 title: A Framework of A Work
-draft: false
+draft: true
 tags: 
 date: 2024-09-21
 ---

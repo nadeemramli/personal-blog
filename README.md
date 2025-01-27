@@ -32,6 +32,8 @@ Double check with  `npx quartz build --serve`
 
 If all good, push to `git push origin v4`
 
+ - (27/1/2025) another way to update is to use the Github sync fork feature, sync the latest version of the quartz repo, then manually merge the changes into your fork using the Github Desktop app.
+
 
 ## Resources
 

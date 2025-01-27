@@ -23,6 +23,7 @@ While we also have a Bottom-up Approach, where we just grow and scale from point
 
 ==We often time don't see that it is required to grow through bottom-up approach due to the lack of visibility (clarity) of those changes, and also due to the pain/stress it incurred to be present during the changes.==
 
+
 ### Why Level and Gap is Important for Growth?
 ------
 This is why level and gap is important for growth. It was meant to give ==a clear indicator of our current state to our ideal state.== 
@@ -62,6 +63,7 @@ So now, when I think of level and gap for thinking, my current state now vs. my 
 5. How much value do they endeavor?
 
 Thinking about the level and gap of them just like that, has kept me inspired and motivated to do more of those. 
+
 
 ### What Can We Do?
 -----

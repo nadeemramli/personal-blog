@@ -1,6 +1,6 @@
 ---
 title: Plan Your Writing In 2-Step
-draft: false
+draft: true
 tags: 
 date: "{{date}}"
 ---
