@@ -14,7 +14,6 @@ export default ((opts?: Options) => {
 
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <hr />
         <p>
           <a href="https://nadeemramli.com">Back to Homepage</a>
         </p>
