@@ -1,3 +1,35 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Mobile-specific styles for the explorer
+.mobile-only .explorer {
+  margin: 1rem 0;
+  border-radius: 8px;
+  padding: 1rem;
+  background: var(--light);
+  
+  // Ensure proper display of folder structure
+  #explorer-content {
+    display: block !important;
+    padding: 0.5rem;
+  }
+  
+  // Style the folder buttons
+  .folder-button {
+    width: 100%;
+    text-align: left;
+  }
+  
+  // Add some spacing between items
+  .folder-outer {
+    margin-bottom: 0.5rem;
+  }
+}
+
+// Hide on desktop
+@media (min-width: 768px) {
+  .mobile-only {
+    display: none;
+  }
+}

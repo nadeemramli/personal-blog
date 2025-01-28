@@ -1,11 +1,19 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import Canvas from "./quartz/components/Canvas"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.MobileOnly(Component.Explorer({
+      title: "Explore",
+      folderClickBehavior: "collapse",
+      folderDefaultState: "collapsed",
+      useSavedState: true,
+    })),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
@@ -21,6 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Canvas(),
   ],
   left: [
     Component.PageTitle(),
