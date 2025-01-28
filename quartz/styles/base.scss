@@ -511,6 +511,24 @@ tr {
   }
 }
 
+img[alt*="small"] {
+  max-width: 300px;
+  margin: 0 auto;
+  display: block;
+}
+
+img[alt*="medium"] {
+  max-width: 600px;
+  margin: 0 auto;
+  display: block;
+}
+
+img[alt*="big"] {
+  max-width: 900px;
+  margin: 0 auto;
+  display: block;
+}
+
 img {
   max-width: 100%;
   border-radius: 5px;
@@ -525,7 +543,7 @@ p > img + em {
 
 hr {
   width: 100%;
-  margin: 2rem auto;
+  margin: 0;
   height: 1px;
   border: none;
   background-color: var(--lightgray);
