@@ -37,10 +37,10 @@ function Canvas(props: QuartzComponentProps) {
         .canvas-container {
           width: 100%;
           position: relative;
-          padding-bottom: 56.25%;
+          padding-bottom: 75vh;
           height: 0;
           overflow: hidden;
-          margin: 2rem 0;
+          margin: 0;
           background: var(--background-primary);
         }
 
@@ -51,8 +51,8 @@ function Canvas(props: QuartzComponentProps) {
           width: 100%;
           height: 100%;
           border: none;
-          border-radius: 8px;
-          box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+          border-radius: 0;
+          box-shadow: none;
         }
 
         .canvas-loading {

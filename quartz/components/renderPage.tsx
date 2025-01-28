@@ -84,6 +84,51 @@ export function renderPage(
   components: RenderComponents,
   pageResources: StaticResources,
 ): string {
+  // Check if this is a canvas page
+  const isCanvasPage = slug.includes("canvases")
+
+  // For canvas pages, modify the components structure
+  if (isCanvasPage) {
+    componentData.frontmatter = {
+      ...componentData.frontmatter,
+    }
+
+    components = {
+      ...components,
+      header: [],
+      right: [], // Remove right sidebar
+      beforeBody: [
+        components.beforeBody[0], // Keep breadcrumbs
+        components.beforeBody[1], // Keep article title
+        // Modify ContentMeta to show description instead of reading time
+        () => {
+          const description = componentData.frontmatter?.description
+          return (
+            <div class="content-meta">
+              {description && <p class="description">{description}</p>}
+            </div>
+          )
+        },
+        ...components.beforeBody.slice(4), // Skip TagList, keep Canvas
+      ],
+    }
+
+    // Add specific styles for canvas pages
+    pageResources.css.push({
+      content: `
+        .content-meta {
+          margin-bottom: 2em;
+        }
+        .content-meta .description {
+          color: var(--gray);
+          margin: 0;
+          font-size: 0.9em;
+        }
+      `,
+      inline: true,
+    })
+  }
+
   // make a deep copy of the tree so we don't remove the transclusion references
   // for the file cached in contentMap in build.ts
   const root = clone(componentData.tree) as Root

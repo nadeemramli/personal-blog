@@ -16,13 +16,14 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
 }
 
-// components for pages that display a single page (e.g. a single note)
+// Function to determine if current page is a canvas page
+const isCanvasPage = (slug: string) => slug.includes("canvases")
+
+// components for pages that display a single page
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
@@ -45,7 +46,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// components for pages that display lists of pages
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
@@ -56,4 +57,16 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
+}
+
+// Get the appropriate layout based on the page type
+export function getLayout(slug: string): PageLayout {
+  if (isCanvasPage(slug)) {
+    return {
+      ...defaultContentPageLayout,
+      beforeBody: [Component.Breadcrumbs(), Canvas()],
+      right: [],
+    }
+  }
+  return defaultContentPageLayout
 }
