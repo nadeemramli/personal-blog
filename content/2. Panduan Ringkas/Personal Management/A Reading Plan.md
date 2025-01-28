@@ -2,6 +2,8 @@
 title: WTH, A Reading Plan?
 draft: false
 tags:
+  - PKM
+  - Meta-Learning
 ---
 ## A Reading Plan
 -------

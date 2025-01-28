@@ -2,6 +2,7 @@
 title: 
 draft: true
 tags:
+  - Productivity
 ---
 Certain days you’re going to be lazy, certain days you’re going to be fire off.
 

@@ -1,7 +1,8 @@
 ---
 title: It's Should've Been A Habit
 draft: true
-tags: 
+tags:
+  - principles
 date: "{{date}}"
 ---
 Learning is a great tool.

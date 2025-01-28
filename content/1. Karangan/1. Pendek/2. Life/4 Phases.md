@@ -2,6 +2,7 @@
 title: 
 draft: true
 tags:
+  - principles
 ---
 1. Visioning
     1. sds

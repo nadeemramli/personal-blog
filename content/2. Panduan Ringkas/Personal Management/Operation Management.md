@@ -2,6 +2,7 @@
 title: 
 draft: true
 tags:
+  - Productivity
 ---
  1. Project Management
     1. Output of PM is to execute the project better

@@ -1,7 +1,8 @@
 ---
 title: The Fundamental of Trading
 draft: true
-tags: 
+tags:
+  - principles
 date: 2025-01-27
 ---
  

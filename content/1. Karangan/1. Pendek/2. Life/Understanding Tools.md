@@ -2,6 +2,7 @@
 title: Understanding Tools
 draft: true
 tags:
+  - principles
 ---
 If you haven't heard of Maslow Tools before, you might wanna check that out.
 

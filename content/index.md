@@ -3,7 +3,7 @@ title: Hit Home
 ---
 #### About Me
 -----
-Hihi, Nadeem here. I do growth marketing, and just an avid learner. I built and help businesses on side, check out [[Project Juta Juta|some project]]. 
+Hihi, Nadeem here. I do growth/product. I built and help businesses on side, check out [[Project Juta Juta|some project]]. 
 
 #### Setting Expectations
 --------

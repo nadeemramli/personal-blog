@@ -2,6 +2,8 @@
 title: 
 draft: true
 tags:
+  - PKM
+  - Meta-Learning
 ---
 How do you curate?
 

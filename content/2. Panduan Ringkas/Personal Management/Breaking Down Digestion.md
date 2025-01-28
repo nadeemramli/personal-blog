@@ -2,6 +2,8 @@
 title: Breaking Down Digestion
 draft: true
 tags:
+  - PKM
+  - Meta-Learning
 ---
  
 If you read [[Breaking Down CODE (Information Diet)]] before you notice, I mention about etc etc
