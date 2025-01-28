@@ -34,7 +34,7 @@ But often, this approach skips an important phase in habits building. People don
 ------
 James Clear, in his book, emphasizes the outcomes and importance of habits and strict routines. However, I believe he overlooks the "war of negotiation" aspect.
 
-![small](Pasted image 20250128203116.png)
+![[Pasted image 20250128203116.png]]
 
 He outlines the laws of building habits:
 1. Make it Obvious: Cue and Designing Environment

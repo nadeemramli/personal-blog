@@ -1,6 +1,6 @@
 ---
-title: Need of Subtlety
-draft: true
+title: Navigating Thoughts
+draft: false
 tags: 
 date: 2025-01-28
 ---
