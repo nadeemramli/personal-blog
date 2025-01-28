@@ -18,7 +18,7 @@ However, in life, we are by default lazy and animalistic. The value of mediocrit
 
 So, how can we improve this?
 
-#### Designing Routine
+### Designing Routine
 -----
 First, of course, the best approach is to carefully design your daily routine. This idea is also discussed in _Atomic Habits_ by James Clear, where he discusses the importance of designing routines to build habits:
 
@@ -30,11 +30,11 @@ But often, this approach skips an important phase in habits building. People don
 
 > "Every action you take is a vote for the type of person you wish to become. No single instance will transform your beliefs, but as the votes build up, so does the evidence of your new identity."
 
-#### Value System Approach
+### Value System Approach
 ------
 James Clear, in his book, emphasizes the outcomes and importance of habits and strict routines. However, I believe he overlooks the "war of negotiation" aspect.
 
-![[Pasted image 20250128203116.png]]
+![[Pasted image 20250128203116.png|alt:small]]
 
 He outlines the laws of building habits:
 1. Make it Obvious: Cue and Designing Environment
