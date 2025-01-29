@@ -1,7 +1,8 @@
 ---
 title: Project
 draft: false
-tags:
+tags: 
+date: 2025-01-29
 ---
 At this moment, I'm a jobless dude figuring out wth am I gonna do with ma lifeeeeee.
 
