@@ -1,5 +1,5 @@
 ---
-title: 
+title: Exerting & Enduring
 draft: true
 tags:
 ---

@@ -1,5 +1,5 @@
 ---
-title: Level and Gap
+title: Levels & Gap
 draft: false
 tags:
 ---

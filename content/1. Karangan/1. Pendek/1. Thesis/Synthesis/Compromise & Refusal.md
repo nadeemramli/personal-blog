@@ -1,5 +1,5 @@
 ---
-title: 
+title: Compromise & Refusal
 draft: true
 tags:
 ---

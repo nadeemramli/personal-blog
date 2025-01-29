@@ -1,5 +1,5 @@
 ---
-title: 
+title: Pursuing & Embodying
 draft: true
 tags:
 ---

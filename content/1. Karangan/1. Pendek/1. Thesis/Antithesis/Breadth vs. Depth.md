@@ -1,5 +1,5 @@
 ---
-title: 
+title: Breadth vs. Depth
 draft: true
 tags: 
 date:

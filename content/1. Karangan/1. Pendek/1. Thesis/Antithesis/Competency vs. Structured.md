@@ -1,5 +1,5 @@
 ---
-title: 
+title: Competency vs. Structured
 draft: true
 tags:
 ---

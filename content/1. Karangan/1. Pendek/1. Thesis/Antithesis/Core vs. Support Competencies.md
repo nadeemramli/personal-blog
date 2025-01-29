@@ -1,5 +1,5 @@
 ---
-title: 
+title: Core vs. Support Competencies
 draft: true
 tags:
 ---

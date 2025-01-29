@@ -1,5 +1,5 @@
 ---
-title: Peace -> Practice
+title: Peace & Practice
 draft: true
 tags:
 ---

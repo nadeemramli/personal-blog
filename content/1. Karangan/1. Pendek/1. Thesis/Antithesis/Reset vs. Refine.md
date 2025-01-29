@@ -1,5 +1,5 @@
 ---
-title: 
+title: Reset vs. Refine
 draft: true
 tags:
 ---

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Question & Life
 draft: true
 tags:
 ---

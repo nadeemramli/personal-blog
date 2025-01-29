@@ -1,5 +1,5 @@
 ---
-title: 
+title: Advices vs. Opinions
 draft: true
 tags: 
 date:
