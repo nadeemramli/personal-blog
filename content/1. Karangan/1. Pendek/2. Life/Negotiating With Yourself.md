@@ -4,7 +4,8 @@ draft: false
 tags: 
 date: 2025-01-28
 ---
-> "The person who carefully designs their daily routine goes further than the one who negotiates with themselves every day." – Shane Parrish
+
+> [!cite]- "The person who carefully designs their daily routine goes further than the one who negotiates with themselves every day." – Shane Parrish
 
 ### Understanding Negotiation
 ------

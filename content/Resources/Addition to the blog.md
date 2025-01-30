@@ -10,13 +10,7 @@ Having a next or previous page
 
 -------------
 
-
 Background
-
----------
-
-
-![[Pasted image 20250129074941.png]]
 
 ------
 
@@ -64,6 +58,8 @@ tags and listing combines
 design and information showcase
 https://patternlanguage.cc/Patterns/A-Place-to-Wait-(150)
 
+
+https://quartz.jzhao.xyz/features/callouts
 
 -----
 A good example of highly maintain blog?
