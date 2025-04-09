@@ -17,7 +17,7 @@ It's really fun when you can refer to your own writing to answer some of your li
 So what kind of "reference" can we expect from this ?
 1. I talk a lot about mental model, I draw some of it, articulate problems/solution in mapping or model.
 2. I document some cool thing I learned, read or discover. (this has been a challenge)
-3. Lastly, things that I love to do "my work". Anything related to growth/product.
+3. Lastly, things that I love to do my work. Anything related to growth/product.
 
 Also to note, despite of this blog has more zettelkasten approach, I still use folder for the sake of navigation and reading experiences. But still, you can always check 
 
