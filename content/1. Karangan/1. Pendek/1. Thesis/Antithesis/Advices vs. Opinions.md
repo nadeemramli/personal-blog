@@ -1,6 +1,6 @@
 ---
 title: Advices vs. Opinions
-draft: true
+draft: false
 tags: 
 date:
 ---

@@ -1,6 +1,6 @@
 ---
 title: Advances vs. Produces
-draft: true
+draft: false
 tags: 
 date: "{{date}}"
 ---
