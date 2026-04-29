@@ -26,9 +26,9 @@ date: 2026-04-29
 
 ## How to use these programs
 
-[[03-1 Program Concepts|Part 3.1]] covered the concepts. [[03-2 Program Rules|Part 3.2]] covered the rules and the building blocks. This article gives two concrete templates that can be run as-is, or adapted using the principles already established.
+[[Part 3.1 - The Program - Concepts|Part 3.1]] covered the concepts. [[Part 3.2 - The Program - Rules and Building the Program|Part 3.2]] covered the rules and the building blocks. This article gives two concrete templates that can be run as-is, or adapted using the principles already established.
 
-> [!important] Before starting either template The rules from [[03-2 Program Rules|Part 3.2]] all apply:
+> [!important] Before starting either template The rules from [[Part 3.2 - The Program - Rules and Building the Program|Part 3.2]] all apply:
 > 
 > - Every working set: 8–12 reps, controlled tempo, last set to failure or 0–1 RIR
 > - 3 minutes rest between working sets, always
@@ -272,13 +272,13 @@ These templates are starting points, not gospel. Adapt them based on what's alre
 
 > [!note] Recap and what's next That's the full programming layer of the series:
 > 
-> - [[03-1 Program Concepts|Part 3.1 — Concepts]] — fatigue/stimulus, progressive overload, biasing, MRV
-> - [[03-2 Program Rules|Part 3.2 — Rules and Building Blocks]] — the rules and structural pieces
+> - [[Part 3.1 - The Program - Concepts|Part 3.1 — Concepts]] — fatigue/stimulus, progressive overload, biasing, MRV
+> - [[Part 3.2 - The Program - Rules and Building the Program|Part 3.2 — Rules and Building Blocks]] — the rules and structural pieces
 > - **Part 3.3 (this article)** — templates that put it all together
 > 
-> Up next: [[04 Pharmacology|Part 4 — Pharmacology]] covers the supplement side, both the natural tier and the half-natty peptide tier.
+> Up next: [[Part 4 - Pharmacology|Part 4 — Pharmacology]] covers the supplement side, both the natural tier and the half-natty peptide tier.
 > 
-> If [[01 Recomp Cut or Bulk|Part 1]] or [[02 Structure of a Day|Part 2]] were skipped, start there — they're the foundation everything in this article relies on.
+> If [[Part 1.1 - Recomp, Cut, or Bulk - What Actually Matters|Part 1]] or [[Part 2 - Structure of a Day|Part 2]] were skipped, start there — they're the foundation everything in this article relies on.
 
 ---
 

@@ -137,8 +137,8 @@ Two compounds people often lump together because they show up in cutting stacks,
 
 The honest hierarchy of impact, from most to least, looks roughly like this:
 
-1. **Training stimulus and consistency** — the program ([[03-1 Program Concepts|Part 3]]) doing what it's supposed to do, week after week.
-2. **Calorie management** — the right phase ([[01 Recomp Cut or Bulk|Part 1]]) executed cleanly.
+1. **Training stimulus and consistency** — the program ([[Part 3.1 - The Program - Concepts|Part 3]]) doing what it's supposed to do, week after week.
+2. **Calorie management** — the right phase ([[Part 1.2 - Recomp, Cut or Bulk - How to Actually Decide|Part 1]]) executed cleanly.
 3. **Sleep and recovery** — the boring stuff.
 4. **Tier 1 supplements** — collectively meaningful, individually small.
 5. **Tier 2 compounds** — meaningful only on top of the first four; trivial without them.
@@ -151,9 +151,9 @@ The honest hierarchy of impact, from most to least, looks roughly like this:
 
 > [!note] That's the four-part series To recap:
 > 
-> - [[01 Recomp Cut or Bulk|Part 1 — Recomp, Cut, or Bulk]] — figuring out what phase to be in
-> - [[02 Structure of a Day|Part 2 — Structure of a Day]] — the daily habits underneath everything
-> - [[03-1 Program Concepts|Part 3.1 — Concepts]], [[03-2 Program Rules|Part 3.2 — Rules]], [[03-3 Program Templates|Part 3.3 — Templates]] — the full programming layer
+> - [[Part 1.2 - Recomp, Cut or Bulk - How to Actually Decide|Part 1 — Recomp, Cut, or Bulk]] — figuring out what phase to be in
+> - [[Part 2 - Structure of a Day|Part 2 — Structure of a Day]] — the daily habits underneath everything
+> - [[Part 3.1 - The Program - Concepts|Part 3.1 — Concepts]], [[Part 2 - Structure of a Day|Part 3.2 — Rules]], [[Part 3.3 - The Program - Example Programs|Part 3.3 — Templates]] — the full programming layer
 > - **Part 4 (this article)** — what to take, in two tiers
 > 
 > The point of writing this series wasn't to provide a copy-paste protocol — it's to provide the reasoning, so each reader can build their own version that fits their goals, constraints, and risk tolerance. ==Take whatever's useful. Ignore whatever isn't.==

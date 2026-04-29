@@ -126,7 +126,8 @@ Delayed onset muscle soreness (DOMS) is a marker of unaccustomed eccentric stres
 
 Chasing soreness leads to programming choices that maximize damage (extreme stretches under load, excessive eccentric tempo, novel exercises every session) rather than choices that maximize stimulus. Damage and stimulus aren't the same thing. The growth signal is mechanical tension at high motor unit recruitment, full stop.
 
-A muscle that isn't sore can absolutely be growing. A muscle that's wrecked-sore for four days isn't necessarily growing more — it might just be repairing more (see [[03-1 Program Concepts#Fatigue vs stimulus the core economy|fatigue vs. stimulus]] in Part 3.1).
+A muscle that isn't sore can absolutely be growing. A muscle that's wrecked-sore for four days isn't necessarily growing more — it might just be repairing more (see [[Part 3.1 - The Program - Concepts#Fatigue vs stimulus the core economy|fatigue vs. stimulus]]
+in Part 3.1).
 
 ### Don't program-hop
 
@@ -134,13 +135,13 @@ This one is borrowed from the broader fitness community and worth quoting direct
 
 > [!quote] You WILL have intelligent people tell you that these programs are over-complicated and under-complicated. You need to decide for yourself where you fall on this spectrum and there isn't necessarily a right or wrong answer. I ENCOURAGE you to think through your stances, but do NOT become an exercise or program hopper constantly switching. This WILL hinder long-term gains.
 
-Once a program is committed to, run it for at least 8–12 weeks before evaluating whether it's working. Switching exercises every 2–3 weeks resets the neural adaptation curve constantly (see [[03-1 Program Concepts#Adaptation the timeline|adaptation timeline]] in Part 3.1) and means the muscle never gets to the hypertrophy phase of progress. The sense of "trying new things to keep the muscles guessing" is exactly backward — the muscles aren't guessing, they're learning, and learning takes time.
+Once a program is committed to, run it for at least 8–12 weeks before evaluating whether it's working. Switching exercises every 2–3 weeks resets the neural adaptation curve constantly (see [[Part 3.1 - The Program - Concepts#Adaptation the timeline|adaptation timeline]] in Part 3.1) and means the muscle never gets to the hypertrophy phase of progress. The sense of "trying new things to keep the muscles guessing" is exactly backward — the muscles aren't guessing, they're learning, and learning takes time.
 
 If a program isn't working after 8–12 weeks, change one variable at a time and observe. Don't rebuild the whole thing.
 
 ### Track everything
 
-This was covered in [[02 Structure of a Day#Apps that do the math|Part 2]] but it's worth restating in a training context: ==there's no way to progress easily without proper tracking of performance over time.== Every set, every weight, every rep, every RPE.
+This was covered in [[Part 2 - Structure of a Day|Part 2]] but it's worth restating in a training context: ==there's no way to progress easily without proper tracking of performance over time.== Every set, every weight, every rep, every RPE.
 
 Use **[Hevy](https://www.hevyapp.com/)** or any equivalent tracking app. The reason is double progression (the third growth rule above) — without an accurate record of what was done last session, there's no honest way to know whether to add reps, add weight, or hold steady. Memory isn't reliable enough at the level of precision the program needs.
 
@@ -152,7 +153,7 @@ Two visual checks worth running consistently.
 
 > [!success] Progress pictures Take them often — weekly or every two weeks, same lighting, same poses, same time of day, same level of pump (or lack thereof). The mirror lies because change is gradual; pictures don't. They also catch fat gain or recomp progress that the scale alone can miss.
 
-> [!warning] Form check videos every few weeks This is the catch for [[03-1 Program Concepts#The mistake people make on progressive overload|fake progressive overload]]. Record working sets every 4–6 weeks and compare current form to form 2–3 months ago.
+> [!warning] Form check videos every few weeks This is the catch for [[Part 3.1 - The Program - Concepts#The mistake people make on progressive overload|fake progressive overload]]. Record working sets every 4–6 weeks and compare current form to form 2–3 months ago.
 > 
 > ==If the bar path, depth, torso angle, or movement pattern has shifted to allow more weight, the muscle being trained has shifted with it.== Progress is no longer real — it's just load redistribution.
 > 
@@ -195,7 +196,7 @@ Six compound movements rotate through as the anchor of any program:
 
 ---
 
-> [!note] Up next That's the rule layer and the structural building blocks. [[03-3 Program Templates|Part 3.3 — Example Programs]] puts all of this into actual templates — week-by-week splits with exercise selection that can be run as-is or adapted.
+> [!note] Up next That's the rule layer and the structural building blocks. [[Part 3.3 - The Program - Example Programs|Part 3.3 — Example Programs]] puts all of this into actual templates — week-by-week splits with exercise selection that can be run as-is or adapted.
 
 ---
 

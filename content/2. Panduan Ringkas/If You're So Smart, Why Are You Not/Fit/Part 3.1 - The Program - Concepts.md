@@ -26,11 +26,11 @@ date: 2026-04-29
 
 ## Why split this into three articles
 
-[[01 Recomp Cut or Bulk|Part 1]] was about deciding what phase to be in. [[02 Structure of a Day|Part 2]] was the daily structure around the goal. Part 3 is the actual training — and there's enough to cover that it needs to be split into three:
+[[Part 1.2 - Recomp, Cut or Bulk - How to Actually Decide|Part 1]] was about deciding what phase to be in. [[Part 2 - Structure of a Day|Part 2]] was the daily structure around the goal. Part 3 is the actual training — and there's enough to cover that it needs to be split into three:
 
 - **Part 3.1 (this one)** — the _concepts_ that make a program work. Fatigue economics, progressive overload, biasing, MRV.
-- **[[03-2 Program Rules|Part 3.2 — Rules and Building the Program]]** — the rules that turn concepts into a working program, plus the structural pieces (joint movements, main vs. accessory, splits).
-- **[[03-3 Program Templates|Part 3.3 — Example Programs]]** — the actual templates you can run, week by week.
+- **[[Part 3.2 - The Program - Rules and Building the Program|Part 3.2 — Rules and Building the Program]]** — the rules that turn concepts into a working program, plus the structural pieces (joint movements, main vs. accessory, splits).
+- **[[Part 3.3 - The Program - Example Programs|Part 3.3 — Example Programs]]** — the actual templates you can run, week by week.
 
 Read them in order. Each one builds on the last.
 
@@ -71,14 +71,11 @@ The chain looks like this:
 
 > more strength → more force production → more motor units recruited per set → more fibers stimulated → more growth signal → more fiber → more strength next time
 
-^bf5cd2
-
 Strength and hypertrophy aren't identical — a powerlifter and a bodybuilder of the same muscle mass will have different strength numbers because of neural and skill specificity.[^2] But they are _correlated_, and for natural lifters they're correlated tightly enough that ==chasing strength on the right exercises is a reliable proxy for chasing size==.
 
 This sets up the next concept directly.
 
 ---
-
 ## Progressive overload: the by-product, not the cause
 
 This is the most misunderstood concept in training, and it's worth being precise about.
@@ -189,8 +186,8 @@ This is where wearable technology becomes useful. A device like WHOOP, Garmin, o
 > 
 > Up next:
 > 
-> - [[03-2 Program Rules|Part 3.2 — Rules and Building the Program]] covers the rules of the program and the structural pieces.
-> - [[03-3 Program Templates|Part 3.3 — Example Programs]] gives templates you can actually run.
+> - [[Part 3.2 - The Program - Rules and Building the Program|Part 3.2 — Rules and Building the Program]] covers the rules of the program and the structural pieces.
+> - [[Part 3.3 - The Program - Example Programs|Part 3.3 — Example Programs]] gives templates you can actually run.
 
 ---
 
