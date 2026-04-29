@@ -1,0 +1,191 @@
+---
+title: Part 4 — Pharmacology
+draft: false
+tags:
+  - fitness
+  - supplements
+  - pharmacology
+  - peptides
+date: 2026-04-29
+---
+
+> [!abstract] This is **Part 4 of 4** in the Fitness Series. The full path:
+> 
+> - **Part 1 - The Goal (2 sub-articles):** 
+> 	- **Part 1.1:** [[Part 1.1 - Recomp, Cut, or Bulk - What Actually Matters|Recomp, Cut, or Bulk - What Actually Matters?]]
+> 	- **Part 1.2:** [[Part 1.2 - Recomp, Cut or Bulk - How to Actually Decide|Recomp, Cut, or Bulk - How to Actually Decide]] 
+> - **Part 2:** [[Part 2 - Structure of a Day|Structure of a Day]] - the daily framework
+> - **Part 3 - The Program (3 sub-articles):**
+>     - **Part 3.1:** [[Part 3.1 - The Program - Concepts|Concepts]] - the conceptual foundation
+>     - **Part 3.2:** [[Part 3.2 - The Program - Rules and Building the Program|Rules and Building the Program]] - contexts
+>     - **Part 3.3:** [[Part 3.3 - The Program - Example Programs|Example Programs]] - practicalities
+> - **Part 4 (this article):** [[Part 4 - Pharmacology|Pharmacology]] - supplements and beyond
+
+
+> [!danger] Important framing This article splits into two tiers — **Natty** (everything legal, OTC, and broadly considered safe at sensible doses) and **Half-Natty** (peptides and research compounds that occupy a gray area between supplement and pharmacology).
+> 
+> The first tier is generally appropriate for almost anyone serious about training. **The second tier is _not_ a recommendation tier — it's there for transparency about what exists in the broader protocol space, with serious caveats.**
+> 
+> This article is not medical advice. Bloodwork and a doctor who knows what's being run are non-negotiable for anything beyond tier one.
+
+---
+
+## Tier 1 — Natty
+
+There are four buckets to think about when building a stack: energy/cardio, pre-workout cognition, fat loss, and the pump/recovery layer.
+
+### Energy and general cardio
+
+**TMG (Trimethylglycine / Betaine anhydrous).** TMG is a methyl donor — it donates methyl groups to support methylation pathways throughout the body, including homocysteine metabolism (cardiovascular protection) and cellular energy production. It also has small but measurable performance effects on power output and work capacity.[^1] Daily, year-round, 2.5–3 g with a meal.
+
+**Methylated B12 (methylcobalamin).** B12 is essential for red blood cell formation, neurological function, and energy metabolism. The methylated form skips a conversion step that's compromised in people with MTHFR gene variants (a meaningful portion of the population).[^2] Particularly worth it for hard training paired with any baseline fatigue that doesn't have an obvious explanation.
+
+### Pre-workout cognition
+
+**Alpha-GPC (Alpha-glycerophosphocholine).** A choline source that crosses the blood-brain barrier and supports acetylcholine production. Acetylcholine is the neurotransmitter responsible for the muscle-mind connection — both the literal neuromuscular junction and the cognitive feeling of focus and presence in a lift. Alpha-GPC peaks roughly 60–90 minutes post-dose, which lines up perfectly with the bulk of a workout if taken pre-session.[^3] **600 mg, 60 minutes before training.**
+
+**Huperzine A.** Acetylcholinesterase inhibitor — it slows the breakdown of acetylcholine, so the choline being produced (or supplemented through Alpha-GPC) sticks around longer. The pairing with Alpha-GPC is direct: ==more produced, less broken down.==
+
+> [!caution] Cycle Huperzine A Huperzine A has a long half-life and shouldn't be taken daily long-term — cycle it 5 days on, 2 off, or 3 weeks on, 1 week off. **200 mcg pre-workout.**
+
+### Fat loss (cut-specific, not year-round)
+
+**Caffeine.** The cheapest, most evidence-backed thermogenic on earth. It increases catecholamine release, raises resting energy expenditure modestly, and improves training output. The honest truth about caffeine for fat loss specifically is that the metabolic effect is small (50–100 kcal/day) — its real value during a cut is preserving training intensity in a deficit, which preserves muscle, which preserves the cut.
+
+**L-Carnitine (L-Carnitine L-Tartrate or Acetyl-L-Carnitine).** L-Carnitine shuttles long-chain fatty acids into the mitochondria where they can be oxidized for energy. The supplementation evidence on actual fat loss is weaker than the marketing suggests — most healthy people aren't carnitine-deficient — but it has a stronger record for endurance and recovery, particularly with training.[^4] ALCAR (the acetyl form) crosses the blood-brain barrier and adds a mild cognitive component. **2 g/day**, ideally with a carb-containing meal (insulin improves uptake).
+
+**Yohimbine HCl.** This is the most mechanistically targeted of the fat loss compounds and worth understanding properly. Yohimbine is an alpha-2 adrenergic receptor antagonist. ==Stubborn fat depots — lower abs, love handles, glutes — have a high concentration of alpha-2 receptors, which act as a brake on fat mobilization in those areas.== Yohimbine blocks that brake, allowing catecholamines to actually mobilize fat from those specific depots.[^5]
+
+> [!important] Yohimbine must be taken in a fasted state **Insulin completely blocks its mechanism** — even a small carb-containing meal will neutralize the effect.[^6]
+> 
+> The use case is fasted morning cardio: yohimbine 0.2 mg/kg, 30 minutes before zone 2 cardio or HIIT, with caffeine optional. Outside that window, it's wasted.
+
+> [!warning] Cardiovascular load Yohimbine raises blood pressure and heart rate noticeably — anyone with hypertension, anxiety issues, or cardiovascular concerns should not use it. Start low (5–10 mg) before the full 0.2 mg/kg dose.
+
+### Pump, recovery, and the basics
+
+**L-Citrulline (or Citrulline Malate).** Nitric oxide precursor — converts to arginine in the body more efficiently than supplementing arginine directly, because oral arginine has poor bioavailability and most of it gets broken down before reaching the bloodstream.[^7]
+
+> [!tip] Take citrulline, not arginine That's a clear cut. **6–8 g, 30–45 minutes pre-workout.** The pump it produces is real, and the improved blood flow has small but measurable effects on training volume capacity.
+
+**Creatine monohydrate.** The most studied supplement in sports nutrition. It does exactly what it claims — increases phosphocreatine stores in muscle, which buffers ATP regeneration during high-intensity efforts, which means an extra rep or two per set, which compounds into more total volume, which compounds into more growth.[^8] **5 g daily, year-round, no loading phase needed.** Take it whenever — timing doesn't meaningfully matter.
+
+---
+
+## Tier 2 — Half-Natty
+
+> [!danger] This isn't a recommendation tier — it's a transparency tier Now we cross into compounds that aren't legally available in most jurisdictions as supplements, that require subcutaneous injection or specific protocols, and that come with real side effect profiles. The alternative is pretending all transformation results come from creatine and citrulline, which would be dishonest.
+> 
+> For anyone considering any of this, the prerequisites are:
+> 
+> - Comprehensive bloodwork before starting (full metabolic panel, lipid panel, hormone panel, hematocrit, kidney/liver markers)
+> - A doctor or experienced clinician familiar with what's being run
+> - A structured plan including dosing, duration, and what to monitor
+
+### Retatrutide (peptide)
+
+A triple agonist hitting GLP-1, GIP, and glucagon receptors. Currently in late-stage clinical trials, with published data showing 20–24% body weight reduction at higher doses over 48 weeks[^9] — substantially more than any approved single or dual agonist. The glucagon component is what makes it unique: it directly mobilizes liver fat and increases energy expenditure, which is something Ozempic-class drugs (pure GLP-1) don't do.
+
+For body recomposition specifically, retatrutide sits in a strong position because ==it preserves lean mass better than diet-only fat loss while driving substantial visceral and hepatic fat reduction.==
+
+> [!warning] Downsides Appetite suppression can be severe enough to make hitting protein targets difficult, GI side effects are common at higher doses, and it's expensive.
+
+### CJC-1295 + Ipamorelin (peptides)
+
+These are growth hormone secretagogues that work synergistically:
+
+- **CJC-1295** is a GHRH analog that increases the _amplitude_ of GH pulses
+- **Ipamorelin** is a ghrelin mimetic that stimulates _additional_ pulses without affecting cortisol or prolactin (which is what makes it cleaner than older secretagogues like GHRP-6)
+
+The pairing produces elevated GH and IGF-1 over months, which improves recovery, sleep quality (deep slow-wave sleep increases meaningfully), and body recomposition signaling.[^10]
+
+> [!important] It's not a steroid replacement The magnitude of muscle gain is modest compared to what androgens produce. The value is more in recovery, sleep, and the gradual fat loss / lean mass preservation effect over time.
+
+**Standard protocol:** 100 mcg of each, subcutaneous, 5 days a week, taken before bed (to ride the natural overnight GH pulse) or before fasted training.
+
+> [!caution] Insulin sensitivity caveat GH and GH secretagogues impair insulin sensitivity. When stacked with retatrutide, the insulin-sensitizing effect of retatrutide partially offsets that. Running CJC/Ipa alone for an extended period requires monitoring fasting glucose and HbA1c.
+
+### MK-677 (Ibutamoren)
+
+An oral ghrelin mimetic — produces a similar GH-elevation effect to CJC/Ipamorelin but without injections. The convenience is the appeal.
+
+The trade-off is a few well-documented downsides:
+
+- Significant appetite increase (a feature during a bulk, a bug during a cut)
+- Water retention that obscures definition
+- Potential blood glucose elevation over long use
+
+**25 mg/day before bed** is the typical protocol.
+
+> [!tip] Bulk-phase tool only MK-677 is a bulk-phase tool, not a cut-phase tool. The water retention and appetite stimulation actively work against a cut.
+
+### Clenbuterol / Cardarine (GW-501516)
+
+Two compounds people often lump together because they show up in cutting stacks, but they work differently.
+
+**Clenbuterol** is a beta-2 agonist — it increases catecholamine activity, raises core temperature, and produces meaningful fat loss through thermogenesis. It also has mild anti-catabolic effects.
+
+> [!danger] Cardiovascular load is real Tachycardia, blood pressure elevation, and at higher doses or longer durations, potential cardiac hypertrophy of the wrong kind (the fibrotic kind, not the trained kind).[^11] Used sparingly during cuts, low dose, short cycles, with potassium and taurine support.
+
+**Cardarine (GW-501516)** is a PPAR-delta agonist — it shifts cellular energy use toward fatty acid oxidation rather than glucose, which improves endurance and supports fat loss.
+
+> [!warning] The historical cancer concerns from rodent studies used doses far higher than human use, but the data is what it is and worth taking seriously. It's not a casual compound.
+
+---
+
+## How to think about all of this
+
+The honest hierarchy of impact, from most to least, looks roughly like this:
+
+1. **Training stimulus and consistency** — the program ([[03-1 Program Concepts|Part 3]]) doing what it's supposed to do, week after week.
+2. **Calorie management** — the right phase ([[01 Recomp Cut or Bulk|Part 1]]) executed cleanly.
+3. **Sleep and recovery** — the boring stuff.
+4. **Tier 1 supplements** — collectively meaningful, individually small.
+5. **Tier 2 compounds** — meaningful only on top of the first four; trivial without them.
+
+> [!important] People get this hierarchy backward They optimize the tier 2 stack while sleeping six hours, training inconsistently, and eating in fluctuating windows. ==The compounds make the difference at the margins. The fundamentals are 90% of the actual outcome.==
+> 
+> The people who make the most progress aren't the ones with the most exotic protocols — they're the ones who've nailed the daily structure, run a consistent program for years, and added pharmacology only after they've outgrown what training and diet alone can produce.
+
+---
+
+> [!note] That's the four-part series To recap:
+> 
+> - [[01 Recomp Cut or Bulk|Part 1 — Recomp, Cut, or Bulk]] — figuring out what phase to be in
+> - [[02 Structure of a Day|Part 2 — Structure of a Day]] — the daily habits underneath everything
+> - [[03-1 Program Concepts|Part 3.1 — Concepts]], [[03-2 Program Rules|Part 3.2 — Rules]], [[03-3 Program Templates|Part 3.3 — Templates]] — the full programming layer
+> - **Part 4 (this article)** — what to take, in two tiers
+> 
+> The point of writing this series wasn't to provide a copy-paste protocol — it's to provide the reasoning, so each reader can build their own version that fits their goals, constraints, and risk tolerance. ==Take whatever's useful. Ignore whatever isn't.==
+
+---
+
+> [!danger] Disclaimer This article describes pharmacological compounds that are not approved as dietary supplements in most countries and that carry significant health risks if used without medical supervision. Nothing here is medical advice or a recommendation to use any specific compound.
+> 
+> Anyone considering pharmacology beyond standard supplements should work with a qualified physician, pull comprehensive bloodwork, and understand the long-term risk profile of what they're putting in their body. **This is shared for transparency, not endorsement.**
+
+---
+
+## Sources & references
+
+[^1]: Betaine (TMG) supplementation effects on power output and body composition: Cholewa et al. (2014) and follow-up studies on betaine in resistance-trained athletes.
+
+[^2]: MTHFR variants and methylated B12: see overview of methylation polymorphisms in clinical genetics literature; methylcobalamin bypasses the methylation step compromised by MTHFR C677T.
+
+[^3]: Alpha-GPC pharmacokinetics and effects on choline/acetylcholine pathway: see Healthline overview at [healthline.com — alpha-gpc](https://www.healthline.com/health/alpha-gpc) and primary literature on choline supplementation.
+
+[^4]: L-Carnitine and fatty acid transport into mitochondria: well-established biochemistry; clinical fat loss outcomes are mixed, with stronger evidence for endurance and recovery applications.
+
+[^5]: Yohimbine as alpha-2 adrenergic receptor antagonist for stubborn fat: see [legionathletics.com — yohimbine](https://legionathletics.com/yohimbine/) and the alpha-2/beta-2 receptor distribution literature; clinical trials in soccer players (Ostojic 2006) showed reduced body fat with yohimbine vs. placebo.
+
+[^6]: Insulin negation of yohimbine's lipolytic effects: well-documented in lipolysis research and discussed in [leangains.com — intermittent fasting and stubborn body fat](https://leangains.com/intermittent-fasting-and-stubborn-body-fat/).
+
+[^7]: L-Citrulline vs. L-Arginine bioavailability: oral arginine is largely degraded by intestinal arginase before reaching circulation; citrulline bypasses this and is converted to arginine in the kidneys. Schwedhelm et al. (2008).
+
+[^8]: Creatine and phosphocreatine system: most studied ergogenic aid in sports nutrition, with hundreds of studies confirming strength, power, and lean mass benefits. ISSN position stand on creatine (Kreider et al., 2017).
+
+[^9]: Retatrutide Phase 2 trial: Jastreboff et al., NEJM 2023, "Triple-Hormone-Receptor Agonist Retatrutide for Obesity." [nejm.org/doi/full/10.1056/NEJMoa2301972](https://www.nejm.org/doi/full/10.1056/NEJMoa2301972).
+
+[^10]: CJC-1295 / Ipamorelin combined GH secretagogue effects: clinical literature on GHRH analogs and ghrelin mimetics; pulsatile GH release pattern preserved compared to exogenous GH.
+
+[^11]: Clenbuterol cardiovascular effects: see [Wikipedia — Clenbuterol](https://en.wikipedia.org/wiki/Clenbuterol) and primary literature on chronic beta-2 agonist exposure including cardiac hypertrophy concerns.
