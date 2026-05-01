@@ -8,22 +8,40 @@ tags:
   - training
 date: 2026-04-29
 ---
-
 > [!abstract] This is **Part 3 of 4** in the Fitness Series. The full path:
 > 
 > - **Part 1 - The Goal (2 sub-articles):** 
-> 	- **Part 1.1:** [[Part 1.1 - Recomp, Cut, or Bulk - What Actually Matters|Recomp, Cut, or Bulk - What Actually Matters?]]
+> 	- **Part 1.1:** [[Part 1.1 - What Actually Matters|Recomp, Cut, or Bulk - What Actually Matters?]]
 > 	- **Part 1.2:** [[Part 1.2 - Recomp, Cut or Bulk - How to Actually Decide|Recomp, Cut, or Bulk - How to Actually Decide]] 
-> - **Part 2:** [[Part 2 - Structure of a Day|Structure of a Day]] - the daily framework
+> - **Part 2:** [[Part 2.0 - Structure of a Day|Structure of a Day]] - the daily framework
 > - **Part 3 - The Program (3 sub-articles):**
 >     - **Part 3.1:** [[Part 3.1 - The Program - Concepts|Concepts]] - the conceptual foundation
 >     - **Part 3.2:** [[Part 3.2 - The Program - Rules and Building the Program|Rules and Building the Program]] - contexts
 >     - **Part 3.3 (this article):** [[Part 3.3 - The Program - Example Programs|Example Programs]] - practicalities
-> - **Part 4:** [[Part 4 - Pharmacology|Pharmacology]] - supplements and beyond
+> - **Part 4:** [[Part 4.0 - Pharmacology|Pharmacology]] - supplements and beyond
+> ----
+## Table of Contents
 
-
+- [How to use these programs](#how-to-use-these-programs)
+- [Template 1: Anterior / Posterior — 4 days per week](#template-1-anterior--posterior--4-days-per-week)
+    - [Weekly structure](#weekly-structure)
+    - [Day A — Anterior](#day-a--anterior)
+    - [Day B — Posterior](#day-b--posterior)
+    - [Day C — Anterior (variation)](#day-c--anterior-variation)
+    - [Day D — Posterior (variation)](#day-d--posterior-variation)
+    - [Notes on the AP split](#notes-on-the-ap-split)
+- [Template 2: Full Body Every Other Day (FBEOD) — 3–4 days per week](#template-2-full-body-every-other-day-fbeod--34-days-per-week)
+    - [Weekly structure (FBEOD)](#weekly-structure-fbeod)
+    - [Full-Body Day 1 — Quad-dominant](#full-body-day-1--quad-dominant)
+    - [Full-Body Day 2 — Hip-hinge-dominant](#full-body-day-2--hip-hinge-dominant)
+    - [Full-Body Day 3 — Mixed](#full-body-day-3--mixed)
+    - [Notes on FBEOD](#notes-on-fbeod)
+- [The progression cycle inside the split](#the-progression-cycle-inside-the-split)
+- [How to adapt these programs to you](#how-to-adapt-these-programs-to-you)
+- [Part 3.3 Takeaways](#part-33-takeaways)
+- [Your First-Mesocycle Task List](#your-first-mesocycle-task-list)
+- [Sources & references](#sources--references)
 ---
-
 ## How to use these programs
 
 [[Part 3.1 - The Program - Concepts|Part 3.1]] covered the concepts. [[Part 3.2 - The Program - Rules and Building the Program|Part 3.2]] covered the rules and the building blocks. This article gives two concrete templates that can be run as-is, or adapted using the principles already established.
@@ -38,13 +56,12 @@ date: 2026-04-29
 > - Form check videos every 4–6 weeks
 > - Run the program for at least 8–12 weeks before judging whether it's working
 
-The two templates differ in frequency and structure, not in goal. Both produce hypertrophy. ==Choose based on schedule, recovery capacity, and personal preference== — not because one is "better."
+The two templates differ in frequency and structure, not in goal. Both produce hypertrophy. ==Choose based on schedule, recovery capacity, and personal preference== not because one is "better."
 
 ---
-
 ## Template 1: Anterior / Posterior — 4 days per week
 
-This is the workhorse split for transformation work. Four sessions per week, ~75 minutes each. Each muscle gets hit twice a week, hitting the [Schoenfeld 2016 frequency rule](https://www.strongerbyscience.com/frequency-muscle/) cleanly. The anterior/posterior division respects how the body actually moves — front-of-body muscles work in opposition to back-of-body muscles, so pairing them across alternating days gives 48 hours of recovery per region.
+This is the workhorse split for transformation work. Four sessions per week, ~75 minutes each. Each muscle gets hit twice a week, hitting the [Schoenfeld 2016 frequency rule](https://www.strongerbyscience.com/frequency-muscle/) cleanly. The anterior/posterior division respects how the body actually moves, front-of-body muscles work in opposition to back-of-body muscles, so pairing them across alternating days gives 48 hours of recovery per region.
 
 ### Weekly structure
 
@@ -162,7 +179,6 @@ This lands in the 12–18 sets/muscle/week range that fits MAV-to-MRV territory 
 > [!tip] When to use AP split Best for intermediate lifters with 1+ years of training, training 4 days a week, and wanting a clean separation between front-body and back-body work. Easier to recover from than push/pull/legs because no muscle group gets hit on consecutive days.
 
 ---
-
 ## Template 2: Full Body Every Other Day (FBEOD) — 3–4 days per week
 
 The alternative split. Each session hits the full body, with rotating emphasis between days. Frequency per muscle climbs to 3× per week instead of 2×. Sessions can be slightly shorter because volume is distributed across more days.
@@ -236,10 +252,19 @@ Total volume per muscle is similar to AP split, just distributed differently.
 > [!caution] When to avoid If recovery is compromised (poor sleep, high life stress, low calories during a cut), AP split is gentler. FBEOD demands more from the recovery system because back-to-back sessions hit overlapping muscles.
 
 ---
+## How to Progress Each Week
+
+Your goal with this program is to **improve in some way every session** while maintaining proper form. Progression should happen through one of the following:
+
+- **Increase weight**: If you reach the top of the prescribed rep range with good form, increase the weight slightly in the next session. You should aim to add 1.25kg/2.5lbs every week until reps fall below the prescribed range
+- **Increase reps**: If increasing weight is not yet possible, add more reps while staying within the prescribed rep range.
+- **Improve form, control, and range of motion**: Ensure you are **executing each rep properly** before focusing on adding weight. Pay attention to **tempo, pauses, depth, and positioning**.
+
+**Example:** If an exercise has a target rep range of 8-12 reps and you complete 10 reps at 40kg, aim for 11 or 12 reps next session. Once you reach 12 reps with good form, **increase the weight slightly** and work back up.
 
 ## The progression cycle inside the split
 
-Whichever template is run, individual exercises should rotate between phases over months:
+Whichever template is run, individual exercises should rotate between phases over months. ==This rotation is a specific instance of the [[Part 3.2 - The Program - Rules and Building the Program#The Variation Cycle programming for long-term progress|Variation Cycle from Part 3.2]]== — the templates below pre-build a sensible rotation so it can be run without designing it from scratch.
 
 1. **Isolation/machine phase** — establish the movement pattern, drive the muscle directly, double-progress for 4–8 weeks until it stalls.
 2. **Compound/free-weight phase** — switch the slot to its compound counterpart (Lat Pulldown → Pull-Up; Machine Shoulder Press → Standing OHP). The new movement resets the neural adaptation curve and expands the strength ceiling because stabilizers are now being trained too.
@@ -252,9 +277,7 @@ Whichever template is run, individual exercises should rotate between phases ove
 > - **Mesocycle 3 (weeks 17–24)** — Standing Overhead Press
 > - **Mesocycle 4 (weeks 25–32)** — Back to Machine Shoulder Press at a higher load than Mesocycle 1
 
-This rotation between isolation and compound is what keeps long-term progress alive after the obvious gains are exhausted. ==It's not novelty for novelty's sake — it's structured variation that resets the neural ceiling without losing the hypertrophy work.==
-
----
+This rotation between isolation and compound is what keeps long-term progress alive after the obvious gains are exhausted. ==It's not novelty for novelty's sake, it's structured variation that resets the neural ceiling without losing the hypertrophy work.==
 
 ## How to adapt these programs to you
 
@@ -262,13 +285,39 @@ These templates are starting points, not gospel. Adapt them based on what's alre
 
 - **Lagging muscle group?** Use the [[03-1 Program Concepts#Biasing severe targeting beats fake isolation|biasing concept from Part 3.1]] — pick exercises that severely target the weak link, and run them for 4–8 weeks before re-evaluating.
 - **Recovery struggling?** Drop one set per exercise, audit total volume against [[03-1 Program Concepts#MRV Maximum Recoverable Volume|MRV]], and check sleep before changing the program.
-- **Body part naturally dominant?** Reduce volume on that group slightly so it doesn't overshadow the rest. Don't kill it — just don't over-feed it.
+- **Body part naturally dominant?** Reduce volume on that group slightly so it doesn't overshadow the rest, or if that part is your strongest part and you want to highlight it, just work on your program like how you would. 
 - **Form drifting on a lift?** Drop the load until form returns. Number on the app means nothing if the muscle isn't being trained anymore.
 - **Schedule constraints?** Run AP split as 4×/week, FBEOD as 3×/week, or compress AP into a 3-day variant by combining elements.
 
 ==The principles are stable. The exercise choices are variables.==
 
 ---
+## Part 3.3 Takeaways
+
+> [!check] Key concepts to internalize
+> 
+> - **Two viable templates, same goal.** AP split (4 days, 2× frequency per muscle) and FBEOD (3–4 days, 3× frequency per muscle) both produce hypertrophy. Pick on schedule and recovery capacity, not on which is "better."
+>     
+> - **Each muscle hits MAV-to-MRV.** Both templates land in the 12–18 sets/muscle/week range, which is the productive zone for intermediate naturals.
+>     
+> - **Variation lives at the exercise slot, not the pattern.** The pattern (vertical pushing, horizontal pulling) is fixed; the exercise filling that slot rotates across mesocycles.
+>     
+> - **The progression cycle keeps gains alive long-term.** Isolation → compound → back to isolation at a higher ceiling. Each transition resets neural adaptation without losing the hypertrophy work.
+>     
+> - **Adapt, don't rebuild.** Lagging muscle? Bias it. Recovery struggling? Drop a set. Form drifting? Drop the load. Don't burn the program down — change one variable, observe, adjust.
+>     
+
+## Your First-Mesocycle Task List
+
+Lock these in before Day 1 of week 1.
+
+1. **Pick the template.** AP split or FBEOD. Decide based on training days available and recovery capacity. Write the choice down and commit to 8–12 weeks.
+2. **Program every session into Hevy.** Exercise, set count, rep range, starting weight. Use the tables above as the literal source. Don't improvise on Day 1.
+3. **Set realistic Day 1 loads.** Pick a weight where you can hit the _bottom_ of the rep range (8 reps for an 8–10 range) with 1–2 RIR on the last set. If you're unsure, go lighter — double progression makes the first 2 weeks fast.
+4. **Plan the mesocycle map.** For each compound slot, write down what it'll be in Mesocycle 1, 2, 3, 4 (e.g., Machine Press → DB Press → OHP → Machine Press at higher load). 8 weeks per mesocycle.
+5. **Identify your lagging muscle.** Pick one. Add a biasing exercise as a direct set in the relevant session. This is the muscle you'll attack for the next 4–8 weeks before re-evaluating.
+6. **Set the form-check video schedule.** Pick a day every 4–6 weeks. Record working sets on the three most-loaded compounds. File them somewhere comparable.
+7. **Do not change the program before week 8.** Write this on the calendar. Program-hopping kills the adaptation curve, and the rule from [[Part 3.2 - The Program - Rules and Building the Program#Don't program-hop|Part 3.2]] is the most violated rule in lifting.
 
 > [!note] Recap and what's next That's the full programming layer of the series:
 > 
@@ -276,11 +325,30 @@ These templates are starting points, not gospel. Adapt them based on what's alre
 > - [[Part 3.2 - The Program - Rules and Building the Program|Part 3.2 — Rules and Building Blocks]] — the rules and structural pieces
 > - **Part 3.3 (this article)** — templates that put it all together
 > 
-> Up next: [[Part 4 - Pharmacology|Part 4 — Pharmacology]] covers the supplement side, both the natural tier and the half-natty peptide tier.
+> Up next: [[Part 4.0 - Pharmacology|Part 4 — Pharmacology]] covers the supplement side, both the natural tier and the half-natty peptide tier.
 > 
-> If [[Part 1.1 - Recomp, Cut, or Bulk - What Actually Matters|Part 1]] or [[Part 2 - Structure of a Day|Part 2]] were skipped, start there — they're the foundation everything in this article relies on.
+> If [[Part 1.1 - Recomp, Cut, or Bulk - What Actually Matters|Part 1]] or [[Part 2.0 - Structure of a Day|Part 2]] were skipped, start there — they're the foundation everything in this article relies on.
 
 ---
+
+> [!warning] Disclaimer Not coaching or training advice. These templates reflect general principles and one practitioner's structure. For new lifters or anyone with joint issues, getting a handful of sessions with a qualified coach to dial in form is worth more than any program on the internet.
+
+---
+
+## Sources & references
+
+[^1]: Higher training frequency and elevated muscle protein synthesis: Dankel et al. (2017) on the rationale for distributing volume across more frequent sessions. See discussion at [PMC8372753](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8372753/) and [strongerbyscience.com — frequency for muscle](https://www.strongerbyscience.com/frequency-muscle/).
+
+
+> [!note] Recap and what's next That's the full programming layer of the series:
+> 
+> - [[Part 3.1 - The Program - Concepts|Part 3.1 — Concepts]] — fatigue/stimulus, progressive overload, biasing, MRV
+> - [[Part 3.2 - The Program - Rules and Building the Program|Part 3.2 — Rules and Building Blocks]] — the rules and structural pieces
+> - **Part 3.3 (this article)** — templates that put it all together
+> 
+> Up next: [[Part 4.0 - Pharmacology|Part 4 — Pharmacology]] covers the supplement side, both the natural tier and the half-natty peptide tier.
+> 
+> If [[Part 1.1 - What Actually Matters|Part 1]] or [[Part 2.0 - Structure of a Day|Part 2]] were skipped, start there — they're the foundation everything in this article relies on.
 
 > [!warning] Disclaimer Not coaching or training advice. These templates reflect general principles and one practitioner's structure. For new lifters or anyone with joint issues, getting a handful of sessions with a qualified coach to dial in form is worth more than any program on the internet.
 

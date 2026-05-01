@@ -1,5 +1,5 @@
 ---
-title: Part 4 — Pharmacology
+title: Part 4.0 — Pharmacology
 draft: false
 tags:
   - fitness
@@ -8,19 +8,37 @@ tags:
   - peptides
 date: 2026-04-29
 ---
-
 > [!abstract] This is **Part 4 of 4** in the Fitness Series. The full path:
 > 
 > - **Part 1 - The Goal (2 sub-articles):** 
-> 	- **Part 1.1:** [[Part 1.1 - Recomp, Cut, or Bulk - What Actually Matters|Recomp, Cut, or Bulk - What Actually Matters?]]
+> 	- **Part 1.1:** [[Part 1.1 - What Actually Matters|Recomp, Cut, or Bulk - What Actually Matters?]]
 > 	- **Part 1.2:** [[Part 1.2 - Recomp, Cut or Bulk - How to Actually Decide|Recomp, Cut, or Bulk - How to Actually Decide]] 
-> - **Part 2:** [[Part 2 - Structure of a Day|Structure of a Day]] - the daily framework
+> - **Part 2:** [[Part 2.0 - Structure of a Day|Structure of a Day]] - the daily framework
 > - **Part 3 - The Program (3 sub-articles):**
 >     - **Part 3.1:** [[Part 3.1 - The Program - Concepts|Concepts]] - the conceptual foundation
 >     - **Part 3.2:** [[Part 3.2 - The Program - Rules and Building the Program|Rules and Building the Program]] - contexts
 >     - **Part 3.3:** [[Part 3.3 - The Program - Example Programs|Example Programs]] - practicalities
-> - **Part 4 (this article):** [[Part 4 - Pharmacology|Pharmacology]] - supplements and beyond
+> - **Part 4 (this article):** [[Part 4.0 - Pharmacology|Pharmacology]] - supplements and beyond
+> ----
+## Table of Contents
 
+- [The 90/10 Rule](#the-9010-rule)
+- [Tier 1 — Natty](#tier-1--natty)
+    - [Energy and general cardio](#energy-and-general-cardio)
+    - [Pre-workout cognition](#pre-workout-cognition)
+    - [Fat loss (cut-specific, not year-round)](#fat-loss-cut-specific-not-year-round)
+    - [Pump, recovery, and the basics](#pump-recovery-and-the-basics)
+- [Tier 2 — Half-Natty](#tier-2--half-natty)
+    - [Retatrutide (peptide)](#retatrutide-peptide)
+    - [CJC-1295 + Ipamorelin (peptides)](#cjc-1295--ipamorelin-peptides)
+    - [MK-677 (Ibutamoren)](#mk-677-ibutamoren)
+    - [Clenbuterol / Cardarine (GW-501516)](#clenbuterol--cardarine-gw-501516)
+- [How to think about all of this](#how-to-think-about-all-of-this)
+- [Part 4 Takeaways](#part-4-takeaways)
+- [Your Tier-1 Stack Task List](#your-tier-1-stack-task-list)
+- [Sources & references](#sources--references)
+
+---
 
 > [!danger] Important framing This article splits into two tiers — **Natty** (everything legal, OTC, and broadly considered safe at sensible doses) and **Half-Natty** (peptides and research compounds that occupy a gray area between supplement and pharmacology).
 > 
@@ -29,7 +47,15 @@ date: 2026-04-29
 > This article is not medical advice. Bloodwork and a doctor who knows what's being run are non-negotiable for anything beyond tier one.
 
 ---
+#### The 90/10 Rule
+It is easy to get distracted by the "shiny objects" in the fitness world. To stay grounded, remember the hierarchy of the storyline:
 
+- **Part 3 is "The Work":** This is **90% of your results**. It is the grit, the progressive overload, and the mechanical tension that forces a biological adaptation.
+- **Part 4 is "The Margin":** Frame this as the final **10%**. This is the chemistry—the pharmacology and advanced supplementation—that sharpens the edges of the work you have already done.
+
+If you haven't mastered the "Work," the "Margin" is a waste of money. But once the work is optimized, the margin is what separates the intermediate from the elite.
+
+---
 ## Tier 1 — Natty
 
 There are four buckets to think about when building a stack: energy/cardio, pre-workout cognition, fat loss, and the pump/recovery layer.
@@ -71,7 +97,6 @@ There are four buckets to think about when building a stack: energy/cardio, pre-
 **Creatine monohydrate.** The most studied supplement in sports nutrition. It does exactly what it claims — increases phosphocreatine stores in muscle, which buffers ATP regeneration during high-intensity efforts, which means an extra rep or two per set, which compounds into more total volume, which compounds into more growth.[^8] **5 g daily, year-round, no loading phase needed.** Take it whenever — timing doesn't meaningfully matter.
 
 ---
-
 ## Tier 2 — Half-Natty
 
 > [!danger] This isn't a recommendation tier — it's a transparency tier Now we cross into compounds that aren't legally available in most jurisdictions as supplements, that require subcutaneous injection or specific protocols, and that come with real side effect profiles. The alternative is pretending all transformation results come from creatine and citrulline, which would be dishonest.
@@ -131,8 +156,6 @@ Two compounds people often lump together because they show up in cutting stacks,
 
 > [!warning] The historical cancer concerns from rodent studies used doses far higher than human use, but the data is what it is and worth taking seriously. It's not a casual compound.
 
----
-
 ## How to think about all of this
 
 The honest hierarchy of impact, from most to least, looks roughly like this:
@@ -152,8 +175,8 @@ The honest hierarchy of impact, from most to least, looks roughly like this:
 > [!note] That's the four-part series To recap:
 > 
 > - [[Part 1.2 - Recomp, Cut or Bulk - How to Actually Decide|Part 1 — Recomp, Cut, or Bulk]] — figuring out what phase to be in
-> - [[Part 2 - Structure of a Day|Part 2 — Structure of a Day]] — the daily habits underneath everything
-> - [[Part 3.1 - The Program - Concepts|Part 3.1 — Concepts]], [[Part 2 - Structure of a Day|Part 3.2 — Rules]], [[Part 3.3 - The Program - Example Programs|Part 3.3 — Templates]] — the full programming layer
+> - [[Part 2.0 - Structure of a Day|Part 2 — Structure of a Day]] — the daily habits underneath everything
+> - [[Part 3.1 - The Program - Concepts|Part 3.1 — Concepts]], [[Part 2.0 - Structure of a Day|Part 3.2 — Rules]], [[Part 3.3 - The Program - Example Programs|Part 3.3 — Templates]] — the full programming layer
 > - **Part 4 (this article)** — what to take, in two tiers
 > 
 > The point of writing this series wasn't to provide a copy-paste protocol — it's to provide the reasoning, so each reader can build their own version that fits their goals, constraints, and risk tolerance. ==Take whatever's useful. Ignore whatever isn't.==

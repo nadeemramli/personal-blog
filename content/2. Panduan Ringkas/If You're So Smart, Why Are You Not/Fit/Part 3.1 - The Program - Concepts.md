@@ -8,25 +8,39 @@ tags:
   - programming
 date: 2026-04-29
 ---
-
 > [!abstract] This is **Part 3 of 4** in the Fitness Series. The full path:
 > 
 > - **Part 1 - The Goal (2 sub-articles):** 
-> 	- **Part 1.1:** [[Part 1.1 - Recomp, Cut, or Bulk - What Actually Matters|Recomp, Cut, or Bulk - What Actually Matters?]]
+> 	- **Part 1.1:** [[Part 1.1 - What Actually Matters|Recomp, Cut, or Bulk - What Actually Matters?]]
 > 	- **Part 1.2:** [[Part 1.2 - Recomp, Cut or Bulk - How to Actually Decide|Recomp, Cut, or Bulk - How to Actually Decide]] 
-> - **Part 2:** [[Part 2 - Structure of a Day|Structure of a Day]] - the daily framework
+> - **Part 2:** [[Part 2.0 - Structure of a Day|Structure of a Day]] - the daily framework
 > - **Part 3 - The Program (3 sub-articles):**
 >     - **Part 3.1 (this article):** [[Part 3.1 - The Program - Concepts|Concepts]] - the conceptual foundation
 >     - **Part 3.2:** [[Part 3.2 - The Program - Rules and Building the Program|Rules and Building the Program]] - contexts
 >     - **Part 3.3:** [[Part 3.3 - The Program - Example Programs|Example Programs]] - practicalities
-> - **Part 4:** [[Part 4 - Pharmacology|Pharmacology]] - supplements and beyond
+> - **Part 4:** [[Part 4.0 - Pharmacology|Pharmacology]] - supplements and beyond
+> ----
+## Table of Contents
 
-
+- [Why split this into three articles](#why-split-this-into-three-articles)
+- [Fatigue vs. stimulus — the core economy](#fatigue-vs-stimulus--the-core-economy)
+- [Adaptation — the timeline](#adaptation--the-timeline)
+- [Strength and size are linked (recap from Part 1.1)](#strength-and-size-are-linked-recap-from-part-11)
+- [Progressive overload: the by-product, not the cause](#progressive-overload-the-by-product-not-the-cause)
+    - [Types of progressive overload, ranked](#types-of-progressive-overload-ranked)
+    - [The mistake people make on progressive overload](#the-mistake-people-make-on-progressive-overload)
+- [Biasing: severe targeting beats fake "isolation"](#biasing-severe-targeting-beats-fake-isolation)
+    - [Direct sets vs. indirect sets](#direct-sets-vs-indirect-sets)
+    - [Main muscle region vs. accessories](#main-muscle-region-vs-accessories)
+- [MRV: Maximum Recoverable Volume](#mrv-maximum-recoverable-volume)
+    - [Knowing your real MRV is hard](#knowing-your-real-mrv-is-hard)
+- [Part 3.1 Takeaways](#part-31-takeaways)
+- [Your Concept-to-Action Task List](#your-concept-to-action-task-list)
+- [Sources & references](#sources--references)
 ---
-
 ## Why split this into three articles
 
-[[Part 1.2 - Recomp, Cut or Bulk - How to Actually Decide|Part 1]] was about deciding what phase to be in. [[Part 2 - Structure of a Day|Part 2]] was the daily structure around the goal. Part 3 is the actual training — and there's enough to cover that it needs to be split into three:
+[[Part 1.2 - Recomp, Cut or Bulk - How to Actually Decide|Part 1]] was about deciding what phase to be in. [[Part 2.0 - Structure of a Day|Part 2]] was the daily structure around the goal. Part 3 is the actual training — and there's enough to cover that it needs to be split into three:
 
 - **Part 3.1 (this one)** — the _concepts_ that make a program work. Fatigue economics, progressive overload, biasing, MRV.
 - **[[Part 3.2 - The Program - Rules and Building the Program|Part 3.2 — Rules and Building the Program]]** — the rules that turn concepts into a working program, plus the structural pieces (joint movements, main vs. accessory, splits).
@@ -121,7 +135,6 @@ How to catch it:
 > [!tip] If form has shifted **Drop the load until the form returns.** The number going down temporarily is the price of making sure progress is real.
 
 ---
-
 ## Biasing: severe targeting beats fake "isolation"
 
 Honest framing first: there's no such thing as truly isolating a muscle. The body works as a system. Every "isolation" exercise still recruits stabilizers, accessories, and synergists to some degree. So what's actually being talked about is ==**severe biasing**== — picking exercises and form that load one muscle group as heavily as possible relative to the others involved.
@@ -181,6 +194,17 @@ This is where wearable technology becomes useful. A device like WHOOP, Garmin, o
 (Practical baseline: most intermediate natural lifters land at 12–18 sets/muscle/week as their MAV-to-MRV range. Start in that band, observe recovery, adjust from there.)
 
 ---
+## Part 3.1 Takeaways
+
+> [!check] Key concepts to internalize
+> 
+> - **Fatigue vs. stimulus is the core economy.** Every set costs fatigue and produces stimulus. The goal is maximizing the ratio. Tired ≠ growing.
+> - **Adaptation comes in two waves:** neural first (4–8 weeks of fast climbs), hypertrophy after. Don't mistake exercise-change excitement for real growth.
+> - **Strength and size are linked** for naturals. Chasing strength on the right exercises is the most reliable proxy for chasing size.
+> - **Progressive overload is a by-product, not a cause.** Send a strong growth signal; the load increases follow automatically.
+> - **Fake progressive overload is the single biggest trap.** When form drifts, load shifts to dominant accessories. The number goes up; the target muscle doesn't grow.
+> - **Biasing > "isolation."** No exercise truly isolates a muscle. Pick exercises that severely bias the target relative to the accessories.
+> - **MRV is individual and best discovered by observation.** Most intermediate naturals: 12–18 sets/muscle/week. Wearable recovery scores turn this from a guess into a data-driven decision.
 
 > [!note] Recap and what's next Five ideas to carry into every session: **fatigue vs. stimulus, the adaptation timeline, the strength-size link, real vs. fake progressive overload, biasing, and MRV.** Everything in the next article is built on these.
 > 
