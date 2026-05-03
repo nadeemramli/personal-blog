@@ -8,8 +8,8 @@ date: 2026-04-29
 > [!abstract] This is **Part 1 of 4** in the Fitness Series. The full path:
 > 
 > - **Part 1 - The Goal (2 sub-articles):** 
-> 	- **Part 1.1:** [[Part 1.1 - What Actually Matters|Recomp, Cut, or Bulk - What Actually Matters?]]
-> 	- **Part 1.2 (this article):** [[Part 1.2 - Recomp, Cut or Bulk - How to Actually Decide|Recomp, Cut, or Bulk - How to Actually Decide]] 
+> 	- **Part 1.1:** [[Part 1.1 - What Actually Matters|What Actually Matters]]
+> 	- **Part 1.2 (this article):** [[Part 1.2 - Recomp, Cut or Bulk - How to Actually Decide|How to Actually Decide]] 
 > - **Part 2:** [[Part 2.0 - Structure of a Day|Structure of a Day]] - the daily framework
 > - **Part 3 - The Program (3 sub-articles):**
 >     - **Part 3.1:** [[Part 3.1 - The Program - Concepts|Concepts]] - the conceptual foundation

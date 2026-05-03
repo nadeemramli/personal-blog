@@ -1,7 +1,7 @@
 ---
 title: "Introduction to The Series: If You're So Smart, Why Are You Not \"???\""
-draft: true
-tags: 
+draft: false
+tags:
 date: 2024-06-27
 ---
 I’ve read somewhere about _"If You're So Smart, Why Are You Unhappy?"_ or _"Why are you not happy?"_—something along those lines.

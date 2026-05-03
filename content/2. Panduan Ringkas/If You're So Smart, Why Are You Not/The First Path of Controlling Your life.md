@@ -1,8 +1,8 @@
 ---
-title: "The First Path of Controlling Your life"
-draft: true
-tags: 
-date: "2025-03-21"
+title: The First Path of Controlling Your life
+draft: false
+tags:
+date: 2025-03-21
 ---
 The first path of controlling your life would be 
 

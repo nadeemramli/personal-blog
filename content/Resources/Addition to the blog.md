@@ -4,17 +4,7 @@ draft: true
 tags: 
 date: 2025-01-29
 ---
-![[Pasted image 20250129074833.png]]
 
-Having a next or previous page
-
--------------
-
-Background
-
-------
-
-New content idea
 
 ![[Pasted image 20250129075031.png]]
 
@@ -27,13 +17,6 @@ https://notes.yxy.ninja/System-Design/Cache/CDN
 ![[Pasted image 20250129075352.png]]
 
 -------
-
-![[Pasted image 20250129075629.png]]
-
-list https://glossary.airbyte.com/tags
-
-
------
 
 Complete showcases of how zettelkasten should be use: 
 
