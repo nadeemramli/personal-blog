@@ -176,7 +176,12 @@ export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodePro
       {node.file ? (
         // Single file node
         <li key={node.file.slug}>
-          <a href={resolveRelative(fileData.slug!, node.file.slug!)} data-for={node.file.slug}>
+          <a
+            href={resolveRelative(fileData.slug!, node.file.slug!)}
+            data-for={node.file.slug}
+            title={node.displayName}
+            class={fileData.slug === node.file.slug ? "active" : ""}
+          >
             {node.displayName}
           </a>
         </li>
@@ -203,11 +208,11 @@ export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodePro
               {/* render <a> tag if folderBehavior is "link", otherwise render <button> with collapse click event */}
               <div key={node.name} data-folderpath={folderPath}>
                 {folderBehavior === "link" ? (
-                  <a href={href} data-for={node.name} class="folder-title">
+                  <a href={href} data-for={node.name} class="folder-title" title={node.displayName}>
                     {node.displayName}
                   </a>
                 ) : (
-                  <button class="folder-button">
+                  <button class="folder-button" title={node.displayName}>
                     <span class="folder-title">{node.displayName}</span>
                   </button>
                 )}
@@ -219,7 +224,7 @@ export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodePro
             <ul
               // Inline style for left folder paddings
               style={{
-                paddingLeft: node.name !== "" ? "1.4rem" : "0",
+                paddingLeft: node.name !== "" ? "0.75rem" : "0",
               }}
               class="content"
               data-folderul={folderPath}

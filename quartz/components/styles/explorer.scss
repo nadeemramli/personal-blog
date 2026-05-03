@@ -95,6 +95,23 @@ button#explorer {
       color: var(--dark);
       opacity: 0.75;
       pointer-events: all;
+      font-size: 0.85rem;
+      line-height: 1.3rem;
+      display: block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      transition: color 0.2s ease, opacity 0.2s ease;
+
+      &.active {
+        color: var(--tertiary);
+        opacity: 1;
+        font-weight: $boldWeight;
+      }
+
+      &:hover {
+        opacity: 1;
+      }
     }
   }
   > #explorer-ul {
@@ -115,14 +132,23 @@ svg {
   display: flex;
   align-items: center;
   user-select: none;
+  min-width: 0;
+
+  & div {
+    min-width: 0;
+    overflow: hidden;
+  }
 
   & div > a {
     color: var(--secondary);
     font-family: var(--headerFont);
-    font-size: 0.95rem;
+    font-size: 0.85rem;
     font-weight: $semiBoldWeight;
-    line-height: 1.5rem;
-    display: inline-block;
+    line-height: 1.3rem;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 
   & div > a:hover {
@@ -140,15 +166,20 @@ svg {
     display: flex;
     align-items: center;
     font-family: var(--headerFont);
+    max-width: 100%;
+    min-width: 0;
 
     & span {
-      font-size: 0.95rem;
-      display: inline-block;
+      font-size: 0.85rem;
+      display: block;
       color: var(--secondary);
       font-weight: $semiBoldWeight;
       margin: 0;
-      line-height: 1.5rem;
+      line-height: 1.3rem;
       pointer-events: none;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
     }
   }
 }

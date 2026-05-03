@@ -90,15 +90,44 @@ function setupExplorer() {
     currentExplorerState.push({ path, collapsed: oldIndex.get(path) ?? collapsed })
   }
 
-  currentExplorerState.map((folderState) => {
-    const folderLi = document.querySelector(
-      `[data-folderpath='${folderState.path}']`,
-    ) as MaybeHTMLElement
-    const folderUl = folderLi?.parentElement?.nextElementSibling as MaybeHTMLElement
-    if (folderUl) {
-      setFolderState(folderUl, folderState.collapsed)
+  // Auto-focus: collapse everything, then expand only the current page's ancestor path
+  const currentSlug = document.body.dataset.slug
+  if (currentSlug) {
+    const slugSegments = currentSlug.split("/")
+    // Build set of ancestor folder paths (e.g. "a", "a/b", "a/b/c")
+    const ancestorPaths = new Set<string>()
+    for (let i = 1; i < slugSegments.length; i++) {
+      ancestorPaths.add(slugSegments.slice(0, i).join("/"))
     }
-  })
+
+    // Collapse all folders, then open only ancestors
+    for (const entry of currentExplorerState) {
+      const shouldBeOpen = ancestorPaths.has(entry.path)
+      entry.collapsed = !shouldBeOpen
+      const escapedPath = entry.path.replace(/"/g, '\\"')
+      const folderLi = document.querySelector(
+        `[data-folderpath="${escapedPath}"]`,
+      ) as MaybeHTMLElement
+      const folderUl = folderLi?.parentElement?.nextElementSibling as MaybeHTMLElement
+      if (folderUl) {
+        setFolderState(folderUl, !shouldBeOpen)
+      }
+    }
+
+    localStorage.setItem("fileTree", JSON.stringify(currentExplorerState))
+  } else {
+    // No slug (e.g. root page) — apply saved/default state
+    currentExplorerState.map((folderState) => {
+      const escapedPath = folderState.path.replace(/"/g, '\\"')
+      const folderLi = document.querySelector(
+        `[data-folderpath="${escapedPath}"]`,
+      ) as MaybeHTMLElement
+      const folderUl = folderLi?.parentElement?.nextElementSibling as MaybeHTMLElement
+      if (folderUl) {
+        setFolderState(folderUl, folderState.collapsed)
+      }
+    })
+  }
 }
 
 window.addEventListener("resize", setupExplorer)

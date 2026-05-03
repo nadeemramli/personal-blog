@@ -1,12 +1,14 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import Canvas from "./quartz/components/Canvas"
+import NextArticle from "./quartz/components/NextArticle"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
+    NextArticle(),
     Component.MobileOnly(Component.Explorer({
       title: "Explore",
       folderClickBehavior: "collapse",
