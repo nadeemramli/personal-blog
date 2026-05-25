@@ -1,0 +1,261 @@
+---
+title: "Untitled"
+draft: true
+tags: 
+date: "2026-05-21"
+---
+> [!abstract] This is **Part 1 of 3** in the Hair Series. The full path:
+> 
+> - **Part 1 - The Diagnostic (2 sub-articles):**
+>     - **Part 1.1 (this article):** [[Part 1.1 - What Actually Matters For Your Hair|What Actually Matters?]]
+>     - **Part 1.2:** [[Part 1.2 - How to Actually Track and Decide|How to Actually Track and Decide]]
+> - **Part 2:** [[Part 2.0 - The Stack and the Routine|The Stack and the Routine]] - the pharmacology and the daily layered schedule
+> 
+> ---
+
+## Table of Contents
+
+- [Why this Hair Series exists](https://claude.ai/local_sessions/local_799d0bbc-80e5-4a3a-99f1-d51236e0eca0#why-this-hair-series-exists)
+- [Scalp health vs. visible hair](https://claude.ai/local_sessions/local_799d0bbc-80e5-4a3a-99f1-d51236e0eca0#scalp-health-vs-visible-hair)
+- [Hair follicles are finite — the only number that matters](https://claude.ai/local_sessions/local_799d0bbc-80e5-4a3a-99f1-d51236e0eca0#hair-follicles-are-finite--the-only-number-that-matters)
+- [The growth cycle in 60 seconds](https://claude.ai/local_sessions/local_799d0bbc-80e5-4a3a-99f1-d51236e0eca0#the-growth-cycle-in-60-seconds)
+- [The sliding scale: miniaturization → fibrosis](https://claude.ai/local_sessions/local_799d0bbc-80e5-4a3a-99f1-d51236e0eca0#the-sliding-scale-miniaturization--fibrosis)
+    - [State 1: Healthy terminal (fully recoverable)](https://claude.ai/local_sessions/local_799d0bbc-80e5-4a3a-99f1-d51236e0eca0#state-1-healthy-terminal-fully-recoverable)
+    - [State 2: Miniaturized (partially recoverable)](https://claude.ai/local_sessions/local_799d0bbc-80e5-4a3a-99f1-d51236e0eca0#state-2-miniaturized-partially-recoverable)
+    - [State 3: Fibrosis (permanently dead)](https://claude.ai/local_sessions/local_799d0bbc-80e5-4a3a-99f1-d51236e0eca0#state-3-fibrosis-permanently-dead)
+- [How chemical stacks actually interact with the follicle](https://claude.ai/local_sessions/local_799d0bbc-80e5-4a3a-99f1-d51236e0eca0#how-chemical-stacks-actually-interact-with-the-follicle)
+- [The three diagnostic KPIs](https://claude.ai/local_sessions/local_799d0bbc-80e5-4a3a-99f1-d51236e0eca0#the-three-diagnostic-kpis)
+- [Tiers of measurement](https://claude.ai/local_sessions/local_799d0bbc-80e5-4a3a-99f1-d51236e0eca0#tiers-of-measurement)
+    - [Tier 1 — Smartphone macro + clip-on dermatoscope](https://claude.ai/local_sessions/local_799d0bbc-80e5-4a3a-99f1-d51236e0eca0#tier-1--smartphone-macro--clip-on-dermatoscope)
+    - [Tier 2 — Commercial scalp center trichoscopy](https://claude.ai/local_sessions/local_799d0bbc-80e5-4a3a-99f1-d51236e0eca0#tier-2--commercial-scalp-center-trichoscopy)
+    - [Tier 3 — Board-certified dermatologist with clinical trichoscopy](https://claude.ai/local_sessions/local_799d0bbc-80e5-4a3a-99f1-d51236e0eca0#tier-3--board-certified-dermatologist-with-clinical-trichoscopy)
+- [Peach fuzz or slick skin: the at-home tell](https://claude.ai/local_sessions/local_799d0bbc-80e5-4a3a-99f1-d51236e0eca0#peach-fuzz-or-slick-skin-the-at-home-tell)
+- [The decision the rest of the series rests on](https://claude.ai/local_sessions/local_799d0bbc-80e5-4a3a-99f1-d51236e0eca0#the-decision-the-rest-of-the-series-rests-on)
+- [Part 1.1 Takeaways](https://claude.ai/local_sessions/local_799d0bbc-80e5-4a3a-99f1-d51236e0eca0#part-11-takeaways)
+- [Your Day 1 Task List](https://claude.ai/local_sessions/local_799d0bbc-80e5-4a3a-99f1-d51236e0eca0#your-day-1-task-list)
+- [Sources & references](https://claude.ai/local_sessions/local_799d0bbc-80e5-4a3a-99f1-d51236e0eca0#sources--references)
+
+---
+
+## Why this Hair Series exists
+
+Hair loss is one of the few cosmetic problems where the most important variable is _time_. Every month a follicle spends miniaturized without intervention is a month closer to fibrosis — the point where it stops being a chemistry problem and becomes a surgery problem. This series is about staying on the chemistry side for as long as possible, and knowing exactly when the line has been crossed.
+
+Three parts:
+
+- **Part 1.1 (this article)** — the biology that determines what's even possible, the KPIs that measure where you actually are, and the at-home tell for whether a zone is still salvageable.
+- **[[Part 1.2 - How to Actually Track and Decide|Part 1.2]]** — the baseline protocol (trichoscopy at a clinic), the Malaysian budget play (Hair Doc Ultra Folli X), the attribution map showing which compound drives which KPI, and the 12-month timeline.
+- **[[Part 2.0 - The Stack and the Routine|Part 2.0]]** — the pharmacology (RU58841, alpha-estradiol, oral and topical minoxidil, tretinoin, ketoconazole, plus cycled MK-677, always-on retatrutide context, GHK-Cu and KPV peptides), the daily and weekly routine that layers them without conflict, and the explicit reasoning for why we deliberately skip finasteride and dutasteride.
+
+If the baseline isn't measured properly, none of the protocol downstream can be evaluated. So we start here.
+
+---
+
+## Scalp health vs. visible hair
+
+Before anything else, separate these two ideas. They're related, but they're not the same goal and they're not the same measurement.
+
+_p.s: a healthy scalp is necessary for hair to grow; it isn't sufficient for hair to look like anything._
+
+**Scalp health** is measured through sebum balance, microbiome composition (Malassezia load is the big one), inflammation markers, redness, dandruff, and micro-fibrosis around the follicular bulb. These are what a trichologist or dermatologist evaluates. The protocol must keep these in range — inflammation alone is one of the accelerants of fibrosis — but scalp health isn't the goal in itself.
+
+**Visible hair** is what shows up in the mirror, and it breaks down into three things people usually conflate:
+
+- **Density** — how many hairs per cm². The follicular _count_.
+- **Coverage** — terminal hairs (thick, pigmented) vs. vellus (thin, wispy, blonde). What that count _looks like_.
+- **Hairline integrity** — the shape of the front edge and the crown. Partly genetic frame (M-pattern vs. O-pattern vs. diffuse) and partly what miniaturization has eaten away.
+
+Density is built by keeping follicles alive and active. Coverage is built by reversing miniaturization. Hairline integrity is a combination of genetic frame plus targeted protection of the most at-risk zones. ==Different problems, different solutions==, but all three rest on the same underlying biology.
+
+---
+
+## Hair follicles are finite — the only number that matters
+
+==You are born with a fixed number of hair follicles, and that number only goes down over time.== There is no biological process that creates new follicles in adult human scalp. None. Every follicle present at birth — roughly 100,000 on the average adult scalp[^1] — is the maximum that will ever exist.
+
+What changes across a lifetime is which of those follicles are _active_, what _size_ of hair they produce, and how many have _died_ permanently. The entire game of hair-loss intervention is keeping as many of those original follicles alive and producing terminal hair for as long as possible.
+
+This is the same finite-resource framing as muscle satellite cell capacity or skin dermal junction integrity. Once the supply is understood to be non-renewable, the protocol stops being about "growing more hair" and becomes about _preventing the loss of what's already there_.
+
+---
+
+## The growth cycle in 60 seconds
+
+Every follicle independently cycles through three phases[^2]:
+
+- **Anagen** — active growth. Lasts 2–7 years for scalp hair. Hair grows ~1 cm/month. The longer a follicle stays in anagen, the longer the hair gets.
+- **Catagen** — transition phase. ~2–3 weeks. The follicle disconnects from blood supply and shrinks.
+- **Telogen** — resting phase. ~3 months. The old hair eventually sheds; a new anagen phase begins from the same follicle.
+
+Normal scalps shed **50–150 hairs/day** as telogen hairs make room for new anagen ones. This is not hair loss — it's hair _cycling_. Actual hair loss is when the anagen phase shortens across generations of cycling, so each new hair is thinner, shorter, and lighter than the previous one. This is **miniaturization**, and it's the entire mechanism of androgenetic alopecia.
+
+> [!info] The DHT mechanism in one paragraph
+> 
+> Testosterone → 5α-reductase enzyme → dihydrotestosterone (DHT). DHT binds to androgen receptors in genetically susceptible scalp follicles (the top, front, and crown — back and sides are immune). Bound DHT signals the follicle to shorten its anagen phase and produce a thinner hair next cycle. Over years and decades, this compresses what was a 7-year terminal anagen into a 6-month vellus anagen, then into nothing.[^5]
+
+---
+
+## The sliding scale: miniaturization → fibrosis
+
+A follicle does not switch from "healthy" to "dead" overnight. It slides through three states over years.
+
+```
+[Healthy Terminal] ──► [Miniaturized (Thin/Wispy)] ──► [Slick Bald (Fibrosis)]
+       ▲                         ▲                              │
+       │                         │                              ▼
+(Fully Recoverable)      (Partially Recoverable)       (Permanently Dead)
+```
+
+### State 1: Healthy terminal (fully recoverable)
+
+A thick, pigmented terminal hair sitting inside a 2–4-hair follicular unit. The follicle is producing at its genetic maximum. The protocol's job here is _prevention_ — keep DHT signaling blocked, keep blood flow up, keep inflammation down. Cheap insurance.
+
+### State 2: Miniaturized (partially recoverable)
+
+The follicle is alive but starved. It produces a thinner, shorter, less pigmented hair (vellus) and the anagen phase is compressed. Density drops first, then visible coverage, then hairline shape starts to retreat.
+
+==This is the window where the protocol does its real work.== Androgen receptor antagonists remove the destructive signal, vasodilators restore blood flow, and the follicle reverses back toward terminal over 6–12 months. The deeper the miniaturization, the less complete the recovery — a follicle that's been wispy for 1–2 years often comes back fully; one that's been wispy for 10+ years may only partially recover.
+
+### State 3: Fibrosis (permanently dead)
+
+Once a follicle has stayed miniaturized for long enough — typically several years without intervention — the stem cells in the bulge region lose their signaling capacity[^4]. The body treats the empty, non-functioning structure as a micro-injury and replaces it with collagen and scar tissue. The pore seals over. The skin becomes smooth and shiny.
+
+> [!warning] The point of no return Once the physical follicle anchor and stem cell pocket are replaced by scar tissue, the follicle is _gone_. No drug, peptide, or compound currently on the market or in clinical trials can rebuild a fibrosed follicle. The only intervention that works on a fibrosed zone is **hair transplantation** — physically moving live follicles from a DHT-immune region (the back and sides of the scalp) into the dead zone.
+
+This is the line that determines everything downstream. The protocol is either _prevention_ (keep healthy follicles in state 1), _rescue_ (pull miniaturized follicles back from state 2), or _acceptance_ (acknowledge state 3 zones need a surgical solution).
+
+---
+
+## How chemical stacks actually interact with the follicle
+
+==Every compound in a hair-loss stack assumes a living host.== Nothing here regenerates dead tissue. Full mechanism-by-mechanism treatment lives in [[Part 2.0 - The Stack and the Routine|Part 2.0]]; the short version, by category:
+
+- **Androgen receptor antagonists (RU58841)** and **5α-reductase inhibitors (finasteride, dutasteride)** clear the hormonal smoke. They stop DHT (or its production) from binding the receptor. An existing shrunken follicle gets to breathe and recover.
+- **Alpha-estradiol (Ell-Cranell, Pantostin)** provides mild localized estrogenic signaling that counteracts androgenic input and slightly extends the anagen phase.
+- **Minoxidil (oral and topical) + tretinoin** is the fertilizer. Minoxidil opens potassium channels and forces blood, oxygen, and nutrients into the follicle. Tretinoin upregulates the scalp sulfotransferase enzyme that converts minoxidil into its active metabolite — turning non-responders into hyper-responders.
+- **Ketoconazole 2% shampoo** clears Malassezia overgrowth and dampens scalp inflammation that accelerates fibrosis. Also weakly anti-androgenic at the follicle level.
+- **Peptides (GHK-Cu, KPV)** — GHK-Cu remodels micro-fibrosis around the bulb and enlarges follicle size. KPV is a potent anti-inflammatory that keeps scalp cellular stress low so topicals absorb cleanly.
+- **Systemic growth factors (MK-677)** elevate GH and IGF-1, which improve shaft _quality_ (thicker keratin layer, glossier hair) but do not address androgenic miniaturization. Useful as a structural booster on top of androgen control, not a substitute for it.
+- **Metabolic compounds (retatrutide)** — relevant to this series mostly as a _risk_ vector. Aggressive fat loss can trigger telogen effluvium (TE), a temporary mass shed. More in Part 2.0.
+
+> [!important] What the stack cannot do ==None of these compounds rebuild fibrosed follicles.== If a follicle is gone, the most aggressive stack on earth will not bring it back. The stack rescues miniaturized follicles and protects healthy ones. That is the entire mechanism of action. Anything that claims otherwise is selling apple stem cells.
+
+---
+
+## The three diagnostic KPIs
+
+Three numbers run the entire diagnostic loop. Everything in the protocol drives one of them.
+
+|Metric|What it measures|Healthy range|What movement tells you|
+|---|---|---|---|
+|**Terminal-to-Vellus Ratio (T:V)**|% of hairs ≥30 μm vs. wispy peach fuzz in a fixed area|>85% terminal in a non-balding scalp|Rising ratio = androgens controlled, miniaturization reversing. Falling = active miniaturization.|
+|**Follicular Unit Density (hairs/cm²)**|Total hair count per fixed square centimeter|~180–250+ in non-balding zones; varies by region|Rising = empty follicles re-entering anagen. Falling = active loss.|
+|**Average Shaft Diameter (μm)**|Mean thickness of hair shafts in the sample area|60–80+ μm for healthy terminal hair|Rising = follicles expanding to natural size and structural keratin thickening. Falling = compression in progress.|
+
+==Pick a target zone, lock the exact spot, measure all three metrics, and re-measure the same spot at 6 and 12 months.== That's the entire diagnostic loop. The attribution map — which compound in the stack actually drives which KPI — lives in [[Part 1.2 - How to Actually Track and Decide|Part 1.2]].
+
+> [!tip] Why these three and not "hair count" Total scalp hair count is meaningless without zone-specificity, because miniaturization is regional (M-pattern hairline, crown thinning, diffuse). Measuring a 1 cm² patch _in the affected zone_ tells you whether the zone is actually responding. "Is my hair thicker overall?" tells you nothing actionable.
+
+---
+
+## Tiers of measurement
+
+Three tiers of accuracy and cost. Use them in combination, the same way you'd combine a daily home scale with a quarterly DEXA in body composition tracking.
+
+### Tier 1 — Smartphone macro + clip-on dermatoscope
+
+A clip-on dermatoscope for the phone (RM50–RM200 on Shopee/Lazada) plus a bright direct light gets you visual confirmation of vellus vs. terminal hairs and rough density estimation by eye.
+
+**Margin of error: very high.** Useful for monthly "is anything happening" checks and for spotting fibrosed patches (smooth, shiny skin with no pore openings). Not useful for precise numbers, and the lighting and zoom inconsistency makes month-to-month comparison unreliable.
+
+### Tier 2 — Commercial scalp center trichoscopy
+
+Commercial scalp centers in Malaysia — **Hair Doc**, **Yun Nam**, **Feathair** — offer digital trichoscopy as a loss-leader for their treatment packages. Hair Doc's _Ultra Folli X_ promo runs **RM119 from RM199** for a 4-step session (analysis + deep follicle cleansing + UltraPulse X + apple stem cell serum), or **RM50 for the analysis scan alone**.
+
+**Margin of error: moderate.** The scan itself produces real microscopic images and density readings; the data is genuinely useful. The treatment portion (apple stem cells, Capixyl serums, peptide infusions) is cosmetically weak compared to clinical pharmacology and not worth the package price.
+
+> [!important] The Malaysian budget play Pay the **RM50 analysis-only rate**. Walk in, get scanned, and **demand a copy of the scalp images and density readings before leaving**. Skip every package upsell. Local consumer feedback on Lowyat and Reddit consistently flags these centers for pivoting a RM50 scan into RM4,000–RM16,000+ package pitches — same body in two locations. Re-scan every **6 months** (not 3 — hair cycles too slowly for 3-month deltas to be meaningful).
+
+### Tier 3 — Board-certified dermatologist with clinical trichoscopy
+
+A specialist using clinical-grade digital trichoscopy or a phototrichogram produces precise T:V ratios, density counts, and zone-mapped longitudinal comparisons[^6]. Look for a **board-certified dermatologist specializing in hair loss (trichologist)** or a **reputable hair transplant surgeon**, and explicitly ask up front whether they perform digital trichoscopy or videodermoscopy during the consultation.
+
+**Margin of error: ±5% on density, ±2 μm on shaft diameter.** Cost: ~RM300–RM800 per consultation depending on the clinic. Worth it for the initial baseline and the 12-month peak evaluation.
+
+> [!warning] Heads-up if you're running a heavy stack Conventional clinics will strictly advise FDA-approved treatments (finasteride, minoxidil) and warn against research compounds like RU58841, alpha-estradiol, or peptides. Go in with the goal of **diagnostic mapping of follicle viability**, not protocol validation. Knowing precisely where you have salvageable follicles vs. fibrosed zones is the point. The stack rationale comes from your own reading, not the consult.
+
+---
+
+## Peach fuzz or slick skin: the at-home tell
+
+Before any clinic visit, the at-home macro test reveals whether you're working with state 2 (miniaturized) or state 3 (fibrosed):
+
+- **Peach fuzz visible under bright direct light or a magnifying mirror** → the follicle is alive. The stack has a high chance of thickening these hairs back to terminal over 6–12 months.
+- **Slick, shiny skin with no visible pore openings or micro-hairs** → fibrosis. No chemical stack will recover this zone. Hair transplant is the only path back.
+
+> [!tip] Practical at-home method Bathroom mirror, harsh overhead light, smartphone in macro mode (close-up focus). Photograph the affected zone with the scalp clean and dry. Zoom in. If you can see _any_ micro-hair structure under bright light, the zone is still in play. If it looks like the back of your hand, it's fibrosed.
+
+---
+
+## The decision the rest of the series rests on
+
+> [!check] The decision flow
+> 
+> - **Healthy terminal zones** → preventive protocol. Keep the receptors blocked, blood flow up, inflammation down.
+> - **Miniaturized zones (visible vellus)** → rescue protocol. Aggressive stack to reverse miniaturization. Track via the three KPIs at 6 and 12 months.
+> - **Fibrosed zones (slick, no fuzz)** → surgical solution. Hair transplant moves live DHT-immune follicles in. The stack then becomes the insurance policy to protect the transplanted hairs and prevent the surrounding native hairs from miniaturizing.
+
+[[Part 1.2 - How to Actually Track and Decide|Part 1.2]] is the _how_: booking the baseline, capturing photos correctly, the 6-month audit, the attribution map showing which compound drives which KPI, and the full 12-month timeline including the Month 3 dread shed.
+
+---
+
+## Part 1.1 Takeaways
+
+> [!check] Key concepts to internalize
+> 
+> - **Follicles are finite.** ~100,000 on the scalp at birth, and that number only drops. The protocol is preservation, not creation.
+> - **The slide is miniaturization → fibrosis.** Healthy terminal → wispy vellus → smooth scar tissue. Recovery is possible until fibrosis sets in.
+> - **The stack assumes a living host.** DHT blockade, vasodilation, and peptides rescue miniaturized follicles. None of them rebuild dead ones.
+> - **Three KPIs run the diagnostic loop:** terminal-to-vellus ratio, follicular unit density, average shaft diameter. Same zone, 6-month intervals.
+> - **Measurement comes in three tiers:** smartphone dermatoscope (rough), commercial scalp center like Hair Doc at RM50 (moderate), clinical trichoscopy at a dermatologist (gold standard).
+> - **Peach fuzz vs. slick skin** is the at-home tell. Peach fuzz = alive and salvageable. Slick skin = fibrosed and surgical-only.
+> - **Hair transplant is the only intervention for fibrosed zones.** The stack then protects the transplant and the surrounding native hair from future loss.
+
+## Your Day 1 Task List
+
+Before [[Part 1.2 - How to Actually Track and Decide|Part 1.2]], anchor your starting point. Don't guess — measure.
+
+1. **Identify your pattern.** Norwood scale for men (NW-1 to NW-7) — M-pattern receding hairline, O-pattern crown thinning, or diffuse. Photograph front, top-down, sides, and back under harsh overhead light.
+2. **Capture the visual baseline.** High-contrast photos with hair wet and hair dry, same lighting, same angles. Save with the date in the filename. This is the reference for every future comparison.
+3. **Run the at-home macro check.** Smartphone in macro mode (or a clip-on dermatoscope, RM50–RM200) on any thinning zone. Look specifically for vellus hairs vs. slick skin to triage which zones are still in play.
+4. **Book a Tier 2 baseline scan.** **Hair Doc Ultra Folli X** at RM119, or the **analysis-only scan at RM50**. Demand a copy of the scalp images and density readings before leaving. Treat the visit as data collection, not treatment.
+5. **(Recommended) Book a Tier 3 baseline.** Board-certified dermatologist or hair transplant surgeon with digital trichoscopy. Purpose: precise zone-mapped follicle viability, not protocol validation.
+6. **Lock the calendar.** Re-scan at **6 months** and **12 months**. Same zone, ideally same equipment, ideally same time of day.
+
+> [!note] Up next [[Part 1.2 - How to Actually Track and Decide|Part 1.2 — How to Actually Track and Decide]] covers the baseline protocol in detail, the clinic strategy, the attribution map (which compound moves which KPI), and the full timeline (Month 3 dread shed → Month 6 first true audit → Month 12 peak evaluation).
+> 
+> To skip ahead to the pharmacology itself, go to [[Part 2.0 - The Stack and the Routine|Part 2.0 — The Stack and the Routine]].
+
+---
+
+> [!warning] Disclaimer Not medical advice. Everything here reflects personal experience and reading of the research. Several compounds discussed across this series — RU58841, alpha-estradiol, MK-677, retatrutide, GHK-Cu, KPV, and oral minoxidil at off-label doses — are not approved as treatments for hair loss in most jurisdictions and carry varying risk profiles. Consult a qualified physician and pull comprehensive bloodwork before running any of this.
+
+---
+
+## Sources & references
+
+[^1]: Scalp follicle count and adult follicle biology: standard dermatology reference. See overview at [healthline.com — how much hair on a head](https://www.healthline.com/health/how-much-hair-on-a-head) and clinical figures in Otberg et al. (2004), "Variations of hair follicle size and distribution in different body sites," J Invest Dermatol.
+
+[^2]: Hair growth cycle (anagen/catagen/telogen) durations and normal shedding rates: see [American Academy of Dermatology — hair loss](https://www.aad.org/public/diseases/hair-loss) and Paus & Cotsarelis (1999), "The biology of hair follicles," NEJM.
+
+[^3]: Follicular miniaturization in androgenetic alopecia: see Whiting (2001), "Histopathologic features of alopecia"; clinical overview at [emedicine.medscape.com — androgenetic alopecia](https://emedicine.medscape.com/article/1070167-overview).
+
+[^4]: Follicular fibrosis and stem cell signaling loss in the bulge region: Garza et al. (2011), "Bald scalp in men with androgenetic alopecia retains hair follicle stem cells but lacks CD200-rich and CD34-positive hair follicle progenitor cells," J Clin Invest. [PubMed Central — PMC3026985](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3026985/).
+
+[^5]: DHT and 5α-reductase pathway in scalp follicles: see [PubMed Central — PMC5878005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5878005/) on androgen biology in AGA; Kaufman et al. on finasteride mechanism.
+
+[^6]: Trichoscopy diagnostic parameters (terminal-to-vellus ratio, density, shaft diameter): Rudnicka et al. (2008), "Trichoscopy: a new method for diagnosing hair loss," J Drugs Dermatol; comprehensive review at [PubMed — trichoscopy AGA](https://pubmed.ncbi.nlm.nih.gov/?term=trichoscopy+androgenetic+alopecia).
+
+[^7]: Hair Doc Ultra Folli X promo pricing and Malaysian commercial scalp center context: Hair Doc Malaysia consumer materials (Ultra Folli X campaign, promo rate RM119 from RM199, analysis-only RM50). Local consumer feedback on package pricing collated from Lowyat.NET and Malaysian Reddit. Verify current pricing directly with the provider.
+
+[^8]: Hair transplantation as the only intervention for fibrosed zones: standard hair restoration consensus. See International Society of Hair Restoration Surgery (ISHRS) clinical guidelines at [ishrs.org](https://ishrs.org/).

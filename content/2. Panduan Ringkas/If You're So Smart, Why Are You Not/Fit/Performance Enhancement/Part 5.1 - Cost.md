@@ -1,0 +1,167 @@
+---
+title: Part 5.1 — Cost
+draft: false
+tags:
+  - fitness
+  - pharmacology
+  - performance-enhancement
+  - peds
+  - budgeting
+date: 2026-05-25
+---
+> [!abstract] This is **Part 5.1 of 5** in the Performance Enhancement Series — the "Tier 3" continuation of the [[Part 4.0 - Pharmacology|Fitness Series' Pharmacology chapter]]. The full path:
+> 
+> - **Part 1:** [[Part 1.0 - The Decision|The Decision — When, and Whether, to Cross the Line]]
+> - **Part 2 — Monitoring (2 sub-articles):**
+> 	- **Part 2.0:** [[Part 2.0 - Medical Screening and Monitoring|Medical Screening & Monitoring]] — your baseline and what to watch
+> 	- **Part 2.1:** [[Part 2.1 - Continuous Monitoring|Continuous Monitoring & Wearables]] — tracking between blood draws
+> - **Part 3 — Optimize (3 sub-articles):**
+> 	- **Part 3.0:** [[Part 3.0 - The Eight Anabolic Pathways|The Eight Anabolic Pathways]] — the multi-pathway, moderate approach
+> 	- **Part 3.1:** [[Part 3.1 - The Anabolic Steroid Family Tree|The Anabolic Steroid Family Tree]] — compound families & characteristics
+> 	- **Part 3.2:** [[Part 3.2 - Cycle Design|Cycle Design]] — the enhanced-longevity year
+> - **Part 4 — Protection & the toolbox (5 sub-articles):**
+> 	- **Part 4.0:** [[Part 4.0 - Protection|Protection]] — staying alive and intact
+> 	- **Part 4.1:** [[Part 4.1 - When the Numbers Move|When the Numbers Move]] — the diagnostic playbook
+> 	- **Part 4.2:** [[Part 4.2 - Choosing Your Ancillaries|Choosing Your Ancillaries]] — within-family selection & dosing
+> 	- **Part 4.3:** [[Part 4.3 - The Bodybuilding Realm|The Bodybuilding Realm]] — performance & aesthetic compounds
+> 	- **Part 4.4:** [[Part 4.4 - Electrolyte Management|Electrolyte Management]] — water & the mineral balance
+> - **Part 5 — Putting it all together (2 sub-articles):**
+> 	- **Part 5.0:** [[Part 5.0 - Putting It All Together|Putting It All Together]] — the worked 3-year example
+> 	- **Part 5.1 (this article):** [[Part 5.1 - Cost|Cost]] — budgeting & stock planning
+> ----
+## Table of Contents
+
+- [Cost is only hard without a plan](#cost-is-only-hard-without-a-plan)
+- [Step 1 — Plan the cycle, then list every variable](#step-1--plan-the-cycle-then-list-every-variable)
+- [Step 2 — Predict the stock, then the cost](#step-2--predict-the-stock-then-the-cost)
+- [Step 3 — A worked stock plan to year-end](#step-3--a-worked-stock-plan-to-year-end)
+- [Step 4 — Budget the part that actually costs more: food & consumables](#step-4--budget-the-part-that-actually-costs-more-food--consumables)
+- [The one-page budget](#the-one-page-budget)
+- [Part 5.1 Takeaways](#part-51-takeaways)
+- [Your Budgeting Task List](#your-budgeting-task-list)
+- [Sources & references](#sources--references)
+
+---
+
+> [!danger] Framing
+> This article is about *budgeting and planning*, not sourcing. It deliberately names no vendors and gives no acquisition advice — the figures are illustrative Malaysian-ringgit reference points to show the *method*, not a price list. The compounds referenced are prescription-only or illegal without a prescription in most jurisdictions, including Malaysia. Nothing here is medical or financial advice.
+
+---
+## Cost is only hard without a plan
+
+Most people think the hard part of enhanced bodybuilding is affording it. It isn't — ==the hard part is the *uncertainty*, and the fix is two documents: a **budgeting plan** and a **stock plan**.== Once you know exactly what your year looks like, the spending becomes predictable, and a surprising truth falls out of the maths: **the drugs and ancillaries are cheaper than almost everyone assumes.** Bought sensibly, in bulk, a protective stack costs less per month than a couple of restaurant dinners. The real, recurring money is in **food and daily consumables** — the [[Part 4.0 - Pharmacology|90%]] of the 90/10 rule is also 90% of the budget.
+
+This article builds the plan in four steps: plan the cycle → predict the stock and cost → hold a worked stock plan → then budget the part that actually moves the needle (food, gym, daily supplements).[^1]
+
+---
+## Step 1 — Plan the cycle, then list every variable
+
+You cannot budget what you haven't planned. Start from your [[Part 3.2 - Cycle Design|cycle design]] and [[Part 5.0 - Putting It All Together|year map]], then write down **every variable that will draw money** over that window — not just the obvious gear:
+
+- **The compounds** — each one's dose × weeks = total needed (Step 2 turns this into boxes/vials). From [[Part 5.0 - Putting It All Together|the worked example]]: a Test base, maybe EQ, the occasional oral, HCG/HMG for the down-period.
+- **The ancillary tiers** ([[Part 4.2 - Choosing Your Ancillaries|4.2]]) — the **all-year baby-dose core** (ARB, tadalafil, aspirin, rosuvastatin ± ezetimibe) that runs continuously, *plus* the **situational tools** (TUDCA/NAC during orals, P5P with 19-nors, T4 with GH, a glucose agent with GH).
+- **Bloodwork** ([[Part 2.0 - Medical Screening and Monitoring|2.0]] / the [[Part 5.0 - Putting It All Together|cadence]]) — a real, recurring line item: the comprehensive baseline panel, then quarterly panels, with extra draws around compound changes.
+- **Monitoring gear** ([[Part 2.1 - Continuous Monitoring|2.1]]) — mostly one-off: a BP cuff, a glucometer, a wearable.[^2]
+- **Daily consumables** — the fast movers from [[Part 4.4 - Electrolyte Management|electrolytes]], creatine, omega-3, and the liver/antioxidant supports.
+
+> [!tip] Name the variables that *change* the bill mid-year
+> A budget breaks when an un-planned variable appears. The predictable ones, with examples: **a dose escalation** (more test = more vials); **adding a compound** (EQ or an oral mid-year → new line + maybe more frequent bloods); **a cut phase** ([[Part 4.3 - The Bodybuilding Realm|fat-burners]], more electrolytes); **the hot season** ([[Part 4.4 - Electrolyte Management|more water/salt/potassium]]); and **more bloodwork** when you change anything. Write these as "if X, then +RM Y" so a mid-year change is a known cost, not a panic.
+
+---
+## Step 2 — Predict the stock, then the cost
+
+With the plan written, the arithmetic is simple — and it exposes the bulk-buying reality that makes this affordable.
+
+**Convert plan → quantity.** Dose × duration = total, then divide by package size. *Example:* a daily ancillary at one tablet a day for a 120-day phase = 120 tablets = however many boxes that is. A compound at X mg/week for 20 weeks = 20X mg = a known number of vials.
+
+**The bulk-box reality.** In practice, tablets and supplements are sold in **multi-box quantities** — so the *upfront* cart looks expensive, but each item lasts months. The number that actually matters isn't the cart total; it's the **true monthly burn rate**:
+
+> [!important] True monthly burn rate
+> ==**Monthly cost = (total cart cost ÷ total supply-days) × 30.**== A box that costs RM100 but lasts 600 days is RM5/month, not RM100. Most of your protective core is in this category — cheap *per month* despite a chunky one-time outlay. Always budget on the burn rate, not the receipt.
+
+**Tablet-splitting stretches supply.** Many ancillaries are run at a fraction of a tablet — split a 10 mg rosuvastatin to 5 mg and the supply lasts twice as long; halve a 50 mg sleep aid to 25 mg and a two-box order doubles in lifespan. ==Buying the higher-strength tablet and splitting it is often the single biggest cost saver,== because it both lowers the dose (good — [[Part 1.0 - The Decision|lowest effective]]) and stretches the box.
+
+---
+## Step 3 — A worked stock plan to year-end
+
+Here's the method as a concrete (illustrative) plan — a protective core plus a moderate cycle, costed on burn rate and projected to "covers me to year-end." *Figures are representative Malaysian-ringgit reference points, not a price list; round to your own sources and labs.*
+
+| Item | Working dose | Bought | Supply lifespan | Monthly (burn rate) |
+|---|---|---|---|---|
+| **Irbesartan** | 75–150 mg ED | bulk boxes | ~4 months | ~RM35 |
+| **Rosuvastatin** | 5–10 mg ED (split) | bulk boxes | ~1.5 years | ~RM6–12 |
+| **Aspirin** | 100 mg ED | bulk boxes | ~1.5 years | ~RM5 |
+| **Tadalafil** | 5 mg ED | bulk | ~6 months | ~RM15–25 |
+| **TUDCA + NAC** | EOD (oral phases only) | per oral run | matches the oral cycle | situational |
+| **Trazodone** | 25–50 mg (split) | 2 boxes | ~40–80 days | ~RM37–73 |
+| **Test (base)** | ~250 mg/wk | per blast | one blast | per cycle |
+| **Bloodwork** | baseline + quarterly | — | per draw | ~RM50–130/mo amortised |
+
+> [!example] Reading the plan
+> The *protective core* — ARB + rosuvastatin + aspirin + tadalafil — comes to roughly **RM60–80/month** on burn rate, even though the upfront cart (buying every box at once) might be **RM500–600**. Split the splittable tablets (rosuvastatin to 5 mg, trazodone to 25 mg) and that drops further. The point of the table isn't the exact ringgit — it's that ==once you've bought the bulk boxes, your *protective* monthly cost is small and you're stocked for months.== You prep once, then mostly just re-buy the fast movers.
+
+This is how you "prep to year-end": buy the long-life items in bulk now, mark each item's run-out date on a calendar, and you only ever re-order the things that genuinely deplete monthly.
+
+---
+## Step 4 — Budget the part that actually costs more: food & consumables
+
+Here's the reveal the maths forces. Once the pharma is bought in bulk, ==the **recurring** budget is dominated by the boring, daily stuff — exactly the [[Part 4.0 - Pharmacology|90%]] that builds the physique in the first place:==
+
+- **Food — by far the biggest line.** A lean-bulk surplus of quality protein and carbs ([[Part 3.2 - Cycle Design|partitioning]]) is the single largest monthly cost, and it scales with bodyweight. This dwarfs the gear. Budget it first and honestly — an under-fed cycle wastes the (cheap) drugs anyway.
+- **Gym membership** — fixed and predictable; the cost of the 90% having somewhere to happen.
+- **Fast-moving daily supplements** — the things you genuinely use *every day* and re-buy monthly: [[Part 4.4 - Electrolyte Management|electrolytes]] (salt blend, potassium, magnesium), **creatine**, **omega-3**, and the liver/antioxidant supports during oral phases. Individually cheap, collectively a real monthly line.
+
+> [!important] The honest cost hierarchy
+> Ranked by what actually leaves your account each month: **food ≫ gym + daily consumables > bloodwork > the pharmaceutical core.**[^3] People brace for the gear to bankrupt them; in a *moderate, longevity-minded* protocol it's the cheapest recurring part. ==If the food and consumables budget scares you, that's a signal you're not ready to run the gear yet== — feeding and supporting the physique is the prerequisite, not an afterthought ([[Part 1.0 - The Decision|Part 1]]).
+
+---
+## The one-page budget
+
+| Category | Cadence | Notes |
+|---|---|---|
+| **Food (surplus/maintenance)** | Monthly, scales with weight | The biggest line — budget it first |
+| **Gym membership** | Monthly, fixed | The 90% needs a home |
+| **Daily consumables** | Monthly re-buy | Electrolytes, creatine, omega-3, oral-phase liver support |
+| **Protective core (pharma)** | Bulk buy → low burn rate | ARB, statin, aspirin, tadalafil — cheap *per month* |
+| **Cycle compounds** | Per blast | Test base ± additions; scales with dose |
+| **Situational ancillaries** | Only when their trigger is on | TUDCA/NAC (orals), P5P (19-nors), T4 (GH) |
+| **Bloodwork** | Quarterly + baseline + change-points | A real, non-optional line ([[Part 2.0 - Medical Screening and Monitoring|2.0]]) |
+| **Monitoring gear** | One-off | BP cuff, glucometer, wearable |
+
+> [!note] That's the series
+> [[Part 1.0 - The Decision|Decide]] → [[Part 2.0 - Medical Screening and Monitoring|Screen]] → [[Part 2.1 - Continuous Monitoring|Monitor]] → [[Part 3.0 - The Eight Anabolic Pathways|Optimize]] (pathways, [[Part 3.1 - The Anabolic Steroid Family Tree|families]], [[Part 3.2 - Cycle Design|cycle design]]) → [[Part 4.0 - Protection|Protect]] (mechanisms, [[Part 4.1 - When the Numbers Move|diagnostics]], [[Part 4.2 - Choosing Your Ancillaries|ancillaries]], [[Part 4.3 - The Bodybuilding Realm|the realm]], [[Part 4.4 - Electrolyte Management|electrolytes]]) → [[Part 5.0 - Putting It All Together|Assemble]] → **Budget.** The whole point was never a protocol to copy — it's the reasoning to run your own, measured, intact, and *affordable enough to sustain for years*. ==Take whatever's useful. Ignore whatever isn't.==
+
+---
+## Part 5.1 Takeaways
+
+> [!check] Key concepts to internalize
+> 
+> - **Cost is an uncertainty problem, not an affordability problem.** A budgeting plan + a stock plan make it predictable.
+> - **Plan the cycle first, then list every variable** that draws money — and pre-write "if X, then +RM Y" for the changes you can foresee.
+> - **Budget on burn rate, not the receipt:** monthly cost = cart ÷ supply-days × 30. Bulk boxes look pricey upfront and cost little per month.
+> - **Tablet-splitting** both lowers your dose and stretches supply — often the biggest single saving.
+> - **The honest hierarchy: food ≫ gym + consumables > bloodwork > the pharma core.** The gear is the cheap recurring part of a moderate protocol; food is the expensive one.
+> - **If the food/consumables budget scares you, you're not ready for the gear** — feeding the physique is the prerequisite.
+
+## Your Budgeting Task List
+
+1. **Write the year plan first** ([[Part 5.0 - Putting It All Together|Part 5.0]] calendar) — phases, compounds, ancillary tiers, bloodwork cadence.
+2. **List every money variable**, including the "if X then +RM Y" mid-year changes.
+3. **Convert the plan to quantities**, then compute each item's **monthly burn rate** (cart ÷ supply-days × 30).
+4. **Mark run-out dates on a calendar** and split the splittable tablets to stretch supply.
+5. **Budget food first** (it's the biggest line and the 90%), then gym, then the monthly consumables, then the cheap-per-month pharma.
+6. **Sanity check:** if the *food and consumables* number is uncomfortable, pause — that's the readiness signal from [[Part 1.0 - The Decision|Part 1]], not a reason to cut corners on protection.
+
+---
+
+> [!danger] Disclaimer
+> This article covers budgeting and planning only — **not** sourcing, vendors, or how to acquire any compound. All figures are illustrative Malaysian-ringgit reference points to demonstrate the method, not a price list or a recommendation to purchase anything. The performance-enhancing compounds referenced are prescription-only or illegal to possess without a prescription in most jurisdictions, including Malaysia. Prescription ancillaries require a physician. Nothing here is medical or financial advice.
+
+---
+## Sources & references
+
+[^1]: The cost-management framework — planning the cycle before budgeting, predicting stock from dose × duration, the "true monthly burn rate" from bulk purchasing, and tablet-splitting to stretch supply — follows the harm-reduction / evidence-based PED-management approach (Vigorous Steve and similar), applied to the [[Part 3.2 - Cycle Design|cycle-design]] and [[Part 5.0 - Putting It All Together|year-map]] from this series. Figures are illustrative.
+
+[^2]: Bloodwork and monitoring-gear costs in the Malaysian context (private labs and hospital panels, BP monitor, glucometer) are detailed in [[Part 2.0 - Medical Screening and Monitoring|Part 2.0]] and [[Part 2.1 - Continuous Monitoring|Part 2.1]].
+
+[^3]: The "food is the 90%" hierarchy and the daily-consumable layer (electrolytes, creatine, omega-3, liver support) draw on [[Part 4.0 - Pharmacology|the Fit series' 90/10 framing]], [[Part 4.4 - Electrolyte Management|Part 4.4]], and [[Part 3.2 - Cycle Design|Part 3.2]]'s nutrition/partitioning rules.

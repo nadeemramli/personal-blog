@@ -1,0 +1,249 @@
+---
+title: Part 1.0 — The Decision
+draft: false
+tags:
+  - fitness
+  - pharmacology
+  - performance-enhancement
+  - peds
+date: 2026-05-25
+---
+> [!abstract] This is **Part 1 of 5** in the Performance Enhancement Series — the "Tier 3" continuation of the [[Part 4.0 - Pharmacology|Fitness Series' Pharmacology chapter]]. The full path:
+> 
+> - **Part 1 (this article):** [[Part 1.0 - The Decision|The Decision — When, and Whether, to Cross the Line]]
+> - **Part 2 — Monitoring (2 sub-articles):**
+> 	- **Part 2.0:** [[Part 2.0 - Medical Screening and Monitoring|Medical Screening & Monitoring]] — your baseline and what to watch
+> 	- **Part 2.1:** [[Part 2.1 - Continuous Monitoring|Continuous Monitoring & Wearables]] — tracking between blood draws
+> - **Part 3 — Optimize (3 sub-articles):**
+> 	- **Part 3.0:** [[Part 3.0 - The Eight Anabolic Pathways|The Eight Anabolic Pathways]] — the multi-pathway, moderate approach
+> 	- **Part 3.1:** [[Part 3.1 - The Anabolic Steroid Family Tree|The Anabolic Steroid Family Tree]] — compound families & characteristics
+> 	- **Part 3.2:** [[Part 3.2 - Cycle Design|Cycle Design]] — the enhanced-longevity year
+> - **Part 4 — Protection & the toolbox (5 sub-articles):**
+> 	- **Part 4.0:** [[Part 4.0 - Protection|Protection]] — staying alive and intact
+> 	- **Part 4.1:** [[Part 4.1 - When the Numbers Move|When the Numbers Move]] — the diagnostic playbook
+> 	- **Part 4.2:** [[Part 4.2 - Choosing Your Ancillaries|Choosing Your Ancillaries]] — within-family selection & dosing
+> 	- **Part 4.3:** [[Part 4.3 - The Bodybuilding Realm|The Bodybuilding Realm]] — performance & aesthetic compounds
+> 	- **Part 4.4:** [[Part 4.4 - Electrolyte Management|Electrolyte Management]] — water & the mineral balance
+> - **Part 5 — Putting it all together (2 sub-articles):**
+> 	- **Part 5.0:** [[Part 5.0 - Putting It All Together|Putting It All Together]] — the worked 3-year example
+> 	- **Part 5.1:** [[Part 5.1 - Cost|Cost]] — budgeting & stock planning
+> ----
+## Table of Contents
+
+- [Where this series picks up](#where-this-series-picks-up)
+- [The framework still rules](#the-framework-still-rules)
+- [What enhancement actually does](#what-enhancement-actually-does)
+- [The benchmarks don't change — the constants do](#the-benchmarks-dont-change--the-constants-do)
+- [The one rule nobody tells you: you only have so many blasts](#the-one-rule-nobody-tells-you-you-only-have-so-many-blasts)
+- [So when are you actually ready?](#so-when-are-you-actually-ready)
+- [The one-way door](#the-one-way-door)
+- [Part 1 Takeaways](#part-1-takeaways)
+- [Your Readiness Task List](#your-readiness-task-list)
+- [Sources & references](#sources--references)
+
+---
+
+> [!danger] Read this before anything else
+> This series is written for the reader who has **already decided** to use performance-enhancing drugs, and wants to do it with the least damage possible. It is harm reduction, not encouragement. Nothing here is medical advice or a recommendation to use any compound.
+> 
+> Anabolic-androgenic steroids and the rest of the Tier 3 toolbox are powerful drugs with permanent consequences. The honest position is this: **the safest cycle is the one you never run.** If you are still natural and reading this out of curiosity, the most useful thing you can do is close the tab and go add another two years to your training age. This series will still be here.
+
+---
+## Where this series picks up
+
+The [[Part 1.1 - What Actually Matters|main Fitness Series]] ended with [[Part 4.0 - Pharmacology|Part 4 — Pharmacology]], and that article split the chemistry into two tiers:
+
+- **Tier 1 — Natty:** creatine, caffeine, citrulline, the legal and broadly safe layer.
+- **Tier 2 — Half-Natty:** peptides and research compounds — GH secretagogues, retatrutide, the gray-area stuff that sits between supplement and pharmacology.
+
+That article deliberately stopped at the edge of Tier 3 — **exogenous anabolic-androgenic steroids (AAS) and full hormonal manipulation** — because Tier 3 isn't a paragraph in a supplement article. It's its own decision, with its own framework, its own screening, and its own lifetime of consequences.
+
+==This is Tier 3.== Four articles, in the only order that makes sense:
+
+1. **Decide** — whether you're actually ready, and what you're signing up for (this article).
+2. **Screen** — the baseline bloodwork and monitoring that turns recklessness into something resembling a managed risk ([[Part 2.0 - Medical Screening and Monitoring|Part 2]]).
+3. **Optimize** — how to get the most out of the least, across multiple anabolic pathways instead of body-slamming one ([[Part 3.0 - The Eight Anabolic Pathways|Part 3]]).
+4. **Protect** — the ancillary and health-defense layer that determines whether you're still training at 60 or sidelined at 40 ([[Part 4.0 - Protection|Part 4]]).
+
+> [!note] Why "Decide" comes first
+> Most people get the order backward. They pick a compound, then a dose, then *maybe* think about bloodwork, and never seriously ask whether they should be doing this at all. We're going to reverse that completely.
+
+---
+## The framework still rules
+
+Before a single milligram, go back to the foundation from [[Part 1.1 - What Actually Matters|Part 1.1]]: the distinction between **Healthy** and **Fit**.
+
+- **Healthy** is biomarkers — lipids, blood pressure, fasting insulin, hematocrit, kidney and liver markers, HbA1c. The things a doctor cares about.
+- **Fit** is performance — Aesthetic, Strength, and (for athletes) Agility and Endurance.
+
+Here's the uncomfortable truth that defines this entire series: ==enhancement buys you "Fit" by spending "Healthy."== Every other tool in the Fitness Series tried to improve both at once — better training, better food, and better sleep make you fitter *and* healthier. Tier 3 is the first tool where the two move in opposite directions. You are trading biomarkers for performance, and the entire job of an intelligent enhanced athlete is to make that trade as small as possible.
+
+Which means the **90/10 rule** from [[Part 4.0 - Pharmacology|Part 4]] doesn't go away — it gets more important, not less:
+
+- **The Work is still 90%.** Progressive overload, mechanical tension, consistent calories, and sleep. Drugs do not replace any of it.
+- **The chemistry is the margin.** A much *bigger* margin than Tier 1 or 2 — but still a margin layered on top of work that has to already be excellent.
+
+> [!important] The single most expensive mistake in enhancement
+> Running a cycle on top of mediocre training and a sloppy diet. You pay the full health cost of the drugs and collect a fraction of the benefit. We'll come back to *why* this is the cardinal sin — it's the whole thesis of the next section.
+
+---
+## What enhancement actually does
+
+[[Part 1.1 - What Actually Matters|Part 1.1]] established that for a **natural** lifter, the only growth that really matters is myofibrillar hypertrophy backed by satellite-cell activity — the kind that doesn't vanish on a deload. It also flagged that ==for an enhanced lifter, the picture is more complex.== This is where that complexity gets unpacked.
+
+Exogenous androgens change the biology of growth on several fronts at once:
+
+- **Androgen receptor saturation.** You flood the system with far more androgen than the body would ever produce, occupying more receptors and driving protein synthesis well past the natural ceiling. Androgens also *upregulate androgen receptor density* over time — the system that grows muscle literally builds more of itself.
+- **Nutrient partitioning gets rigged.** More of the calories and protein you eat get shunted toward muscle instead of fat. The bulk gets cleaner; the cut spares more muscle. The diagnostic decision tree from [[Part 1.1 - What Actually Matters|Part 1.1]] still works, but the body composition you can hold at a given calorie intake shifts in your favor.
+- **Recovery is amplified.** Androgens are anti-catabolic — they blunt cortisol's muscle-wasting signal (a mechanism we'll exploit deliberately in [[Part 3.0 - The Eight Anabolic Pathways|Part 3]]). You recover between sessions faster, which means you can run more volume closer to failure without digging a recovery hole.
+- **Satellite cells and myonuclei.** Androgens increase satellite-cell proliferation and the donation of new myonuclei to muscle fibers. This is the part that compounds — and the part that's effectively **permanent**.
+- **Water and glycogen retention** amplify visible fullness. Some of the "size" on cycle is real contractile tissue; some is sarcoplasmic and intracellular water that recedes when you come off.
+
+> [!tip] Muscle memory is real, and it's the strongest argument for not wasting cycles
+> The myonuclei you add to a fiber don't disappear when you stop training or come off — the leading evidence suggests they're retained long-term, which is the mechanistic basis of "muscle memory."[^1] A fiber with more nuclei has a higher ceiling on protein synthesis forever. ==That's why the gains you make on a well-executed early cycle pay dividends for the rest of your life — and why a wasted cycle is a permanent opportunity cost, not a do-over.==
+
+Practically: enhancement breaks the natural ceiling. [[Part 1.1 - What Actually Matters|Part 1.1]] put the natural FFMI ceiling at roughly **25** and the elite natural strength standards at multiples most people never reach. Tier 3 is what lets a person blow past an FFMI of 25, hold single-digit body fat with far more mass than a natural can, and keep progressing on lifts that would have stalled permanently. The cost of that ceiling-break is the entire rest of this series.
+
+---
+## The benchmarks don't change — the constants do
+
+A common fantasy is that going enhanced means you stop having to be disciplined or data-driven — the drugs "do the work." The opposite is true. ==You now have *two* dashboards to run instead of one,== because the "Healthy" markers that used to take care of themselves are now actively moving.
+
+The Fit dashboard is unchanged — the KPIs from [[Part 1.1 - What Actually Matters|Part 1.1]] still apply:
+
+- **Strength KPIs** (bench, squat, deadlift, OHP, pull-ups as multiples of bodyweight)
+- **Aesthetic KPIs** (body fat %, FFMI)
+
+What changes is the **constants** in the diagnostic decision tree. A natural who stalls on every lift at once probably has a recovery problem. An enhanced athlete who stalls might have a recovery problem — or an estradiol problem, or a hematocrit so high they're chronically fatigued, or blood pressure quietly climbing. ==The same symptom now has more possible causes, and several of them are health emergencies rather than programming tweaks.== That's exactly why [[Part 2.0 - Medical Screening and Monitoring|Part 2]] exists.
+
+The second dashboard — the **Health dashboard** — is new, and it's non-negotiable: lipids, blood pressure, hematocrit, fasting glucose, liver and kidney markers, estradiol, prolactin. We track these not because a doctor told us to, but because they're the early-warning system for the exact things that end careers (and lives). More on every one of them in [[Part 2.0 - Medical Screening and Monitoring|Part 2]].
+
+---
+## The one rule nobody tells you: you only have so many blasts
+
+If you read one thing in this article, read this. It comes from Derek (More Plates More Dates), and it reframes the entire decision better than any "wait until you're 25" cliché.[^2]
+
+His argument: the standard advice — *don't touch anything until you're 25 because your brain isn't developed* — is built on an arbitrary age number. The real gate is different. You have, in his words, **only so many "blasts" in the tank.**
+
+The logic is brutal and correct:
+
+- You have **one set of organs** and roughly **100,000 hair follicles** on your head. Both are finite, and supraphysiological androgens spend both.
+- The two things that actually force men to stop are almost never willpower. They're a **health crisis** (cardiovascular disease, a stroke, kidney or liver damage) or **going bald.** Occasionally a guy simply loses interest — but once you're bitten by the iron bug, that's rare.
+- So your career as an enhanced athlete is finite by default. Every supraphysiological cycle moves you closer to the wall — faster or slower depending on genetics, but always in one direction.
+
+The conclusion isn't "never do it." It's: ==if your blasts are numbered, **do not waste a single one.**==
+
+> [!warning] Don't waste your blasts
+> Derek's deepest regret is the early cycles he ran at 500–700 mg of testosterone per week while eating like an idiot, training half-assed, and not understanding the drugs he was injecting. He made subpar gains on cycles he can never get back — and then hit his wall (hair loss) and had to stop. The muscle he *could* have built on those cycles, with the knowledge he has now, is gone. You don't get those blasts back.
+>
+> He now maintains his physique on **100 mg of testosterone per week** — a TRT dose. He looks back at the high-dose cycles of his youth and sees mostly wasted potential.
+
+This is why "Decide" comes before "Optimize." The worst outcome in this entire game isn't a hard cycle — it's burning through your finite, irreplaceable blasts before you knew enough to use them well.
+
+---
+## So when are you actually ready?
+
+Combine the Fit framework with Derek's rule and you get a readiness gate that has nothing to do with your age and everything to do with your competence and your honesty. All five of these should be true before Tier 3 is even a serious conversation.
+
+**1. You're genuinely near your natural ceiling.**
+Not "I've plateaued for three weeks." Near the numbers from [[Part 1.1 - What Actually Matters|Part 1.1]]: an FFMI in the **23–25** range, and strength standards in the **advanced** band (e.g., ~1.5× bodyweight bench, ~2× squat, ~2–2.5× deadlift for a male lifter). Derek estimates that with *perfect* diet and training from day one, you could approach your genetic potential in 2–3 years — but he's blunt that almost nobody has perfect diet and training that early.[^2] If you haven't earned the natural ceiling, enhancement is just papering over an execution problem you'll still have on cycle.
+
+**2. You actually understand diet, training, *and* pharmacology.**
+Derek's number-one rule: don't start until you have a thorough understanding of all three.[^2] "Understanding diet" doesn't mean hitting your macros — it means knowing how to prime a bulk and a cut, how to hit micronutrients, how to support cardiovascular health through food. "Understanding pharmacology" means you could explain how the compound you're about to inject actually works, why you'd pair it with what, and what each ancillary is *for*. Most people who think they're ready here are not. That's not an insult; it's the base rate.
+
+**3. You accept it's probably a lifetime commitment.**
+Exogenous androgens suppress your hypothalamic-pituitary-testicular axis (HPTA) — your natural testosterone production shuts down on cycle.[^3] Recovery is possible for many, but the more you run, the longer and less certain it gets. A large fraction of long-term users end up on **TRT for life**, by choice or necessity. Decide now whether you're okay with that.
+
+**4. Your baseline health is established and clean.**
+This is [[Part 2.0 - Medical Screening and Monitoring|Part 2]] in full. You do not start a cycle without comprehensive bloodwork, blood pressure data, and ideally a cardiac and fertility baseline. You cannot manage what you never measured.
+
+**5. You can articulate an honest "why."**
+"I want to look like the guys on Instagram" is a reason, but it's worth knowing it's the reason, because it changes the risk math. Competitive aspirations, a specific physique goal with a timeline, and "I'm chasing a feeling" are all different bets with different acceptable costs.
+
+> [!check] The readiness test in one line
+> You're ready when you no longer *need* drugs to keep progressing — which is precisely the moment you can use them without wasting them.
+
+### The behavioural version of the gate
+
+Derek's framework is about *competence*. Vigorous Steve's is about *behaviour* — and the two stack neatly. Steve's prerequisites are the concrete, observable habits that prove you've actually earned the gate above rather than just told yourself you have:[^5]
+
+- **You cook all your own meals and never miss one.** Not "mostly." The discipline that runs a cycle well is the same discipline that never skips a meal.
+- **You've run progressive overload long enough that hard sessions genuinely intimidate you.** You know what real intensity costs because you've been paying it.
+- **You know how to schedule a deload *before* overtraining hits** — you manage fatigue proactively, not reactively.
+- **Your own bloodwork shows natural testosterone declining** despite doing everything to keep it high — nutrition, supplementation, circadian sleep, stress management, heavy squats. You've optimised the natural lever to its limit, which is the only honest reason to reach for an exogenous one.
+- **You're below ~12% body fat.** Above that, higher aromatase activity converts more testosterone to estrogen, so you'd need larger doses of aromatase inhibitors or SERMs just to manage estrogen on cycle — the exact trap [[Part 3.0 - The Eight Anabolic Pathways|Part 3]] warns against.
+- **A 100 kg-plus enhanced bodybuilder mistakes you for someone already on gear.** Half-joke, half-serious: if you look like you *could* be on cycle while natural, you've earned the natural ceiling.
+
+> [!danger] The pre-flight checklist — sign this in your own head before you start
+> Steve frames the final gate as a consent form you sign before your first injection. Paraphrased, you are agreeing that:[^5]
+> 
+> - This is a **lifetime commitment.** Almost nobody runs one cycle and walks away — most end up blasting-and-cruising and only come off to conceive. Run at least **one full PCT** anyway, to prove you *can* recover and to rehearse the roller-coaster.
+> - You are **financially covered** (savings or insurance) for the medical bills if something goes wrong.
+> - You accept the **legal ramifications** in your jurisdiction.
+> - **Every blood marker is in range _before_ you start.** If your lipids are already off, steroids will only make them worse — and if you're not in great health going in, don't expect great results coming out.
+> - Your **entire cycle and PCT are in hand** before pin one — testosterone, an aromatase inhibitor, HCG, SERMs (Nolvadex/Clomid), syringes, needles, swabs — not half-sourced and improvised mid-cycle.
+> - You are **certain your compounds are real and correctly dosed.** Underdosed or counterfeit gear means you take all the risk for none of the reward.
+> - You **understand every side effect of every compound** you'll run, and how to control it *before* it becomes a problem.
+> - You can **control your temper** — shifts in mood and aggression are real.
+> - You understand you are **renting this physique.** It recedes when you stop.
+> - From your first injection, you are **pretending to be your own endocrinologist, cardiologist, nephrologist, hematologist, and hepatologist** — roles you are not actually qualified for. Stay humble, keep learning, and lean on a real physician wherever you can.
+>
+> ==If any line on that list makes you flinch, that flinch is your answer.==
+
+---
+## The one-way door
+
+A few consequences are worth stating plainly, because the marketing never does:
+
+- **HPTA suppression** is guaranteed on cycle, and full recovery is not.[^3] Fertility can be impaired, sometimes for a long time.
+- **Cardiovascular risk** accumulates. Supraphysiological androgens unfavorably shift your lipids, raise blood pressure and hematocrit, and over years are associated with cardiac remodeling. This is the most likely thing to actually hurt you.[^4]
+- **Hair loss** is genetic and androgen-driven; if you're predisposed, cycles can accelerate it dramatically and permanently.
+- **The mental piece is real.** A lot of men become so attached to being big that they keep pushing past the point where their own body is telling them to stop. Derek names this directly.[^2]
+
+None of this is meant to scare you out of a decision you've already made. It's meant to make sure the decision is *yours*, made with open eyes, and that you treat the next three articles as the actual cost of entry — not optional extras.
+
+> [!note] Up next
+> If you've honestly cleared the readiness gate, the very next step is not picking a compound — it's [[Part 2.0 - Medical Screening and Monitoring|Part 2 — Medical Screening & Monitoring]], where we map the exact baseline panel to pull before your first cycle and what to watch on every cycle after.
+
+---
+## Part 1 Takeaways
+
+> [!check] Key concepts to internalize
+> 
+> - **This is Tier 3.** It continues the Natty / Half-Natty tiers from [[Part 4.0 - Pharmacology|Part 4]] into full hormonal enhancement. It is harm reduction for people who've already decided — not encouragement.
+> - **Enhancement trades Healthy for Fit.** Every other tool improved both; this one spends biomarkers to buy performance. The whole game is minimizing that trade.
+> - **The 90/10 rule scales up.** The Work is still 90%. Drugs are a bigger margin, but still a margin on top of excellent training and diet.
+> - **You only have so many blasts.** Finite organs, finite follicles. Don't start until you can use a cycle well, and never waste one — muscle-memory makes early gains permanent and wasted cycles a permanent loss.
+> - **Two dashboards now.** Fit KPIs *and* health markers. Enhanced athletes track more, not less.
+> - **Readiness is competence, not age.** Near your natural ceiling, genuine understanding of all three disciplines, acceptance of a possible lifetime commitment, a clean measured baseline, and an honest "why."
+
+## Your Readiness Task List
+
+Before you even think about [[Part 2.0 - Medical Screening and Monitoring|Part 2]], answer these honestly. Write the answers down — vague mental answers are how people talk themselves into being "ready."
+
+1. **Calculate your current FFMI** (from [[Part 1.1 - What Actually Matters|Part 1.1]]). Are you genuinely in the 23–25 band, or are you rounding up?
+2. **Log your honest strength standards** against the advanced column of the [[Part 1.1 - What Actually Matters|Part 1.1]] tables. Are you advanced, or intermediate telling yourself a story?
+3. **Audit your last 12 months.** Was your training consistent and progressive, and your diet actually dialed in — or are there obvious gaps a natural protocol would still fix?
+4. **Write your "why"** in one sentence, and then write the worst realistic outcome you'd accept in exchange.
+5. **Decide the TRT question** *before* you start, not after: are you prepared for the possibility of lifelong hormone replacement?
+6. **Book the baseline.** If you clear the gate, the next action is comprehensive bloodwork — covered in full in [[Part 2.0 - Medical Screening and Monitoring|Part 2]].
+
+---
+
+> [!danger] Disclaimer
+> This article discusses anabolic-androgenic steroids and other performance-enhancing drugs that are prescription-only or illegal to possess without a prescription in most jurisdictions (including Malaysia), and that carry serious, sometimes permanent, health risks. Nothing here is medical advice, a prescription, or an endorsement of illegal drug use.
+>
+> Everything is shared for **harm reduction and transparency** — on the principle that people who have already decided to do this are safer with accurate information than without it. Anyone considering this path must work with a qualified physician, pull comprehensive bloodwork, and understand the long-term risk profile of what they are putting in their body.
+
+---
+## Sources & references
+
+[^1]: Myonuclei retention and "muscle memory": Egner et al. (2013) demonstrated myonuclei are retained after detraining in a mouse model, and Seaborne et al. (2018) showed an epigenetic basis for human muscle memory. Overview at [PubMed — Egner et al., "A cellular memory mechanism aids overload hypertrophy"](https://pubmed.ncbi.nlm.nih.gov/23878368/) and Seaborne et al., *Scientific Reports* 2018, "Human Skeletal Muscle Possesses an Epigenetic Memory of Hypertrophy."
+
+[^2]: Derek (More Plates More Dates), "My Number 1 Piece Of Advice If You Are Going To Use Steroids" — the source of the "you only have so many blasts in the tank" framing, the finite-organs/finite-follicles argument, the 2–3 year natural-potential estimate, and the regret over wasted early high-dose cycles. Article + embedded video at [moreplatesmoredates.com](https://moreplatesmoredates.com/my-number-one-piece-of-advice-if-you-are-going-to-use-steroids/) (video: [youtube.com/watch?v=FGLeADS_B7w](https://www.youtube.com/watch?v=FGLeADS_B7w)).
+
+[^3]: HPTA suppression from exogenous androgens: exogenous testosterone suppresses LH and FSH via negative feedback, shutting down endogenous production; recovery time varies and is not guaranteed after prolonged or high-dose use. See review literature on anabolic-steroid-induced hypogonadism (e.g., Rahnema et al., 2014, *Fertility and Sterility*).
+
+[^4]: Cardiovascular consequences of long-term AAS use: associated with adverse lipid changes, hypertension, erythrocytosis, and cardiac remodeling (left ventricular hypertrophy and diastolic dysfunction). See Baggish et al. (2017), *Circulation*, "Cardiovascular Toxicity of Illicit Anabolic-Androgenic Steroid Use." Discussed in depth in [[Part 4.0 - Protection|Part 4]].
+
+[^5]: Vigorous Steve, "When Are You Ready for Your First Cycle?" — the source of the behavioural prerequisites (cook all meals/never miss one, progressive overload to the point of pre-workout anxiety, scheduling deloads, naturally declining testosterone despite full optimisation, body fat below ~12% to limit aromatase, the "100 kg bodybuilder asks your cycle" heuristic) and the pre-flight checklist framed as a consent form (lifetime commitment + at least one PCT, financial/legal readiness, all markers in range first, full cycle + PCT in stock, verified-quality compounds, side-effect mastery, anger control, "renting" the physique, and becoming your own endocrinologist/cardiologist/nephrologist/hematologist/hepatologist). [vigoroussteve.com](https://vigoroussteve.com/when-are-you-ready-for-your-first-cycle/).

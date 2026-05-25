@@ -4,6 +4,7 @@ draft: true
 tags: 
 date: "2025-03-21"
 ---
+https://blueprint.bryanjohnson.com/blogs/news/bryan-johnsons-protocol#measurement
 
 Inputs: 
 1. Financial
