@@ -65,7 +65,7 @@ You filed neuroprotection under the **Healthy** bucket alongside hs-CRP — and 
 The "muscle growth" of the brain — structural adaptation that lets you *retain* what you learn and physically reshape circuitry. These act over **weeks to months**, never acutely. Judge them on your slow-moving [[Part 1.1 - Measuring Cognition|verbal-memory PR]], not on how you feel today.
 
 > [!tip] The biggest BDNF lever is free
-> Before any compound: **aerobic exercise is the most reliable known driver of BDNF.** The [[Part 1.0 - Foundations of Athleticism|Athletic series]] base-building work is, mechanistically, a neurogenesis protocol. No supplement in this pillar out-performs a consistent cardio habit — they layer *on top* of it.
+> Before any compound: **aerobic exercise is the most reliable known driver of BDNF.** The [[Part 1.0 - What Athleticism Actually Is|Athletic series]] base-building work is, mechanistically, a neurogenesis protocol. No supplement in this pillar out-performs a consistent cardio habit — they layer *on top* of it.
 
 ### Tier 1 — Clinical Essentials
 

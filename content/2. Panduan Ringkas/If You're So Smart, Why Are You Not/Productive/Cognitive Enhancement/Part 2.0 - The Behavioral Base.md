@@ -99,7 +99,7 @@ This is upstream of literally everything. One week of restriction to 5 hours mea
 
 ### 2. Cardio — the BDNF lever
 
-Aerobic exercise is the most reliable natural driver of **BDNF**, the brain's growth factor from [[Part 1.0 - The Cognitive Architecture|Part 1.0]]'s preservation bucket. It's neurogenesis and neuroprotection you can't buy in a bottle, plus it improves the cerebral blood flow every cognitive process runs on. The [[Part 1.0 - Foundations of Athleticism|Athletic series]] is quietly a cognitive-enhancement series; this is why.
+Aerobic exercise is the most reliable natural driver of **BDNF**, the brain's growth factor from [[Part 1.0 - The Cognitive Architecture|Part 1.0]]'s preservation bucket. It's neurogenesis and neuroprotection you can't buy in a bottle, plus it improves the cerebral blood flow every cognitive process runs on. The [[Part 1.0 - What Athleticism Actually Is|Athletic series]] is quietly a cognitive-enhancement series; this is why.
 
 ### 3. Hydration & fuel — the boring multipliers
 
