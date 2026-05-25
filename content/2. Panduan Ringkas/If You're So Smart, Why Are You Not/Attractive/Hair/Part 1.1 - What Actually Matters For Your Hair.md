@@ -1,8 +1,8 @@
 ---
-title: "Untitled"
-draft: true
-tags: 
-date: "2026-05-21"
+title: Part 1.1 - What Actually Matters For Your Hair
+draft: false
+tags:
+date: 2026-05-21
 ---
 > [!abstract] This is **Part 1 of 3** in the Hair Series. The full path:
 > 

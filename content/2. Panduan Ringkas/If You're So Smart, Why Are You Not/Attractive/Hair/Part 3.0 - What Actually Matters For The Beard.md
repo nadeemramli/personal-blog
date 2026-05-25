@@ -1,8 +1,8 @@
 ---
-title: "Part 3 - Beard"
-draft: true
-tags: 
-date: "2026-05-24"
+title: Part 3.0 - What Actually Matters For The Beard
+draft: false
+tags:
+date: 2026-05-24
 ---
 > [!abstract] This is **Part 1 (and only part)** of the Beard Series — a companion to the [[Part 1.1 - What Actually Matters For Your Hair|Hair Series]].
 > 

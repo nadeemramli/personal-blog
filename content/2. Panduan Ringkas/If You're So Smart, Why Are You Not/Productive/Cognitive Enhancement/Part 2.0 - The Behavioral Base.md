@@ -26,7 +26,7 @@ date: 2026-05-25
 - [Why this is the most important article in the series](#why-this-is-the-most-important-article-in-the-series)
 - [The dopamine economy you actually live in](#the-dopamine-economy-you-actually-live-in)
 - [The reset: a three-step protocol](#the-reset-a-three-step-protocol)
-- [The four hardware inputs no compound replaces](#the-four-hardware-inputs-no-compound-replaces)
+- [The five dietary and hardware inputs no compound replaces](#the-five-dietary-and-hardware-inputs-no-compound-replaces)
 - [Habit-stamping: using dopamine to wire the behaviour](#habit-stamping-using-dopamine-to-wire-the-behaviour)
 - [The gate: what "dialed in" actually means](#the-gate-what-dialed-in-actually-means)
 - [Part 2 Takeaways](#part-2-takeaways)

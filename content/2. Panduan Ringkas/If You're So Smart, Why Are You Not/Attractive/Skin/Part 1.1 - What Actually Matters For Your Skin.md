@@ -1,10 +1,10 @@
 ---
-title: "Part 1.1 — What Actually Matters For Your Skin"
-draft: true
+title: Part 1.1 — What Actually Matters For Your Skin
+draft: false
 tags:
   - skin
   - appearance
-date: "2026-05-25"
+date: 2026-05-25
 ---
 
 > [!abstract] This is the entry point of the **Skin series** (4 articles). The full path:

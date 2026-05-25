@@ -1,10 +1,10 @@
 ---
-title: "Part 3.0 — Body, Neck and Hands"
-draft: true
+title: Part 3.0 — Body, Neck and Hands
+draft: false
 tags:
   - skin
   - appearance
-date: "2026-05-25"
+date: 2026-05-25
 ---
 
 > [!abstract] This is **Part 3.0** in the **Skin series**. The full path:

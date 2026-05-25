@@ -1,11 +1,11 @@
 ---
-title: "Part 2.1 — The Internal Stack and the Procedures"
-draft: true
+title: Part 2.1 — The Internal Stack and the Procedures
+draft: false
 tags:
   - skin
   - appearance
   - performance-enhancement
-date: "2026-05-25"
+date: 2026-05-25
 ---
 
 > [!abstract] This is **Part 2.1** in the **Skin series**. The full path:

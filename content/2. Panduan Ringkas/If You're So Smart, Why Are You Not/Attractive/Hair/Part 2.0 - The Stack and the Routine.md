@@ -1,8 +1,8 @@
 ---
-title: "Part 2.0 - The Stack and the Routine"
-draft: true
-tags: 
-date: "2026-05-21"
+title: Part 2.0 - The Stack and the Routine
+draft: false
+tags:
+date: 2026-05-21
 ---
 > [!abstract] This is **Part 3 of 3** in the Hair Series. The full path:
 > 

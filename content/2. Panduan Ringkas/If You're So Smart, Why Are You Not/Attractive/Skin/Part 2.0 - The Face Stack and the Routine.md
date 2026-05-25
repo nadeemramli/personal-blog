@@ -1,10 +1,10 @@
 ---
-title: "Part 2.0 — The Face Stack and the Routine"
-draft: true
+title: Part 2.0 — The Face Stack and the Routine
+draft: false
 tags:
   - skin
   - appearance
-date: "2026-05-25"
+date: 2026-05-25
 ---
 
 > [!abstract] This is **Part 2.0** in the **Skin series**. The full path:

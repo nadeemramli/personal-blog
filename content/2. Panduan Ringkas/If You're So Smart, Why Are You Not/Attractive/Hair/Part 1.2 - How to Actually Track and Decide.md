@@ -1,8 +1,8 @@
 ---
-title: "Untitled 1"
-draft: true
-tags: 
-date: "2026-05-21"
+title: Part 1.2 - How to Actually Track and Decide
+draft: false
+tags:
+date: 2026-05-21
 ---
 > [!abstract] This is **Part 2 of 3** in the Hair Series. The full path:
 > 
