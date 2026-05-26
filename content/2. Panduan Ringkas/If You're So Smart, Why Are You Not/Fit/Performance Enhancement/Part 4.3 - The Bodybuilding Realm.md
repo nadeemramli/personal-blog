@@ -19,12 +19,13 @@ date: 2026-05-25
 > 	- **Part 3.0:** [[Part 3.0 - The Eight Anabolic Pathways|The Eight Anabolic Pathways]] — the multi-pathway, moderate approach
 > 	- **Part 3.1:** [[Part 3.1 - The Anabolic Steroid Family Tree|The Anabolic Steroid Family Tree]] — compound families & characteristics
 > 	- **Part 3.2:** [[Part 3.2 - Cycle Design|Cycle Design]] — the enhanced-longevity year
-> - **Part 4 — Protection & the toolbox (5 sub-articles):**
+> - **Part 4 — Protection & the toolbox (6 sub-articles):**
 > 	- **Part 4.0:** [[Part 4.0 - Protection|Protection]] — staying alive and intact
 > 	- **Part 4.1:** [[Part 4.1 - When the Numbers Move|When the Numbers Move]] — the diagnostic playbook
 > 	- **Part 4.2:** [[Part 4.2 - Choosing Your Ancillaries|Choosing Your Ancillaries]] — within-family selection & dosing
 > 	- **Part 4.3 (this article):** [[Part 4.3 - The Bodybuilding Realm|The Bodybuilding Realm]] — performance & aesthetic compounds
 > 	- **Part 4.4:** [[Part 4.4 - Electrolyte Management|Electrolyte Management]] — water & the mineral balance
+> 	- **Part 4.5:** [[Part 4.5 - Coming Off and PCT|Coming Off & PCT]] — restoring the HPTA & fertility
 > - **Part 5 — Putting it all together (2 sub-articles):**
 > 	- **Part 5.0:** [[Part 5.0 - Putting It All Together|Putting It All Together]] — the worked 3-year example
 > 	- **Part 5.1:** [[Part 5.1 - Cost|Cost]] — budgeting & stock planning
@@ -218,6 +219,4 @@ And the **indirect strength** angle — none of these are anabolics, but three r
 
 [^4]: MK-677 (ibutamoren) as an oral ghrelin-receptor agonist raising GH/IGF-1, with intracellular water/glycogen-driven fullness, improved slow-wave sleep, and appetite stimulation/water-retention trade-offs. See GH-secretagogue literature and the [[Part 4.0 - Pharmacology|Fit series]] overview.
 
-[^5]: T3 (liothyronine) vs T4 (levothyroxine): T3 is the active hormone used for aggressive fat loss with greater catabolic/cardiac risk; T4 is the conversion pro-hormone used for thyroid protection on GH ([[Part 4.2 - Choosing Your Ancillaries|Part 4.2]]). Both require FT3/FT4 monitoring.
-
-[^6]: Tadalafil (PDE5 inhibitor) for vasodilation, pumps, vascularity, and endothelial benefit — the performance face of the agent whose protective/BP role is covered in [[Part 4.0 - Protection|Part 4.0]] and [[Part 4.2 - Choosing Your Ancillaries|Part 4.2]]. Melanotan-2 (melanocortin agonist) for pigmentation, with nausea and naevi/melanoma caution noted in dermatological literature.
+[^5]: T3 (liothyronine) vs T4 (levothyroxine): T3 is the active hormone used for aggressive fat loss with greater catabolic/cardiac risk; T4 is

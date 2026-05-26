@@ -19,12 +19,13 @@ date: 2026-05-25
 > 	- **Part 3.0:** [[Part 3.0 - The Eight Anabolic Pathways|The Eight Anabolic Pathways]] — the multi-pathway, moderate approach
 > 	- **Part 3.1:** [[Part 3.1 - The Anabolic Steroid Family Tree|The Anabolic Steroid Family Tree]] — compound families & characteristics
 > 	- **Part 3.2:** [[Part 3.2 - Cycle Design|Cycle Design]] — the enhanced-longevity year
-> - **Part 4 — Protection & the toolbox (5 sub-articles):**
+> - **Part 4 — Protection & the toolbox (6 sub-articles):**
 > 	- **Part 4.0:** [[Part 4.0 - Protection|Protection]] — staying alive and intact
 > 	- **Part 4.1:** [[Part 4.1 - When the Numbers Move|When the Numbers Move]] — the diagnostic playbook
 > 	- **Part 4.2:** [[Part 4.2 - Choosing Your Ancillaries|Choosing Your Ancillaries]] — within-family selection & dosing
 > 	- **Part 4.3:** [[Part 4.3 - The Bodybuilding Realm|The Bodybuilding Realm]] — performance & aesthetic compounds
 > 	- **Part 4.4:** [[Part 4.4 - Electrolyte Management|Electrolyte Management]] — water & the mineral balance
+> 	- **Part 4.5:** [[Part 4.5 - Coming Off and PCT|Coming Off & PCT]] — restoring the HPTA & fertility
 > - **Part 5 — Putting it all together (2 sub-articles):**
 > 	- **Part 5.0:** [[Part 5.0 - Putting It All Together|Putting It All Together]] — the worked 3-year example
 > 	- **Part 5.1:** [[Part 5.1 - Cost|Cost]] — budgeting & stock planning
@@ -263,15 +264,4 @@ You don't necessarily need a sympathetic doctor to order a comprehensive panel �
 ---
 
 > [!danger] Disclaimer
-> This article is for harm reduction and education, not medical advice. Lab interpretation requires a qualified physician — reference ranges, assay types, and clinical significance vary, and a single number out of range can mean very different things in context. The compounds referenced are prescription-only or illegal without a prescription in most jurisdictions, including Malaysia. Do not self-diagnose or self-treat based on this article.
-
----
-## Sources & references
-
-[^1]: Vigorous Steve, "Medical Screening Required Before Your First Cycle" — the source of the full baseline marker list, the hydration-before-draw guidance, the cancer-marker organ map and screening frequency, the pituitary-adenoma caveat, and the semen-analysis/freezing recommendation. [vigoroussteve.com](https://vigoroussteve.com/medical-screening-required-before-your-first-cycle/). See also his companion article "When Are You Ready for Your First Cycle?" and "Coach Steve's Year-Round Supplement Stack."
-
-[^2]: On creatinine overestimating renal impairment in muscular individuals and cystatin-C as a muscle-mass-independent alternative: see review literature on cystatin-C-based eGFR in athletes and high-muscle-mass populations.
-
-[^3]: On AST/ALT being released by skeletal muscle and inflated by resistance training, with GGT as a more liver-specific marker: Pettersson et al. (2008), "Muscular exercise can cause highly pathological liver function tests in healthy men," *British Journal of Clinical Pharmacology*.
-
-[^4]: Androgen-induced erythrocytosis and hematocrit management (therapeutic phlebotomy threshold): see endocrine and TRT-monitoring guidance recommending action as hematocrit approaches ~52–54%. Discussed further in [[Part 4.0 - Protection|Part 4]].
+> This article is for harm reduction and education, not medical advice. Lab interpretation requires a qualified physician — reference ranges, assay types, and clinical si

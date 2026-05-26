@@ -20,12 +20,13 @@ date: 2026-05-25
 > 	- **Part 3.0:** [[Part 3.0 - The Eight Anabolic Pathways|The Eight Anabolic Pathways]] — the multi-pathway, moderate approach
 > 	- **Part 3.1:** [[Part 3.1 - The Anabolic Steroid Family Tree|The Anabolic Steroid Family Tree]] — compound families & characteristics
 > 	- **Part 3.2:** [[Part 3.2 - Cycle Design|Cycle Design]] — the enhanced-longevity year
-> - **Part 4 — Protection & the toolbox (5 sub-articles):**
+> - **Part 4 — Protection & the toolbox (6 sub-articles):**
 > 	- **Part 4.0:** [[Part 4.0 - Protection|Protection]] — staying alive and intact
 > 	- **Part 4.1 (this article):** [[Part 4.1 - When the Numbers Move|When the Numbers Move]] — the diagnostic playbook
 > 	- **Part 4.2:** [[Part 4.2 - Choosing Your Ancillaries|Choosing Your Ancillaries]] — within-family selection & dosing
 > 	- **Part 4.3:** [[Part 4.3 - The Bodybuilding Realm|The Bodybuilding Realm]] — performance & aesthetic compounds
 > 	- **Part 4.4:** [[Part 4.4 - Electrolyte Management|Electrolyte Management]] — water & the mineral balance
+> 	- **Part 4.5:** [[Part 4.5 - Coming Off and PCT|Coming Off & PCT]] — restoring the HPTA & fertility
 > - **Part 5 — Putting it all together (2 sub-articles):**
 > 	- **Part 5.0:** [[Part 5.0 - Putting It All Together|Putting It All Together]] — the worked 3-year example
 > 	- **Part 5.1:** [[Part 5.1 - Cost|Cost]] — budgeting & stock planning
@@ -278,6 +279,4 @@ The athletes who last aren't the ones who out-medicate their bloodwork. They're 
 
 [^2]: Resting heart rate and heart-rate variability as proxies for cardiovascular and recovery status, and their use as early-warning trends: see the HRV/training-load literature and the device documentation discussed in [[Part 2.1 - Continuous Monitoring|Part 2.1]]. Optical-sensor data is best used as an individual trend, confirmed with calibrated devices and bloodwork.
 
-[^3]: Marker-specific interpretation (sensitive estradiol assay; prolactin and 19-nors; SHBG as an active carrier; cystatin-C vs. creatinine in muscular individuals; GGT vs. exercise-elevated AST/ALT; thyroid triad and GH-accelerated T4→T3): cross-referenced from [[Part 2.0 - Medical Screening and Monitoring|Part 2.0]], [[Part 3.0 - The Eight Anabolic Pathways|Part 3.0]], and their primary sources (incl. Pettersson et al. 2008 on exercise and liver enzymes).
-
-[^4]: Intervention agents by family (statins/HMG-CoA, ezetimibe/NPC1L1, SGLT2 inhibitors, PDE5 inhibitors/tadalafil, low-dose aspirin, telmisartan, Cardarine/PPARδ) and the therapeutic-phlebotomy threshold for erythrocytosis: fully cited in [[Part 4.0 - Protection|Part 4.0]] and consistent with the harm-reduction monitoring framework of Vigorous Steve's [medical screening](https://vigoroussteve.com/medical-screening-required-before-your-first-cycle/) and [monitoring-devices](https://vigoroussteve.com/essential-health-monitoring-devices/) articles.
+[^3]: Marker-specific interpretation (sensitive estradiol assay; prolactin and 19-nors; SHBG as an active carrier; cystatin-C vs. creatinine in muscular individuals; GGT vs. exercise-elevated AST/ALT; thyroid triad and GH-accelerated T4→T3): cross-referenced from [[Part 2.0 - Medical Screening

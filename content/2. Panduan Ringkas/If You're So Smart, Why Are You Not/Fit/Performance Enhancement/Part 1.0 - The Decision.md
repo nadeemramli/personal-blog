@@ -18,12 +18,13 @@ date: 2026-05-25
 > 	- **Part 3.0:** [[Part 3.0 - The Eight Anabolic Pathways|The Eight Anabolic Pathways]] — the multi-pathway, moderate approach
 > 	- **Part 3.1:** [[Part 3.1 - The Anabolic Steroid Family Tree|The Anabolic Steroid Family Tree]] — compound families & characteristics
 > 	- **Part 3.2:** [[Part 3.2 - Cycle Design|Cycle Design]] — the enhanced-longevity year
-> - **Part 4 — Protection & the toolbox (5 sub-articles):**
+> - **Part 4 — Protection & the toolbox (6 sub-articles):**
 > 	- **Part 4.0:** [[Part 4.0 - Protection|Protection]] — staying alive and intact
 > 	- **Part 4.1:** [[Part 4.1 - When the Numbers Move|When the Numbers Move]] — the diagnostic playbook
 > 	- **Part 4.2:** [[Part 4.2 - Choosing Your Ancillaries|Choosing Your Ancillaries]] — within-family selection & dosing
 > 	- **Part 4.3:** [[Part 4.3 - The Bodybuilding Realm|The Bodybuilding Realm]] — performance & aesthetic compounds
 > 	- **Part 4.4:** [[Part 4.4 - Electrolyte Management|Electrolyte Management]] — water & the mineral balance
+> 	- **Part 4.5:** [[Part 4.5 - Coming Off and PCT|Coming Off & PCT]] — restoring the HPTA & fertility
 > - **Part 5 — Putting it all together (2 sub-articles):**
 > 	- **Part 5.0:** [[Part 5.0 - Putting It All Together|Putting It All Together]] — the worked 3-year example
 > 	- **Part 5.1:** [[Part 5.1 - Cost|Cost]] — budgeting & stock planning
@@ -210,40 +211,4 @@ None of this is meant to scare you out of a decision you've already made. It's m
 
 > [!check] Key concepts to internalize
 > 
-> - **This is Tier 3.** It continues the Natty / Half-Natty tiers from [[Part 4.0 - Pharmacology|Part 4]] into full hormonal enhancement. It is harm reduction for people who've already decided — not encouragement.
-> - **Enhancement trades Healthy for Fit.** Every other tool improved both; this one spends biomarkers to buy performance. The whole game is minimizing that trade.
-> - **The 90/10 rule scales up.** The Work is still 90%. Drugs are a bigger margin, but still a margin on top of excellent training and diet.
-> - **You only have so many blasts.** Finite organs, finite follicles. Don't start until you can use a cycle well, and never waste one — muscle-memory makes early gains permanent and wasted cycles a permanent loss.
-> - **Two dashboards now.** Fit KPIs *and* health markers. Enhanced athletes track more, not less.
-> - **Readiness is competence, not age.** Near your natural ceiling, genuine understanding of all three disciplines, acceptance of a possible lifetime commitment, a clean measured baseline, and an honest "why."
-
-## Your Readiness Task List
-
-Before you even think about [[Part 2.0 - Medical Screening and Monitoring|Part 2]], answer these honestly. Write the answers down — vague mental answers are how people talk themselves into being "ready."
-
-1. **Calculate your current FFMI** (from [[Part 1.1 - What Actually Matters|Part 1.1]]). Are you genuinely in the 23–25 band, or are you rounding up?
-2. **Log your honest strength standards** against the advanced column of the [[Part 1.1 - What Actually Matters|Part 1.1]] tables. Are you advanced, or intermediate telling yourself a story?
-3. **Audit your last 12 months.** Was your training consistent and progressive, and your diet actually dialed in — or are there obvious gaps a natural protocol would still fix?
-4. **Write your "why"** in one sentence, and then write the worst realistic outcome you'd accept in exchange.
-5. **Decide the TRT question** *before* you start, not after: are you prepared for the possibility of lifelong hormone replacement?
-6. **Book the baseline.** If you clear the gate, the next action is comprehensive bloodwork — covered in full in [[Part 2.0 - Medical Screening and Monitoring|Part 2]].
-
----
-
-> [!danger] Disclaimer
-> This article discusses anabolic-androgenic steroids and other performance-enhancing drugs that are prescription-only or illegal to possess without a prescription in most jurisdictions (including Malaysia), and that carry serious, sometimes permanent, health risks. Nothing here is medical advice, a prescription, or an endorsement of illegal drug use.
->
-> Everything is shared for **harm reduction and transparency** — on the principle that people who have already decided to do this are safer with accurate information than without it. Anyone considering this path must work with a qualified physician, pull comprehensive bloodwork, and understand the long-term risk profile of what they are putting in their body.
-
----
-## Sources & references
-
-[^1]: Myonuclei retention and "muscle memory": Egner et al. (2013) demonstrated myonuclei are retained after detraining in a mouse model, and Seaborne et al. (2018) showed an epigenetic basis for human muscle memory. Overview at [PubMed — Egner et al., "A cellular memory mechanism aids overload hypertrophy"](https://pubmed.ncbi.nlm.nih.gov/23878368/) and Seaborne et al., *Scientific Reports* 2018, "Human Skeletal Muscle Possesses an Epigenetic Memory of Hypertrophy."
-
-[^2]: Derek (More Plates More Dates), "My Number 1 Piece Of Advice If You Are Going To Use Steroids" — the source of the "you only have so many blasts in the tank" framing, the finite-organs/finite-follicles argument, the 2–3 year natural-potential estimate, and the regret over wasted early high-dose cycles. Article + embedded video at [moreplatesmoredates.com](https://moreplatesmoredates.com/my-number-one-piece-of-advice-if-you-are-going-to-use-steroids/) (video: [youtube.com/watch?v=FGLeADS_B7w](https://www.youtube.com/watch?v=FGLeADS_B7w)).
-
-[^3]: HPTA suppression from exogenous androgens: exogenous testosterone suppresses LH and FSH via negative feedback, shutting down endogenous production; recovery time varies and is not guaranteed after prolonged or high-dose use. See review literature on anabolic-steroid-induced hypogonadism (e.g., Rahnema et al., 2014, *Fertility and Sterility*).
-
-[^4]: Cardiovascular consequences of long-term AAS use: associated with adverse lipid changes, hypertension, erythrocytosis, and cardiac remodeling (left ventricular hypertrophy and diastolic dysfunction). See Baggish et al. (2017), *Circulation*, "Cardiovascular Toxicity of Illicit Anabolic-Androgenic Steroid Use." Discussed in depth in [[Part 4.0 - Protection|Part 4]].
-
-[^5]: Vigorous Steve, "When Are You Ready for Your First Cycle?" — the source of the behavioural prerequisites (cook all meals/never miss one, progressive overload to the point of pre-workout anxiety, scheduling deloads, naturally declining testosterone despite full optimisation, body fat below ~12% to limit aromatase, the "100 kg bodybuilder asks your cycle" heuristic) and the pre-flight checklist framed as a consent form (lifetime commitment + at least one PCT, financial/legal readiness, all markers in range first, full cycle + PCT in stock, verified-quality compounds, side-effect mastery, anger control, "renting" the physique, and becoming your own endocrinologist/cardiologist/nephrologist/hematologist/hepatologist). [vigoroussteve.com](https://vigoroussteve.com/when-are-you-ready-for-your-first-cycle/).
+> - **This is Tier 3.** It continues the Natty / Half-Natty tiers from [[Part 4.0 - Pharmacology|Part 4]] into full hormonal enhancement. It is harm reduction for people wh

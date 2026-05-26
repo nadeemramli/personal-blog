@@ -20,12 +20,13 @@ date: 2026-05-25
 > 	- **Part 3.0:** [[Part 3.0 - The Eight Anabolic Pathways|The Eight Anabolic Pathways]] — the multi-pathway, moderate approach
 > 	- **Part 3.1:** [[Part 3.1 - The Anabolic Steroid Family Tree|The Anabolic Steroid Family Tree]] — compound families & characteristics
 > 	- **Part 3.2:** [[Part 3.2 - Cycle Design|Cycle Design]] — the enhanced-longevity year
-> - **Part 4 — Protection & the toolbox (5 sub-articles):**
+> - **Part 4 — Protection & the toolbox (6 sub-articles):**
 > 	- **Part 4.0:** [[Part 4.0 - Protection|Protection]] — staying alive and intact
 > 	- **Part 4.1:** [[Part 4.1 - When the Numbers Move|When the Numbers Move]] — the diagnostic playbook
 > 	- **Part 4.2:** [[Part 4.2 - Choosing Your Ancillaries|Choosing Your Ancillaries]] — within-family selection & dosing
 > 	- **Part 4.3:** [[Part 4.3 - The Bodybuilding Realm|The Bodybuilding Realm]] — performance & aesthetic compounds
 > 	- **Part 4.4:** [[Part 4.4 - Electrolyte Management|Electrolyte Management]] — water & the mineral balance
+> 	- **Part 4.5:** [[Part 4.5 - Coming Off and PCT|Coming Off & PCT]] — restoring the HPTA & fertility
 > - **Part 5 — Putting it all together (2 sub-articles):**
 > 	- **Part 5.0:** [[Part 5.0 - Putting It All Together|Putting It All Together]] — the worked 3-year example
 > 	- **Part 5.1:** [[Part 5.1 - Cost|Cost]] — budgeting & stock planning
@@ -233,8 +234,4 @@ When a number moves the wrong way, work down this ladder — it's Steve's "fix t
 
 [^2]: Blood pressure categories per the American Heart Association (Normal / Elevated / Stage 1 / Stage 2 / Hypertensive Crisis), as summarised in Steve's devices article and the AHA's published guidance.
 
-[^3]: Whoop tracked metrics — continuous resting heart rate, heart-rate variability, respiratory rate, skin temperature, blood oxygen, sleep staging, and the daily Strain/Recovery scores — per Whoop's published feature documentation. Optical-sensor data is best used for individual trends rather than absolute clinical values.
-
-[^4]: Apple Watch health features — resting heart rate, HRV (SDNN), single-lead ECG and irregular-rhythm notifications, blood oxygen, sleep tracking, and the Cardio Fitness (VO₂max estimate) metric — per Apple's published documentation. The watch does not measure cuff blood pressure; the Apple Health app aggregates blood-pressure data from connected/manually-entered devices. The single-lead ECG flags possible atrial fibrillation but is not a substitute for a clinical 12-lead ECG.
-
-[^5]: On the link between androgen use, erythrocytosis (rising hematocrit), elevated resting heart rate / reduced HRV, and cardiovascular strain — and arrhythmia/atrial-fibrillation risk with long-term AAS use: see Baggish et al. (2017), *Circulation*, "Cardiovascular Toxicity of Illicit Anabolic-Androgenic Steroid Use." Mechanisms and responses are detailed in [[Part 4.0 - Protection|Part 4]] and [[Part 4.1 - When the Numbers Move|Part 4.1]].
+[^3]: Whoop tracked metrics — continuous resting heart rate, heart-rate variability, respiratory rate, skin temperature, blood oxygen, sleep staging, and the daily Strain/Recovery scores — per Whoop's published feature documentation. Optical-sensor data is best use

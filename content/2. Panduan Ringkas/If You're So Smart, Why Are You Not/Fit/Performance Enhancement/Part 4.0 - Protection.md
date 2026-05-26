@@ -19,12 +19,13 @@ date: 2026-05-25
 > 	- **Part 3.0:** [[Part 3.0 - The Eight Anabolic Pathways|The Eight Anabolic Pathways]] — the multi-pathway, moderate approach
 > 	- **Part 3.1:** [[Part 3.1 - The Anabolic Steroid Family Tree|The Anabolic Steroid Family Tree]] — compound families & characteristics
 > 	- **Part 3.2:** [[Part 3.2 - Cycle Design|Cycle Design]] — the enhanced-longevity year
-> - **Part 4 — Protection & the toolbox (5 sub-articles):**
+> - **Part 4 — Protection & the toolbox (6 sub-articles):**
 > 	- **Part 4.0 (this article):** [[Part 4.0 - Protection|Protection]] — staying alive and intact
 > 	- **Part 4.1:** [[Part 4.1 - When the Numbers Move|When the Numbers Move]] — the diagnostic playbook
 > 	- **Part 4.2:** [[Part 4.2 - Choosing Your Ancillaries|Choosing Your Ancillaries]] — within-family selection & dosing
 > 	- **Part 4.3:** [[Part 4.3 - The Bodybuilding Realm|The Bodybuilding Realm]] — performance & aesthetic compounds
 > 	- **Part 4.4:** [[Part 4.4 - Electrolyte Management|Electrolyte Management]] — water & the mineral balance
+> 	- **Part 4.5:** [[Part 4.5 - Coming Off and PCT|Coming Off & PCT]] — restoring the HPTA & fertility
 > - **Part 5 — Putting it all together (2 sub-articles):**
 > 	- **Part 5.0:** [[Part 5.0 - Putting It All Together|Putting It All Together]] — the worked 3-year example
 > 	- **Part 5.1:** [[Part 5.1 - Cost|Cost]] — budgeting & stock planning
@@ -209,120 +210,4 @@ The foundational moves come first, always: lower dose, fewer orals, manage estro
 **Blood-flow and pressure defense:**
 
 - **PDE5 inhibitors — Tadalafil** is the multi-effect champion. Daily low-dose tadalafil vasodilates, which **lowers blood pressure, improves blood flow and training pumps, supports erectile function and endothelial health,** and eases BPH symptoms. One drug, several protective jobs — the prototype "super ancillary," and its long half-life makes it the daily-use PDE5 of choice.[^11]
-- **Telmisartan** (your [[#blood-pressure|BP]] ARB) is itself double-duty — a partial PPAR-γ agonist that also nudges insulin sensitivity and lipids. **Nebivolol** is a beta-blocker that additionally raises nitric oxide.
-
-**Clot defense:**
-
-- **Aspirin, micro-dosed (~81 mg).** It irreversibly inhibits COX-1, blocking thromboxane A2 and reducing platelet aggregation — a direct counter to the clot risk of [[#hematocrit-and-blood-viscosity|high hematocrit]]. Cheap and effective, but it **raises bleeding risk** and isn't for everyone — a physician decision, not a default.[^12]
-
-**Fat-loss + lipid two-fer:**
-
-- **Cardarine (GW-501516, a PPARδ agonist).** It shifts metabolism toward fatty-acid oxidation (fat loss, endurance) *and* — unusually for a performance compound — **raises HDL while lowering LDL and triglycerides**, actively helping the lipid panel rather than hurting it.[^13] The serious caveat from the [[Part 4.0 - Pharmacology|Fit series]] stands: rodent studies at very high doses showed cancer, so it's not a casual compound.
-
-> [!important] What makes something a "super ancillary"
-> Tadalafil, telmisartan, low-dose aspirin, an SGLT2 inhibitor, and (with caveats) Cardarine each defend **more than one front at once** — which is why they earn their place in a lean protection stack instead of a pile of single-purpose pills. But every one is a real drug with real downside. ==They are layered *on top of* the foundational moves, never instead of them,== and never added without a physician and [[Part 2.0 - Medical Screening and Monitoring|bloodwork]] confirming you actually need them. Which *member* of each family fits you — hydrophilic vs. lipophilic statin, which ARB, which glucose agent — is the subject of [[Part 4.2 - Choosing Your Ancillaries|Part 4.2]].
-
----
-## The protection stack and monitoring schedule
-
-A consolidated view. Match each protective measure to the [[Part 2.0 - Medical Screening and Monitoring|marker that tells you it's working]].
-
-| Risk | Protective measures | Marker / check |
-|---|---|---|
-| **Lipids** | Minimize orals, manage E2, omega-3, citrus bergamot, cardio; **+ statin / ezetimibe (Rx)** if refractory; Cardarine helps the panel | HDL, LDL, **ApoB**, triglycerides |
-| **Blood pressure** | Home monitoring, telmisartan/nebivolol (Rx), **tadalafil (Rx)**, sodium/potassium, cardio | BP log, target <130/80 |
-| **Hematocrit** | Blood donation/phlebotomy, hydration; **low-dose aspirin** only with MD | Hematocrit, hemoglobin (~52–54% threshold) |
-| **Heart muscle** | Limit dose/duration, control BP, zone-2 cardio | Echocardiogram / ECG periodically |
-| **Liver** | Limit orals, TUDCA, NAC, no alcohol | **GGT**, bilirubin (not AST/ALT alone) |
-| **Kidney** | BP control, hydration | **Cystatin-C** / eGFR |
-| **Estrogen** | Injection frequency; AI only as needed | Estradiol (E2) |
-| **Gyno** | Raloxifene/tamoxifen early | Physical exam |
-| **Prolactin** | P5P, vitamin E; cabergoline (Rx) for 19-nors | Prolactin |
-| **Fertility / HPTA** | HCG on cycle; SERM-based PCT; decide TRT model | LH, FSH, total/free testosterone, semen analysis |
-| **Hair** | Avoid DHT-heavy compounds; finasteride/topicals/minoxidil/Nizoral | Visual tracking |
-| **Glucose** | Manage GH/insulin use, diet, berberine; **+ SGLT2 inhibitor / metformin (Rx)** if needed | Fasting glucose, **HbA1c** |
-
-Tie this to the [[Part 2.0 - Medical Screening and Monitoring|checkpoint schedule]]: baseline → mid-cycle (~week 4–6) → end of cycle → post-PCT, with home BP/HR/weight running continuously throughout.
-
----
-## The longevity philosophy
-
-Everything in this series converges on one idea, and it's worth stating plainly:
-
-> [!important] The goal is to still be training at 60
-> The most impressive enhanced athletes over a lifetime are not the ones who ran the most or the highest. They're the ones who used the **lowest effective dose**, spread it across [[Part 3.0 - The Eight Anabolic Pathways|multiple pathways]], took real time off, [[Part 2.0 - Medical Screening and Monitoring|monitored relentlessly]], and protected their health aggressively. ==You only have so many blasts — protection is what determines how many, and how good each one is.==
-
-Derek's regret was wasting his blasts on cycles where he didn't know what he was doing. The mirror image is the win condition: know what you're doing, use the least that works, defend every marker, and you get more good years out of a finite resource than the person body-slamming a gram of test ever will.
-
----
-## The series in one page
-
-> [!note] Performance Enhancement Series — recap
-> - **[[Part 1.0 - The Decision|Part 1 — The Decision]]:** This is Tier 3. It trades Healthy for Fit. You only have so many blasts — don't start until you can use them well, and never waste one.
-> - **[[Part 2.0 - Medical Screening and Monitoring|Part 2 — Screening & Monitoring]]:** Measure before you manipulate. Full baseline panel, cancer markers before GH/IGF-1, fertility baseline, and continuous monitoring.
-> - **[[Part 3.0 - The Eight Anabolic Pathways|Part 3 — The Eight Pathways]]:** Breadth beats depth. Eight moderate levers — each +5–10% — beat one abused compound, for more muscle at less cost.
-> - **[[Part 4.0 - Protection|Part 4 — Protection]]:** Defend the cardiovascular system first, then liver, kidneys, hormones, fertility, and hair. The lowest effective dose, watched closely, is the real longevity strategy.
-> - **[[Part 4.1 - When the Numbers Move|Part 4.1 — When the Numbers Move]]:** The diagnostic playbook — when a marker drifts, the mechanism, the trajectory, and the response ladder, ending in the same rule: the number is the boss.
-> - **[[Part 4.2 - Choosing Your Ancillaries|Part 4.2 — Choosing Your Ancillaries]]:** Within-family selection — which statin, which ARB, which glucose agent — plus a dosing/cadence reference. The class does the job; the member decides the fit.
->
-> The point was never a copy-paste protocol. It's the reasoning — so a reader who has decided to do this can do it with eyes open, measured, and as intact as possible. ==Take whatever's useful. Ignore whatever isn't.== And if any of it makes you reconsider whether you're ready at all, [[Part 1.0 - The Decision|Part 1]] is right there.
-
----
-## Part 4 Takeaways
-
-> [!check] Key concepts to internalize
-> 
-> - **Protection extends your finite career.** Lower doses, more pathways, close monitoring — that *is* the core protection, before any ancillary.
-> - **Cardiovascular comes first.** Lipids (HDL/ApoB), blood pressure, and hematocrit are the markers most likely to flag what actually kills people. Donate blood; don't crash estrogen; keep doing cardio.
-> - **Know the mechanism.** AAS upregulate hepatic lipase (HDL craters, LDL turns small and dense) and drive sodium/water retention through the RAAS — the chain that turns a blood number into arterial plaque, and plaque into a heart attack even in a shredded lifter.
-> - **Super ancillaries pull double duty.** Statins + ezetimibe (cholesterol at two doors), SGLT2 inhibitors (glucose + BP + weight), tadalafil (BP + flow + erectile), low-dose aspirin (clots), Cardarine (fat + lipids) — layered *on top of* the basics, with a physician, never instead of them.
-> - **Orals are the liver problem.** Limit duration, support with TUDCA/NAC, read GGT not just AST/ALT.
-> - **Manage hormones, don't crush them.** Injection frequency over AIs; SERMs early for gyno; avoid heavy 19-nors and the prolactin/cabergoline spiral.
-> - **Decide your HPTA model up front.** HCG on cycle, SERM PCT to recover — or accept blast-and-cruise/TRT for life. Bank fertility first.
-> - **Hair is a finite resource too.** Your first hair defense is compound selection; finasteride and topicals are the second line, with real caveats.
-> - **The win condition is longevity.** Lowest effective dose, relentless monitoring, aggressive protection — still training at 60.
-
-## Your Protection Task List
-
-1. **Stand up the cardiovascular defense first:** home BP logging, omega-3 + citrus bergamot in the stack, cardio in the program, and a plan to donate blood when hematocrit climbs.
-2. **If running orals,** add TUDCA/NAC, set a hard duration limit, and put GGT on every checkpoint.
-3. **Write your HPTA plan** — HCG dosing on cycle, your PCT (or your decision to cruise), and whether you've accepted the TRT-for-life possibility.
-4. **Make the hair decision consciously** — which compounds you'll avoid, and which (if any) interventions you'll use, ideally with a dermatologist.
-5. **Build the protection-and-monitoring table into your spreadsheet** alongside the [[Part 2.0 - Medical Screening and Monitoring|Part 2 checkpoints]], so defense and measurement live in one place.
-6. **Find a physician** for the prescription-only protective agents (ARB/beta-blocker, statin/ezetimibe, SGLT2 inhibitor, tadalafil, SERMs, cabergoline, finasteride) — none of these belong in a self-directed protocol.
-7. **Escalate by marker, not by vanity.** If lipids or glucose won't normalize on lifestyle, supplements, and lower doses, that's the conversation to have with your doctor about a super ancillary — *and* a signal to reconsider the dose/compound driving it.
-8. **Re-read [[Part 1.0 - The Decision|Part 1]].** If protecting all of this sounds like more than you want to manage, that's a meaningful answer to the readiness question.
-
----
-
-> [!danger] Disclaimer
-> This article is harm-reduction education, not medical advice, and not an endorsement of illegal drug use. The performance-enhancing compounds discussed across this series are prescription-only or illegal to possess without a prescription in most jurisdictions, including Malaysia. Several **protective** agents named here — angiotensin-receptor blockers, beta-blockers, SERMs, aromatase inhibitors, cabergoline, finasteride/dutasteride, and anticoagulants — are themselves prescription medications with significant risks, contraindications, and interactions, and must only be used under the supervision of a qualified physician. Do not self-prescribe. If you are experiencing chest pain, severe headaches, vision changes, or other acute symptoms, seek emergency care.
-
----
-## Sources & references
-
-[^1]: Cardiovascular toxicity of long-term AAS use — adverse lipids, hypertension, erythrocytosis, and left ventricular hypertrophy/diastolic dysfunction: Baggish et al. (2017), *Circulation*, "Cardiovascular Toxicity of Illicit Anabolic-Androgenic Steroid Use." Derek (More Plates More Dates) makes the same cardiovascular-risk argument the centerpiece of [his number-one advice](https://moreplatesmoredates.com/my-number-one-piece-of-advice-if-you-are-going-to-use-steroids/).
-
-[^2]: Androgen-induced erythrocytosis and the use of therapeutic phlebotomy / blood donation as hematocrit rises toward ~52–54%: standard TRT/AAS monitoring guidance; see Vigorous Steve's [medical screening article](https://vigoroussteve.com/medical-screening-required-before-your-first-cycle/) on tracking hematocrit and the endocrine literature on erythrocytosis management.
-
-[^3]: Derek (More Plates More Dates), "My Number 1 Piece Of Advice If You Are Going To Use Steroids" — finite organs and ~100,000 follicles, hair loss and health crises as the usual reasons men are forced to stop, the psychological difficulty of stopping, and his own transition to maintaining his physique on ~100 mg/week of testosterone. [moreplatesmoredates.com](https://moreplatesmoredates.com/my-number-one-piece-of-advice-if-you-are-going-to-use-steroids/).
-
-[^4]: Finasteride/dutasteride mechanism (5-alpha-reductase inhibition) and the limitation that they do not act on steroids that are already DHT-derivatives; persistent side-effect reports in a minority of users (post-finasteride syndrome literature). See dermatology and endocrinology reviews of 5-ARIs for androgenetic alopecia.
-
-[^5]: Omega-3 and citrus bergamot for lipid support; TUDCA and NAC for hepatic support: see the supplement literature for each. Effects are supportive and modest — they reduce, not eliminate, the underlying compound risk. General supplement context also in [[Part 4.0 - Pharmacology|the Fit series' Pharmacology chapter]].
-
-[^6]: Hepatic lipase and AAS dyslipidemia: anabolic-androgenic steroids — especially oral 17α-alkylated agents — markedly upregulate hepatic lipase, accelerating catabolism of HDL (notably the HDL2 subfraction) and shifting LDL toward small, dense particles. See the lipoprotein-metabolism literature on androgens and hepatic lipase (e.g., Glazer 1991; Thompson et al. on stanozolol's HDL suppression via hepatic lipase).
-
-[^7]: The atherosclerotic cascade — ApoB/LDL retention in the artery wall → oxidation → macrophage foam cells → fibrous plaque → rupture → coronary thrombosis → myocardial infarction — and the causal centrality of ApoB-particle burden with impaired reverse cholesterol transport: standard cardiovascular pathophysiology; see Ference et al. (2017), the EAS consensus on LDL/ApoB causality in atherosclerotic cardiovascular disease.
-
-[^8]: Statins (HMG-CoA reductase inhibitors, e.g. rosuvastatin, atorvastatin) inhibit the rate-limiting enzyme of hepatic cholesterol synthesis, upregulating hepatic LDL receptors and lowering circulating LDL/ApoB. Standard pharmacology.
-
-[^9]: Ezetimibe inhibits the NPC1L1 sterol transporter at the intestinal brush border, reducing cholesterol absorption; additive LDL lowering and outcome benefit when added to a statin (Cannon et al., IMPROVE-IT, *NEJM* 2015).
-
-[^10]: SGLT2 inhibitors (e.g., empagliflozin, dapagliflozin) block renal proximal-tubule glucose reabsorption, lowering blood glucose, blood pressure, and body weight with demonstrated cardio-renal benefit (Zinman et al., EMPA-REG OUTCOME, *NEJM* 2015). Cautions include euglycemic ketoacidosis and genital mycotic infections.
-
-[^11]: Tadalafil (a PDE5 inhibitor): vasodilation lowers blood pressure and improves blood flow and erectile/endothelial function; its long half-life suits daily low-dose use, and it is also indicated for benign prostatic hyperplasia. See PDE5-inhibitor pharmacology reviews.
-
-[^12]: Low-dose aspirin irreversibly inhibits platelet COX-1, suppressing thromboxane A2 and platelet aggregation (antithrombotic effect relevant to androgen-induced erythrocytosis); bleeding risk requires individualized, physician-guided use. Standard pharmacology.
-
-[^13]: Cardarine (GW-501516), a PPARδ agonist: increases fatty-acid oxidation and endurance and improves the lipid panel (raising HDL, lowering LDL and triglycerides) in animal and early human data; high-dose rodent carcinogenicity findings warrant serious caution. See [[Part 4.0 - Pharmacology|the Fit series' Pharmacology chapter]] and the GW-501516 literature.
+- **Telmisartan** (your [[#blood-pressure|BP]] ARB) is itself double-duty — a partial PPAR-γ agonist that also nudges insulin sensitivity and lipids. **Nebivolol** is a beta-blocker that a

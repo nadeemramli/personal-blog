@@ -20,12 +20,13 @@ date: 2026-05-25
 > 	- **Part 3.0:** [[Part 3.0 - The Eight Anabolic Pathways|The Eight Anabolic Pathways]] — the multi-pathway, moderate approach
 > 	- **Part 3.1:** [[Part 3.1 - The Anabolic Steroid Family Tree|The Anabolic Steroid Family Tree]] — compound families & characteristics
 > 	- **Part 3.2:** [[Part 3.2 - Cycle Design|Cycle Design]] — the enhanced-longevity year
-> - **Part 4 — Protection & the toolbox (5 sub-articles):**
+> - **Part 4 — Protection & the toolbox (6 sub-articles):**
 > 	- **Part 4.0:** [[Part 4.0 - Protection|Protection]] — staying alive and intact
 > 	- **Part 4.1:** [[Part 4.1 - When the Numbers Move|When the Numbers Move]] — the diagnostic playbook
 > 	- **Part 4.2:** [[Part 4.2 - Choosing Your Ancillaries|Choosing Your Ancillaries]] — within-family selection & dosing
 > 	- **Part 4.3:** [[Part 4.3 - The Bodybuilding Realm|The Bodybuilding Realm]] — performance & aesthetic compounds
 > 	- **Part 4.4 (this article):** [[Part 4.4 - Electrolyte Management|Electrolyte Management]] — water & the mineral balance
+> 	- **Part 4.5:** [[Part 4.5 - Coming Off and PCT|Coming Off & PCT]] — restoring the HPTA & fertility
 > - **Part 5 — Putting it all together (2 sub-articles):**
 > 	- **Part 5.0:** [[Part 5.0 - Putting It All Together|Putting It All Together]] — the worked 3-year example
 > 	- **Part 5.1:** [[Part 5.1 - Cost|Cost]] — budgeting & stock planning
@@ -162,7 +163,7 @@ This is why electrolytes are the convergence point of the series — almost ever
 6. **Treat cramps, sudden water weight, or a BP creep as an electrolyte check first** ([[Part 4.1 - When the Numbers Move|Part 4.1]]), before any pharmaceutical.
 
 > [!note] Up next
-> That's the full protection toolbox — mechanisms ([[Part 4.0 - Protection|4.0]]), diagnostics ([[Part 4.1 - When the Numbers Move|4.1]]), ancillary selection ([[Part 4.2 - Choosing Your Ancillaries|4.2]]), the performance drawer ([[Part 4.3 - The Bodybuilding Realm|4.3]]), and now water/electrolytes. **Part 5** assembles everything into a [[Part 5.0 - Putting It All Together|worked example]] and the [[Part 5.1 - Cost|budgeting and stock plan]] that makes it sustainable.
+> Almost the full protection toolbox — mechanisms ([[Part 4.0 - Protection|4.0]]), diagnostics ([[Part 4.1 - When the Numbers Move|4.1]]), ancillary selection ([[Part 4.2 - Choosing Your Ancillaries|4.2]]), the performance drawer ([[Part 4.3 - The Bodybuilding Realm|4.3]]), and now water/electrolytes. One piece remains: getting *out*. **[[Part 4.5 - Coming Off and PCT|Part 4.5 — Coming Off & PCT]]** covers restoring your HPTA and fertility when you stop. Then **Part 5** assembles everything into a [[Part 5.0 - Putting It All Together|worked example]] and the [[Part 5.1 - Cost|budgeting and stock plan]] that makes it sustainable.
 
 ---
 

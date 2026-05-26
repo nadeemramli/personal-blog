@@ -19,12 +19,13 @@ date: 2026-05-25
 > 	- **Part 3.0:** [[Part 3.0 - The Eight Anabolic Pathways|The Eight Anabolic Pathways]] — the multi-pathway, moderate approach
 > 	- **Part 3.1 (this article):** [[Part 3.1 - The Anabolic Steroid Family Tree|The Anabolic Steroid Family Tree]] — compound families & characteristics
 > 	- **Part 3.2:** [[Part 3.2 - Cycle Design|Cycle Design]] — the enhanced-longevity year
-> - **Part 4 — Protection & the toolbox (5 sub-articles):**
+> - **Part 4 — Protection & the toolbox (6 sub-articles):**
 > 	- **Part 4.0:** [[Part 4.0 - Protection|Protection]] — staying alive and intact
 > 	- **Part 4.1:** [[Part 4.1 - When the Numbers Move|When the Numbers Move]] — the diagnostic playbook
 > 	- **Part 4.2:** [[Part 4.2 - Choosing Your Ancillaries|Choosing Your Ancillaries]] — within-family selection & dosing
 > 	- **Part 4.3:** [[Part 4.3 - The Bodybuilding Realm|The Bodybuilding Realm]] — performance & aesthetic compounds
 > 	- **Part 4.4:** [[Part 4.4 - Electrolyte Management|Electrolyte Management]] — water & the mineral balance
+> 	- **Part 4.5:** [[Part 4.5 - Coming Off and PCT|Coming Off & PCT]] — restoring the HPTA & fertility
 > - **Part 5 — Putting it all together (2 sub-articles):**
 > 	- **Part 5.0:** [[Part 5.0 - Putting It All Together|Putting It All Together]] — the worked 3-year example
 > 	- **Part 5.1:** [[Part 5.1 - Cost|Cost]] — budgeting & stock planning
@@ -214,8 +215,4 @@ This is where the two maps connect — useful for re-reading [[Part 3.0 - The Ei
 
 [^2]: Derek (More Plates More Dates), "Testosterone Dosage For Bodybuilding" — the source for the "test base" rationale and his recommended dosage-titration / stacking approach across a first and subsequent cycles. [moreplatesmoredates.com/testosterone-dosage-for-bodybuilding](https://moreplatesmoredates.com/testosterone-dosage-for-bodybuilding/).
 
-[^3]: Nitrogen-balance equivalence across steroid families: the classic metabolic-balance literature finding that potent injectable 17β-esters (e.g., nandrolone phenylpropionate, nandrolone decanoate, methenolone enanthate) and oral 17-alkyl derivatives produce comparable nitrogen retention. See [PubMed 8256449](https://www.ncbi.nlm.nih.gov/pubmed/8256449/), discussed by Derek in "[How To Break Through A Plateau On A Steroid Cycle](https://moreplatesmoredates.com/how-to-break-through-a-plateau-on-a-steroid-cycle/)."
-
-[^4]: Trenbolone as a glucocorticoid-receptor antagonist and suppressor of glucocorticoid activity (mechanism behind its anti-catabolic effect in a deficit): see [PubMed 12441365](https://www.ncbi.nlm.nih.gov/pubmed/12441365) and [PubMed 24928725](https://www.ncbi.nlm.nih.gov/pubmed/24928725), among others cited in Derek's family-tree article.
-
-[^5]: Nandrolone as a mild estrogen-receptor-alpha (ERα) agonist and its conversion to the weaker estrogen Estrone and to less-androgenic DHN: see [PubMed 15276617](https://www.ncbi.nlm.nih.gov/pubmed/15276617/) and Derek's "[Deca-Only For HRT](https://moreplatesmoredates.com/deca-only-for-hrt/)."
+[^3]: Nitrogen-balance equivalence across steroid families: the classic metabolic-balance literature finding that potent injectable 17β-esters (e.g., nandrolone phenylpropionate, nandrolone decanoate, methenolone enanthate) and oral 17-alkyl derivatives produce comparable nitrogen retentio

@@ -19,12 +19,13 @@ date: 2026-05-25
 > 	- **Part 3.0:** [[Part 3.0 - The Eight Anabolic Pathways|The Eight Anabolic Pathways]] — the multi-pathway, moderate approach
 > 	- **Part 3.1:** [[Part 3.1 - The Anabolic Steroid Family Tree|The Anabolic Steroid Family Tree]] — compound families & characteristics
 > 	- **Part 3.2:** [[Part 3.2 - Cycle Design|Cycle Design]] — the enhanced-longevity year
-> - **Part 4 — Protection & the toolbox (5 sub-articles):**
+> - **Part 4 — Protection & the toolbox (6 sub-articles):**
 > 	- **Part 4.0:** [[Part 4.0 - Protection|Protection]] — staying alive and intact
 > 	- **Part 4.1:** [[Part 4.1 - When the Numbers Move|When the Numbers Move]] — the diagnostic playbook
 > 	- **Part 4.2:** [[Part 4.2 - Choosing Your Ancillaries|Choosing Your Ancillaries]] — within-family selection & dosing
 > 	- **Part 4.3:** [[Part 4.3 - The Bodybuilding Realm|The Bodybuilding Realm]] — performance & aesthetic compounds
 > 	- **Part 4.4:** [[Part 4.4 - Electrolyte Management|Electrolyte Management]] — water & the mineral balance
+> 	- **Part 4.5:** [[Part 4.5 - Coming Off and PCT|Coming Off & PCT]] — restoring the HPTA & fertility
 > - **Part 5 — Putting it all together (2 sub-articles):**
 > 	- **Part 5.0 (this article):** [[Part 5.0 - Putting It All Together|Putting It All Together]] — the worked 3-year example
 > 	- **Part 5.1:** [[Part 5.1 - Cost|Cost]] — budgeting & stock planning
@@ -104,7 +105,7 @@ The main lean-bulk "on" block (~**20 weeks**, timed to cooler months per [[Part 
 
 **Monitoring & protection through the block:** mid-block (~wk 6) and end-of-block bloods; daily BP/HR/weight; the [[Part 4.2 - Choosing Your Ancillaries|protection stack]] active throughout — rosuvastatin (± ezetimibe) for the EQ/GH lipid and the [[Part 4.1 - When the Numbers Move|Anavar HDL hit]], an ARB (± tadalafil) for BP, aspirin and a **blood-donation plan** for EQ-driven hematocrit, and a glucose tool ([[Part 4.2 - Choosing Your Ancillaries|metformin/berberine]]) if GH nudges fasting glucose.
 
-**The down-period — 3–4 months.** Per [[Part 3.2 - Cycle Design|calendar cycling]], this is a *real* recovery window, not a token few weeks: clearing the cycle takes ~4–6 weeks, but restoring lipids, liver, kidney, and fertility takes months. Run **HCG + HMG** to restore testicular function and the neurosteroids (DHEA/pregnenolone) heavy cycling suppresses, and lean on [[Part 1.0 - The Decision|muscle memory]] — the gains aren't lost, they're banked. Re-baseline bloods before ramping again; you want a **buffer of health** before the next push.
+**The down-period — 3–4 months.** Per [[Part 3.2 - Cycle Design|calendar cycling]], this is a *real* recovery window, not a token few weeks: clearing the cycle takes ~4–6 weeks, but restoring lipids, liver, kidney, and fertility takes months. Run the [[Part 4.5 - Coming Off and PCT|coming-off sequence]] — **HCG + HMG** to restore testicular function and the neurosteroids (DHEA/pregnenolone) heavy cycling suppresses, then SERMs to restart the brain — and lean on [[Part 1.0 - The Decision|muscle memory]] — the gains aren't lost, they're banked. Re-baseline bloods before ramping again; you want a **buffer of health** before the next push.
 
 ---
 ## Year 3 — Adding the sharp tools
@@ -159,81 +160,4 @@ The year 4–5 playbook is *less heroic, more disciplined*: keep [[Part 3.2 - Cy
 ---
 ## The blood-work cadence over the years
 
-Bloodwork is the only instrument that tells you when to push, hold, or quit — so the rule is **as often as you can afford it**, because the *longitudinal trend* matters more than any single panel. Building on the [[Part 2.0 - Medical Screening and Monitoring|Part 2.0]] checkpoints, the long-term cadence:
-
-| When | What | Why |
-|---|---|---|
-| **Pre-cycle (baseline)** | Full panel + cancer markers (pre-GH) + semen analysis | Your natural starting point; catch dealbreakers |
-| **4 weeks into a new base** | Lipids, liver, E2, hematocrit | Catch a bad carrier-oil reaction or early lipid skew at this dose |
-| **+4 weeks after adding HCG/HMG (≈wk 8)** | Test, E2, neurosteroids | See how the *secondary* compound shifted things |
-| **Monthly on an active cycle** | **Liver (GGT/ALT/AST), glucose** | Non-negotiable on orals or a deep stack — no excuses |
-| **Every 3 months** | Full panel: sex hormones, neurosteroids, cortisol, TSH/thyroid, electrolytes, kidney, lipids | The minimum to catch overtraining / metabolic drift |
-| **Before any compound change** | Current full panel | Confirm you're in range *before* adding GH, an oral, etc. |
-| **End of the cruise / down-period** | Full panel | Verify markers returned to ~100% — your "buffer of health" — before the next push |
-| **Ad-hoc (reactively)** | Prolactin, SHBG, estradiol | Test *immediately* on libido issues, anxiety, or a BP spike |
-
-==Minimum: a full panel every 3 months. Preferred: monthly for liver and glucose if you're running multiple compounds or orals.== Frequent, consistent data is what lets you know when to end a blast and how to adjust — the difference between long-term survival and finding out too late.
-
----
-## The "what to buy" checklist
-
-Assemble it *before* you start a phase — never source mid-cycle ([[Part 1.0 - The Decision|Part 1]]).
-
-**Compounds (by the year they appear):** Testosterone; Proviron; HCG; SERM for PCT (tamoxifen/clomiphene); an aromatase inhibitor *on hand* (used minimally); Boldenone/EQ; GH; (insulin — only if you truly go there); Anavar; HMG; Trenbolone (Year 3). All verified for quality — the [[Part 1.0 - The Decision|pre-flight problem]].
-
-**The protection stack ([[Part 4.2 - Choosing Your Ancillaries|Part 4.2]]):** rosuvastatin (± ezetimibe); an ARB (irbesartan or telmisartan) ± tadalafil ± nebivolol; low-dose aspirin; TUDCA + NAC (for the Anavar/oral windows); P5P (for the Tren year); a glucose tool (metformin/berberine) for the GH blocks; the neuroprotection basics (omega-3, creatine, magnesium).
-
-**Monitoring gear ([[Part 2.1 - Continuous Monitoring|Part 2.1]]):** a wrist BP monitor (arms over ~46 cm), a glucometer (for the GH/insulin blocks), a wearable for RHR/HRV/sleep, a body-weight scale.
-
-**Bloodwork:** the full [[Part 2.0 - Medical Screening and Monitoring|baseline panel]] before Year 1; cancer markers before GH; a semen analysis + freeze before suppression; then the checkpoint panels (baseline → mid → end → post-PCT) every block.
-
----
-## Food: the bulk-and-cut layer
-
-Pharmacology is the [[Part 4.0 - Pharmacology|10%]]; food and training are the 90%, and this example assumes they're already excellent. The phase logic mirrors [[Part 1.2 - Recomp, Cut or Bulk - How to Actually Decide|the main Fit series]] and the [[Part 3.2 - Cycle Design|offseason partitioning rules]]:
-
-- **Build blocks → a controlled lean-bulk**, not a dirty bulk: a modest surplus, the [[Part 3.2 - Cycle Design|carb-to-protein inverse ratio]] under a real surplus, electrolyte stability, and the **Vacuum Rule** as the gut-health gate. Strategic consistency over scale weight.
-- **Down-periods → maintenance**, with [[Part 3.2 - Cycle Design|SERM-aware]] calorie control so the androgen-deficient phase doesn't turn soft.
-- **Cut phase (Year 3) → a moderate deficit**, conditioning over crash dieting, with the [[Part 4.3 - The Bodybuilding Realm|realm tools]] only at the end.
-
-> [!note] A dedicated nutrition guide is coming
-> The exact macro targets, protein/carb numbers, and meal structure for each phase belong in a forthcoming **Nutrition guide in the *Healthy* series** (carbohydrate and protein intake, meal timing, food choices). This article links the *phases* to food strategy; that guide will hold the numbers. And the financial side of all of the above — sourcing, monthly burn rate, and how to make a protective stack affordable — is the subject of [[Part 5.1 - Cost|Part 5.1 — Cost]].
-
----
-## Part 5.0 Takeaways
-
-> [!check] Key concepts to internalize
-> 
-> - **Three patient years beat one reckless one.** Earn the ceiling, run a simple first cycle, prove recovery, *then* build — and add the sharp tools last.
-> - **Year 1 is deliberately small.** Test + Proviron + a proven PCT teaches you your own response and protects your finite blasts.
-> - **Year 2 is the real build** — Test + EQ + GH (insulin optional/advanced) + Anavar — on multi-pathway logic, then a true HCG/HMG down-period.
-> - **Year 3 adds a Tren microdose and a realm cut phase** — earned by experience, capped tight, every addition watched.
-> - **Two things never switch off:** monitoring and the protection stack run through every single phase.
-> - **It's moderate by design.** Low GH, microdosed Tren, maybe no insulin — the least that works, on a calendar, measured. That's the whole series.
-> - **Know your target — and where to stop.** ~28–29.5 FFMI (lean aesthetic-elite), *not* 30+/260 lb. The Tetra Force, IGF-1, and short high-dose blasts are a different sport we deliberately skip.
-> - **Years 4–5 are restraint, not heroics.** Gains slow (biological accounting); protect mental health with a "fluff" offseason; respect the long-term suppression and the irreversible kidney cost.
-> - **Bloodwork cadence is the instrument:** baseline → 4 wk → 8 wk → monthly liver/glucose on cycle → quarterly full panel → before any change → end-of-cruise → ad-hoc on symptoms.
-
-## Your Assembly Task List
-
-1. **Re-read [[Part 1.0 - The Decision|Part 1]]** and confirm you actually clear the readiness gate before mapping any calendar.
-2. **Draft your own three-year arc** on the calendar template — your seasons, your goals, your bloodwork cadence.
-3. **Pre-decide your forks:** PCT vs. cruise after Year 1; Anavar kickstart vs. microdose; whether insulin ever enters at all.
-4. **Build the buy checklist and acquire the protection stack and monitoring gear *first*** — before any compound.
-5. **Lock your pull-back triggers** ([[Part 4.1 - When the Numbers Move|Part 4.1]]) for BP, hematocrit, lipids, and mood — the values at which a phase changes or ends.
-6. **Define your ceiling, not just your start** — pick the physique you'll stop at (≈28–29.5 FFMI), and pre-commit to the "fluff" offseasons that protect your head and your longevity.
-7. **Find the physician** who'll run the bloods and the prescriptions with you. The plan is only as safe as the oversight.
-
----
-
-> [!danger] Disclaimer
-> This is a single hypothetical, illustrative example for education and harm reduction — **not** medical advice, a prescription, or an endorsement of using any compound. Doses are illustrative lowest-effective-dose reference points, not instructions. Anabolic-androgenic steroids, GH, insulin, HCG/HMG, SERMs, and the ancillaries referenced are prescription-only or illegal without a prescription in most jurisdictions, including Malaysia, and all carry serious, sometimes permanent or fatal risk — insulin especially. Individual response, genetics, and health status vary enormously. Work with a qualified physician, rely on comprehensive [[Part 2.0 - Medical Screening and Monitoring|bloodwork]], and treat any out-of-range marker as a reason to adjust or stop.
-
----
-## Sources & references
-
-[^1]: This worked example synthesizes the framework built across the Performance Enhancement series — readiness ([[Part 1.0 - The Decision|Part 1]]), screening and monitoring ([[Part 2.0 - Medical Screening and Monitoring|Part 2.0]], [[Part 2.1 - Continuous Monitoring|Part 2.1]]), the eight anabolic pathways and family tree ([[Part 3.0 - The Eight Anabolic Pathways|Part 3.0]], [[Part 3.1 - The Anabolic Steroid Family Tree|Part 3.1]]), cycle design ([[Part 3.2 - Cycle Design|Part 3.2]]), and protection, diagnostics, ancillary selection, and the performance drawer ([[Part 4.0 - Protection|Part 4.0]]–[[Part 4.3 - The Bodybuilding Realm|4.3]]). Each constituent claim is sourced in its home article.
-
-[^2]: The bioidentical "lowest effective dose" entry (HCG titration to assess the natural ceiling; Test base via daily micro-administration; ~1–2 IU GH; insulin and exotic 19-nors last) and calendar-based periodization (on-blocks, HCG/HMG down-periods, muscle-memory re-entry) follow the harm-reduction framework detailed and sourced in [[Part 3.2 - Cycle Design|Part 3.2]] (Vigorous Steve and the broader evidence-based PED-management community).
-
-[^3]: Compound-specific behaviour referenced here — EQ/Boldenone's erythropoietic (hematocrit) load, Anavar's lipid impact, Trenbolone's 19-nor/glucocorticoid/prolactin and neurological profile, GH's glucose and cancer-marker considerations — is sourced in [[Part 3.1 - The Anabolic Steroid Family Tree|Part 3.1]], [[Part 4.1 - When the Numbers Move|Part 4.1]], and [[Part 4.2 - Choosing Your Ancillaries|Part 4.2]].
+Blood

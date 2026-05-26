@@ -19,12 +19,13 @@ date: 2026-05-25
 > 	- **Part 3.0:** [[Part 3.0 - The Eight Anabolic Pathways|The Eight Anabolic Pathways]] — the multi-pathway, moderate approach
 > 	- **Part 3.1:** [[Part 3.1 - The Anabolic Steroid Family Tree|The Anabolic Steroid Family Tree]] — compound families & characteristics
 > 	- **Part 3.2 (this article):** [[Part 3.2 - Cycle Design|Cycle Design]] — the enhanced-longevity year
-> - **Part 4 — Protection & the toolbox (5 sub-articles):**
+> - **Part 4 — Protection & the toolbox (6 sub-articles):**
 > 	- **Part 4.0:** [[Part 4.0 - Protection|Protection]] — staying alive and intact
 > 	- **Part 4.1:** [[Part 4.1 - When the Numbers Move|When the Numbers Move]] — the diagnostic playbook
 > 	- **Part 4.2:** [[Part 4.2 - Choosing Your Ancillaries|Choosing Your Ancillaries]] — within-family selection & dosing
 > 	- **Part 4.3:** [[Part 4.3 - The Bodybuilding Realm|The Bodybuilding Realm]] — performance & aesthetic compounds
 > 	- **Part 4.4:** [[Part 4.4 - Electrolyte Management|Electrolyte Management]] — water & the mineral balance
+> 	- **Part 4.5:** [[Part 4.5 - Coming Off and PCT|Coming Off & PCT]] — restoring the HPTA & fertility
 > - **Part 5 — Putting it all together (2 sub-articles):**
 > 	- **Part 5.0:** [[Part 5.0 - Putting It All Together|Putting It All Together]] — the worked 3-year example
 > 	- **Part 5.1:** [[Part 5.1 - Cost|Cost]] — budgeting & stock planning
@@ -179,7 +180,7 @@ The "Blast and Cruise" model — never fully coming off, just alternating high a
 Coming off is a transition into an **androgen-deficient state**, and the psychology of "deflating" is as important to manage as the physiology.
 
 - **The 80% Retention Rule.** Part of your cycle weight is transient — nitrogen, glycogen, and electrolyte-driven water. Expecting to keep 100% of "saturation volume" is a setup for misery. Success is retaining roughly **75–80%** of peak-cycle strength; the rest was always going to recede ([[Part 3.1 - The Anabolic Steroid Family Tree|the nitrogen/water point from Part 3.1]]).
-- **The SERM-induced appetite surge.** Using **SERMs (tamoxifen, clomiphene)** to restart the HPTA tends to spike appetite hard. Combined with the metabolic slowdown of an androgen-deficient state, that's a fast track to fat gain — so hold **strict maintenance or a slight deficit** through the recovery window to avoid going soft.
+- **The SERM-induced appetite surge.** Using **SERMs (tamoxifen, clomiphene)** to restart the HPTA tends to spike appetite hard. Combined with the metabolic slowdown of an androgen-deficient state, that's a fast track to fat gain — so hold **strict maintenance or a slight deficit** through the recovery window to avoid going soft. The full restart sequence — wake the testicles with gonadotropins, *then* restart the brain with SERMs — is the subject of [[Part 4.5 - Coming Off and PCT|Part 4.5 — Coming Off & PCT]].
 - **The professional responsibility.** The professional prioritises the health of the vessel over the vanity of the mirror. Bioidentical hormones, rigorous diagnostics, and environmental periodization are what make a physique a sustainable manifestation of high-level health management rather than a borrowed illusion.
 
 ---
@@ -187,49 +188,3 @@ Coming off is a transition into an **androgen-deficient state**, and the psychol
 
 | Phase | Duration | Pharmacology posture | Focus | Key support |
 |---|---|---|---|---|
-| **On — Growth** | ~Months 1–8 (cooler seasons) | Bioidentical base (Test + GH; insulin advanced); add DHT/19-nors by family logic only as needed | Strategic surplus, partitioning, the Vacuum Rule | Quarterly bloods; electrolyte stability; [[Part 4.0 - Protection|protection stack]] |
-| **Taper — Environmental sync** | Hot/humid or high-stress windows | Reduce intensity/doses | Avoid sympathetic burnout; maintain | Monitor BP, RHR/HRV ([[Part 2.1 - Continuous Monitoring|Part 2.1]]) |
-| **Down — Recover** | **3–4 months** (restore, not just clear) | HCG + HMG; minimal-to-no AAS | Restore HPTA, fertility, lipids & organs — a "buffer of health" | SERM-aware appetite control; maintenance calories |
-| **Re-entry** | ~6 weeks into next "On" | Moderate re-introduction | Reclaim banked muscle (myonuclear memory) | Re-baseline bloods before ramping |
-
-> [!note] Up next
-> You now have the *which* ([[Part 3.0 - The Eight Anabolic Pathways|pathways]]), the *which compound* ([[Part 3.1 - The Anabolic Steroid Family Tree|families]]), and the *when/how much* (this article). The last piece is keeping the vessel intact through all of it: **[[Part 4.0 - Protection|Part 4 — Protection]]** — what's actually happening to your cardiovascular system, liver, and hormones, and the pharmacology that defends them.
-
----
-## Part 3.2 Takeaways
-
-> [!check] Key concepts to internalize
-> 
-> - **The offseason is engineered, not permissive.** Fat gain impairs partitioning and inflames the system — strategic consistency beats the Michelin Man.
-> - **Partition deliberately.** Water between (not with) meals; carbs up means protein down; stabilise electrolytes; pass the Vacuum Rule. Gut health gates everything.
-> - **Wet vs. dry is a dial, not a compound.** DHT derivatives modulate the aromatization of a wet base — "the dose is the poison," not the molecule.
-> - **Go bioidentical first.** Lowest effective dose; Golden Triangle (Test/GH/Insulin); titrate HCG to find your ceiling before suppressing; exotic compounds last.
-> - **Bloodwork is the arbiter.** Cystatin C, ALT/AST (7-day rule), thyroid triad, SHBG, prolactin/cortisol — deviate from range and the cycle changes, vanity aside.
-> - **Cycle by the calendar, not forever.** Environmental syncing + an 8-on/4-down split with HCG/HMG; muscle memory reclaims the gains. Perpetual blast-and-cruise is the worse bet.
-> - **Plan the deflate.** Expect ~80% retention, control the SERM appetite surge, protect the vessel over the mirror.
-
-## Your Cycle-Design Task List
-
-1. **Audit your offseason honestly.** Are you "growing" or just getting fat? Run the Vacuum Rule test at the end of a high-calorie day.
-2. **Fix the gut and electrolytes first** — water timing, an elimination pass, consistent daily minerals — before blaming any compound for bloat or high BP.
-3. **Map your year onto the calendar table** — pick your "on" months around cooler seasons and lower stress; pre-commit a 4-month down-period.
-4. **Design bioidentical-first.** Could a Test base (+ optional low GH) get you there before any exotic compound? If yes, that's the cycle.
-5. **Schedule quarterly bloods** around the marker hierarchy, with the 7-day no-training rule before liver draws.
-6. **Pre-write your down-period and PCT plan** (HCG/HMG, SERM-aware calories) *before* you start the "on" phase — not when you're already deflating.
-7. **Re-read [[Part 1.0 - The Decision|Part 1]] and [[Part 4.0 - Protection|Part 4]].** Cycle design only makes sense bracketed by "should I?" and "how do I stay intact?"
-
----
-
-> [!danger] Disclaimer
-> This article is harm-reduction education, not medical advice or a protocol. The doses mentioned illustrate a *lowest-effective-dose philosophy* and are not a prescription, recommendation, or invitation to use any compound. Anabolic steroids, GH, insulin, HCG, HMG, and SERMs are prescription-only or illegal without a prescription in most jurisdictions, including Malaysia, and all carry serious risk — insulin especially can be lethal in error. Individual response, genetics, and health status vary enormously. Work with a qualified physician, rely on [[Part 2.0 - Medical Screening and Monitoring|bloodwork]], and treat any out-of-range marker as a reason to adjust or stop.
-
----
-## Sources & references
-
-[^1]: The "Enhanced Longevity Playbook" framework here synthesises professional enhanced-bodybuilding coaching practice (in the tradition of Vigorous Steve and similar harm-reduction coaches): strategic offseason partitioning, the bioidentical "lowest effective dose" entry, HCG titration to assess testicular reserve, environmental/seasonal periodization, and the diagnostic marker hierarchy. See Vigorous Steve's companion articles "[When Are You Ready for Your First Cycle?](https://vigoroussteve.com/when-are-you-ready-for-your-first-cycle/)" and "[Medical Screening Required Before Your First Cycle](https://vigoroussteve.com/medical-screening-required-before-your-first-cycle/)," and his pieces on year-round supplementation and electrolyte management.
-
-[^2]: Myonuclear retention / "muscle memory" — the basis of the down-period being low-risk: Egner et al. (2013) and Seaborne et al. (2018), as cited in [[Part 1.0 - The Decision|Part 1]]. Lost volume is typically regained within weeks because accrued myonuclei persist.
-
-[^3]: SHBG as an active carrier (the SHBG-receptor complex delivering androgens to tissue) rather than merely a "sponge," and the downside of crushing it via oral AAS: see [[Part 3.0 - The Eight Anabolic Pathways|Part 3.0, Pathway 2]] and the endocrinology literature on SHBG-bound hormone delivery.
-
-[^4]: Cystatin C as a muscle-mass-independent measure of glomerular filtration (superior to creatinine in muscular individuals), and the exercise-induced elevation of AST/ALT motivating a pre-draw no-training window: see [[Part 2.0 - Medical Screening and Monitoring|Part 2.0]] and its sources (incl. Pettersson et al., 2008, on training and liver enzymes).
