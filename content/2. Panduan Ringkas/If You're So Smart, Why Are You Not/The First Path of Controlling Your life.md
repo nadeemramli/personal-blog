@@ -57,6 +57,8 @@ Here's why surplus by itself isn't enough, in the most concrete way I can put it
 
 So the bridge from orderliness to design is: discipline to generate surplus, plus convex positioning so that luck can only help you a lot and hurt you a little. Do both, and over time you accumulate the one thing that actually buys freedom: **optionality.** Options. The ability to pick and choose the life you want instead of taking the one that's handed to you.
 
+It helps to name the two modes plainly. Everything up to this point has been **defense**: [[The Real Problem Manifesto|surviving entropy]], plugging the leaks, paying the daily energy bill so the floor stops rotting out from under you. That's what *if you're so smart, why are you not?* is really asking. Are you even winning on defense yet? **Design** is the switch to offense. Once the floor is paid for and stable, you stop pouring all your energy into holding ground and start allocating it (your time, your attention, your intellect) into a small number of high-leverage, asymmetric bets. It's the same convex shape from before: capped downside, open upside. The only thing that's changed is that now you're playing to win, not just playing not to lose.
+
 ## Optionality is useless if you don't know what's worth wanting
 
 But optionality comes with its own trap, and it's the one that catches the smartest people.
@@ -75,7 +77,7 @@ If the default is failing to maintain any order at all, then orderliness is the 
 
 But (and this is the mistake I want to hammer) life cannot be [[Min-maxxing|min-maxed]]. You don't get to "refuse orderliness" so you can pour everything into one exotic goal. That's video-game logic: dump all your points into one stat and tank the rest. In a game it's a fun build. In a real life, statistically, it's a near-guaranteed way to lose and to be miserable while you do it, because real life keeps rolling the dice on the stats you neglected.
 
-Run yourself like an investment manager instead. Manage your options. Use something like the **Kelly Criterion** when you venture into a new project: size the bet to your edge, never bet the whole stack, divide and diversify across several shots so no single bad outcome ends the game. And always, *always* keep the low-risk position sitting behind everything else (the boring, compounding [[Baseline - buffers - freedom|baseline]] you know will protect you from the downside no matter what the swans do).
+Run yourself like an investment manager instead. Manage your options. It's the same deck of cards from [[The Real Problem Manifesto|the intro]]: left alone it scrambles itself toward disorder, but once you understand the odds you can stop merely bracing against the shuffle and start betting on it. Use something like the **Kelly Criterion** when you venture into a new project: size the bet to your edge, never bet the whole stack, divide and diversify across several shots so no single bad outcome ends the game. And always, *always* keep the low-risk position sitting behind everything else (the boring, compounding [[Baseline - buffers - freedom|baseline]] you know will protect you from the downside no matter what the swans do).
 
 That baseline is exactly this Orderliness series. Your body, your health, your basics. The unsexy, fully-funded floor that lets you take real swings at Design without getting wiped out when you miss.
 

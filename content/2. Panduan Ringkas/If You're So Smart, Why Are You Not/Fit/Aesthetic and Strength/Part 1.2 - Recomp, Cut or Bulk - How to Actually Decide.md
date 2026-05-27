@@ -176,6 +176,10 @@ Re-anchor every 6–8 weeks because TDEE drifts as bodyweight, muscle mass, and 
 
 The two rules above and the lock-in protocol — that's the framework. Everything in the daily routine in [[Part 2.0 - Structure of a Day|Part 2]] is just the practical expression of these concepts.
 
+![[Poster — Fit - Part 1.2 - Recomp, Cut or Bulk.png]]
+
+*This poster is the calibrated control instrument for the whole decision: zero it first by finding your maintenance calories (Step 0), then read your body-fat number off the gauge to pick your phase — Recomp at 18%+ (±0), the Decision zone at 12–17%, Lean Bulk under 12% (+200–300 kcal), with the dirty bulk struck out as the trap. Plot your DEXA/InBody % from Part 1.1 on the "YOU ARE HERE" marker and follow the oscillation loop — most of your years live in the 10–20% band: lean bulk up, mini-cut down, repeat. Pin it up and re-read it every few weeks as you re-anchor.*
+
 ---
 
 Now that you have your baseline from Part 1.1, it’s time to put in the work. You cannot pick a direction—Bulk, Cut, or Recomp—if you don't know where "stationary" is.

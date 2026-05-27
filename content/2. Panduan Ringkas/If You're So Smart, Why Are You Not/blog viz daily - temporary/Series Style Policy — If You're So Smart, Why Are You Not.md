@@ -1,0 +1,34 @@
+---
+title: Series Style Policy — "If You're So Smart, Why Are You Not"
+draft: true
+tags:
+date: 2026-05-27
+---
+# Series Style Policy — "If You're So Smart, Why Are You Not"
+
+**Rule: one pillar = one locked visual style.** Every poster within a pillar shares its style so the series reads as one cohesive body of work. The style is a _compositional / illustrative_ layer that sits **on top of `design.md`** (which owns all color, type, spacing, surface tokens). When a new pillar begins, choose a new style and log it here — never change style mid-pillar.
+
+|Pillar|Locked style|Visual language|Status|
+|---|---|---|---|
+|**Fit** (Aesthetic & Strength, Athletic, Performance Enhancement)|**Engineering Diagnostic Instrument**|Fault charts, gauges, matrices, signal traces, lookup tables, dashboards. Body framed as a system you instrument and read. Mono technical labels, display face for headlines/key terms, status-indicator color logic, ruler-drawn lines.|**Active** — set 2026-05-27|
+|Productive (Cognitive Enhancement)|_unassigned_|—|pending first poster|
+|Healthy (Sleep)|_unassigned_|—|pending first poster|
+|Attractive (Hair, Skin)|_unassigned_|—|pending first poster|
+|Rich|_unassigned (pillar still WIP)_|—|blocked — articles are stubs|
+|Successful|_unassigned (pillar still WIP)_|—|blocked — articles are stubs|
+|Peaceful|_unassigned (pillar still WIP)_|—|blocked — articles are stubs|
+
+## How a style gets chosen
+
+When the first poster of a new pillar is briefed, pick a style that fits that pillar's _emotional register_, then lock it:
+
+- **Fit** → engineering/diagnostic (precise, anti-bro-science). ✔ chosen.
+- **Productive** (cognitive enhancement) → leaning toward "signal/circuitry / neural schematic" — decide at first poster.
+- **Healthy / Sleep** → leaning toward "calm nocturnal / architectural cross-section" — decide at first poster.
+- **Attractive** → leaning toward "clinical editorial / anatomical callout" — decide at first poster.
+- **Peaceful / Rich / Successful** → decide once those pillars are written.
+
+## Notes
+
+- `design.md` (Aether: black ground, Inter display, JetBrains Mono labels, semantic colors) is the global system and is compatible with the Fit engineering style. Future pillar styles must also be expressible within design.md tokens.
+- Each visualization-concept file should _embed_ its pillar's locked style (§6 of the concept) so the poster-producing chat only needs `[concept + design.md]`, not this policy file.

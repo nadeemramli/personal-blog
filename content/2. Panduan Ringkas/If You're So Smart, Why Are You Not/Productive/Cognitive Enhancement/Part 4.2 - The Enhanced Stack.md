@@ -10,7 +10,7 @@ tags:
   - pharmacology
 date: 2026-05-25
 ---
-> [!abstract] This is **Part 4 of 4** in the Cognitive Enhancement Series (the optional heavy overlay). The full path:
+> [!abstract] This is **Part 4.2** in the Cognitive Enhancement Series (the experimental & prescription catalog). The full path:
 >
 > - **Part 1 — Foundation (2 sub-articles):**
 > 	- **Part 1.0:** [[Part 1.0 - The Cognitive Architecture|The Cognitive Architecture]] (the two buckets, the six pathways, and how to measure them)
@@ -18,23 +18,22 @@ date: 2026-05-25
 > - **Part 2 — The Base:**
 > 	- **Part 2.0:** [[Part 2.0 - The Behavioral Base|The Behavioral Base]] (the 90% that comes before any compound, and where it ladders in your life)
 > - **Part 3 — Pharmacology (2 sub-articles):**
-> 	- **Part 3.0:** [[Part 3.0 - Cognitive Performance|Cognitive Performance]] (the active software stack, by tier)
-> 	- **Part 3.1:** [[Part 3.1 - Neural Preservation|Neural Preservation]] (the hardware and the baseline, by tier)
-> - **Part 4 — Application (2 sub-articles):**
+> 	- **Part 3.0:** [[Part 3.0 - Cognitive Performance Compounds|Cognitive Performance]] (the active software stack, by tier)
+> 	- **Part 3.1:** [[Part 3.1 - Neural Preservation Compounds|Neural Preservation]] (the hardware and the baseline, by tier)
+> - **Part 4 — Application (4 sub-articles):**
+> 	- **Part 4.0:** [[Part 4.0 - The Escalation Protocol|The Escalation Protocol]] (the guiding framework: when and how to escalate)
 > 	- **Part 4.1:** [[Part 4.1 - The Natural Stack|The Natural Stack]] (the clean daily engine, built and costed)
-> 	- **Part 4.2 (this article):** [[Part 4.2 - The Enhanced Stack|The Enhanced Stack]] (layering experimental & prescription compounds)
+> 	- **Part 4.2 (this article):** [[Part 4.2 - The Enhanced Stack|The Enhanced Stack]] (experimental & prescription compounds, by tier)
+> 	- **Part 4.3:** [[Part 4.3 - The Hybrid Stack|The Hybrid Stack]] (how to mix natural + enhanced)
 > ----
 ## Table of Contents
 
 - [Read this before you read the compounds](#read-this-before-you-read-the-compounds)
-- [The one rule: enhance a pathway, don't replace the base](#the-one-rule-enhance-a-pathway-dont-replace-the-base)
 - [The enhanced bio-circuit, pathway by pathway](#the-enhanced-bio-circuit-pathway-by-pathway)
-- [The escalation protocol: three levels](#the-escalation-protocol-three-levels)
 - [The risk-and-tier matrix](#the-risk-and-tier-matrix)
 - [A Maximal Day: the fully-assembled vision](#a-maximal-day-the-fully-assembled-vision)
-- [The "do you even need this?" gate](#the-do-you-even-need-this-gate)
-- [Part 4 Takeaways](#part-4-takeaways)
-- [Your Enhancement Task List](#your-enhancement-task-list)
+- [Part 4.2 Takeaways](#part-42-takeaways)
+- [How to read this catalog](#how-to-read-this-catalog)
 - [Sources & references](#sources--references)
 
 ---
@@ -45,19 +44,13 @@ date: 2026-05-25
 ---
 ## Read this before you read the compounds
 
-This is an **application** article, not a compound encyclopaedia. The mechanisms and doses for the Tier-1 (prescription) and Tier-3 (experimental) compounds were already laid out in [[Part 3.0 - Cognitive Performance|Part 3.0]] and [[Part 3.1 - Neural Preservation|Part 3.1]]. Here we answer the only question that matters once you know what they *are*: **how do you layer them onto the natural engine without breaking it, and should you?**
+This article is **the catalog**: what the experimental (Tier-3) and prescription (Tier-1) compounds *are*, organised by the same six pathways from the [[Part 4.1 - The Natural Stack|bio-circuit]], so you can see each one as *turning up a dial that already exists* rather than bolting on something foreign. It deliberately answers only one question per compound, **what it does and what it costs you**, and leaves the other two questions to their own articles:
 
-The structure follows the same six pathways from the [[Part 4.1 - The Natural Stack|bio-circuit]], so you can see each enhanced compound as *turning up a dial that already exists* rather than bolting on something foreign.
+> [!info] Where the other two questions live
+> - **"Should I even be here, and how do I escalate?"** → [[Part 4.0 - The Escalation Protocol|Part 4.0]] is the guiding framework: the one rule, the three levels, and the "do you even need this?" gate. ==If you haven't read 4.0, read it first==; this catalog assumes you've already passed that gate.
+> - **"How do I actually mix one of these into my natural stack without breaking it?"** → [[Part 4.3 - The Hybrid Stack|Part 4.3]] is the mixing manual: which heavy-layer natural compounds to *remove* when you add an enhanced one (e.g. dropping caffeine but keeping L-theanine on a modafinil day), and which experimental compounds can run daily versus cyclically.
 
----
-## The one rule: enhance a pathway, don't replace the base
-
-If you take nothing else from this article:
-
-> [!check] The rule
-> ==An enhanced compound *amplifies* a pathway the natural base is already running. It does not replace the base.== You don't drop the natural stack and "graduate" to racetams. You keep [[Part 4.1 - The Natural Stack|the daily engine]] running (choline, omega-3, structure, sleep) and add **one** enhanced lever on top, on a genuine high-stakes day. The base is what makes the overlay safe and effective; the overlay on a bare brain is how you get the side effects and none of the benefit.
-
-The clearest example is the **racetam headache.** Racetams ramp up acetylcholine *demand*, and a brain without enough choline responds with a dull, characteristic headache. The natural stack already supplies that choline (Act V). So the same compound that gives one person a headache gives another clean focus, purely because of whether the base is running underneath. That pattern (*the overlay only works on a fuelled pathway*) repeats for every compound below.
+In other words: **4.0 tells you *whether*, this article tells you *what*, and 4.3 tells you *how*.** Read this as a map of the territory, not a set of instructions, and don't try to assemble a mix from this page alone, that's what 4.3 is for.
 
 ---
 ## The enhanced bio-circuit, pathway by pathway
@@ -75,7 +68,7 @@ The natural ignition is caffeine + tyrosine. The enhanced version replaces the *
 This is the classic nootropic class, and it sits directly on top of your natural choline layer.
 
 - **Racetams (Tier 3, grey-market):** piracetam, aniracetam, oxiracetam, pramiracetam: they modulate acetylcholine and AMPA-glutamate transmission, the substrate of learning. **Phenylpiracetam** is the stimulant standout (and WADA-banned, relevant if you compete). The honest evidence picture: decades of use and a good safety record, but ==the benefit in *healthy* adults is thin; most positive data is in elderly or cognitively-impaired populations==, and meta-analyses of piracetam don't show clear memory benefit over placebo even there.[^2] **They demand choline**, which your natural stack already supplies; that's the synergy *and* the warning (run them without the base and you get the headache, not the focus).
-- **Donepezil / Galantamine (Tier 1, prescription):** the heavy acetylcholinesterase brake from [[Part 3.0 - Cognitive Performance|Part 3.0]]. An Alzheimer's drug on a healthy brain is a sledgehammer: reserve-only, if ever, and never stacked on top of Huperzine (double-braking → cholinergic toxicity).
+- **Donepezil / Galantamine (Tier 1, prescription):** the heavy acetylcholinesterase brake from [[Part 3.0 - Cognitive Performance Compounds|Part 3.0]]. An Alzheimer's drug on a healthy brain is a sledgehammer: reserve-only, if ever, and never stacked on top of Huperzine (double-braking → cholinergic toxicity).
 
 ### 3. Neurogenesis / BDNF → the peptide overlay (handle with care)
 
@@ -92,53 +85,17 @@ The natural neurogenesis layer is Lion's Mane (and Polygala as the [[Part 4.1 - 
 
 This pathway gets *more* important the heavier you go, not less.
 
-- **Memantine (Tier 1, prescription):** the NMDA-receptor shield from [[Part 3.1 - Neural Preservation|Part 3.1]]. If you're running heavy stimulants or eugeroics regularly, glutamate excitotoxicity is the long-term cost, and Memantine buffers it. The trade-off: it can slightly *blunt* the acute edge of a high-stimulant day, so it's a preservation choice, not a performance one.
+- **Memantine (Tier 1, prescription):** the NMDA-receptor shield from [[Part 3.1 - Neural Preservation Compounds|Part 3.1]]. If you're running heavy stimulants or eugeroics regularly, glutamate excitotoxicity is the long-term cost, and Memantine buffers it. The trade-off: it can slightly *blunt* the acute edge of a high-stimulant day, so it's a preservation choice, not a performance one.
 
 ### 5. Neurosteroids → the enhanced lifter's hidden variable
 
-Covered fully in [[Part 3.1 - Neural Preservation|Part 3.1]], and it belongs here because the *enhanced* part of your life is what creates the problem: an active cycle suppresses upstream **pregnenolone/DHEA**, producing brain fog that more testosterone won't fix. The rule is unchanged. ==These are hormones: test, correct a *demonstrated* deficit under supervision, re-test==, never a blind "for focus" add.
+Covered fully in [[Part 3.1 - Neural Preservation Compounds|Part 3.1]], and it belongs here because the *enhanced* part of your life is what creates the problem: an active cycle suppresses upstream **pregnenolone/DHEA**, producing brain fog that more testosterone won't fix. The rule is unchanged. ==These are hormones: test, correct a *demonstrated* deficit under supervision, re-test==, never a blind "for focus" add.
 
 ### 6. State control → the enhanced calm layer
 
 - **Buspirone (Tier 1):** non-sedating, non-dependence-forming serotonergic anxiolytic; the clean prescription option for the flexibility pillar.
 - **Selank (Tier 3, peptide):** a Russian anxiolytic peptide that modulates inflammation (IL-6) and stabilises serotonin/GABA without sedation or dependence. Well-tolerated in limited data.
 - **Phenibut (Tier 3) → the trap:** profound calm, *genuinely dangerous dependence and withdrawal* (benzodiazepine-like). ==Never more than 1–2× a week, and most people can't hold that line.== Listed only so you recognise the trap; recommended against.
-
----
-## The escalation protocol: three levels
-
-Everything in this series collapses into one escalating question: *what's the smallest, safest input that fixes my actual problem today?* The answer comes in three levels. You live almost entirely at Level 1, step up to Level 2 on real output days, and reach Level 3 only when a specific situation forces it.
-
-### Level 1: the constant base (run it year-round)
-
-The honest truth, before any stimulant: **the best protocol most people will ever have is a constant, non-stimulating base, run every day, alongside the behaviour, food, sleep, and training.** This is the [[Part 4.1 - The Natural Stack|Daily Baseline]], the structural and mood supplements that *build* the brain rather than flog it (omega-3, creatine, uridine, CDP-choline, Bacopa, Saffron, Lion's Mane). None of them is "stimulating," all of them can run for years, and they do their work quietly over weeks and months by raising the *capacity* of the machine.
-
-On its own, this layer plus the [[Part 2.0 - The Behavioral Base|behavioural base]] (sleep, the dopamine reset, dietary fat, cardio) is genuinely the high-leverage move. ==It is not a consolation prize for people too cautious to take the fun drugs; it is the realistic ceiling for almost everyone.== It also connects to a piece this blog hasn't written yet: the forthcoming **Learning & Skill Acquisition** series is the *software* that runs on this hardware, the actual craft of how you learn, encode, and build skill. The supplements raise capacity; that series is how you spend it. The two are halves of the same "productive" project.
-
-### Level 2: the heavy day (diagnose, then add)
-
-On a real output or training day, layer the [[Part 4.1 - The Natural Stack|Heavy-Day overlay]] (tyrosine, ALCAR, alpha-GPC, ginkgo, caffeine + theanine, huperzine). That whole natural overlay is modest and safe enough to run as a block. But the moment you think about *emphasising* a lever, or adding an enhanced one, stop and **diagnose the actual problem.** You *could* just throw everything at it, but the fix lands far harder when it matches the bottleneck, because each problem has a different mechanism:
-
-> [!check] Match the fix to the failure (the four bottlenecks)
-> - **Hard to *start*** (high task latency, can't begin): a **drive/dopamine** problem. Lean on tyrosine + caffeine; if you escalate, a **eugeroic**, not more raw stimulant. (Most "can't start" is actually a [[Part 2.0 - The Behavioral Base|dopamine-baseline]] problem you can fix for free.)
-> - **Hard to *focus*** (scattered, jittery): a **calm-focus** problem. You have enough gas and not enough brake. Fix the 2:1 **theanine**:caffeine ratio and *lower* the stimulant, don't raise it.
-> - **Hard to *decide, think, or see the whole board*** (stuck, tunnel-visioned, over-fixated): usually *too much* stimulation. The fix is **GABA/serotonin for detachment and overview** ([[Part 1.1 - Signal and Noise|the signal-to-noise point]]), not another dose of drive.
-> - **Hard to *learn or retain***: a **memory/acetylcholine** problem. Reach for the choline pathway (alpha-GPC / CDP-choline) and the structural "happy stack" (uridine + choline + DHA). ==And be honest that belief and expectation move learning a lot here too==: the placebo effect on perceived focus and recall is large, so a calm, confident, well-rested attempt often beats a panicked, over-medicated one.
-
-The discipline that makes this work is the [[Part 3.2 - Cycle Design|PE sequencing rule]]: **add one lever at a time, keep the full natural base underneath, and measure.** Run the [[Part 1.0 - The Cognitive Architecture|PR battery + deep-work log]] on the enhanced day versus a natural heavy day. If the numbers don't move, the addition bought you nothing, so drop it.
-
-### Level 3: the urgent override (situational, rare)
-
-Some days the situation, not the schedule, sets the terms, and a short, sharp tool is the right call. Concrete cases:
-
-- **The blown-sleep deadline.** You did deep work late last night, slept four hours, and a deadline lands this morning. This is the *one* scenario where **modafinil earns its reputation**: its best-evidenced use is exactly *defending* a sleep-deprived brain ([[Part 3.0 - Cognitive Performance|Part 3.0]]). Take it, hit the deadline, then repay the sleep; don't let it become the routine.
-- **Semax (intranasal), as a ritual anchor.** Semax's value is BDNF/neuroprotective support with fast intranasal onset. Its *habit* use is subtle and mostly behavioural: the deliberate spray-before-work ritual becomes a clean cue that says "deep work starts now." (The pharmacology isn't a dopamine reward-stamp the way nicotine is, so treat it as a behavioural cue plus a neurotrophic top-up, not a focus drug.)
-
-> [!caution] The daily-nicotine question (an honest disagreement with "never daily")
-> The series' default, and the medically cautious line, is that nicotine is **tactical, not daily** ([[Part 3.0 - Cognitive Performance|Part 3.0]]), because it's genuinely habit-forming and down-regulates fast. But there's a reasoned case for the other side, and it deserves a fair hearing: a **fixed low dose (1–2 mg gum or lozenge), used daily but bound *only* to the work cue**, can act as a reliable [[Part 2.0 - The Behavioral Base|habit-stamp]] for sitting down to deep work, and nicotine carries a *plausible* (not proven) neuroprotective profile. The one rule that makes this defensible is strict **context-gating**: ==use it only in your work environment, only to anchor a good habit, never idly and never for leisure.== That gating is the clever part, because it stops the cue generalising into an all-day dependence. The honest cost you accept in return: it *is* a managed dependence, tolerance will slowly blunt the habit-stamp, and "neuroprotective" is a hope rather than a guarantee. That trade is a personal judgment call, not a free win. If you take it, keep the dose fixed and low and the context narrow.
-
-> [!warning] The reset rule still applies, even harder
-> Everything tolerance-prone (eugeroics, stimulants, phenibut, and even a context-gated daily-nicotine habit) must stay **low, fixed, and bound to its cue.** Daily use of a Tier-1 *stimulant* in particular doesn't make you more productive; it resets your baseline upward so you need it just to feel normal. Outside the narrow Level-3 cases, ==the enhanced pharmacology is a swing weapon, not a daily driver.==
 
 ---
 ## The risk-and-tier matrix
@@ -166,7 +123,7 @@ Some days the situation, not the schedule, sets the terms, and a short, sharp to
 To make the whole architecture legible in one picture, here is the **maximal day**: the "maxed-out entrepreneurial mind" with every pathway driven and protected, woven together with the [[Part 4.0 - Protection|Performance Enhancement]] and [[Part 1.0 - The Architecture of Sleep|Sleep]] series into a single integrated arc. It follows the **gas-and-brakes day** from [[Part 1.1 - Signal and Noise|Part 1.1]]: a calm bedrock, excitation in the produce-windows, deliberate inhibition into recovery.
 
 > [!danger] This is a thought experiment, not a protocol; read this first
-> ==This day deliberately breaks the "one lever at a time" rule to show the *complete* integrated picture in one frame.== **Nobody should build to this directly, and almost nobody should build to it at all.** It stacks prescription stimulants, a prescription SSRI, a GLP-1 agonist, research peptides, *and* anabolics simultaneously, a combined risk load far beyond anything justified by the [[#the-do-you-even-need-this-gate|gate below]]. Treat it the way you'd treat a pro bodybuilder's full chemical protocol in the [[Part 5.0 - Putting It All Together|PE series]]: useful for *understanding how the pieces relate*, not a shopping list. In real life you run a **fraction** of this (the natural base plus, at most, one enhanced lever), and you add anything new one at a time, measured. Several pieces below carry flags I'd weight heavily; read the honesty callout at the end.
+> ==This day deliberately breaks the "one lever at a time" rule to show the *complete* integrated picture in one frame.== **Nobody should build to this directly, and almost nobody should build to it at all.** It stacks prescription stimulants, a prescription SSRI, a GLP-1 agonist, research peptides, *and* anabolics simultaneously, a combined risk load far beyond anything justified by the [[Part 4.0 - The Escalation Protocol#The "do you even need this?" gate|"do you even need this?" gate]]. Treat it the way you'd treat a pro bodybuilder's full chemical protocol in the [[Part 5.0 - Putting It All Together|PE series]]: useful for *understanding how the pieces relate*, not a shopping list. In real life you run a **fraction** of this (the natural base plus, at most, one enhanced lever), and you add anything new one at a time, measured. Several pieces below carry flags I'd weight heavily; read the honesty callout at the end.
 
 ### Act I: The Bedrock (≈06:00–07:30)
 
@@ -180,7 +137,7 @@ To make the whole architecture legible in one picture, here is the **maximal day
  The "factory" primed to build neurotransmitters from amino acids later
 ```
 
-Peak performance starts by setting the landscape before the first email, with the **foundational layer**, not a pill. Bright light suppresses melatonin and clears sleep-inertia adenosine; fasted Zone 2 cardio plus heat releases a natural anandamide/endorphin wave that buffers cortisol; and the gut-plus-cofactor base (fermented foods, active B6/P5P, magnesium, zinc, iron, omega-3) is the catalyst engine that lets amino acids *become* dopamine, serotonin, and acetylcholine. (The hormonal-base layer, e.g. intranasal testosterone for a stable morning androgen curve, is a **[[Part 4.2 - Choosing Your Ancillaries|PE-series decision]]**, not a cognitive one; it lives here only because a suppressed [[Part 3.1 - Neural Preservation|neurosteroid base]] is what causes "TRT brain fog.")
+Peak performance starts by setting the landscape before the first email, with the **foundational layer**, not a pill. Bright light suppresses melatonin and clears sleep-inertia adenosine; fasted Zone 2 cardio plus heat releases a natural anandamide/endorphin wave that buffers cortisol; and the gut-plus-cofactor base (fermented foods, active B6/P5P, magnesium, zinc, iron, omega-3) is the catalyst engine that lets amino acids *become* dopamine, serotonin, and acetylcholine. (The hormonal-base layer, e.g. intranasal testosterone for a stable morning androgen curve, is a **[[Part 4.2 - Choosing Your Ancillaries|PE-series decision]]**, not a cognitive one; it lives here only because a suppressed [[Part 3.1 - Neural Preservation Compounds|neurosteroid base]] is what causes "TRT brain fog.")
 
 ### Act II: The Excitatory Tunnel (≈08:00–13:00)
 
@@ -203,7 +160,7 @@ This is the deep-work window, the [[Part 1.1 - Signal and Noise|tunnel-vision fa
  Post-training CNS fatigue  →  buffered by neurotrophic support (BDNF/NGF)
 ```
 
-A short nap flushes adenosine and resets the afternoon. Then the day shifts from intellectual to physical work, and the *training itself* is a [[Part 1.0 - What Athleticism Actually Is|cognitive intervention]], because exercise is the biggest natural [[Part 3.1 - Neural Preservation|BDNF]] lever there is. (Pre-workout anabolics like sublingual Anavar are, again, a **[[Part 3.2 - Cycle Design|PE-series]]** choice, not a nootropic one.) Heavy training transiently fatigues the CNS; the neurotrophic peptides from [[Part 3.1 - Neural Preservation|Part 3.1]] (Semax, Cerebrolysin) are positioned here to buffer that, though both are research/parenteral compounds with the caveats already noted.
+A short nap flushes adenosine and resets the afternoon. Then the day shifts from intellectual to physical work, and the *training itself* is a [[Part 1.0 - What Athleticism Actually Is|cognitive intervention]], because exercise is the biggest natural [[Part 3.1 - Neural Preservation Compounds|BDNF]] lever there is. (Pre-workout anabolics like sublingual Anavar are, again, a **[[Part 3.2 - Cycle Design|PE-series]]** choice, not a nootropic one.) Heavy training transiently fatigues the CNS; the neurotrophic peptides from [[Part 3.1 - Neural Preservation Compounds|Part 3.1]] (Semax, Cerebrolysin) are positioned here to buffer that, though both are research/parenteral compounds with the caveats already noted.
 
 ### Act IV: The Inhibitory Re-Feed (≈20:00–22:00)
 
@@ -239,44 +196,27 @@ The brakes go fully on, glutamate is dampened, and under deep sleep the day's le
 > Notice what makes the *defensible* version of this day work: **every dose is low, and the inputs are layered, not maxed.** ==Never stack compounding compounds at maximum solo doses.== A precursor + a metabolic optimiser + a small breakdown-inhibitor + a calming balancer, each modest, produces a smooth, balanced state; a single megadose shoves you past your [[Part 1.1 - Signal and Noise|inverted-U]] peak into jitters, crash, and tolerance. This is the same **low-dose synergy** Golden Rule as the [[Part 4.1 - The Natural Stack|natural stack]], and it's the only reason an integrated day like this could be coherent rather than a chemical pile-up. The maximal day is a *map*; the Golden Rule is how you'd ever walk a small, safe part of it.
 
 ---
-## The "do you even need this?" gate
-
-Before opening any of the above, run this honestly; it's the cognitive version of the [[Part 1.0 - The Decision|PE readiness gate]]:
-
-> [!check] Be honest with these
-> - **Is the natural stack maxed?** Are you actually running [[Part 4.1 - The Natural Stack|Part 4.1]] fully, dosed correctly, for at least a month?
-> - **Is sleep genuinely fixed?** Because a eugeroic on a rested brain barely beats the natural base; the gap a research chemical fills is usually a *sleep* gap.
-> - **Have you hit a *measured* ceiling?** Not a feeling: a flat [[Part 1.0 - The Cognitive Architecture|deep-work and PR trend]] that hasn't moved despite a dialled base.
-> - **Does the specific compound's reward beat its specific risk *for your situation*?** (An amphetamine's cardiovascular tax means something very different for an enhanced lifter than for a student.)
-
-If you can't tick those, ==the highest-return move is still behavioural or natural.== The enhanced layer is real and it has its place (defending a brutal deadline on three hours' sleep, a maximum-synthesis learning sprint), but it's a narrow tool for narrow moments, not the next "level" of a progression. The progression *ended* at a dialled natural stack and good sleep. Everything here is a situational override with a bill attached.
-
----
-## Part 4 Takeaways
+## Part 4.2 Takeaways
 
 > [!check] Key concepts to internalise
 >
-> - **This article is optional, and most people don't need it.** A dialled [[Part 4.1 - The Natural Stack|natural stack]] plus good sleep is already winning; the enhanced layer trades worse risk-reward for diminishing returns.
-> - **Enhance a pathway, don't replace the base.** Keep the natural engine running and add **one** overlay on top. The base is what makes the overlay work (the racetam headache is the proof).
+> - **This article is a catalog, not a protocol.** It tells you what each enhanced compound *is* and what it costs you in risk. *Whether* to escalate lives in [[Part 4.0 - The Escalation Protocol|Part 4.0]]; *how* to fold one into your base lives in [[Part 4.3 - The Hybrid Stack|Part 4.3]].
+> - **Most people never need to open this.** A dialled [[Part 4.1 - The Natural Stack|natural stack]] plus good sleep is already winning; the enhanced layer trades worse risk-reward for diminishing returns.
 > - **Same six pathways, turned up:** eugeroics/stimulants (ignition), racetams (acetylcholine), peptides (neurogenesis), Memantine/Mag-threonate (the shield you add *because* you're enhancing), neurosteroids (the on-cycle variable), Buspirone/Selank (calm).
 > - **Modafinil is for the depleted brain, not the fresh one.** Amphetamines carry a cardiovascular tax that's especially bad on cycle.
-> - **Racetam evidence in healthy adults is thin**; they're choline-dependent (your base covers it).
+> - **Racetam evidence in healthy adults is thin**; they're choline-dependent (your base covers it, which is exactly why [[Part 4.3 - The Hybrid Stack|the mixing in 4.3]] matters).
 > - **Dihexa and Phenibut are the two hard stops:** a theoretical cancer mechanism with no human data, and a severe-dependence trap, respectively.
-> - **One lever at a time, off on rest days, measured every time.** The enhanced *pharmacology* is a swing weapon, not a daily driver; the one debated exception (a context-gated daily-nicotine *habit-anchor*) is weighed honestly in the escalation protocol above.
-> - **The protocol is three levels.** Level 1 = the constant non-stimulating base, run year-round (this is the realistic ceiling for almost everyone). Level 2 = the heavy day, where you *diagnose the bottleneck* (start / focus / decide / learn) and add the matching lever, not everything. Level 3 = rare situational overrides (the blown-sleep deadline → modafinil; the Semax ritual; the daily-nicotine judgment call).
 > - **The Maximal Day is a map, not a menu.** The fully-assembled "maxed-out" day exists to show how the pathways relate across a day; you build a *fraction* of it. And the Golden Rule that makes any of it coherent: ==low-dose synergy beats max-dosing; never stack compounding compounds at maximum solo doses.==
 
-## Your Enhancement Task List
+## How to read this catalog
 
-1. **Run the "do you even need this?" gate honestly.** If the natural stack and sleep aren't both maxed, stop here; that's your real next move.
-2. **If you proceed, pick exactly one lever** that targets a *measured* failing pathway, keep the full natural base underneath, and reserve it for genuine high-stakes days.
-3. **Add the preservation shield** (Memantine or, lower-risk, Mag-L-Threonate/NAC) before you run any Tier-1 stimulant regularly; you're now generating excitotoxic load.
-4. **Measure the overlay** against a natural heavy day with the [[Part 1.0 - The Cognitive Architecture|PR battery]]. No movement → drop it.
-5. **Cycle everything tolerance-prone off** on rest days, exactly like the natural Heavy-Day modules.
-6. **Never touch Dihexa or Phenibut.** And treat every prescription compound as the controlled substance it legally is.
+1. **Pass the gate first.** If you haven't run the [[Part 4.0 - The Escalation Protocol#The "do you even need this?" gate|"do you even need this?" gate]] in Part 4.0 (natural stack maxed, sleep fixed, a *measured* ceiling), close this article; that's your real next move.
+2. **Read each compound as a *what-and-what-it-costs* entry**, not an instruction. Note the pathway it amplifies and the specific risk in the matrix.
+3. **For the *how*, go to [[Part 4.3 - The Hybrid Stack|Part 4.3]].** That's where the actual recipes live: which natural heavy-layer compound to *remove* when you add an enhanced one, what runs daily versus cyclically, and the preservation shield (Memantine or lower-risk Mag-L-Threonate/NAC) you add before running any Tier-1 stimulant regularly.
+4. **Two compounds are simply off the table:** ==never touch Dihexa or Phenibut.== And treat every prescription compound as the controlled substance it legally is.
 
-> [!note] The series, closed
-> You started with a drawer of random compounds and no structure. You now have the whole thing: an architecture (two buckets, six levers), a scoreboard (leading metrics + PRs), a free behavioural base, a tiered toolbox, a complete natural engine, and an honest map of the experimental edge, including the parts of it you should leave alone. ==The brain, finally, run by the numbers, exactly like the body.== The [[Part 1.0 - The Architecture of Sleep|Sleep series]] is effectively Part 0 of this one, and the [[Part 4.2 - Choosing Your Ancillaries|PE neuroprotection]] chapter is its hormonal sibling.
+> [!note] Up next: how to actually mix it
+> This catalog tells you what's on the shelf. The next article, [[Part 4.3 - The Hybrid Stack|Part 4.3 — The Hybrid Stack]], is the one that turns it into a usable protocol: how to fold a single enhanced compound into the natural engine *and what to take out when you do* (the classic case: dropping caffeine but keeping L-theanine on a modafinil day), plus which experimental compounds can run daily versus only in cycles. Read it before you combine anything. The [[Part 1.0 - The Architecture of Sleep|Sleep series]] is effectively Part 0 of this one, and the [[Part 4.2 - Choosing Your Ancillaries|PE neuroprotection]] chapter is its hormonal sibling.
 
 ---
 

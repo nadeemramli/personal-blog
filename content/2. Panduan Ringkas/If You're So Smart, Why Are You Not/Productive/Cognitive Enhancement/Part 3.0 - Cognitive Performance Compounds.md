@@ -1,5 +1,5 @@
 ---
-title: Part 3.0 — Cognitive Performance
+title: Part 3.0 — Cognitive Performance Compounds
 draft: false
 tags:
   - productive
@@ -17,11 +17,13 @@ date: 2026-05-25
 > - **Part 2 — The Base:**
 > 	- **Part 2.0:** [[Part 2.0 - The Behavioral Base|The Behavioral Base]] (the 90% that comes before any compound, and where it ladders in your life)
 > - **Part 3 — Pharmacology (2 sub-articles):**
-> 	- **Part 3.0 (this article):** [[Part 3.0 - Cognitive Performance|Cognitive Performance]] (executive function, memory, and state control, by tier)
-> 	- **Part 3.1:** [[Part 3.1 - Neural Preservation|Neural Preservation]] (the hardware and the baseline, by tier)
-> - **Part 4 — Application (2 sub-articles):**
+> 	- **Part 3.0 (this article):** [[Part 3.0 - Cognitive Performance Compounds|Cognitive Performance]] (executive function, memory, and state control, by tier)
+> 	- **Part 3.1:** [[Part 3.1 - Neural Preservation Compounds|Neural Preservation]] (the hardware and the baseline, by tier)
+> - **Part 4 — Application (4 sub-articles):**
+> 	- **Part 4.0:** [[Part 4.0 - The Escalation Protocol|The Escalation Protocol]] (the guiding framework: when and how to escalate)
 > 	- **Part 4.1:** [[Part 4.1 - The Natural Stack|The Natural Stack]] (the clean daily engine, built and costed)
-> 	- **Part 4.2:** [[Part 4.2 - The Enhanced Stack|The Enhanced Stack]] (layering experimental & prescription compounds)
+> 	- **Part 4.2:** [[Part 4.2 - The Enhanced Stack|The Enhanced Stack]] (experimental & prescription compounds, by tier)
+> 	- **Part 4.3:** [[Part 4.3 - The Hybrid Stack|The Hybrid Stack]] (how to mix natural + enhanced)
 > ----
 ## Table of Contents
 
@@ -79,7 +81,7 @@ The lever for *starting* and *grinding*: it drives your task latency toward zero
 > Modafinil is sold around entrepreneur circles as *the* premier "wealth" stimulant. The evidence is more sober than the hype. Its effects are **strong in sleep-deprived people** but **modest in well-rested ones**: meta-analysis in healthy, non-sleep-deprived subjects finds mainly an attention benefit, with little to no effect on memory or motivation.[^1] Translation: ==Modafinil is far better at *rescuing* a depleted brain than at *super-charging* a fresh one.== Its single best, most evidence-backed use is exactly the one its label describes (defending performance when you're under-slept), which is a reason to fix [[Part 2.0 - The Behavioral Base|sleep]] first, not a substitute for it.
 
 > [!caution] The Adderall tax on your other pillars
-> Amphetamines are excellent for Executive Function and *terrible* for the other two pillars and for your [[Part 3.1 - Neural Preservation|hardware]]. They crash your **Peaceful** pillar (anxiety, irritable comedowns) and load your **Healthy** one (heart rate, blood pressure), overlapping directly with the cardiovascular risks you already monitor [[Part 4.1 - When the Numbers Move|on cycle]]. For an enhanced lifter, stacking amphetamine cardiovascular load on top of gear is a genuinely bad idea. If you need Tier 1 drive, the eugeroics are the lower-tax choice.
+> Amphetamines are excellent for Executive Function and *terrible* for the other two pillars and for your [[Part 3.1 - Neural Preservation Compounds|hardware]]. They crash your **Peaceful** pillar (anxiety, irritable comedowns) and load your **Healthy** one (heart rate, blood pressure), overlapping directly with the cardiovascular risks you already monitor [[Part 4.1 - When the Numbers Move|on cycle]]. For an enhanced lifter, stacking amphetamine cardiovascular load on top of gear is a genuinely bad idea. If you need Tier 1 drive, the eugeroics are the lower-tax choice.
 
 ### Tier 2: Premium OTC
 
@@ -106,10 +108,10 @@ The lever for *learning, retaining, and synthesising*. The key distinction from 
 - **Alpha-GPC:** the most bioavailable choline donor; crosses the blood-brain barrier easily to serve as raw fuel for acetylcholine. Common dose 300–600 mg active.
   > [!warning] The alpha-GPC stroke signal, worth flagging
   > A large 2021 South Korean cohort study (>12 million adults, 50+) found alpha-GPC use associated with a **~46% higher 10-year stroke risk, dose-dependently**, the proposed mechanism being that the liberated choline is converted by gut bacteria to **TMAO**, which promotes atherosclerosis.[^2] This is *observational* (association, not proven causation) and in an older population, but it's a real signal, and it matters more for **you specifically**, because an enhanced lifter is already managing cardiovascular and lipid load [[Part 4.0 - Protection|on cycle]]. The pragmatic move: don't run high-dose alpha-GPC daily for years, and consider **CDP-choline** as the lower-TMAO alternative.
-- **CDP-Choline (Citicoline, "Cognizin"):** 250–500 mg. Dual-action: it provides choline fuel *and* up-regulates uridine to support brain-cell membranes (which ties directly into [[Part 3.1 - Neural Preservation|the uridine story]] in Part 3.1). Lower TMAO burden than alpha-GPC, which makes it the more conservative choline source for a lifter.
+- **CDP-Choline (Citicoline, "Cognizin"):** 250–500 mg. Dual-action: it provides choline fuel *and* up-regulates uridine to support brain-cell membranes (which ties directly into [[Part 3.1 - Neural Preservation Compounds|the uridine story]] in Part 3.1). Lower TMAO burden than alpha-GPC, which makes it the more conservative choline source for a lifter.
 - **Huperzine-A:** 100–200 mcg. A botanical acetylcholinesterase inhibitor, effectively an OTC version of the Tier 1 brake. It has a **long half-life**, so it accumulates; daily use without breaks can cause headaches, muscle twitches, and that over-cholinergic heaviness. ==Cycle it (e.g. a few days on, a few off), don't run it continuously.==
-- **ALCAR (Acetyl-L-Carnitine):** 500–2,000 mg. Supplies an acetyl group that feeds *both* acetylcholine synthesis and mitochondrial energy, so it doubles as a memory input and a mental-fatigue buffer. Sits alongside the choline donors above, and pairs with creatine on the energy side ([[Part 3.1 - Neural Preservation|Part 3.1]]).
-- **Bacopa Monnieri:** ~300 mg standardised to 50% bacosides. A *slow-acting* memory builder (it improves recall and attention speed, with benefits accruing over weeks rather than hours) that is also mildly neuroprotective and antioxidant, so it straddles into the [[Part 3.1 - Neural Preservation|Preservation]] bucket.[^4] The patience tax is real: judge it at 4–6 weeks, not on day one.
+- **ALCAR (Acetyl-L-Carnitine):** 500–2,000 mg. Supplies an acetyl group that feeds *both* acetylcholine synthesis and mitochondrial energy, so it doubles as a memory input and a mental-fatigue buffer. Sits alongside the choline donors above, and pairs with creatine on the energy side ([[Part 3.1 - Neural Preservation Compounds|Part 3.1]]).
+- **Bacopa Monnieri:** ~300 mg standardised to 50% bacosides. A *slow-acting* memory builder (it improves recall and attention speed, with benefits accruing over weeks rather than hours) that is also mildly neuroprotective and antioxidant, so it straddles into the [[Part 3.1 - Neural Preservation Compounds|Preservation]] bucket.[^4] The patience tax is real: judge it at 4–6 weeks, not on day one.
 
 > [!caution] The fuel-and-brake overload trap
 > Running a strong fuel (alpha-GPC) *and* a brake (Huperzine-A, or worse, Donepezil) hard at the same time can tip you into **acetylcholine overload**: depressive mood dips, jaw clenching, muscle stiffness, and a distinct "heavy" brain fog. More choline is *not* more memory past a point; it's another inverted-U. This is also why piling DMAE on top of alpha-GPC is redundant and risky, covered in [[Part 4.1 - The Natural Stack|Part 4.1]].
@@ -185,7 +187,7 @@ Nicotine straddles two pillars and deserves its own section. **Detached entirely
 > - **Always:** diagnose the lever, change one variable, measure ([[Part 1.0 - The Cognitive Architecture|Part 1.0]]).
 
 > [!note] Up next
-> That's the software you *deploy*. [[Part 3.1 - Neural Preservation|Part 3.1 — Neural Preservation]] covers the hardware you *protect*: BDNF/NGF and neurogenesis, glutamate regulation and neuroprotection, the neurosteroid base (and the TRT-brain-fog fix), plus where systemic biomarkers like hs-CRP actually fit.
+> That's the software you *deploy*. [[Part 3.1 - Neural Preservation Compounds|Part 3.1 — Neural Preservation]] covers the hardware you *protect*: BDNF/NGF and neurogenesis, glutamate regulation and neuroprotection, the neurosteroid base (and the TRT-brain-fog fix), plus where systemic biomarkers like hs-CRP actually fit.
 
 ---
 

@@ -17,11 +17,13 @@ date: 2026-05-25
 > - **Part 2 — The Base:**
 > 	- **Part 2.0:** [[Part 2.0 - The Behavioral Base|The Behavioral Base]] (the 90% that comes before any compound, and where it ladders in your life)
 > - **Part 3 — Pharmacology (2 sub-articles):**
-> 	- **Part 3.0:** [[Part 3.0 - Cognitive Performance|Cognitive Performance]] (the active software stack, by tier)
-> 	- **Part 3.1:** [[Part 3.1 - Neural Preservation|Neural Preservation]] (the hardware and the baseline, by tier)
-> - **Part 4 — Application (2 sub-articles):**
+> 	- **Part 3.0:** [[Part 3.0 - Cognitive Performance Compounds|Cognitive Performance]] (the active software stack, by tier)
+> 	- **Part 3.1:** [[Part 3.1 - Neural Preservation Compounds|Neural Preservation]] (the hardware and the baseline, by tier)
+> - **Part 4 — Application (4 sub-articles):**
+> 	- **Part 4.0:** [[Part 4.0 - The Escalation Protocol|The Escalation Protocol]] (the guiding framework: when and how to escalate)
 > 	- **Part 4.1 (this article):** [[Part 4.1 - The Natural Stack|The Natural Stack]] (the clean daily engine, built, timed, and costed)
-> 	- **Part 4.2:** [[Part 4.2 - The Enhanced Stack|The Enhanced Stack]] (layering experimental & prescription compounds on top)
+> 	- **Part 4.2:** [[Part 4.2 - The Enhanced Stack|The Enhanced Stack]] (experimental & prescription compounds, by tier)
+> 	- **Part 4.3:** [[Part 4.3 - The Hybrid Stack|The Hybrid Stack]] (how to mix natural + enhanced)
 > ----
 ## Table of Contents
 
@@ -41,7 +43,7 @@ date: 2026-05-25
 ---
 
 > [!important] This is the whole machine, built from legal parts
-> Everything in this article is **Tier 2 (Premium OTC)** from [[Part 3.0 - Cognitive Performance|Part 3.0]]: amino acids, choline, herbs, a nucleotide, fish oil. No prescriptions, no research chemicals. ==This is deliberately the complete, self-sufficient stack: the daily engine you can run for years.== Most people never need anything past this article. The heavy pharmacology (racetams, peptides, prescription stimulants) lives in [[Part 4.2 - The Enhanced Stack|Part 4.2]], and it's an *optional overlay* on this base, not a replacement for it. If you haven't passed the [[Part 2.0 - The Behavioral Base|behavioural gate]], a perfect stack still won't save you.
+> Everything in this article is **Tier 2 (Premium OTC)** from [[Part 3.0 - Cognitive Performance Compounds|Part 3.0]]: amino acids, choline, herbs, a nucleotide, fish oil. No prescriptions, no research chemicals. ==This is deliberately the complete, self-sufficient stack: the daily engine you can run for years.== Most people never need anything past this article. The heavy pharmacology (racetams, peptides, prescription stimulants) lives in [[Part 4.2 - The Enhanced Stack|Part 4.2]], and it's an *optional overlay* on this base, not a replacement for it. If you haven't passed the [[Part 2.0 - The Behavioral Base|behavioural gate]], a perfect stack still won't save you.
 
 ---
 ## What we're building
@@ -76,7 +78,7 @@ Walk it as a six-act sequence; this is the storyline that makes the protocol bel
 
 **Act I: Fuel and power (Creatine, ALCAR, Tyrosine).** The system starts with resource allocation. **Creatine** is your cellular battery, recycling ATP so neurons don't brown out under heavy mathematical or creative load.[^3] **L-Tyrosine** is the crude oil: it converts into L-DOPA → dopamine → norepinephrine, the catecholamines behind drive, focus, and urgency, and it shines most at *replenishing* those stores under stress. **ALCAR (Acetyl-L-Carnitine)** is an acetyl-group donor that feeds *both* acetylcholine synthesis and mitochondrial energy production, turning the battery into usable horsepower and clearing brain fog.
 
-**Act II: Wiring and the learning network (the Kennedy pathway + Bacopa).** With raw energy online, the brain needs a stable communication network. **Uridine + CDP-choline + DHA (from fish oil)** combine via the *Kennedy pathway* to build **phosphatidylcholine**, the actual physical membranes of your neurons ([[Part 3.1 - Neural Preservation|Part 3.1]]). All three are required; this is the trinity from [[Part 2.0 - The Behavioral Base|Part 2.0]]. Alongside them, **Bacopa Monnieri** strengthens synaptic transmission and memory consolidation, slowly, over weeks.
+**Act II: Wiring and the learning network (the Kennedy pathway + Bacopa).** With raw energy online, the brain needs a stable communication network. **Uridine + CDP-choline + DHA (from fish oil)** combine via the *Kennedy pathway* to build **phosphatidylcholine**, the actual physical membranes of your neurons ([[Part 3.1 - Neural Preservation Compounds|Part 3.1]]). All three are required; this is the trinity from [[Part 2.0 - The Behavioral Base|Part 2.0]]. Alongside them, **Bacopa Monnieri** strengthens synaptic transmission and memory consolidation, slowly, over weeks.
 
 **Act III: High-volume logistics (Ginkgo).** Energy and wiring are useless if nutrients can't move. **Ginkgo Biloba** acts as a mild vasodilator, widening cerebral vessels so oxygenated blood (carrying every other compound) reaches the prefrontal cortex efficiently. (The human evidence here is modest; treat it as a reasonable, low-risk delivery aid, not a hero.)
 
@@ -87,7 +89,7 @@ Walk it as a six-act sequence; this is the storyline that makes the protocol bel
 **Act VI: Mood and neurogenesis (Saffron + Lion's Mane).** To stay resilient and creative, **Saffron** behaves like a reuptake inhibitor, keeping serotonin and dopamine active in the synapse longer, stabilising mood and blunting frustration-fatigue. And deep in the core, **Lion's Mane** (a real, concentrated extract, not cheap starch-filled "biomass") triggers **NGF/BDNF** synthesis, growing new connections out of the structural substrates Act II supplied.
 
 > [!tip] The nitrous button: nicotine
-> For a genuine high-stakes emergency, a **1–2 mg nicotine lozenge/gum** is the nitrous override ([[Part 3.0 - Cognitive Performance|Part 3.0]]): a direct nicotinic-acetylcholine agonist that also floods dopamine. Because your stack has *already* maxed acetylcholine and shielded it with Huperzine, the nicotine opens a floodgate of focus. ==Tactical only: 1–2 mg, not daily.== Treated as a habit it becomes the cheap-dopamine problem [[Part 2.0 - The Behavioral Base|Part 2.0]] worked to drain.
+> For a genuine high-stakes emergency, a **1–2 mg nicotine lozenge/gum** is the nitrous override ([[Part 3.0 - Cognitive Performance Compounds|Part 3.0]]): a direct nicotinic-acetylcholine agonist that also floods dopamine. Because your stack has *already* maxed acetylcholine and shielded it with Huperzine, the nicotine opens a floodgate of focus. ==Tactical only: 1–2 mg, not daily.== Treated as a habit it becomes the cheap-dopamine problem [[Part 2.0 - The Behavioral Base|Part 2.0]] worked to drain.
 
 ---
 ## The base stack: 13 ingredients, by job
@@ -111,7 +113,7 @@ Here's the engine as a parts list, each tagged to its pillar so you can see it's
 | **Saffron** | Flexibility / State Control (mood) | VI | Reuptake-inhibition-like; emotional lift |
 
 > [!note] The choline split (a smart cost + physiology move)
-> Choline appears twice on purpose. **CDP-choline (citicoline)** is the slower, structural choline: it also yields cytidine that the body converts to **uridine**, so it synergises with your standalone uridine and supports the Kennedy pathway. **Alpha-GPC** is the fast, acute choline for immediate focus. The efficient play: run a **low daily CDP-choline** as the baseline, and save **Alpha-GPC for heavy days only.** This also sidesteps over-relying on alpha-GPC daily given its [[Part 3.0 - Cognitive Performance|stroke/TMAO signal]], doubly relevant for you, with the [[Part 4.0 - Protection|cardiovascular load you already carry on cycle]].
+> Choline appears twice on purpose. **CDP-choline (citicoline)** is the slower, structural choline: it also yields cytidine that the body converts to **uridine**, so it synergises with your standalone uridine and supports the Kennedy pathway. **Alpha-GPC** is the fast, acute choline for immediate focus. The efficient play: run a **low daily CDP-choline** as the baseline, and save **Alpha-GPC for heavy days only.** This also sidesteps over-relying on alpha-GPC daily given its [[Part 3.0 - Cognitive Performance Compounds|stroke/TMAO signal]], doubly relevant for you, with the [[Part 4.0 - Protection|cardiovascular load you already carry on cycle]].
 
 ---
 ## Dosage optimisation: getting each one right
@@ -154,14 +156,14 @@ Once the base is comprehensive, *more is not automatically better*; the inverted
 ### Synergistic: genuinely worth adding
 
 - **Omega-3 (EPA/DHA) → foundational, not optional.** Already in the base above, but worth restating: it's the third leg of the uridine + choline trinity, so without it the structural half can't build membranes, and it boosts the fat-soluble botanicals when taken with them at a meal. Run it daily.
-- **Lion's Mane → high value, but buy the right form.** Adds a *different* mechanism (NGF/BDNF neuroplasticity) with no neurotransmitter overlap. ==Quality is everything here:== the active compounds split between **hericenones** (in the fruiting body) and the more potent **erinacines** (in the mycelium). Cheap "mushroom powder" or starch-heavy biomass won't move BDNF; you want a concentrated, standardised extract. Human cognitive evidence is still mixed and slow, so judge it over months ([[Part 3.1 - Neural Preservation|Part 3.1]]).
+- **Lion's Mane → high value, but buy the right form.** Adds a *different* mechanism (NGF/BDNF neuroplasticity) with no neurotransmitter overlap. ==Quality is everything here:== the active compounds split between **hericenones** (in the fruiting body) and the more potent **erinacines** (in the mycelium). Cheap "mushroom powder" or starch-heavy biomass won't move BDNF; you want a concentrated, standardised extract. Human cognitive evidence is still mixed and slow, so judge it over months ([[Part 3.1 - Neural Preservation Compounds|Part 3.1]]).
 - **Creatine (3–5 g) → yes.** A brain-ATP buffer that reduces mental fatigue, especially under sleep deprivation, and you're likely already taking it for the gym. Synergises with ALCAR on mitochondrial energy.
 - **Phosphatidylserine (PS) → situational synergy.** A structural phospholipid that supports membrane fluidity and blunts cortisol spikes: a "smoother" alongside L-theanine, and it supports the membrane-building that makes uridine work.
 
 ### Redundant or risky: skip
 
 - **DMAE → skip.** Another route to raising acetylcholine, which you're *already* hitting hard with your choline source (fuel) and Huperzine-A (brake). Stacking DMAE risks **cholinergic overload**: depressive dips, jaw clenching, muscle stiffness, heavy fog. Pure redundancy with downside.
-- **Pregnenolone / DHEA → not a casual add.** Potent hormones that shift your endocrine baseline ([[Part 3.1 - Neural Preservation|Part 3.1]]). If you're on cycle and suspect neurosteroid-depletion fog, that's a **test-first, supervised** correction, not a stack ingredient.
+- **Pregnenolone / DHEA → not a casual add.** Potent hormones that shift your endocrine baseline ([[Part 3.1 - Neural Preservation Compounds|Part 3.1]]). If you're on cycle and suspect neurosteroid-depletion fog, that's a **test-first, supervised** correction, not a stack ingredient.
 
 ### The special case: Rhodiola Rosea (a "swing weapon," not a daily driver)
 
@@ -182,18 +184,7 @@ The shape of the day follows the **gas-and-brakes arc** from [[Part 1.1 - Signal
 - **Excitatory (morning–afternoon, produce-windows):** the gas (caffeine + tyrosine + the acute choline) *paired with theanine* so you sit near your inverted-U peak, not past it.
 - **Inhibitory (evening, recover):** the brakes, winding excitation down, with L-theanine as the handbrake into sleep. ==You raise the gas when you produce and the brakes when you recover; flooring the gas all day is the burnout path.==
 
-```
-[ BREAKFAST ]    🐟  OMEGA-3 + fat-soluble    → take fish-oil, saffron, bacopa,
-                     pieces WITH a fatty meal     ginkgo here for real absorption
-[ 9 AM – 5 PM ]  🚀  CORE STACK + SAFFRON     → office focus, mood, output
-                     (Tyrosine, choline, caffeine+theanine 2:1,
-                      ALCAR, uridine, bacopa, ginkgo, saffron)
-[ 5 PM – 6 PM ]  📉  THE TRANSITION           → caffeine fades, CNS fatigue rises
-[ 5:30 PM ]      ⚡  RHODIOLA (pre-workout)    → crushes CNS fatigue for training
-[ 6 PM – 8 PM ]      TRAIN                      → drive + dopamine for the session
-[ with dinner /  🌙  L-THEANINE (extra)        → handbrake on lingering norepinephrine
-  pre-bed ]                                      → protects sleep
-```
+![[Natural Stack Daily Schedule.png]]
 
 > [!check] Splitting Saffron (AM) and Rhodiola (PM): the mechanics
 > - **Saffron in the morning** anchors mood and focus through the workday; its long half-life keeps a smooth background lift running by 6 PM.

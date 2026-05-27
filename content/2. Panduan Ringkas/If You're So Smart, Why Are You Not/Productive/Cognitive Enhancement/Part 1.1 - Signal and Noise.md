@@ -16,11 +16,13 @@ date: 2026-05-25
 > - **Part 2 — The Base:**
 > 	- **Part 2.0:** [[Part 2.0 - The Behavioral Base|The Behavioral Base]] (the 90% that comes before any compound, and where it ladders in your life)
 > - **Part 3 — Pharmacology (2 sub-articles):**
-> 	- **Part 3.0:** [[Part 3.0 - Cognitive Performance|Cognitive Performance]] (the active software stack, by tier)
-> 	- **Part 3.1:** [[Part 3.1 - Neural Preservation|Neural Preservation]] (the hardware and the baseline, by tier)
-> - **Part 4 — Application (2 sub-articles):**
+> 	- **Part 3.0:** [[Part 3.0 - Cognitive Performance Compounds|Cognitive Performance]] (the active software stack, by tier)
+> 	- **Part 3.1:** [[Part 3.1 - Neural Preservation Compounds|Neural Preservation]] (the hardware and the baseline, by tier)
+> - **Part 4 — Application (4 sub-articles):**
+> 	- **Part 4.0:** [[Part 4.0 - The Escalation Protocol|The Escalation Protocol]] (the guiding framework: when and how to escalate)
 > 	- **Part 4.1:** [[Part 4.1 - The Natural Stack|The Natural Stack]] (the clean daily engine, built and costed)
-> 	- **Part 4.2:** [[Part 4.2 - The Enhanced Stack|The Enhanced Stack]] (layering experimental & prescription compounds)
+> 	- **Part 4.2:** [[Part 4.2 - The Enhanced Stack|The Enhanced Stack]] (experimental & prescription compounds, by tier)
+> 	- **Part 4.3:** [[Part 4.3 - The Hybrid Stack|The Hybrid Stack]] (how to mix natural + enhanced)
 > ----
 ## Table of Contents
 
@@ -120,7 +122,7 @@ Zoom all the way out and the entire brain runs on two opposing forces, and every
 ==A high-performing brain is not one that maxes excitation. It's one that can swing decisively between the two on demand==: full gas for a deep-work block, then full brakes to recover so the next block is just as sharp. The people who burn out are the ones stuck with the gas pressed flat all day; they never let the brakes restore the system, so their peak keeps sliding lower.
 
 > [!check] A happy brain is a productive brain
-> There's a reason "just push harder" fails as a long-run strategy: ==drive without an underlying floor of calm and reward collapses into anxiety, and an anxious brain is a rigid, low-flexibility brain.== Mood is not separate from cognition; it's upstream of it. This is why [[Part 3.1 - Neural Preservation|preservation]], sleep, and the calming pathway aren't "soft" additions to a performance stack; they're what *keep the performance available.* The excitation is only worth what the inhibition lets you sustain.
+> There's a reason "just push harder" fails as a long-run strategy: ==drive without an underlying floor of calm and reward collapses into anxiety, and an anxious brain is a rigid, low-flexibility brain.== Mood is not separate from cognition; it's upstream of it. This is why [[Part 3.1 - Neural Preservation Compounds|preservation]], sleep, and the calming pathway aren't "soft" additions to a performance stack; they're what *keep the performance available.* The excitation is only worth what the inhibition lets you sustain.
 
 This balance also has a natural daily shape, which is the spine of the protocols later in the series: **excitation in the morning and early afternoon** (your deep-work windows, where you deliberately raise the gas with the right inputs at the right ratio), and **inhibition in the evening** (where you deliberately raise the brakes to recover and sleep). The [[Part 4.1 - The Natural Stack|natural stack]] is built around exactly that arc (gas when you produce, brakes when you recover), and getting the *ratio* right within each block is what the timing section there is for.
 

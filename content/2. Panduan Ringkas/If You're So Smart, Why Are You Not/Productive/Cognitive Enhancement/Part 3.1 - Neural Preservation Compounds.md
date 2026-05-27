@@ -1,5 +1,5 @@
 ---
-title: Part 3.1 — Neural Preservation
+title: Part 3.1 — Neural Preservation Compounds
 draft: false
 tags:
   - productive
@@ -17,11 +17,13 @@ date: 2026-05-25
 > - **Part 2 — The Base:**
 > 	- **Part 2.0:** [[Part 2.0 - The Behavioral Base|The Behavioral Base]] (the 90% that comes before any compound, and where it ladders in your life)
 > - **Part 3 — Pharmacology (2 sub-articles):**
-> 	- **Part 3.0:** [[Part 3.0 - Cognitive Performance|Cognitive Performance]] (the active software stack, by tier)
-> 	- **Part 3.1 (this article):** [[Part 3.1 - Neural Preservation|Neural Preservation]] (neurogenesis, neuroprotection, and the neurosteroid base)
-> - **Part 4 — Application (2 sub-articles):**
+> 	- **Part 3.0:** [[Part 3.0 - Cognitive Performance Compounds|Cognitive Performance]] (the active software stack, by tier)
+> 	- **Part 3.1 (this article):** [[Part 3.1 - Neural Preservation Compounds|Neural Preservation]] (neurogenesis, neuroprotection, and the neurosteroid base)
+> - **Part 4 — Application (4 sub-articles):**
+> 	- **Part 4.0:** [[Part 4.0 - The Escalation Protocol|The Escalation Protocol]] (the guiding framework: when and how to escalate)
 > 	- **Part 4.1:** [[Part 4.1 - The Natural Stack|The Natural Stack]] (the clean daily engine, built and costed)
-> 	- **Part 4.2:** [[Part 4.2 - The Enhanced Stack|The Enhanced Stack]] (layering experimental & prescription compounds)
+> 	- **Part 4.2:** [[Part 4.2 - The Enhanced Stack|The Enhanced Stack]] (experimental & prescription compounds, by tier)
+> 	- **Part 4.3:** [[Part 4.3 - The Hybrid Stack|The Hybrid Stack]] (how to mix natural + enhanced)
 > ----
 ## Table of Contents
 
@@ -38,7 +40,7 @@ date: 2026-05-25
 ---
 
 > [!important] The unglamorous half
-> Nobody posts about their neuroprotection stack. There's no immediate *feeling*: Memantine doesn't give you a great afternoon the way modafinil does. That's exactly why this bucket gets skipped, and exactly why skipping it is the expensive mistake. ==Preservation is the joint care of the brain: invisible while it's working, catastrophic when you find out you needed it.== If [[Part 3.0 - Cognitive Performance|Part 3.0]] is the software you run hot, this is the hardware that determines whether you can keep running it at 45 the way you do at 25.
+> Nobody posts about their neuroprotection stack. There's no immediate *feeling*: Memantine doesn't give you a great afternoon the way modafinil does. That's exactly why this bucket gets skipped, and exactly why skipping it is the expensive mistake. ==Preservation is the joint care of the brain: invisible while it's working, catastrophic when you find out you needed it.== If [[Part 3.0 - Cognitive Performance Compounds|Part 3.0]] is the software you run hot, this is the hardware that determines whether you can keep running it at 45 the way you do at 25.
 
 ---
 ## Why this bucket is the one you'll skip and regret
@@ -143,7 +145,7 @@ Uridine deserves a dedicated note because it sits *across* the Performance/Prese
 
 A few of the natural-stack staples don't belong to any single one of the six pathways. Like uridine above, they're cross-cutting **infrastructure**: the energy, the plumbing, and the building material that let every pathway actually run. They sit in this Preservation article because they're protective in spirit (they keep the hardware working), but they serve both buckets.
 
-- **Creatine monohydrate (3–5 g daily):** the brain's ATP buffer. It recycles cellular energy so neurons don't brown out under heavy or sleep-deprived cognition, and it's one of the better-evidenced, lowest-risk cognitive supplements.[^5] The cognitive dose is 3–5 g, not the 20 g athletic loading dose. Pairs with [[Part 3.0 - Cognitive Performance|ALCAR]] on the mitochondrial-energy side.
+- **Creatine monohydrate (3–5 g daily):** the brain's ATP buffer. It recycles cellular energy so neurons don't brown out under heavy or sleep-deprived cognition, and it's one of the better-evidenced, lowest-risk cognitive supplements.[^5] The cognitive dose is 3–5 g, not the 20 g athletic loading dose. Pairs with [[Part 3.0 - Cognitive Performance Compounds|ALCAR]] on the mitochondrial-energy side.
 - **Ginkgo Biloba (120–240 mg):** a mild cerebral vasodilator. It widens blood vessels to improve the blood flow that delivers oxygen (and every other compound) to the prefrontal cortex, the "logistics" of the stack. The human cognitive evidence is modest, so treat it as a reasonable, low-risk delivery aid, not a hero, and note the bleeding/anticoagulation caution.
 - **Phosphatidylserine (100–300 mg):** a structural phospholipid of neuronal membranes that also helps blunt cortisol spikes. It supports the same membrane-building the uridine trinity drives, and smooths the edge off caffeine alongside L-theanine.
 - **Omega-3 (DHA) (≥500–1,000 mg DHA):** the foundational structural fatty acid of every membrane, and the third leg of the uridine + choline trinity above. It earns a place on this list in its own right; the full dietary case is in [[Part 2.0 - The Behavioral Base|Part 2.0]].

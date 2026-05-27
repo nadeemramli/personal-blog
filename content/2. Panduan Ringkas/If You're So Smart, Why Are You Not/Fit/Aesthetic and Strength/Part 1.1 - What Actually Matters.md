@@ -170,6 +170,10 @@ When the data is being tracked, deviations from these ranges become diagnostic. 
 
 Ultimately, this is how benchmarking and the rate of progress transform training from guesswork into a predictable system. We aren't just logging numbers to see how far we've come or how far we have left to go. We are establishing concrete goals (which most gym-goers lack) and building a diagnostic system to troubleshoot our own bodies when things stall. When you use data to dictate your decisions, it actually becomes difficult _not_ to make progress.
 
+![[Poster — Fit - Part 1.1 - What Actually Matters.png]]
+
+*This matrix collapses the three branches above into a single lookup card: find where your weight trend and strength trend intersect, and the cell you land in names what's happening and the one thing to change. Verdict dots flag each spot as On track, Adjust, or Problem — and notice how the whole strength-rising column reads fine, the "chase strength" lesson made visible. Pin it up and re-check it every week.*
+
 The only variable left is execution: you have to actually track the numbers consistently. To keep the friction low, split the data collection across a dedicated tool stack:
 - **Hevy:** For tracking the workout data—logging strength metrics, set-by-set volume, and progressive overload on your main lifts.
 - **MacroFactor:** For tracking the nutrition and scale data—logging daily weight trends, caloric intake, and monitoring your exact rate of gain or loss.

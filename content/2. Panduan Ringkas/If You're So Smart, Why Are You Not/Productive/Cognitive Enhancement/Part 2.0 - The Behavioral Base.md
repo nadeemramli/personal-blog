@@ -16,11 +16,13 @@ date: 2026-05-25
 > - **Part 2 — The Base:**
 > 	- **Part 2.0 (this article):** [[Part 2.0 - The Behavioral Base|The Behavioral Base]] (the dopamine reset, the inputs, and where it ladders in your life)
 > - **Part 3 — Pharmacology (2 sub-articles):**
-> 	- **Part 3.0:** [[Part 3.0 - Cognitive Performance|Cognitive Performance]] (the active software stack, by tier)
-> 	- **Part 3.1:** [[Part 3.1 - Neural Preservation|Neural Preservation]] (the hardware and the baseline, by tier)
-> - **Part 4 — Application (2 sub-articles):**
+> 	- **Part 3.0:** [[Part 3.0 - Cognitive Performance Compounds|Cognitive Performance]] (the active software stack, by tier)
+> 	- **Part 3.1:** [[Part 3.1 - Neural Preservation Compounds|Neural Preservation]] (the hardware and the baseline, by tier)
+> - **Part 4 — Application (4 sub-articles):**
+> 	- **Part 4.0:** [[Part 4.0 - The Escalation Protocol|The Escalation Protocol]] (the guiding framework: when and how to escalate)
 > 	- **Part 4.1:** [[Part 4.1 - The Natural Stack|The Natural Stack]] (the clean daily engine, built and costed)
-> 	- **Part 4.2:** [[Part 4.2 - The Enhanced Stack|The Enhanced Stack]] (layering experimental & prescription compounds)
+> 	- **Part 4.2:** [[Part 4.2 - The Enhanced Stack|The Enhanced Stack]] (experimental & prescription compounds, by tier)
+> 	- **Part 4.3:** [[Part 4.3 - The Hybrid Stack|The Hybrid Stack]] (how to mix natural + enhanced)
 > ----
 ## Table of Contents
 
@@ -81,11 +83,11 @@ For about a week, starve your brain of cheap, effortless dopamine so the baselin
 Once the baseline is lower and the wall in front of hard tasks has dropped, *now* you point the system at the right target:
 
 - Sit down to your actual high-value task and let the dopamine of progress (closing a loop, solving the problem, shipping the section) be the hit your brain now actually feels. This is the moment real work becomes self-reinforcing.
-- **This is the only point at which a Performance compound makes sense.** An executive-function tool (a eugeroic or a stimulant, [[Part 3.0 - Cognitive Performance|Part 3.0]]) added *here* pushes the signal of *real work* higher, on a system that's primed to receive it. Added *before* the reset, the same compound just sits on top of the scrolling baseline and does little but raise your heart rate.
+- **This is the only point at which a Performance compound makes sense.** An executive-function tool (a eugeroic or a stimulant, [[Part 3.0 - Cognitive Performance Compounds|Part 3.0]]) added *here* pushes the signal of *real work* higher, on a system that's primed to receive it. Added *before* the reset, the same compound just sits on top of the scrolling baseline and does little but raise your heart rate.
 
 ### Step 3: Add the structural support (preservation)
 
-Once you're consistently productive and the behaviour has started to stick, layer in the slow hardware support (the neuroplasticity and preservation agents, Lion's Mane and friends, [[Part 3.1 - Neural Preservation|Part 3.1]]) so the new wiring *consolidates* and the brain can keep taking the load. These do nothing acutely; their entire value is over months, which is exactly why they come last, on top of an already-working system.
+Once you're consistently productive and the behaviour has started to stick, layer in the slow hardware support (the neuroplasticity and preservation agents, Lion's Mane and friends, [[Part 3.1 - Neural Preservation Compounds|Part 3.1]]) so the new wiring *consolidates* and the brain can keep taking the load. These do nothing acutely; their entire value is over months, which is exactly why they come last, on top of an already-working system.
 
 > [!tip] The whole protocol in one line
 > ==Reset the baseline → attach dopamine to real work (± stimulant) → consolidate with preservation.== Behaviour first, performance second, hardware third. Run it in any other order and you're amplifying a problem.
@@ -109,7 +111,7 @@ This is the dietary factor most "nootropics" people skip, and it does double dut
 
 **As a structural nutrient:** your brain is roughly 60% fat by dry weight, and **DHA** (a long-chain omega-3) is one of its primary structural building blocks, woven directly into the membranes of every neuron. Adequate DHA isn't a supplement *trick*; it's a literal ingredient your brain is built from, and it supports BDNF and the membrane fluidity that signalling depends on. Most people eating a modern diet are short on it.
 
-==This matters enormously for anything you'll later add from the [[Part 3.1 - Neural Preservation|Preservation]] bucket.== The brain builds new synaptic membranes from a **trinity**: *uridine + choline + DHA* together (the so-called "Mr Happy Stack" mechanism).[^4] Run uridine or a choline source (Alpha-GPC, CDP-choline) *without* enough omega-3 and you're trying to build a wall with two of the three materials. So omega-3 isn't an optional extra to the stack; it's the dietary base that makes the structural compounds actually work.
+==This matters enormously for anything you'll later add from the [[Part 3.1 - Neural Preservation Compounds|Preservation]] bucket.== The brain builds new synaptic membranes from a **trinity**: *uridine + choline + DHA* together (the so-called "Mr Happy Stack" mechanism).[^4] Run uridine or a choline source (Alpha-GPC, CDP-choline) *without* enough omega-3 and you're trying to build a wall with two of the three materials. So omega-3 isn't an optional extra to the stack; it's the dietary base that makes the structural compounds actually work.
 
 **As the absorption key:** omega-3 itself, and several of the botanicals you'll add in [[Part 4.1 - The Natural Stack|Part 4.1]] (saffron's carotenoids, the bacosides in Bacopa, and any fat-soluble compound), absorb meaningfully better taken **with a meal containing fat** rather than on an empty stomach with water. The water-soluble pieces (L-tyrosine, choline, L-theanine, caffeine, creatine) don't care, but the fat-soluble ones can be substantially under-absorbed if you take them dry.
 
@@ -131,13 +133,13 @@ Even a perfect brain performs terribly in a fragmented environment. The research
 ---
 ## Habit-stamping: using dopamine to wire the behaviour
 
-Here's where you turn dopamine from a problem into a tool, and where, later, a tactical compound like nicotine ([[Part 3.0 - Cognitive Performance|Part 3.0]]) earns its place.
+Here's where you turn dopamine from a problem into a tool, and where, later, a tactical compound like nicotine ([[Part 3.0 - Cognitive Performance Compounds|Part 3.0]]) earns its place.
 
 Dopamine isn't just reward; it's the signal that tells the brain *"this pathway was valuable, strengthen it."*[^1] It's how habits get burned in. So you can deliberately engineer a reward spike at the exact moment you begin a target behaviour, and the brain will *stamp* that behaviour as worth repeating:
 
 - **Pair a small, reliable reward with the *start* of the hard task**, not the end. The hardest part is initiation (your task latency), so that's where the reinforcement should land. A good coffee made *only* when you sit down to write; a specific track that means "deep work starts now"; the satisfying tick of starting the timer. Over weeks, the cue itself starts to pull you into the work.
 - **Protect the contrast.** Habit-stamping only works if your baseline is low enough (Step 1) that the reward registers. On an inflated baseline, the stamp doesn't take.
-- **This is the legitimate, mechanistic use of a fast dopaminergic tool.** A precisely-timed nicotine lozenge as you open the wireframing software gives a clean, controlled spike that helps stamp the pathway, *if* the behaviour and the baseline are already in place. [[Part 3.0 - Cognitive Performance|Part 3.0]] covers the real risks (tolerance, dependence); the point here is that the *behavioural* technique works with or without it.
+- **This is the legitimate, mechanistic use of a fast dopaminergic tool.** A precisely-timed nicotine lozenge as you open the wireframing software gives a clean, controlled spike that helps stamp the pathway, *if* the behaviour and the baseline are already in place. [[Part 3.0 - Cognitive Performance Compounds|Part 3.0]] covers the real risks (tolerance, dependence); the point here is that the *behavioural* technique works with or without it.
 
 > [!caution] Don't stamp the wrong thing
 > The same machinery that stamps "open the wireframe → reward" is what stamped "feel a dip → open Instagram → reward." Habit-stamping is morally neutral; it strengthens whatever you pair reward with. Most people have spent years accidentally stamping their distractions. You're now going to do it deliberately, in the other direction.
@@ -202,7 +204,7 @@ So when you sit down to do the unglamorous work of this article (the week off sh
 6. **Check the readiness gate** before reading Part 3 as a buyer rather than a student. If you can't tick the boxes, the highest-return move is still behavioural.
 
 > [!note] Up next
-> The base is built. Now the margin. [[Part 3.0 - Cognitive Performance|Part 3.0 — Cognitive Performance]] opens the active software stack (executive function, memory, and state control) organised by the three-tier system, with real doses and the honest trade-offs of each compound.
+> The base is built. Now the margin. [[Part 3.0 - Cognitive Performance Compounds|Part 3.0 — Cognitive Performance]] opens the active software stack (executive function, memory, and state control) organised by the three-tier system, with real doses and the honest trade-offs of each compound.
 
 ---
 

@@ -16,11 +16,13 @@ date: 2026-05-25
 > - **Part 2 — The Base:**
 > 	- **Part 2.0:** [[Part 2.0 - The Behavioral Base|The Behavioral Base]] (the 90% that comes before any compound, and where it ladders in your life)
 > - **Part 3 — Pharmacology (2 sub-articles):**
-> 	- **Part 3.0:** [[Part 3.0 - Cognitive Performance|Cognitive Performance]] (the active software stack, by tier)
-> 	- **Part 3.1:** [[Part 3.1 - Neural Preservation|Neural Preservation]] (the hardware and the baseline, by tier)
-> - **Part 4 — Application (2 sub-articles):**
+> 	- **Part 3.0:** [[Part 3.0 - Cognitive Performance Compounds|Cognitive Performance]] (the active software stack, by tier)
+> 	- **Part 3.1:** [[Part 3.1 - Neural Preservation Compounds|Neural Preservation]] (the hardware and the baseline, by tier)
+> - **Part 4 — Application (4 sub-articles):**
+> 	- **Part 4.0:** [[Part 4.0 - The Escalation Protocol|The Escalation Protocol]] (the guiding framework: when and how to escalate)
 > 	- **Part 4.1:** [[Part 4.1 - The Natural Stack|The Natural Stack]] (the clean daily engine, built and costed)
-> 	- **Part 4.2:** [[Part 4.2 - The Enhanced Stack|The Enhanced Stack]] (layering experimental & prescription compounds)
+> 	- **Part 4.2:** [[Part 4.2 - The Enhanced Stack|The Enhanced Stack]] (experimental & prescription compounds, by tier)
+> 	- **Part 4.3:** [[Part 4.3 - The Hybrid Stack|The Hybrid Stack]] (how to mix natural + enhanced)
 > ----
 ## Table of Contents
 
@@ -114,7 +116,7 @@ Inside each bucket are **three pathways**, six in total. A "pathway" here is a c
 > [!note] A quick orientation: gas and brakes
 > Notice the shape. Bucket A's first pathway (drive) is the **gas pedal**: excitatory, the chemistry that speeds you up. Its third pathway (flexibility) and much of Bucket B are the **brakes**: inhibitory and protective, the chemistry that keeps the gas from shaking the engine apart. ==A good brain is not a maxed gas pedal; it's a gas pedal *and* working brakes.== That balance is important enough to be the whole subject of [[Part 1.1 - Signal and Noise|Part 1.1]]. For now, just hold the gas-and-brakes picture.
 
-The rest of this article walks each pathway. We're not dosing anything yet (that's [[Part 3.0 - Cognitive Performance|Part 3]]). Right now we're just learning the levers and which fitness metric each one rhymes with.
+The rest of this article walks each pathway. We're not dosing anything yet (that's [[Part 3.0 - Cognitive Performance Compounds|Part 3]]). Right now we're just learning the levers and which fitness metric each one rhymes with.
 
 ---
 ## Bucket A: the three Performance pathways
@@ -137,7 +139,7 @@ How fast you learn, how much you retain, and how cleanly you synthesise new info
 - **The two sub-routes** (this distinction matters enormously and most people miss it):
 	- **The fuel:** choline donors that give your brain the raw material to *manufacture* acetylcholine.
 	- **The brake-release:** acetylcholinesterase inhibitors that stop the enzyme which *breaks down* acetylcholine, so what you've made lasts longer.
-- **The analogy:** a choline donor is *filling the petrol tank*; an acetylcholinesterase inhibitor is *fixing a leak in the tank* so the petrol lasts. You can do both, but doing both hard at once is how you get cholinergic overload (covered in [[Part 3.0 - Cognitive Performance|Part 3.0]]).
+- **The analogy:** a choline donor is *filling the petrol tank*; an acetylcholinesterase inhibitor is *fixing a leak in the tank* so the petrol lasts. You can do both, but doing both hard at once is how you get cholinergic overload (covered in [[Part 3.0 - Cognitive Performance Compounds|Part 3.0]]).
 
 ### Pathway 3: Flexibility & State Control (the "Agility & Calm" route)
 
@@ -169,7 +171,7 @@ Just as lifting tears muscle to trigger repair and growth, certain inputs trigge
 You can't talk about an *enhanced* lifter's brain without talking about hormones.
 
 - **What they are:** steroids synthesised in the brain itself (**Pregnenolone, DHEA, allopregnanolone**) that act as fast modulators of neurotransmitter receptors.
-- **Why it matters to you specifically:** when you run exogenous testosterone, your natural endocrine loop shuts down, and that shutdown can drag down upstream neurosteroids too, because the body stops making the raw precursors. ==The result is brain fog, low stress tolerance, and emotional flatness even when your serum testosterone reads sky-high.== This is the missing link a lot of enhanced lifters never connect: the "TRT brain fog" that isn't fixed by *more* testosterone. [[Part 3.1 - Neural Preservation|Part 3.1]] handles it carefully, including the important correction that it's the *sulfated* metabolites doing most of the receptor work.
+- **Why it matters to you specifically:** when you run exogenous testosterone, your natural endocrine loop shuts down, and that shutdown can drag down upstream neurosteroids too, because the body stops making the raw precursors. ==The result is brain fog, low stress tolerance, and emotional flatness even when your serum testosterone reads sky-high.== This is the missing link a lot of enhanced lifters never connect: the "TRT brain fog" that isn't fixed by *more* testosterone. [[Part 3.1 - Neural Preservation Compounds|Part 3.1]] handles it carefully, including the important correction that it's the *sulfated* metabolites doing most of the receptor work.
 
 ---
 ## Measuring it: inputs, not outputs
