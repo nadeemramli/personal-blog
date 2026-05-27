@@ -1,7 +1,7 @@
 ---
-version: "neuform-top-creators-featured"
-name: "Aether - Call to Action"
-description: "Aether Call Onboarding Section is designed for building reusable UI components in modern web projects. Key features include reusable structure, responsive behavior, and production-ready presentation. It is suitable for component libraries and responsive product interfaces."
+version: neuform-top-creators-featured
+name: Aether - Call to Action
+description: Aether Call Onboarding Section is designed for building reusable UI components in modern web projects. Key features include reusable structure, responsive behavior, and production-ready presentation. It is suitable for component libraries and responsive product interfaces.
 colors:
   primary: "#000000"
   secondary: "#FFFFFF"
@@ -13,37 +13,38 @@ colors:
   border: "#71717A"
 typography:
   display-lg:
-    fontFamily: "Inter"
-    fontSize: "64px"
+    fontFamily: Inter
+    fontSize: 64px
     fontWeight: 500
     lineHeight: "1.04"
     letterSpacing: "0"
   body-md:
-    fontFamily: "Inter"
-    fontSize: "16px"
+    fontFamily: Inter
+    fontSize: 16px
     fontWeight: 400
     lineHeight: "1.6"
   label-md:
-    fontFamily: "JetBrains Mono"
-    fontSize: "12px"
+    fontFamily: JetBrains Mono
+    fontSize: 12px
     fontWeight: 600
     lineHeight: "1.2"
 spacing:
-  base: "8px"
-  gap: "16px"
-  card-padding: "24px"
-  section-padding: "80px"
+  base: 8px
+  gap: 16px
+  card-padding: 24px
+  section-padding: 80px
 rounded:
-  card: "8px"
-  control: "8px"
-  pill: "9999px"
+  card: 8px
+  control: 8px
+  pill: 9999px
 components:
   card:
-    background: "Use the surface token with subtle borders and HTML-matched shadow depth"
-    radius: "Match the declared card radius token"
+    background: Use the surface token with subtle borders and HTML-matched shadow depth
+    radius: Match the declared card radius token
   button:
-    background: "Use primary or accent colors for the main action"
-    radius: "Use the control or pill radius based on the source HTML"
+    background: Use primary or accent colors for the main action
+    radius: Use the control or pill radius based on the source HTML
+draft: true
 ---
 # Aether - Call to Action
 Source: Neuform Featured templates from top creators. Author: Vanh DesignCode (@vanh). Views: 539; favorites: 18; remixes: 4.
