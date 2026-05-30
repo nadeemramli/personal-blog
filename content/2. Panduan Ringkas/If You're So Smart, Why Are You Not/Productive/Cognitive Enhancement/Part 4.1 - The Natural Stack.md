@@ -277,29 +277,29 @@ Now cost the actual schedule. The Daily Baseline runs 7 days a week; the Heavy E
 
 **🟢 Daily Baseline (×7 / week):**
 
-| Compound | Dose | RM/day | RM/week |
-|---|---|---|---|
-| Creatine | 5 g | 0.70 | 4.90 |
-| Fish oil (high DHA) | 2 softgels | 0.83 | 5.81 |
-| Uridine | 250–300 mg | 1.30 | 9.10 |
-| CDP-choline | 250 mg | 1.42 | 9.94 |
-| Bacopa | 500 mg | 0.58 | 4.06 |
-| Saffron | 88.5 mg | 0.34 | 2.38 |
-| Lion's Mane | extract, 1 cap | 1.50 | 10.50 |
-| **Baseline subtotal** | | | **~RM 47 / week** |
+| Compound              | Dose           | RM/day | RM/week           |
+| --------------------- | -------------- | ------ | ----------------- |
+| Creatine              | 5 g            | 0.70   | 4.90              |
+| Fish oil (high DHA)   | 2 softgels     | 0.83   | 5.81              |
+| Uridine               | 250–300 mg     | 1.30   | 9.10              |
+| CDP-choline           | 250 mg         | 1.42   | 9.94              |
+| Bacopa                | 500 mg         | 0.58   | 4.06              |
+| Saffron               | 88.5 mg        | 0.34   | 2.38              |
+| Lion's Mane           | extract, 1 cap | 1.50   | 10.50             |
+| **Baseline subtotal** |                |        | **~RM 47 / week** |
 
 **🧠 Heavy Execution overlay (×5 / week, on top of baseline):**
 
-| Compound | Dose | RM/day | RM/week |
-|---|---|---|---|
-| L-Tyrosine | 2 g | 0.46 | 2.30 |
-| ALCAR | 1 g | 0.87 | 4.35 |
-| Alpha-GPC | 600 mg | 1.22 | 6.10 |
-| Ginkgo | 120 mg | 0.25 | 1.25 |
-| Caffeine | 100 mg | 0.20 | 1.00 |
-| L-Theanine | 200 mg | 0.41 | 2.05 |
-| Huperzine-A | 200 mcg | 0.34 | 1.70 |
-| **Heavy subtotal** | | | **~RM 19 / week** |
+| Compound           | Dose    | RM/day | RM/week           |
+| ------------------ | ------- | ------ | ----------------- |
+| L-Tyrosine         | 2 g     | 0.46   | 2.30              |
+| ALCAR              | 1 g     | 0.87   | 4.35              |
+| Alpha-GPC          | 600 mg  | 1.22   | 6.10              |
+| Ginkgo             | 120 mg  | 0.25   | 1.25              |
+| Caffeine           | 100 mg  | 0.20   | 1.00              |
+| L-Theanine         | 200 mg  | 0.41   | 2.05              |
+| Huperzine-A        | 200 mcg | 0.34   | 1.70              |
+| **Heavy subtotal** |         |        | **~RM 19 / week** |
 
 **Optional extras:** pre-workout **Rhodiola** ~RM 0.80 × 3 days ≈ **RM 2.5/week**. (Nicotine, emergency-only, is negligible.)
 

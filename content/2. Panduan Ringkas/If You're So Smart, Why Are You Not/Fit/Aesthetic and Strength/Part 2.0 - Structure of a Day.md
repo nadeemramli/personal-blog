@@ -161,6 +161,10 @@ The reason this matters: ==understanding how recovered the body is from the last
 
 More on how recovery data feeds into programming decisions in [[Part 3.1 - The Program - Concepts|Part 3.1]].
 
+*Here's a clean way to picture the day as one control sequence: a 24-hour day-strip running wake → sleep, with each habit a labeled gate and a "partitioning rail" beside it showing where every calorie is being routed — muscle, neutral, or fat. The same calorie can build muscle or build fat; [[Part 2.0 - Structure of a Day#Partitioning: Managing the Storage Units|insulin sensitivity is the switch]], and the day is engineered to keep it flipped toward muscle. There's one avoidable trap (carbs + sitting still) and one habit that fixes it almost everywhere — [[Part 2.0 - Structure of a Day#Walk after meals — or use the air-squat trick|the post-meal walk]], with [[Part 2.0 - Structure of a Day#The Pomodoro stack — low-friction compounding|the Pomodoro stack]] as the desk-day workaround. Pin it up and run the day off it until it's automatic.*
+
+![[Poster — Fit - Part 2.0 - Structure of a Day.png]]
+
 ---
 ## Part 2 Takeaways
 

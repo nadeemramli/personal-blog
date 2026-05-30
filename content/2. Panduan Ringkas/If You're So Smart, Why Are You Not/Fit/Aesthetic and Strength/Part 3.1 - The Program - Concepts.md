@@ -193,6 +193,10 @@ This is where wearable technology becomes useful. A device like WHOOP, Garmin, o
 
 (Practical baseline: most intermediate natural lifters land at 12–18 sets/muscle/week as their MAV-to-MRV range. Start in that band, observe recovery, adjust from there.)
 
+*Here's a clean way to picture the conceptual machinery a program runs on: one hero operating-band curve plotting weekly sets per muscle against growth output, with the MV → MEV → MAV → MRV landmarks ticked along the x-axis and the [[Part 3.1 - The Program - Concepts#MRV: Maximum Recoverable Volume|MAV sweet spot]] shaded as the band where the trade works. Hanging off it are the satellite readouts — a [[Part 3.1 - The Program - Concepts#Fatigue vs. stimulus — the core economy|stimulus/fatigue split-meter]] (the budget made literal), a neural-vs-hypertrophy adaptation inset, the [[Part 3.1 - The Program - Concepts#Types of progressive overload, ranked|progressive-overload ladder]] ranked top-to-bottom, and a [[Part 3.1 - The Program - Concepts#The mistake people make on progressive overload|fake-PO fault annex]] flagging the bench / row / squat traps where the number climbs but the target muscle doesn't grow. Growth is bought, not earned by being tired — there's a narrow band where the trade works, and outside it the budget pays for damage instead of muscle. Pin it up and read each program against the curve.*
+
+![[Poster — Fit - Part 3.1 - The Program - Concepts.png]]
+
 ---
 ## Part 3.1 Takeaways
 

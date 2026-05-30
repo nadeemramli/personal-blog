@@ -562,6 +562,10 @@ A reference glossary for the concepts above. Some terms overlap with vocabulary 
 |**Rotation**|Swapping to a new variation at the end of a lifecycle.|
 |**Iteration**|The long-term process of cycling through variations across multiple lifecycles, using the data to learn which variations produce the longest lifecycles for _this_ lifter.|
 
+*Here's a clean way to picture how a working program is actually assembled and operated. The right side is the **assembly**, read bottom-to-top: 24 atomic [[Part 3.2 - The Program - Rules and Building the Program#Joint movements: the foundation|joint movements]] combine into the [[Part 3.2 - The Program - Rules and Building the Program#How compound movements emerge from joint movements|six compound patterns]], expressed through variations chosen along the [[Part 3.2 - The Program - Rules and Building the Program#The seven axes of variation|seven axes]], and rotated by [[Part 3.2 - The Program - Rules and Building the Program#The Variation Cycle: programming for long-term progress|the Variation Cycle]] so progressive overload keeps working for years. The left rail is the **standing orders** — the [[Part 3.2 - The Program - Rules and Building the Program#The four growth rules|four growth rules]] and [[Part 3.2 - The Program - Rules and Building the Program#The execution rules|seven execution rules]] you obey every session — with the named failure modes printed below so they can't be forgotten. Pin it up beside the rack; cross-check the assembly when designing a block, scan the standing orders before every session.*
+
+![[Poster — Fit - Part 3.2 - The Program - Rules and Building the Program.png]]
+
 ---
 ## Part 3.2 Takeaways
 

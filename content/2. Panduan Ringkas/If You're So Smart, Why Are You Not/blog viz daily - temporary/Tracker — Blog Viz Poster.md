@@ -25,16 +25,21 @@ Scope: this tracker covers the **"If You're So Smart, Why Are You Not"** Big Ser
 |---|---|---|---|---|
 | [[Visualization Concept — Fit - Part 1.1 - What Actually Matters]] | `visualization/Poster — Fit - Part 1.1 - What Actually Matters.png` | Fit · Engineering Diagnostic Instrument | 2026-05-27 | code-render → PNG, 1080×1522 @2x |
 | [[Visualization Concept — Fit - Part 1.2 - Recomp, Cut or Bulk]] | `visualization/Poster — Fit - Part 1.2 - Recomp, Cut or Bulk.png` | Fit · Engineering Diagnostic Instrument | 2026-05-27 | code-render → PNG, 1080×1536 @2x |
+| [[Visualization Concept — Fit - Part 2.0 - Structure of a Day]] | `visualization/Poster — Fit - Part 2.0 - Structure of a Day.png` | Fit · Engineering Diagnostic Instrument | 2026-05-29 (backfill) | code-render → SVG (scratch) + PNG, 1200×1500 @2x (CairoSVG) |
+| [[Visualization Concept — Fit - Part 3.1 - The Program - Concepts]] | `visualization/Poster — Fit - Part 3.1 - The Program - Concepts.png` | Fit · Engineering Diagnostic Instrument | 2026-05-29 | code-render → SVG (scratch) + PNG, 1200×1500 @2x (CairoSVG) |
+| [[Visualization Concept — Fit - Part 3.2 - The Program - Rules and Building the Program]] | `visualization/Poster — Fit - Part 3.2 - The Program - Rules and Building the Program.png` | Fit · Engineering Diagnostic Instrument | 2026-05-30 | code-render → SVG (scratch) + PNG, 1200×1500 @2x (CairoSVG) |
 
 ## Pending — concept exists in /concepts/, poster not yet produced
 
-- _None._ Both concepts in `/concepts/` are now postered. New entries appear here automatically when [[Tracker — Blog Viz Daily]] adds the next concept (Next up: Fit / Aesthetic & Strength / Part 2.0 — Structure of a Day).
+- _None._ All concepts in `/concepts/` are now postered. New entries appear here automatically when [[Tracker — Blog Viz Daily]] adds the next concept (Next up: Fit / Aesthetic & Strength / Part 3.3 — The Program: Example Programs).
 
 ## Naming convention
 
 Poster filename mirrors its concept, swapping the leading `Visualization Concept` for `Poster`, saved under `/visualization/`:
 
 `Visualization Concept — Fit - Part 1.1 - What Actually Matters.md`  →  `Poster — Fit - Part 1.1 - What Actually Matters.png`
+
+**Only the PNG lives in `/visualization/`.** The hand-coded SVG is a raw working file kept in the session `outputs/` scratch — not published to the blog folder. If a poster needs a tweak, re-render from the SVG and overwrite the PNG in place; do not commit the SVG to `/visualization/`.
 
 ## Render notes (how these were made)
 
@@ -48,3 +53,5 @@ Poster filename mirrors its concept, swapping the leading `Visualization Concept
 - **Never regenerate** a poster already listed in _Posters produced_.
 - Style is locked per pillar — see [[Series Style Policy — If You're So Smart, Why Are You Not]] (Fit = Engineering Diagnostic Instrument). Do not change style mid-pillar.
 - This file wikilinks [[Tracker — Blog Viz Daily]]; Obsidian's backlinks make the relationship visible from both trackers.
+- **2026-05-30 run — Part 3.2 postered.** Sub-archetype within the locked Fit style: **build-up assembly schematic with standing-orders rail and failure-modes strip** — engineering reference card. Right side: four-tier vertical build-up (Tier 1 = 24 joint-movement chips in 6 region groups · Tier 2 = 6 compound-pattern chips + isolation-fillers sidebar + bold connector curves on SQUAT and VERTICAL PULL as worked examples, the other four faint/dashed · Tier 3 = 7-axes rail + lat-pulldown main/accessory inset + isolation→compound / variation→variation carryover panel + direct×1.0/indirect×0.5 weighting chip + 5-node horizontal-push rotation chain with one axis tagged per arrow · Tier 4 hero = Variation Cycle closed loop with iteration spiral exiting to "12+ months → 18–30 high-lifecycle variations" callout and three guardrail chips). Left rail: 4 GROWTH RULES (G·01–G·04) + 7 EXECUTION RULES (E·01–E·07) as instrument-bay rows. Bottom: 5 ECU-style failure-mode chips (static stretch, <3 min rest, soreness chasing, program-hopping, fake PO → links to 3.1 fault annex). Semantic color rationed per §5 of the brief: success role on the cycle loop perimeter, iteration callout, and the "both sides or the machine stalls" tagline only; warning role exclusively on the five failure-mode chips; danger role deliberately NOT used (preserves its meaning on 3.1's post-MRV collapse). Renderer: CairoSVG 2.9.0 (rsvg-convert unavailable — sandbox lacks sudo; Playwright skipped as CairoSVG was sufficient). Output verified at 2400×3000, 647 KB.
+- **2026-05-30 cleanup note.** The sandbox couldn't delete files in `/visualization/`, so the run also left behind a lowercased duplicate `poster-2026-05-30-rules-and-building-the-program.png` (and matching `.svg`) plus an extra `.svg` copy named to the convention. The canonical PNG `Poster — Fit - Part 3.2 - The Program - Rules and Building the Program.png` is the one to use; the rest can be removed manually. The hand-coded SVG and Python generator live in the session `outputs/` scratch (`build_poster.py`, `poster-2026-05-30-rules-and-building-the-program.svg`).

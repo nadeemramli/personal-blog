@@ -13,14 +13,14 @@ date: 2026-05-25
 > 
 > - **Part 1 (this article):** [[Part 1.0 - What Athleticism Actually Is|What Athleticism Actually Is]] — the framework
 > - **Part 2 — The Engine (2 sub-articles):**
-> 	- **Part 2.0:** [[Part 2.0 - Energy Systems and the Aerobic Base|Energy Systems & the Aerobic Base]] — the three systems and the floor
-> 	- **Part 2.1:** [[Part 2.1 - VO2 Max and Mitochondria|VO2 Max & Mitochondria]] — the master metric and the master adaptation
+> 	- **Part 2.0:** [[Part 2.0 - Energy Systems and the Aerobic Base|Energy Systems & the Aerobic Base]]
+> 	- **Part 2.1:** [[Part 2.1 - VO2 Max and Mitochondria|VO2 Max & Mitochondria]]
 > - **Part 3 — The Five Qualities (3 sub-articles):**
 > 	- **Part 3.0:** [[Part 3.0 - Endurance and Work Capacity|Endurance & Work Capacity]]
 > 	- **Part 3.1:** [[Part 3.1 - Power, Speed and Agility|Power, Speed & Agility]]
 > 	- **Part 3.2:** [[Part 3.2 - Mobility and Coordination|Mobility & Coordination]]
-> - **Part 4 — Integration:** [[Part 4.0 - Concurrent Training|Concurrent Training]] — fitting the engine next to the chassis without killing your gains
-> - **Part 5 — Putting It Together:** [[Part 5.0 - The Athletic Standard|The Athletic Standard]] — the testing battery, the worked example, and the longevity dividend
+> - **Part 4 — Integration:** [[Part 4.0 - Concurrent Training|Concurrent Training]]
+> - **Part 5 — Putting It Together:** [[Part 5.0 - The Athletic Standard|The Athletic Standard]]
 > ----
 ## Table of Contents
 

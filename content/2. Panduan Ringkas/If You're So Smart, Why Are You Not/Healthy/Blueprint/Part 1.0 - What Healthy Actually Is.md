@@ -49,7 +49,7 @@ The [[Part 1.1 - What Actually Matters|Fit series]] is built on a split that run
 **Blueprint is the hub of the Healthy section.** The other Healthy series are deep dives into single levers that move these numbers:
 - Biomarkers is the primary KPIs for your health.
 - [[Part 1.0 - The Architecture of Sleep|Sleep]] is the recovery lever (and, as you'll see, the keystone of the whole thing).
-- [[Nutrition|Nutrition]] is the fuel lever.
+- [[Part 1.0 - What Nutrition Actually Is|Nutrition]] is the fuel lever.
 - [[Part 4.0 - Mental and Emotional Wellbeing|Mental and emotional wellbeing]] is the software layer, which in earlier drafts of this blog was going to be its own series and now lives here, folded into Blueprint where it belongs. Your stress load is a biomarker too.
 
 And it reaches across the fence into Fit and Athletic constantly, because the same tools improve both sides at once. Squatting builds Fit performance *and* Healthy bone density. Zone 2 cardio builds an Athletic engine *and* a Healthy resting heart rate. ==Almost every good lever pays you twice.== Blueprint is where we keep score across all of it.
@@ -101,23 +101,23 @@ One number in that table deserves a translation, because it's the most futuristi
 
 You don't need a tech founder's budget. Most of what matters can be tracked with a blood test, a few cheap home devices, and a wearable you may already own. Here is the working panel for this series, grouped by system, with the short version of how each one is read. The deep, practical "how to actually measure this without overspending" is the whole job of [[Part 1.1 - Measuring Yourself|Part 1.1]]; this is the map.
 
-| System | Marker | What it tells you | How it's read (short version) |
-|---|---|---|---|
-| **Body composition** | Muscle mass (via FFMI) | Lean tissue relative to height; your metabolic and longevity reserve | Calculate **FFMI** from weight, height, and body-fat %; or DEXA lean mass. Natural ceiling is ~25.[^2] Detail in [[Part 1.1 - What Actually Matters|Fit]] |
-| | Body fat % | Metabolic risk; too high *or* too low both cost you | **DEXA** is the gold standard (covered in the Fit series) |
-| | Bone mineral density | Structural integrity; fracture and frailty risk decades out | Same **DEXA** scan reports it |
-| | Grip strength | A shockingly good proxy for whole-body strength *and* all-cause mortality | A **hand dynamometer** (cheap). Log it like any lift[^5] |
-| **Cardiovascular** | Resting heart rate | Recovery, fitness, and stress, in one number | A **wearable** (Whoop, Apple Watch, Oura) measured *while you sleep*, which a clinic snapshot can't do |
-| | Blood pressure | The quietest big killer there is | A **home arm cuff**, measured daily as a routine, logged |
-| | Vascular function | Arterial stiffness / endothelial health; "vascular age" | **Pulse-wave-velocity** or flow-mediated-dilation tests, *not* an ECG (see below) |
-| | VEGF | A signal of blood-vessel growth and repair capacity | A **specialised blood assay**, not part of a standard panel |
-| **Metabolic** | Fasting glucose & HbA1c | Today's blood sugar, and your 3-month average | A **blood test**; a finger-prick glucose meter for spot checks |
-| | Glucose control (dynamic) | How violently your sugar spikes and crashes day to day | A **continuous glucose monitor** (the arm patch), worn in bursts |
-| **Reproductive** | Fertility | Sperm count, motility, morphology | A **semen analysis** |
-| | Nighttime erections | Vascular and hormonal health (an early warning system) | A **rigidity test** or home strain-gauge device (see below) |
-| **Biological age** | Telomere length | A rough read on cellular age | A **specialised lab test** |
-| | Epigenetic clocks | Pace and absolute estimate of biological aging | A **DNA-methylation test** (e.g. DunedinPACE)[^3] |
-| **Recovery** | Sleep (duration, stages, RHR, HRV) | Whether the whole machine is actually recovering | A **wearable**; the full treatment is the [[Part 1.0 - The Architecture of Sleep|Sleep series]] |
+| System               | Marker                             | What it tells you                                                         | How it's read (short version)                                                                                                                       |                |
+| -------------------- | ---------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| **Body composition** | Muscle mass (via FFMI)             | Lean tissue relative to height; your metabolic and longevity reserve      | Calculate **FFMI** from weight, height, and body-fat %; or DEXA lean mass. Natural ceiling is ~25.[^2] Detail in [[Part 1.1 - What Actually Matters | Fit]]          |
+|                      | Body fat %                         | Metabolic risk; too high *or* too low both cost you                       | **DEXA** is the gold standard (covered in the Fit series)                                                                                           |                |
+|                      | Bone mineral density               | Structural integrity; fracture and frailty risk decades out               | Same **DEXA** scan reports it                                                                                                                       |                |
+|                      | Grip strength                      | A shockingly good proxy for whole-body strength *and* all-cause mortality | A **hand dynamometer** (cheap). Log it like any lift[^5]                                                                                            |                |
+| **Cardiovascular**   | Resting heart rate                 | Recovery, fitness, and stress, in one number                              | A **wearable** (Whoop, Apple Watch, Oura) measured *while you sleep*, which a clinic snapshot can't do                                              |                |
+|                      | Blood pressure                     | The quietest big killer there is                                          | A **home arm cuff**, measured daily as a routine, logged                                                                                            |                |
+|                      | Vascular function                  | Arterial stiffness / endothelial health; "vascular age"                   | **Pulse-wave-velocity** or flow-mediated-dilation tests, *not* an ECG (see below)                                                                   |                |
+|                      | VEGF                               | A signal of blood-vessel growth and repair capacity                       | A **specialised blood assay**, not part of a standard panel                                                                                         |                |
+| **Metabolic**        | Fasting glucose & HbA1c            | Today's blood sugar, and your 3-month average                             | A **blood test**; a finger-prick glucose meter for spot checks                                                                                      |                |
+|                      | Glucose control (dynamic)          | How violently your sugar spikes and crashes day to day                    | A **continuous glucose monitor** (the arm patch), worn in bursts                                                                                    |                |
+| **Reproductive**     | Fertility                          | Sperm count, motility, morphology                                         | A **semen analysis**                                                                                                                                |                |
+|                      | Nighttime erections                | Vascular and hormonal health (an early warning system)                    | A **rigidity test** or home strain-gauge device (see below)                                                                                         |                |
+| **Biological age**   | Telomere length                    | A rough read on cellular age                                              | A **specialised lab test**                                                                                                                          |                |
+|                      | Epigenetic clocks                  | Pace and absolute estimate of biological aging                            | A **DNA-methylation test** (e.g. DunedinPACE)[^3]                                                                                                   |                |
+| **Recovery**         | Sleep (duration, stages, RHR, HRV) | Whether the whole machine is actually recovering                          | A **wearable**; the full treatment is the [[Part 1.0 - The Architecture of Sleep                                                                    | Sleep series]] |
 
 > [!tip] You will not run all of this, and you shouldn't
 > This is a menu, not a shopping list. A realistic, high-value starter kit is small: a blood panel every 6–12 months, a blood-pressure cuff, a grip dynamometer, a wearable for sleep and resting heart rate, and a glucose monitor worn for a couple of weeks once. That covers the markers that move lifespan the most, for the price of a few dinners. The exotic stuff (epigenetic clocks, VEGF, vascular-age testing) is for later, if ever. **Fewer, cheaper, repeatable beats exotic and abandoned.**
@@ -161,7 +161,7 @@ Every protocol in this entire series spends from three accounts, and being hones
 The Blueprint philosophy, which runs through everything that follows, is therefore the opposite of what the word "optimisation" usually implies. ==The aim is to do *fewer* things, not more.== Habits before gadgets, gadgets before exotic therapies, cheap before expensive, and anything that costs you your peace gets dropped or simplified. This is the same **90/10 rule** the [[Part 4.0 - Pharmacology|Fit series]] uses: the boring structural work is 90% of the result, and the fancy interventions are a thin margin on top. Most people invert it. They buy the gadget and skip the sleep.
 
 > [!note] This is where the rest of the blog plugs in
-> The "financial" cost is exactly why this series eventually leans on the income side of the project. A stable, flexible income (the subject of the [[Part 1 - The Equation|Rich]] series) is what buys the time and removes the stress that make health easy. Working from home, for instance, is not a small thing: it hands you the flexibility to walk after lunch, cook real food, get morning sun, and protect your sleep. The floor funds itself. We'll make that loop explicit in [[Part 3.1 - Building Systems and Breaking Bad Habits|Part 3.1]].
+> The "financial" cost is exactly why this series eventually leans on the income side of the project. A stable, flexible income (the subject of the [[Part 1.0 - Allocation The Sankey Mindset|Rich]] series) is what buys the time and removes the stress that make health easy. Working from home, for instance, is not a small thing: it hands you the flexibility to walk after lunch, cook real food, get morning sun, and protect your sleep. The floor funds itself. We'll make that loop explicit in [[Part 3.1 - Building Systems and Breaking Bad Habits|Part 3.1]].
 
 ---
 ## Hardware, scaffolding, software: how this series is built
