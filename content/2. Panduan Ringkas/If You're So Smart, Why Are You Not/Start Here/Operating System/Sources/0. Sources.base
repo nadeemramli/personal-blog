@@ -1,0 +1,13 @@
+filters:
+  and:
+    - type == "source"
+views:
+  - type: table
+    name: Sources & sourcing cost
+    order:
+      - file.name
+      - method
+      - currency
+      - shipping_model
+      - payment
+      - fees

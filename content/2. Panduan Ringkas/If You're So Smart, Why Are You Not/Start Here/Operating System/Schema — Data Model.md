@@ -25,6 +25,8 @@ One note per physical product, stored in `Operating System/Products/`.
 | `category` | text | Steroid, Pharmacology, SARM, Supplement, Cycle support, Ancillary, Nootropic, Topical/Pharma |
 | `importance` | text | Very / Moderate / Slight / Non-essential (restock priority) |
 | `status` | text | active / paused (owned, not running) / planned (wishlist) / retired |
+| `stack` | text | **Operational group** (the grouping key): Hair / Skin / PEDs / PCT / Cycle Support / Ancillaries & Supplement / Cognitive Stack / Peptides / Protein & Pre-Intra / Consumables |
+| `restock` | text | Buy now / Buy this month / Buy monthly / Buy weekly / Check / OK / Not needed now / — (INDEXA) |
 | `dosing` | text | Schedule code → links to a [[Dosing Information]] note (ED/EOD/TD/ITD/OCC/CYC) |
 | `use` | text | Daily / Cycling / Cutting / Occasionally |
 | `active` | checkbox | The "use it / don't use it" switch |
@@ -91,13 +93,18 @@ How a product is bought — because landed cost ≠ sticker price, and the cost 
 
 | Base | Over | Shows |
 |---|---|---|
-| `Products.base` | Product notes | Catalog: brand, vendor, prices, doses, cost/dose |
-| `Product Usage.base` | Product notes | How used: pillar, sub_series, dosing, importance, active |
+| `0. Products.base` | All product notes | Master catalog: brand, vendor, prices, doses, cost/dose |
+| `0. Stock & Restock.base` | All product notes | Stock check + `restock` flag — a "To buy" view and an "All stock" view |
+| `0. <Stack>.base` ×10 | Products of one `stack` | One per group (Hair, PEDs, Cognitive…), inside that stack's folder |
+| `0. Product Usage.base` | Product notes | How used: pillar, sub_series, dosing, importance, active |
 | `Cycles & Dosing.base` | Cycle + Product | Current cycle, phase, run-out |
 | `Dosing Information.base` | Dosing Schedule notes | The dosing dictionary + forecast factors |
 | `Sources.base` | Source notes | Sourcing cost models: method, currency, shipping, payment, fees |
 | `Overheads.base` | Overhead notes | Non-supplement recurring costs: diagnostics, gym, software, grooming, **living** — cost, billing, eff. monthly |
 | `Protocols.base` | Protocol notes | Phase stacks: Bulk / Cut / Lean Bulk — goal + the products in each |
+
+> [!tip] Semantics: why a `stack` field (and is it the best way?)
+> Your groups (Hair, PEDs, Ancillaries/Supplement, Cognitive, Peptide…) cut *across* `category` and `pillar` — a steroid and a SARM are different categories but the same "PEDs" stack. So the cleanest model is **one dedicated `stack` field** as the operational grouping key, rather than overloading category or pillar. Each group then = a base filtered `stack == "X"`, and the products physically live in a folder per stack with that base (`0. <Stack>.base`) pinned on top. This is more robust than folder-only grouping (the filter still works if a note moves) and keeps the single source of truth in the note's frontmatter. Bases live **inside their folders**, not on the OS root, so the "first page" stays clean.
 
 ## 6. Overhead  (`type: overhead`)
 

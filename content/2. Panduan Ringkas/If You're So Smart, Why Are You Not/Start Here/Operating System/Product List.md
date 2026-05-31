@@ -12,11 +12,30 @@ date: 2026-05-31
 
 ## Live catalog
 
-![[Products.base]]
+![[0. Products.base]]  ·  ![[0. Stock & Restock.base]]
+
+## Stacks (one base + folder each)
+
+**101 products**, grouped by `stack` into a folder each, with its own base (`0. <Stack>.base` pinned to the top of the folder):
+
+| Stack | Count | What |
+|---|---|---|
+| Hair | 8 | Minoxidil (oral + topical), RU58841 + carriers, Ell-Cranel, Nizoral |
+| Skin | 9 | Tretinoin (×2) + skincare consumables (Medicube, Originote, Eucerin) — carry `cost_per_bottle` + `shelf_life_months` + `eff_monthly` |
+| PEDs | 11 | Steroids, SARMs, cutting/anabolic pharma |
+| PCT | 5 | HCG ×2, HMG, Clomiphene, Tamoxifen |
+| Cycle Support | 7 | CaDG, DIM, Astragalus, TUDCA, Zinc, Boron, P5P |
+| Ancillaries & Supplement | 24 | Health ancillaries + general daily supps + sleep |
+| Cognitive Stack | 15 | Nootropics + creatine/fish oil |
+| Peptides | 9 | INDEXA-funded (excluded from personal cost) |
+| Protein & Pre-Intra | 10 | OTG/SPI protein, aminos, pre/intra, eggs |
+| Consumables | 3 | Syringes, alcohol swab |
+
+The **Stock & Restock** view (above, right) shows current stock and a `restock` flag (Buy now / Buy this month / OK / Not needed) so you can check and top up at a glance.
 
 ## How it's organised
 
-Products live as individual notes in `Operating System/Products/` and are tagged by pillar so the same item can serve more than one protocol without being duplicated. Roughly:
+Each product is one note carrying the full spec; the `stack` field is the operational grouping key. The same physical item is never duplicated — it's one note, tagged for every protocol it serves. Roughly:
 
 - **Fit → Performance Enhancement:** anabolics, SARMs, cutting agents, pre/intra-workout, and on-cycle support (Calcium D-Glucarate, DIM, Astragalus, TUDCA, Zinc, Boron).
 - **Healthy → Blueprint:** year-round longevity stack (Vitamin C, Garlic, TMG, B-complex, CoQ10, D3/K2, NR, NAC) plus health-protective ancillaries (Tadalafil, Aspirin, Irbesartan, Rosuvastatin, Acarbose).

@@ -1,0 +1,17 @@
+filters:
+  and:
+    - 'type == "product"'
+    - 'stack == "Ancillaries & Supplement"'
+views:
+  - type: table
+    name: Ancillaries & Supplement
+    order:
+      - file.name
+      - brand
+      - status
+      - current_phase
+      - stock_on_hand
+      - daily_dose
+      - restock
+      - importance
+      - cost_per_bottle

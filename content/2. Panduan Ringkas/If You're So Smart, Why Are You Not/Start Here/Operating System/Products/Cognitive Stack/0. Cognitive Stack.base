@@ -1,0 +1,17 @@
+filters:
+  and:
+    - 'type == "product"'
+    - 'stack == "Cognitive Stack"'
+views:
+  - type: table
+    name: Cognitive Stack
+    order:
+      - file.name
+      - brand
+      - status
+      - current_phase
+      - stock_on_hand
+      - daily_dose
+      - restock
+      - importance
+      - cost_per_bottle

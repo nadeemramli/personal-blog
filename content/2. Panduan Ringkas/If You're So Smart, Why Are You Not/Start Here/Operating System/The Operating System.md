@@ -20,7 +20,7 @@ So the operating system is built on **qualitative drivers**, not just numbers. H
 
 Five kinds of note, surfaced through six [[Schema — Data Model|database views]]:
 
-1. **[[Product List|Products]]** — `Products.base`. The catalog: brand, vendor, alternative price, usual promo price, dose per serving, dose per half serving, cost per bottle/vial, cost per dose. One note per product in [[[Products]]](Products).
+1. **[[Product List|Products]]** — **101 products**, grouped by `stack` into 10 folders, each with its own base (`0. <Stack>.base`): Hair, Skin, PEDs, PCT, Cycle Support, Ancillaries & Supplement, Cognitive Stack, Peptides, Protein & Pre-Intra, Consumables. Plus a master `0. Products.base` and a `0. Stock & Restock.base` (stock check + a `restock` flag: Buy now / this month / OK / Not needed). Each note carries brand, prices, doses, cost/dose. (Bases live inside their folders, keeping the root clean.)
 2. **Product Usage** — `Product Usage.base`. The same product notes, viewed by *how we use them*: which pillar and protocol, importance, active/retired.
 3. **Cycles & Dosing** — `Cycles & Dosing.base`. Cycle definitions and where each item sits in the current cycle — start date, phase, run-out.
 4. **Dosing Information** — `Dosing Information.base`. The dosing-schedule dictionary (ED / EOD / Training Days / Intense Training Days / Occasionally / Cycling) with the `days_per_week` factor that drives every forecast.

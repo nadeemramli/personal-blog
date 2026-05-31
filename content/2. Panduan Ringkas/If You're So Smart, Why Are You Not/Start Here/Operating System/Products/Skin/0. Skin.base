@@ -1,0 +1,16 @@
+filters:
+  and:
+    - 'type == "product"'
+    - 'stack == "Skin"'
+views:
+  - type: table
+    name: Skin
+    order:
+      - file.name
+      - brand
+      - status
+      - cost_per_bottle
+      - shelf_life_months
+      - eff_monthly
+      - restock
+      - importance

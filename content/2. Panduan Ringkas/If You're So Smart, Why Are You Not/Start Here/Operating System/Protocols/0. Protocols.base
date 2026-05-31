@@ -1,0 +1,10 @@
+filters:
+  and:
+    - type == "protocol"
+views:
+  - type: table
+    name: Phase protocols
+    order:
+      - file.name
+      - phase
+      - goal
