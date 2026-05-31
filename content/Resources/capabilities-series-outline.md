@@ -1,12 +1,12 @@
 ---
-title: Capabilities and Competency — Series Outline
+title: capabilities-series-outline
 draft: true
 tags:
   - rich
   - capabilities
   - series-planning
-date: 2026-05-30
-Purpose: Locked spine for the Capabilities and Competency series. The third leg of the Rich section, sitting between Income 101 (the why and the packaging) and Multiplying Money 101 (what to do with income once it lands). This series answers a different question: which skills are actually worth getting good at, for which kind of business, and who will pay you for them.
+date: 2026-06-01
+Purpose: "Locked spine for the Capabilities and Competency series. The third leg of the Rich section, sitting between Income 101 (the why and the packaging) and Multiplying Money 101 (what to do with income once it lands). This series answers a different question: which skills are actually worth getting good at, for which kind of business, and who will pay you for them."
 ---
 
 # Capabilities and Competency — Series Outline
