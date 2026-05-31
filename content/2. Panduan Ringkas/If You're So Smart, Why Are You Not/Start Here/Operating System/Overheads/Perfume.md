@@ -1,0 +1,25 @@
+---
+type: overhead
+name: "Perfume"
+pillar: "Attractive"
+sub_series: "Appearance"
+category: "Grooming"
+cost: 200
+billing: "shelf"
+shelf_life_months: 12
+eff_monthly: 16.67
+status: "active"
+source: "—"
+notes: "Grooming essential, ~6-12 months/bottle."
+---
+# Perfume
+
+**Grooming** · Attractive / Appearance
+
+> [!info] Cost
+> - **Price:** RM200 · **Billing:** shelf (12 mo shelf life)
+> - **Effective monthly:** RM16.67 · **Status:** active · **Source:** —
+
+Grooming essential, ~6-12 months/bottle.
+
+- Operating system: [[The Operating System]] · [[Schema — Data Model]]

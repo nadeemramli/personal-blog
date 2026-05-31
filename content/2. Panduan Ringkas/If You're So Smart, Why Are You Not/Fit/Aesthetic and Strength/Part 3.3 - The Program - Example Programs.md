@@ -291,6 +291,10 @@ These templates are starting points, not gospel. Adapt them based on what's alre
 
 ==The principles are stable. The exercise choices are variables.==
 
+*Here's the whole program on one card — the two templates drawn as two configurations of the same machine: [[Part 3.3 - The Program - Example Programs#Template 1: Anterior / Posterior — 4 days per week|the Anterior/Posterior split]] (4 days, 2× frequency) and [[Part 3.3 - The Program - Example Programs#Template 2: Full Body Every Other Day (FBEOD) — 3–4 days per week|Full-Body Every Other Day]] (3 days, 3× frequency). Different weekly cadence, identical output — both drive every muscle into the same 12–18 set/week MAV→MRV band, so you pick by schedule and recovery, not by which is "better." Underneath runs the long clock — [[Part 3.3 - The Program - Example Programs#The progression cycle inside the split|the progression cycle]], where the exercise inside each slot rotates isolation → compound → isolation-at-a-higher-ceiling while the slot itself never moves — plus the selector and [[Part 3.3 - The Program - Example Programs#How to adapt these programs to you|adaptation levers]] for tuning it to you. Pick a column, run it unchanged for 8–12 weeks, then rotate the slots — pin it beside the rack.*
+
+![[Poster — Fit - Part 3.3 - The Program - Example Programs.png]]
+
 ---
 ## Part 3.3 Takeaways
 

@@ -31,6 +31,7 @@ date: 2026-05-27
 - [Reproductive](#reproductive)
 - [Biological age](#biological-age)
 - [The blood panel: what to actually ask for](#the-blood-panel-what-to-actually-ask-for)
+- [Calculated markers: stretch the panel you already paid for](#calculated-markers-stretch-the-panel-you-already-paid-for)
 - [Reading the dashboard without losing your mind](#reading-the-dashboard-without-losing-your-mind)
 - [Part 1 Takeaways](#part-1-takeaways)
 - [Your Baseline Task List](#your-baseline-task-list)
@@ -218,6 +219,43 @@ In Malaysia, the practical options are **BP Healthcare**, **Pathlab**, **Gribble
 > The single most useful habit with bloodwork is to **collect the actual PDFs** of every panel you've ever run. Years of single numbers turn into trend lines, and trend lines turn into early warnings. Some Malaysian labs are good at this and some require a polite, repeated ask. Insist.
 
 ---
+## Calculated markers: stretch the panel you already paid for
+
+Here is a trick the labs already use on you. When a promo flyer advertises "82 tests," a large share of those are not 82 separate assays. They are arithmetic the lab runs on a handful of measured inputs, and then counts each result as its own "test" to inflate the number. The good news: ==the arithmetic is public, and you can run it yourself on the raw values you already paid to measure.== This does two things. It stops you paying add-on prices for numbers that are really just formulas, and it hands you useful markers the basic panel never bothered to print.
+
+The cleanest example is testosterone. A direct **free testosterone** assay is often sold as an add-on (in the RM 300–420 range). But free testosterone is almost always *calculated* anyway, from three inputs: **total testosterone, SHBG, and albumin**. Total T and albumin sit in a standard panel, so the only thing you actually need to buy is the **SHBG add-on (~RM 180)**. Feed the three numbers into the **Vermeulen equation** and you get both **free testosterone** and **bioavailable testosterone** for nothing extra. One add-on, two markers, and roughly half the price of the direct assay.
+
+That logic generalises. The table below is the set worth computing, the formula, and the cheap input it rides on. Most of these need no add-on at all.
+
+| Marker | Formula (inputs) | Comes free off |
+|---|---|---|
+| **Free & Bioavailable Testosterone** | Vermeulen equation (Total T, SHBG, Albumin) | Total T + Albumin in panel; pay only SHBG |
+| **Free Androgen Index (FAI)** | (Total T ÷ SHBG) × 100 | same inputs, quick proxy |
+| **A/G ratio** | Globulin = Total Protein − Albumin; A/G = Albumin ÷ Globulin | Liver panel |
+| **LDL (Friedewald)** | Total Chol − HDL − (TG ÷ 2.2 mmol/L) | Lipid panel |
+| **VLDL** | TG ÷ 2.2 (mmol/L) | Lipid panel |
+| **Non-HDL cholesterol** | Total Chol − HDL | Lipid panel |
+| **Remnant cholesterol** | Total Chol − HDL − LDL | Lipid panel |
+| **TG : HDL ratio** | TG ÷ HDL (insulin-resistance + LDL-particle proxy) | Lipid panel |
+| **Atherogenic Index of Plasma (AIP)** | log₁₀(TG ÷ HDL), molar | Lipid panel |
+| **TyG index** (insulin resistance) | ln(TG[mg/dL] × Fasting Glucose[mg/dL] ÷ 2) | Lipid + glucose, **no insulin assay needed** |
+| **HOMA-IR** | (Glucose × Insulin) ÷ 22.5 | needs fasting-insulin add-on |
+| **eAG** (avg glucose) | 28.7 × HbA1c − 46.7 (mg/dL) | HbA1c |
+| **De Ritis ratio** | AST ÷ ALT | Liver panel |
+| **FIB-4** (liver fibrosis) | (Age × AST) ÷ (Platelets × √ALT) | Liver panel + CBC |
+| **Transferrin saturation** | (Serum Iron ÷ TIBC) × 100 | Iron profile |
+| **eGFR / BUN:Creatinine** | CKD-EPI (Creatinine, age, sex); Urea ÷ Creatinine | Renal panel |
+| **NLR / PLR / SII** (inflammation) | Neutrophils÷Lymphocytes; Platelets÷Lymphocytes; Plt×Neut÷Lymph | CBC differential, **free** |
+| **Anion gap / Corrected calcium** | Na − (Cl + HCO₃); Ca + 0.02×(40 − Albumin g/L) | Renal + bone panel |
+| **MAP** (mean arterial pressure) | DBP + (SBP − DBP) ÷ 3 | your home BP cuff |
+
+> [!tip] The budget rule for add-ons
+> Only pay for an add-on if it is a **true assay you cannot derive** from cheaper inputs. The short list worth paying for: **SHBG, fasting insulin, ApoB, Lp(a) (once in your life), hs-CRP, DHEA-S, DHT**. Everything in the table above is arithmetic. Buy the inputs once, compute the rest forever. The full computable list and a calculator live in the Operating System's [[Bloodwork & Calculated Biomarkers]] reference.
+
+> [!warning] Where the shortcuts break
+> Calculated markers are reliable for **day-to-day tracking and budgeting**, not for edge-case diagnosis. The Friedewald LDL becomes invalid when triglycerides are very high (roughly >4.5 mmol/L), surrogate insulin-resistance indices (TyG, HOMA-IR) are trends not diagnoses, and FIB-4 over- and under-reads at the extremes of age. When a *calculated* number looks alarming, that is the moment to pay for the direct assay, not to panic.
+
+---
 ## Reading the dashboard without losing your mind
 
 A short, honest section because chasing biomarkers is its own failure mode.
@@ -240,6 +278,7 @@ A short, honest section because chasing biomarkers is its own failure mode.
 > - **Reproductive: semen analysis is fertility; nighttime erections (NPT) are a *vascular* early-warning marker. Different tests, different questions.**
 > - **Biological-age clocks are interesting and noisy.** Fix the basics first.
 > - **Go beyond a default blood panel:** ask for ApoB, Lp(a) (once), hs-CRP, fasting insulin, and full hormones, and **keep the PDF reports** so the years compound.
+> - **Compute, don't buy, the derived markers.** Free/bioavailable testosterone, LDL, non-HDL, TyG, FIB-4, transferrin saturation and the inflammation ratios are all arithmetic off cheap inputs. Pay only for true assays (SHBG, insulin, ApoB, Lp(a), hs-CRP, DHEA-S, DHT); calculate the rest.
 > - **Read the dashboard as prompts for action, not grades.** Frequency floors, not ceilings.
 
 ## Your Baseline Task List

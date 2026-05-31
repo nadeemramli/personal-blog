@@ -120,7 +120,7 @@ This is the phrase that means everything and nothing depending on who says it. T
 - **Orderliness** is what the first half of this blog (Fit, Healthy, Productive, Rich) is about: getting the floor solid, paying the daily energy bill, surviving entropy. ==Income 101 is the Orderliness move for the income domain.==
 - **Design** is what becomes possible once Orderliness is paid for. It is the offensive phase: the small number of asymmetric, convex bets you make with your remaining time, attention, and surplus. ==It is what you do *with* optionality, not how you build it.==
 
-Designing your life requires that the income side is no longer the bottleneck. ==The whole point of Income 101 is to remove that bottleneck.== After it, the binding constraint becomes something else: taste, courage, vision, a thesis about the world. Those belong to the Successful and Peaceful series, and to the [[2. Self, Reality and Design|Self, Reality and Design]] essay.
+Designing your life requires that the income side is no longer the bottleneck. ==The whole point of Income 101 is to remove that bottleneck.== After it, the binding constraint becomes something else: taste, courage, vision, a thesis about the world. Those belong to the Successful and Peaceful series, and to the [[Part 2.0 - Self, Reality and Order|Self, Reality and Order]] essay.
 
 Two concrete consequences:
 
@@ -204,4 +204,4 @@ Income 101 is the entry essay of the Rich pillar. The natural sequence from here
 
 [^2]: Scott Galloway, *The Algebra of Wealth* (2024), Portfolio — the four-variable model (focus, stoicism, time, diversification) that Galloway uses for personal wealth-building maps cleanly to the four-attributes-and-three-economies frame this series uses. The Climb is roughly focus + stoicism + time; the Build is roughly diversification + leverage. [profgalloway.com/algebra-of-wealth](https://www.profgalloway.com/algebra-of-wealth/).
 
-[^3]: For the empirical case that lifestyle inflation is the single largest predictor of failed wealth accumulation at high incomes, see Thomas J. Stanley and William D. Danko, *The Millionaire Next Door* (1996), Longstreet Press — the foundational data showing that the median millionaire's lifestyle costs sit far below their income, and that surplus discipline (rather than income level) is the variable that compounds. The "live below the raise" guidance in this article descends directly from this work.
+[^3]: For the empirical case that lifestyle inflation is the single largest predictor of failed wealth accumulation at high incomes, see Thomas J. Stanley and William D. Danko, *The Millionaire Next Door* (1996), Longstreet Press — the foundational data showing that the median millionaire's lifestyle costs sit far below their income, and that surplus discipline (rather than income level) is the variable that compounds. The "live below the raise" guidance in this article descends directly from this
