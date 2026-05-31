@@ -1,4 +1,5 @@
 ---
+draft: true
 type: source
 source_name: "Overseas GMP (crypto)"
 method: "Direct (overseas GMP)"

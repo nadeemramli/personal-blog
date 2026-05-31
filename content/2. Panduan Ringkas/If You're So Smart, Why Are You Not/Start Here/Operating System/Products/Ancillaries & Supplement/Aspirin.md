@@ -1,4 +1,5 @@
 ---
+draft: true
 type: product
 name: "Aspirin"
 brand: "shopee-china"

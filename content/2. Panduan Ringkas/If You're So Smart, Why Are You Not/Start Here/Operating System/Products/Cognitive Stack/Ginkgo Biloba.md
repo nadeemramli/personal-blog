@@ -1,4 +1,5 @@
 ---
+draft: true
 type: product
 name: "Ginkgo Biloba"
 brand: "Nutricost"

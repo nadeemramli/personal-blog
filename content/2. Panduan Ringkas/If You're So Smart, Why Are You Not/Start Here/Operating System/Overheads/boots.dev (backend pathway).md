@@ -1,4 +1,5 @@
 ---
+draft: true
 type: overhead
 name: "boots.dev (backend pathway)"
 pillar: "Successful"

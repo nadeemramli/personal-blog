@@ -1,4 +1,5 @@
 ---
+draft: true
 type: product
 name: "Fish Oil (Omega-3)"
 brand: "California Gold"

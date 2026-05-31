@@ -1,4 +1,5 @@
 ---
+draft: true
 type: product
 name: "Minoxidil 5mg (Zontron Hirsutin)"
 brand: "Zontron"

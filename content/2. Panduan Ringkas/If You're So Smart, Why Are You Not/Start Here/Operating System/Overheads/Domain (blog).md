@@ -1,4 +1,5 @@
 ---
+draft: true
 type: overhead
 name: "Domain (blog)"
 pillar: "Productive"

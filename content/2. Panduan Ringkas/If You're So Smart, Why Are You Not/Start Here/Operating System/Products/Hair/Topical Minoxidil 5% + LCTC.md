@@ -1,4 +1,5 @@
 ---
+draft: true
 type: product
 name: "Topical Minoxidil 5% + LCTC"
 brand: ""

@@ -1,4 +1,5 @@
 ---
+draft: true
 type: product
 name: "Ell-Cranel Alpha 0.025% (alfatradiol)"
 brand: "Ell-Cranel"

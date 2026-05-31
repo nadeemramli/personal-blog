@@ -1,4 +1,5 @@
 ---
+draft: true
 type: product
 name: "Insulin Syringe 30g (NIPRO)"
 brand: "NIPRO"

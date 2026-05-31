@@ -1,4 +1,5 @@
 ---
+draft: true
 type: product
 name: "Vitamin C"
 brand: "California Gold"

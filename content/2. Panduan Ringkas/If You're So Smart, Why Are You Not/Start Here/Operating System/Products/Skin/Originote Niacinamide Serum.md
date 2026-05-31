@@ -1,4 +1,5 @@
 ---
+draft: true
 type: product
 name: "Originote Niacinamide Serum"
 brand: "Originote"

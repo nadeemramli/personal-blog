@@ -1,4 +1,5 @@
 ---
+draft: true
 type: product
 name: "HMG 75IU GMP"
 brand: "GMP"

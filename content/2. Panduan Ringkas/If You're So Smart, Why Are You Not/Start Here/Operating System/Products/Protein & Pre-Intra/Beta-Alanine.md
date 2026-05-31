@@ -1,4 +1,5 @@
 ---
+draft: true
 type: product
 name: "Beta-Alanine"
 brand: "Haziq Khalim"

@@ -1,6 +1,6 @@
 ---
 type: cycle
-cycle_name: "2026 Q2 Cycle"
+cycle_name: 2026 Q2 Cycle
 start_date: 2026-04-23
 weeks: 20
 current_phase: medium
@@ -15,6 +15,7 @@ items:
   - "[[TUDCA]]"
   - "[[Zinc]]"
   - "[[Boron]]"
+draft: true
 ---
 # 2026 Q2 Cycle
 

@@ -1,4 +1,5 @@
 ---
+draft: true
 type: product
 name: "SLU-PP-332"
 brand: ""

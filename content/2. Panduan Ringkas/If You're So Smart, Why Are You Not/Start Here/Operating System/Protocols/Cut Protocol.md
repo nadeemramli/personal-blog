@@ -1,4 +1,5 @@
 ---
+draft: true
 type: protocol
 name: Cut Protocol
 phase: Cut

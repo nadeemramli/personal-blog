@@ -1,4 +1,5 @@
 ---
+draft: true
 type: dosing_schedule
 code: "EOD"
 label: "Every Other Day"

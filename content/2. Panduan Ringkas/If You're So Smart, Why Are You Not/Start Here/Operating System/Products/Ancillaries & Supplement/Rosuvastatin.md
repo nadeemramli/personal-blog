@@ -1,4 +1,5 @@
 ---
+draft: true
 type: product
 name: "Rosuvastatin"
 brand: "shopee-china"

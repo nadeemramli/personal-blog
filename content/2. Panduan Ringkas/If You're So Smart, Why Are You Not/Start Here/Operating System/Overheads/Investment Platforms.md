@@ -1,4 +1,5 @@
 ---
+draft: true
 type: overhead
 name: "Investment Platforms"
 pillar: "Rich"

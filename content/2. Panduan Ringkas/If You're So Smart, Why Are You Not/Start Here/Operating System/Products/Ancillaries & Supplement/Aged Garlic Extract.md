@@ -1,4 +1,5 @@
 ---
+draft: true
 type: product
 name: "Aged Garlic Extract"
 brand: "Kyolic"

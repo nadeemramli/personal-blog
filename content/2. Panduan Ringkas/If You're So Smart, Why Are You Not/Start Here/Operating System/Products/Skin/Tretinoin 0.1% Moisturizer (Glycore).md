@@ -1,4 +1,5 @@
 ---
+draft: true
 type: product
 name: "Tretinoin 0.1% Moisturizer (Glycore)"
 brand: "Glycore"

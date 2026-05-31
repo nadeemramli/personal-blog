@@ -1,4 +1,5 @@
 ---
+draft: true
 type: product
 name: "Nizoral (Ketoconazole shampoo)"
 brand: "Nizoral"

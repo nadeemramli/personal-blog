@@ -1,4 +1,5 @@
 ---
+draft: true
 type: overhead
 name: "Insurance / Takaful"
 pillar: "Peaceful"

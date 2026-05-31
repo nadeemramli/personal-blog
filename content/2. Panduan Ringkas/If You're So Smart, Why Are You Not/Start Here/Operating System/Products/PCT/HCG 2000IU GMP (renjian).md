@@ -1,4 +1,5 @@
 ---
+draft: true
 type: product
 name: "HCG 2000IU GMP (renjian)"
 brand: "renjian"

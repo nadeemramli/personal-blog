@@ -1,4 +1,5 @@
 ---
+draft: true
 type: overhead
 name: "Gym Membership (+ sauna, InBody)"
 pillar: "Fit"

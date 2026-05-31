@@ -1,4 +1,5 @@
 ---
+draft: true
 type: product
 name: "SPI (Soy Protein Isolate, HK)"
 brand: "Haziq Khalim"

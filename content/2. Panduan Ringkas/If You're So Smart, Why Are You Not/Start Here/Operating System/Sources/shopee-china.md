@@ -1,4 +1,5 @@
 ---
+draft: true
 type: source
 source_name: "shopee-china"
 method: "Marketplace (cross-border)"

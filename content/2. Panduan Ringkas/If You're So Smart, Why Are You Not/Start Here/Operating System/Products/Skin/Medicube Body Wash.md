@@ -1,4 +1,5 @@
 ---
+draft: true
 type: product
 name: "Medicube Body Wash"
 brand: "Medicube"
