@@ -1,0 +1,144 @@
+<svg viewBox="0 0 1200 1500" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, 'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#121A30"/>
+      <stop offset="0.45" stop-color="#0B0F1A"/>
+      <stop offset="1" stop-color="#070A12"/>
+    </linearGradient>
+    <linearGradient id="bodyBrain" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E8A23D" stop-opacity="0.30"/>
+      <stop offset="0.42" stop-color="#E8A23D" stop-opacity="0.10"/>
+      <stop offset="0.58" stop-color="#8B7CF0" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#8B7CF0" stop-opacity="0.30"/>
+    </linearGradient>
+    <pattern id="amputate" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="14" height="14" fill="none"/>
+      <line x1="0" y1="0" x2="0" y2="14" stroke="#FF5C5C" stroke-width="1.4" stroke-opacity="0.28"/>
+    </pattern>
+    <radialGradient id="furnace" cx="0.5" cy="0.5" r="0.6">
+      <stop offset="0" stop-color="#E8A23D" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#E8A23D" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="1500" fill="url(#sky)"/>
+  <g fill="#E6E8EE" fill-opacity="0.18">
+    <circle cx="120" cy="60" r="1.1"/><circle cx="320" cy="40" r="0.9"/><circle cx="540" cy="70" r="1.2"/>
+    <circle cx="980" cy="50" r="1"/><circle cx="1120" cy="90" r="1.3"/><circle cx="1060" cy="30" r="0.8"/>
+    <circle cx="200" cy="110" r="0.8"/><circle cx="760" cy="35" r="1"/>
+  </g>
+
+  <g id="header">
+    <text x="70" y="66" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="15" letter-spacing="5" fill="#8B7CF0">THE ARCHITECTURE OF SLEEP&#160;&#160;·&#160;&#160;PART 1 OF 5</text>
+    <text x="68" y="132" font-size="62" font-weight="600" letter-spacing="1.5" fill="#E6E8EE">A NIGHT HAS A SHAPE.</text>
+    <line x1="70" y1="158" x2="1130" y2="158" stroke="#71717A" stroke-width="1" stroke-opacity="0.5"/>
+    <g>
+      <rect x="712" y="40" width="418" height="86" rx="6" fill="#FF5C5C" fill-opacity="0.06" stroke="#FF5C5C" stroke-opacity="0.55" stroke-width="1.2"/>
+      <text x="732" y="79" font-size="19" font-weight="600" fill="#FF7A7A">A 6&#8209;HOUR NIGHT &#8800; 75% OF 8.</text>
+      <text x="732" y="107" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11" fill="#A1A1AA">cut the night and you amputate a stage, not a slice.</text>
+    </g>
+  </g>
+
+  <g id="hero">
+    <g stroke="#71717A" stroke-opacity="0.22" stroke-width="1">
+      <line x1="250" y1="320" x2="1140" y2="320"/>
+      <line x1="250" y1="375" x2="1140" y2="375"/>
+      <line x1="250" y1="440" x2="1140" y2="440"/>
+      <line x1="250" y1="540" x2="1140" y2="540"/>
+      <line x1="250" y1="700" x2="1140" y2="700"/>
+    </g>
+    <g font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13" fill="#A1A1AA" text-anchor="end">
+      <text x="228" y="324">AWAKE</text>
+      <text x="228" y="379" fill="#8B7CF0">REM</text>
+      <text x="228" y="444">N1</text>
+      <text x="228" y="544">N2</text>
+      <text x="228" y="704" fill="#E8A23D">N3 DEEP</text>
+    </g>
+    <text x="60" y="510" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13" letter-spacing="3" fill="#71717A" transform="rotate(-90 60 510)">DEPTH</text>
+
+    <path d="M250,320 L265,320 L265,440 L290,440 L290,540 L325,540 L325,700 L405,700 L405,540 L435,540 L435,375 L455,375 L455,540 L485,540 L485,670 L550,670 L550,540 L580,540 L580,375 L615,375 L615,540 L655,540 L655,620 L695,620 L695,540 L725,540 L725,375 L780,375 L780,540 L825,540 L825,580 L850,580 L850,540 L875,540 L875,375 L950,375 L950,540 L990,540 L990,375 L1085,375 L1085,320 L1105,320 L1105,375 L1140,375 L1140,760 L250,760 Z" fill="url(#bodyBrain)"/>
+    <ellipse cx="430" cy="700" rx="220" ry="70" fill="url(#furnace)"/>
+
+    <g fill="#E8A23D" fill-opacity="0.85">
+      <rect x="325" y="688" width="80" height="14" rx="3"/>
+      <rect x="485" y="658" width="65" height="13" rx="3"/>
+      <rect x="655" y="608" width="40" height="12" rx="3"/>
+      <rect x="825" y="568" width="25" height="11" rx="3"/>
+    </g>
+    <g fill="#8B7CF0" fill-opacity="0.9">
+      <rect x="435" y="366" width="20" height="18" rx="4"/>
+      <rect x="580" y="366" width="35" height="18" rx="4"/>
+      <rect x="725" y="366" width="55" height="18" rx="4"/>
+      <rect x="875" y="366" width="75" height="18" rx="4"/>
+      <rect x="990" y="366" width="95" height="18" rx="4"/>
+    </g>
+
+    <polyline points="250,320 265,320 265,440 290,440 290,540 325,540 325,700 405,700 405,540 435,540 435,375 455,375 455,540 485,540 485,670 550,670 550,540 580,540 580,375 615,375 615,540 655,540 655,620 695,620 695,540 725,540 725,375 780,375 780,540 825,540 825,580 850,580 850,540 875,540 875,375 950,375 950,540 990,540 990,375 1085,375 1085,320 1105,320 1105,375 1140,375" fill="none" stroke="#E6E8EE" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+
+    <text x="300" y="745" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="14" font-weight="600" fill="#E8A23D">&#8592; THE BODY&#160;&#160;deep sleep · front of night</text>
+    <text x="1135" y="488" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13" font-weight="600" fill="#8B7CF0">THE BRAIN&#160;&#160;REM · back of night &#8594;</text>
+
+    <rect x="910" y="320" width="230" height="440" fill="url(#amputate)"/>
+    <line x1="910" y1="300" x2="910" y2="772" stroke="#FF5C5C" stroke-width="2.4"/>
+    <polygon points="910,300 902,286 918,286" fill="#FF5C5C"/>
+    <text x="1135" y="315" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" font-weight="600" fill="#FF7A7A">WAKE EARLY &#8594; LOSE REM (the brain)</text>
+    <line x1="325" y1="300" x2="325" y2="772" stroke="#FF5C5C" stroke-width="1.6" stroke-dasharray="6 5" stroke-opacity="0.8"/>
+    <text x="333" y="318" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" font-weight="600" fill="#FF7A7A" fill-opacity="0.92">LATE TO BED &#8594; COMPRESS DEEP (the body)</text>
+
+    <line x1="250" y1="772" x2="1140" y2="772" stroke="#71717A" stroke-opacity="0.55" stroke-width="1.2"/>
+    <g stroke="#71717A" stroke-opacity="0.45" stroke-width="1">
+      <line x1="250" y1="772" x2="250" y2="780"/><line x1="360" y1="772" x2="360" y2="780"/>
+      <line x1="470" y1="772" x2="470" y2="780"/><line x1="580" y1="772" x2="580" y2="780"/>
+      <line x1="690" y1="772" x2="690" y2="780"/><line x1="800" y1="772" x2="800" y2="780"/>
+      <line x1="910" y1="772" x2="910" y2="780"/><line x1="1020" y1="772" x2="1020" y2="780"/>
+      <line x1="1130" y1="772" x2="1130" y2="780"/>
+    </g>
+    <g font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11.5" fill="#71717A" text-anchor="middle">
+      <text x="360" y="798">12</text><text x="470" y="798">1</text><text x="580" y="798">2</text>
+      <text x="690" y="798">3</text><text x="800" y="798">4</text><text x="910" y="798">5</text>
+      <text x="1020" y="798">6</text>
+    </g>
+    <text x="250" y="800" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13" font-weight="600" fill="#A1A1AA">LIGHTS OUT</text>
+    <text x="1140" y="800" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13" font-weight="600" fill="#A1A1AA">WAKE</text>
+  </g>
+
+  <g id="foundation">
+    <g stroke="#71717A" stroke-opacity="0.4" stroke-width="1" stroke-dasharray="3 4">
+      <line x1="430" y1="810" x2="430" y2="876"/>
+      <line x1="920" y1="810" x2="920" y2="876"/>
+    </g>
+    <g>
+      <rect x="250" y="878" width="430" height="262" rx="4" fill="#E8A23D" fill-opacity="0.05" stroke="#E8A23D" stroke-opacity="0.55" stroke-width="1.3"/>
+      <line x1="250" y1="930" x2="680" y2="930" stroke="#E8A23D" stroke-opacity="0.3" stroke-width="1"/>
+      <text x="272" y="914" font-size="26" font-weight="600" fill="#E8A23D">THE BODY</text>
+      <text x="660" y="914" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" fill="#A1A1AA">physical repair · front 3 hrs</text>
+      <g font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="15" fill="#E6E8EE">
+        <text x="272" y="972">&#9670;&#160;&#160;GH pulse&#160;&#160;<tspan fill="#A1A1AA" font-size="12.5">~70% of daily output</tspan></text>
+        <text x="272" y="1012">&#9670;&#160;&#160;Tissue repair&#160;&#160;<tspan fill="#A1A1AA" font-size="12.5">muscle &amp; bone</tspan></text>
+        <text x="272" y="1052">&#9670;&#160;&#160;Glymphatic clearance&#160;&#160;<tspan fill="#A1A1AA" font-size="12.5">brain trash-out</tspan></text>
+        <text x="272" y="1092">&#9670;&#160;&#160;Immune work</text>
+      </g>
+    </g>
+    <g>
+      <rect x="710" y="878" width="430" height="262" rx="4" fill="#8B7CF0" fill-opacity="0.05" stroke="#8B7CF0" stroke-opacity="0.55" stroke-width="1.3"/>
+      <line x1="710" y1="930" x2="1140" y2="930" stroke="#8B7CF0" stroke-opacity="0.3" stroke-width="1"/>
+      <text x="732" y="914" font-size="26" font-weight="600" fill="#8B7CF0">THE BRAIN</text>
+      <text x="1120" y="914" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" fill="#A1A1AA">cognitive repair · back 3 hrs</text>
+      <g font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="15" fill="#E6E8EE">
+        <text x="732" y="972">&#9671;&#160;&#160;Memory integration&#160;&#160;<tspan fill="#A1A1AA" font-size="12.5">filing the day</tspan></text>
+        <text x="732" y="1012">&#9671;&#160;&#160;Emotional recalibration&#160;&#160;<tspan fill="#A1A1AA" font-size="12.5">takes off the charge</tspan></text>
+        <text x="732" y="1052">&#9671;&#160;&#160;Creativity&#160;&#160;<tspan fill="#A1A1AA" font-size="12.5">&#8220;sleep on it&#8221;</tspan></text>
+      </g>
+    </g>
+    <text x="695" y="912" text-anchor="middle" font-size="20" fill="#71717A">|</text>
+  </g>
+
+  <g id="thesis">
+    <line x1="70" y1="1210" x2="1130" y2="1210" stroke="#71717A" stroke-width="1" stroke-opacity="0.4"/>
+    <text x="600" y="1300" text-anchor="middle" font-size="33" font-weight="600" letter-spacing="0" fill="#E6E8EE">YOU DON&#8217;T TAKE SLEEP. <tspan fill="#8B7CF0">YOU BUILD IT.</tspan></text>
+    <text x="600" y="1344" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="14" fill="#A1A1AA">everything after this just defends the architecture.</text>
+    <line x1="70" y1="1410" x2="1130" y2="1410" stroke="#71717A" stroke-width="1" stroke-opacity="0.3"/>
+    <text x="70" y="1448" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" letter-spacing="2" fill="#71717A">PART 1 OF 5&#160;&#160;·&#160;&#160;SLEEP&#160;&#160;·&#160;&#160;THE HEALTHY PILLAR</text>
+    <text x="1130" y="1448" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" letter-spacing="2" fill="#71717A">IF YOU&#8217;RE SO SMART, WHY ARE YOU NOT</text>
+  </g>
+</svg>

@@ -58,18 +58,23 @@ Either way, the hub should be cross-linked prominently from `Start Here` (Manife
 Assuming resolution (1). Numbering follows the house `Part X.Y` convention. Spokes are ordered Bloom's way (Time first because it is the master resource; Financial last because it is the means, not the end — the ordering itself reinforces the thesis).
 
 > [!note] STRUCTURE REVISED 2026-06-01 (built)
-> The original plan had eight articles (five separate spoke essays + a generic "coordination" capstone). Per Nadeem's call, the five spokes were **consolidated into a single Part 1.2 — The Five Wealths**, and the capstone was **refocused** as Part 2.0 — Financial Coordination: not a generic cross-axis "coordination," but specifically the financial coordinate from *Financial Freedom Is a Coordinate, Not a Number*, used to define "enough." The detailed per-wealth module notes below remain valid as the source content that now lives inside Part 1.2.
+> The original plan had eight articles (five separate spoke essays + a generic "coordination" capstone). Per Nadeem's call, the five spokes were **consolidated into a single Part 1.2 — The Five Wealths**, and the capstone was **refocused** on the financial coordinate used to define "enough." The detailed per-wealth module notes below remain valid as the source content that now lives inside Part 1.2.
 
-**As built — 4 articles in `Successful/Wealth/`:**
+> [!note] PART 2 EXPANDED 2026-06-01 (loose drafts absorbed)
+> The two loose drafts sitting in `Successful/Wealth/` (*Financial Freedom Is a Coordinate, Not a Number* — two overlapping versions — and *Beauty of Compounding*) were **absorbed into the series as proper parts** and the loose files deleted. Per Nadeem's call the Part 2 block is ordered **framework-first**: the framework comes before the keystone. The two coordinate drafts were merged into one. Net effect: the series went from 4 parts to **6**, and the old Part 2.0 keystone was **renumbered to Part 2.2**.
+
+**As built — 6 articles in `Successful/Wealth/`:**
 
 | Part | Article | Role |
 |---|---|---|
 | Part 1.0 | The Scoreboard | Hub / entry — five wealths, why one number is wrong, the five questions, baseline |
 | Part 1.1 | Building vs Executing | Thesis — the book builds, the blog executes; this hub routes |
 | Part 1.2 | The Five Wealths | All five spokes consolidated: each with definition, question, quiz, the-one-thing, and routing into its execution series |
-| Part 2.0 | Financial Coordination | Capstone / original IP — the financial coordinate that defines "enough"; a defined enough is what frees capacity for the other four wealths |
+| Part 2.0 | Financial Freedom Is a Coordinate | The framework — two axes (what you protect / for how long), four spending layers, runway stages, three rules, the Kelly/Compounding-Baseline split. (Merged from the two loose Coordinate drafts.) |
+| Part 2.1 | The Beauty of Compounding | The engine under the Multiplier layer — Rule of 72, the safety baseline by age, Coast FI, the redeployed-surplus handoff. (From the loose Compounding draft; $ → RM, 8% caveat footnoted.) |
+| Part 2.2 | Financial Coordination | Capstone / original IP — uses the coordinate to define "enough"; a defined enough is what frees capacity for the other four wealths. (Renumbered from the old Part 2.0.) |
 
-Four articles. The hub, thesis, and Five-Wealths switchboard are deliberately lean; the weight of the original writing sits in 1.1 and 2.0. Spokes ordered Bloom's way (Time first, Financial last) inside 1.2.
+Six articles. The hub, thesis, and Five-Wealths switchboard are deliberately lean; the original writing concentrates in 1.1 and the Part 2 block (2.0 framework, 2.2 keystone), with 2.1 as the supporting compounding math. Spokes ordered Bloom's way (Time first, Financial last) inside 1.2; Part 2 ordered framework → compounding → keystone.
 
 ## The module map
 
@@ -127,4 +132,5 @@ Each spoke follows the same shape so the series reads as one body: (1) the wealt
 
 1. **This architecture** (done) — defines the hub and hands Stronghold its brief.
 2. **Stronghold** (done, 2026-06-01) — built the Social Wealth execution series against the mandate above.
-3. **The Wealth hub** (done, 2026-06-01) — Parts 1.0–7.0 written in `Successful/Wealth/`, all five spokes routing into live series. **Remaining:** decide placement (promote to top-level "Scoreboard" hub vs stay under Successful), and cross-wire forward-links from `Start Here` and the Coordinate/Compounding essays into the hub.
+3. **The Wealth hub** (done, 2026-06-01) — six parts written in `Successful/Wealth/` (1.0 Scoreboard, 1.1 Building vs Executing, 1.2 The Five Wealths, 2.0 Financial Freedom Is a Coordinate, 2.1 The Beauty of Compounding, 2.2 Financial Coordination), all five spokes routing into live series.
+4. **Part 2 absorption** (done, 2026-06-01) — the loose Coordinate (×2) and Compounding drafts absorbed into Parts 2.0/2.1, the old keystone renumbered to 2.2, loose files deleted, and all inbound wiki-links repointed (Rich Income 1.0/4.0, Start Here First Path + Skeleton Build Map, Wealth Parts 1.0/1.1/1.2, gap-map). **Remaining:** decide placement (promote to top-level "Scoreboard" hub vs stay under Successful).

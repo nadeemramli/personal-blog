@@ -1,5 +1,5 @@
 ---
-title: "Wealth Part 2.0 - Financial Coordination"
+title: "Wealth Part 2.2 - Financial Coordination"
 draft: true
 tags:
   - successful
@@ -8,12 +8,14 @@ tags:
   - coordination
 date: 2026-06-01
 ---
-> [!abstract] This is **Part 2.0 of 4** in the Wealth series. The full path:
+> [!abstract] This is **Part 2.2 of 6** in the Wealth series. The full path:
 >
-> - **Part 1.0:** [[Wealth Part 1.0 - The Scoreboard|The Scoreboard]] — the five types of wealth
+> - **Part 1.0:** [[Wealth Part 1.0 - The Scoreboard|The Scoreboard]] — the five types of wealth, and why one number is the wrong one
 > - **Part 1.1:** [[Wealth Part 1.1 - Building vs Executing|Building vs Executing]] — what this series adds to the book
 > - **Part 1.2:** [[Wealth Part 1.2 - The Five Wealths|The Five Wealths]] — all five spokes, scored and routed
-> - **Part 2.0 (this article):** [[Wealth Part 2.0 - Financial Coordination|Financial Coordination]] — the coordinate that defines enough
+> - **Part 2.0:** [[Wealth Part 2.0 - Financial Freedom Is a Coordinate|Financial Freedom Is a Coordinate]] — the framework: what you protect, and for how long
+> - **Part 2.1:** [[Wealth Part 2.1 - The Beauty of Compounding|The Beauty of Compounding]] — Coast FI and the engine under the Multiplier layer
+> - **Part 2.2 (this article):** [[Wealth Part 2.2 - Financial Coordination|Financial Coordination]] — the coordinate that defines enough
 > ----
 
 ## Table of Contents
@@ -23,13 +25,13 @@ date: 2026-06-01
 - [[#Reading enough off the coordinate|Reading enough off the coordinate]]
 - [[#Why this is the keystone of the scoreboard|Why this is the keystone of the scoreboard]]
 - [[#The redeployment|The redeployment]]
-- [[#Part 2.0 Takeaways|Part 2.0 Takeaways]]
+- [[#Part 2.2 Takeaways|Part 2.2 Takeaways]]
 - [[#Your Coordination Task List|Your Coordination Task List]]
 - [[#Sources & references|Sources & references]]
 
 ---
 
-Part 1.2 left one thread hanging deliberately. Financial Wealth's question (*what is your definition of enough?*) is the most important on the entire scoreboard, and it is the one you cannot answer with a number. This article is how you answer it. It is an extension of Financial Wealth, not a separate idea: the financial coordinate is the tool that locates "enough," and a located "enough" is what releases the capacity the other four wealths have been waiting on. This is the keystone. Pull it and the whole board holds.
+Part 1.2 left one thread hanging deliberately. Financial Wealth's question (*what is your definition of enough?*) is the most important on the entire scoreboard, and it is the one you cannot answer with a number. This article is how you answer it, and it is the destination the whole series has been pointing at. It is an extension of Financial Wealth, not a separate idea: the financial coordinate from [[Wealth Part 2.0 - Financial Freedom Is a Coordinate|Part 2.0]] is the tool that locates "enough," and a located "enough" is what releases the capacity the other four wealths have been waiting on. This is the keystone. Pull it and the whole board holds.
 
 ## Enough is not a number
 
@@ -39,18 +41,18 @@ Ask most people what "enough" is and they name a figure: a salary, a net worth, 
 
 ## Freedom is a coordinate
 
-This is the framework from [[Financial Freedom Is a Coordinate, Not a Number|Financial Freedom Is a Coordinate, Not a Number]], and it is the engine of this whole article, so it is worth stating cleanly. Freedom is not one number on one axis. It is a position on two:
+This is the framework from [[Wealth Part 2.0 - Financial Freedom Is a Coordinate|Part 2.0]], and it is the engine of this whole article, so it is worth stating cleanly. Freedom is not one number on one axis. It is a position on two:
 
 - **What you are protecting:** the layers of your life that actually matter to you, from the non-negotiable floor up. In the framework these are the four layers of spending: the **Shield** (essentials), the **Engine** (what maintains you as the primary asset: health, training, the things you genuinely live for), the **Catalyst** (your working capital), and the **Multiplier** (long-term compounding bets).
 - **For how long you can protect it:** your runway, measured in the stages from paycheck-to-paycheck up through a year or more of your real life fully funded.
 
-Plot yourself on those two axes and you have a *coordinate*, not a wish. The full mechanics (the layers, the runway stages, the worked examples) live in the essay; read it as the companion to this article. What matters here is what the coordinate lets you do.
+Plot yourself on those two axes and you have a *coordinate*, not a wish. The full mechanics (the layers, the runway stages, the worked examples, and the compounding engine under the Multiplier) live in [[Wealth Part 2.0 - Financial Freedom Is a Coordinate|Part 2.0]] and [[Wealth Part 2.1 - The Beauty of Compounding|Part 2.1]]; read them as the companions to this article. What matters here is what the coordinate lets you do.
 
 ## Reading enough off the coordinate
 
 "Enough" is simply a specific coordinate: the point at which the layers you actually live for are funded, and protected for a runway long enough that a shock (a layoff, a bad year) becomes an inconvenience rather than an existential event. That is it. It is personal, because the layers are yours, and it is *bounded*, because a coordinate does not run away the way a number does.
 
-Notice what this does to the treadmill. Once the layers that matter are secured for a real runway, additional income stops being "need" and becomes genuine surplus. You have located the edge of enough, and everything past it is optional rather than compulsory. The chase ends not because you stopped earning but because you finally drew the line that a single number could never draw.
+Notice what this does to the treadmill. Once the layers that matter are secured for a real runway, additional income stops being "need" and becomes genuine surplus. (This is exactly the surplus [[Wealth Part 2.1 - The Beauty of Compounding|Part 2.1]] unlocks once the Compounding Baseline is hit.) You have located the edge of enough, and everything past it is optional rather than compulsory. The chase ends not because you stopped earning but because you finally drew the line that a single number could never draw.
 
 > [!important] The definition
 > Enough is the coordinate where what you actually live for is funded and protected for long enough that a financial shock is an inconvenience, not a catastrophe. It is bounded, personal, and reachable, which is exactly what a runaway number is not.
@@ -75,7 +77,7 @@ Do that, and you stop waiting to arrive financially before you are allowed to li
 
 ---
 
-## Part 2.0 Takeaways
+## Part 2.2 Takeaways
 
 > [!check] Key concepts to internalize
 >
@@ -90,7 +92,7 @@ Do that, and you stop waiting to arrive financially before you are allowed to li
 
 Turn Financial Wealth into the tool it's supposed to be.
 
-1. **Plot your coordinate** — list your four layers (Shield, Engine, Catalyst, Multiplier) and your current runway, using [[Financial Freedom Is a Coordinate, Not a Number|the Coordinate framework]].
+1. **Plot your coordinate** — list your four layers (Shield, Engine, Catalyst, Multiplier) and your current runway, using [[Wealth Part 2.0 - Financial Freedom Is a Coordinate|the Coordinate framework]].
 2. **Mark "enough"** — define the coordinate where what you live for is funded for a runway that makes a shock survivable.
 3. **Find your surplus** — name the money, time, and attention that sit beyond enough and are currently going to the chase.
 4. **Redeploy into your lowest wealth** — point that surplus at whichever wealth scored lowest in [[Wealth Part 1.2 - The Five Wealths|Part 1.2]].
@@ -102,10 +104,10 @@ Turn Financial Wealth into the tool it's supposed to be.
 ---
 
 > [!warning] Disclaimer
-> Not financial advice. This is a framework for deciding money's role in a life. The [[Financial Freedom Is a Coordinate, Not a Number|Coordinate framework]] and the Rich section reflect personal experience and reading; consult a licensed professional before significant financial decisions.
+> Not financial advice. This is a framework for deciding money's role in a life. The [[Wealth Part 2.0 - Financial Freedom Is a Coordinate|Coordinate framework]] and the Rich section reflect personal experience and reading; consult a licensed professional before significant financial decisions.
 
 ---
 
 ## Sources & references
 
-[^1]: The "what is enough" question and the expectations-as-liability nuance are from Sahil Bloom, *The 5 Types of Wealth* (2025). The two-axis coordinate model (what you protect / for how long), the four spending layers, and the runway stages are this project's [[Financial Freedom Is a Coordinate, Not a Number|Coordinate framework]]; this article extends it into a definition of "enough" that frees the other four wealths.
+[^1]: The "what is enough" question and the expectations-as-liability nuance are from Sahil Bloom, *The 5 Types of Wealth* (2025). The two-axis coordinate model (what you protect / for how long), the four spending layers, and the runway stages are this project's own [[Wealth Part 2.0 - Financial Freedom Is a Coordinate|Coordinate framework]]; this article extends it into a definition of "enough" that frees the other four wealths.

@@ -1,0 +1,231 @@
+<svg viewBox="0 0 1200 1500" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, 'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<defs>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#26282E" stroke-width="0.6" opacity="0.5"/></pattern>
+<filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#5A5C63" stroke-width="1" opacity="0.35"/></pattern>
+</defs>
+<rect x="0" y="0" width="1200" height="1500" rx="0" fill="#08090A" stroke="none" stroke-width="1"/>
+<rect x="0" y="0" width="1200" height="1500" rx="0" fill="url(#grid)" stroke="none" stroke-width="1"/>
+<rect x="28" y="28" width="1144" height="1444" rx="10" fill="none" stroke="#3A3D44" stroke-width="1.2"/>
+<line x1="28" y1="28" x2="46" y2="28" stroke="#54E6C2" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="28" y1="28" x2="28" y2="46" stroke="#54E6C2" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="1172" y1="28" x2="1154" y2="28" stroke="#54E6C2" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="1172" y1="28" x2="1172" y2="46" stroke="#54E6C2" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="28" y1="1472" x2="46" y2="1472" stroke="#54E6C2" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="28" y1="1472" x2="28" y2="1454" stroke="#54E6C2" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="1172" y1="1472" x2="1154" y2="1472" stroke="#54E6C2" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="1172" y1="1472" x2="1172" y2="1454" stroke="#54E6C2" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="60" y1="66" x2="86" y2="66" stroke="#54E6C2" stroke-width="2" stroke-linecap="butt"/>
+<text x="94" y="70" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#A1A1AA" text-anchor="start" letter-spacing="1.5">FIT · ATHLETIC · PART 2.1 — VO2 MAX &amp; MITOCHONDRIA</text>
+<text x="1140" y="70" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="400" fill="#6F7178" text-anchor="end" letter-spacing="0.5">THE ENGINE · 2 of 2 — the “why” behind 2.0</text>
+<line x1="60" y1="84" x2="1140" y2="84" stroke="#26282E" stroke-width="1" stroke-linecap="butt"/>
+<text x="60" y="156" font-family="system-ui, -apple-system, 'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="49" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="-0.5">One number. Two levers. One locked.</text>
+<text x="60" y="196" font-family="system-ui, -apple-system, 'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="400" fill="#A1A1AA" text-anchor="start">VO₂ max is the output of a single oxygen pipeline. The Fick equation splits it into three</text>
+<text x="60" y="220" font-family="system-ui, -apple-system, 'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="400" fill="#A1A1AA" text-anchor="start">terms: HRmax is bolted shut by genetics — but stroke volume (the heart, the ceiling) and</text>
+<text x="60" y="244" font-family="system-ui, -apple-system, 'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="400" fill="#A1A1AA" text-anchor="start">oxygen extraction (the mitochondria, the floor) are both trainable, by two different protocols.</text>
+<text x="60" y="268" font-family="system-ui, -apple-system, 'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="400" fill="#A1A1AA" text-anchor="start">That’s why the 80/20 split isn’t a tradition. It’s the biology, read out loud.</text>
+<rect x="60" y="300" width="1080" height="128" rx="8" fill="#121317" stroke="#3A3D44" stroke-width="1.2"/>
+<rect x="60" y="300" width="4" height="128" rx="0" fill="#54E6C2" stroke="none" stroke-width="1"/>
+<text x="82" y="326" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="600" fill="#6F7178" text-anchor="start" letter-spacing="1.2">THE FICK MASTER BUS  ·  the spine</text>
+<text x="90" y="376" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="31" font-weight="700" letter-spacing="0.5"><tspan fill="#FFFFFF">VO₂max = ( </tspan><tspan fill="#5A5C63">HRmax</tspan><tspan fill="#FFFFFF"> × </tspan><tspan fill="#54E6C2">SVmax</tspan><tspan fill="#FFFFFF"> ) × </tspan><tspan fill="#54E6C2">(a-vO₂ diff)max</tspan></text>
+<text x="90" y="406" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="600" fill="#5A5C63" text-anchor="start">HRmax → [LOCKED · genetics + age]</text>
+<text x="450" y="406" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="600" fill="#54E6C2" text-anchor="start">SVmax → [CENTRAL ↑ · trainable · the ceiling]</text>
+<text x="820" y="406" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="600" fill="#54E6C2" text-anchor="start">(a-vO₂ diff) → [PERIPHERAL ↑ · trainable · the floor]</text>
+<text x="90" y="416" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="400" fill="#6F7178" text-anchor="start">Cardiac output (Q) = HR × SV.  VO₂max = blood moved × O₂ pulled per litre.  Two of three terms move — train those two.</text>
+<rect x="60" y="452" width="1080" height="440" rx="8" fill="#0E0F12" stroke="#3A3D44" stroke-width="1.2"/>
+<text x="82" y="478" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="600" fill="#6F7178" text-anchor="start" letter-spacing="1.0">THE DELIVERY-CHAIN FLOW SCHEMATIC   ▸  read left → right</text>
+<line x1="194" y1="618" x2="258" y2="618" stroke="#71717A" stroke-width="2" stroke-linecap="butt"/>
+<line x1="194" y1="626" x2="258" y2="626" stroke="#71717A" stroke-width="2" stroke-linecap="butt"/>
+<line x1="442" y1="618" x2="580" y2="618" stroke="#71717A" stroke-width="2" stroke-linecap="butt"/>
+<line x1="442" y1="626" x2="580" y2="626" stroke="#71717A" stroke-width="2" stroke-linecap="butt"/>
+<line x1="660" y1="618" x2="752" y2="618" stroke="#71717A" stroke-width="2" stroke-linecap="butt"/>
+<line x1="660" y1="626" x2="752" y2="626" stroke="#71717A" stroke-width="2" stroke-linecap="butt"/>
+<line x1="908" y1="618" x2="980" y2="618" stroke="#71717A" stroke-width="2" stroke-linecap="butt"/>
+<line x1="908" y1="626" x2="980" y2="626" stroke="#71717A" stroke-width="2" stroke-linecap="butt"/>
+<path d="M220.0 616 L232.0 622 L220.0 628" fill="none" stroke="#71717A" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter"/>
+<path d="M495.0 616 L507.0 622 L495.0 628" fill="none" stroke="#71717A" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter"/>
+<path d="M705.0 616 L717.0 622 L705.0 628" fill="none" stroke="#71717A" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter"/>
+<path d="M950.0 616 L962.0 622 L950.0 628" fill="none" stroke="#71717A" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter"/>
+<line x1="180" y1="428" x2="180" y2="452" stroke="#5A5C63" stroke-width="0.8" stroke-linecap="butt" stroke-dasharray="3 4" opacity="0.55"/>
+<line x1="530" y1="428" x2="350" y2="452" stroke="#54E6C2" stroke-width="0.8" stroke-linecap="butt" stroke-dasharray="3 4" opacity="0.5"/>
+<line x1="960" y1="428" x2="830" y2="452" stroke="#54E6C2" stroke-width="0.8" stroke-linecap="butt" stroke-dasharray="3 4" opacity="0.5"/>
+<rect x="110" y="592" width="80" height="60" rx="6" fill="#121317" stroke="#71717A" stroke-width="1.2"/>
+<text x="150" y="620" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#A1A1AA" text-anchor="middle" letter-spacing="0.5">LUNGS</text>
+<text x="150" y="638" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10" font-weight="400" fill="#6F7178" text-anchor="middle">O₂ IN</text>
+<text x="150" y="672" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#6F7178" text-anchor="middle">required,</text>
+<text x="150" y="683" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#6F7178" text-anchor="middle">rarely the limiter</text>
+<rect x="255.0" y="546.0" width="190" height="152" rx="8" fill="#121317" stroke="#3A3D44" stroke-width="1.4"/>
+<text x="350" y="536.0" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">HEART · THE PUMP</text>
+<circle cx="304" cy="608" r="30" fill="url(#hatch)" stroke="#5A5C63" stroke-width="2"/>
+<line x1="284.90811690796323" y1="627.0918830920368" x2="289.1507575950825" y2="622.8492424049175" stroke="#5A5C63" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="278.3214740600309" y1="616.3434588481235" x2="284.0278131578018" y2="614.4893568818738" stroke="#5A5C63" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="277.3324148039313" y1="603.7762694439137" x2="283.2585448475021" y2="604.7148762341551" stroke="#5A5C63" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="282.1565411518764" y1="592.1297981881032" x2="287.0106431181261" y2="595.6565097018581" stroke="#5A5C63" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="291.7422565070322" y1="583.942823846914" x2="294.4661995054695" y2="589.2888629920443" stroke="#5A5C63" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="304.0" y1="581.0" x2="304.0" y2="587.0" stroke="#5A5C63" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="316.25774349296773" y1="583.942823846914" x2="313.53380049453045" y2="589.2888629920443" stroke="#5A5C63" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="325.8434588481236" y1="592.1297981881032" x2="320.9893568818739" y2="595.6565097018581" stroke="#5A5C63" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="330.6675851960687" y1="603.7762694439137" x2="324.7414551524979" y2="604.7148762341551" stroke="#5A5C63" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="329.6785259399692" y1="616.3434588481235" x2="323.9721868421982" y2="614.4893568818738" stroke="#5A5C63" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="323.09188309203677" y1="627.0918830920368" x2="318.8492424049175" y2="622.8492424049175" stroke="#5A5C63" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="304" y1="608" x2="286.88098270668723" y2="613.5623058987491" stroke="#5A5C63" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="304" cy="608" r="3.2" fill="#5A5C63" stroke="none" stroke-width="1"/>
+<rect x="298" y="607" width="12" height="9" rx="1.5" fill="#5A5C63" stroke="none" stroke-width="1"/>
+<path d="M301 607 v-3 a3 3 0 0 1 6 0 v3" fill="none" stroke="#5A5C63" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter"/>
+<text x="304" y="654" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10" font-weight="700" fill="#5A5C63" text-anchor="middle">HRmax</text>
+<text x="304" y="666" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#5A5C63" text-anchor="middle" letter-spacing="1">FIXED</text>
+<circle cx="396" cy="608" r="32" fill="none" stroke="#54E6C2" stroke-width="2" opacity="0.9" filter="url(#glow)"/>
+<circle cx="396" cy="608" r="30" fill="#121317" stroke="#54E6C2" stroke-width="2"/>
+<line x1="376.90811690796323" y1="627.0918830920368" x2="381.1507575950825" y2="622.8492424049175" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="370.3214740600309" y1="616.3434588481235" x2="376.0278131578018" y2="614.4893568818738" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="369.3324148039313" y1="603.7762694439137" x2="375.2585448475021" y2="604.7148762341551" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="374.1565411518764" y1="592.1297981881032" x2="379.0106431181261" y2="595.6565097018581" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="383.7422565070322" y1="583.942823846914" x2="386.4661995054695" y2="589.2888629920443" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="396.0" y1="581.0" x2="396.0" y2="587.0" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="408.25774349296773" y1="583.942823846914" x2="405.53380049453045" y2="589.2888629920443" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="417.8434588481236" y1="592.1297981881032" x2="412.9893568818739" y2="595.6565097018581" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="422.6675851960687" y1="603.7762694439137" x2="416.7414551524979" y2="604.7148762341551" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="421.6785259399692" y1="616.3434588481235" x2="415.9721868421982" y2="614.4893568818738" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="415.09188309203677" y1="627.0918830920368" x2="410.8492424049175" y2="622.8492424049175" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="396" y1="608" x2="413.9644811117089" y2="606.8697706484724" stroke="#54E6C2" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="396" cy="608" r="3.2" fill="#54E6C2" stroke="none" stroke-width="1"/>
+<text x="396" y="654" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9" font-weight="700" fill="#54E6C2" text-anchor="middle">STROKE VOL ↑</text>
+<text x="396" y="666" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#54E6C2" text-anchor="middle" letter-spacing="1">TRAINABLE</text>
+<line x1="304" y1="674" x2="396" y2="674" stroke="#6F7178" stroke-width="1" stroke-linecap="butt"/>
+<line x1="304" y1="674" x2="304" y2="670" stroke="#6F7178" stroke-width="1" stroke-linecap="butt"/>
+<line x1="396" y1="674" x2="396" y2="670" stroke="#6F7178" stroke-width="1" stroke-linecap="butt"/>
+<text x="350" y="686" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9" font-weight="600" fill="#A1A1AA" text-anchor="middle">HR × SV = CARDIAC OUTPUT (Q)</text>
+<rect x="258" y="510" width="184" height="46" rx="5" fill="#0E0F12" stroke="#26282E" stroke-width="1"/>
+<circle cx="284" cy="534" r="11" fill="none" stroke="#5A5C63" stroke-width="1.4"/>
+<circle cx="284" cy="534" r="16" fill="none" stroke="#54E6C2" stroke-width="1.4" opacity="0.9"/>
+<line x1="296.0" y1="534.0" x2="302.0" y2="534.0" stroke="#54E6C2" stroke-width="1.2" stroke-linecap="butt"/>
+<line x1="284.0" y1="546.0" x2="284.0" y2="552.0" stroke="#54E6C2" stroke-width="1.2" stroke-linecap="butt"/>
+<line x1="272.0" y1="534.0" x2="266.0" y2="534.0" stroke="#54E6C2" stroke-width="1.2" stroke-linecap="butt"/>
+<line x1="284.0" y1="522.0" x2="284.0" y2="516.0" stroke="#54E6C2" stroke-width="1.2" stroke-linecap="butt"/>
+<text x="306" y="529" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="600" fill="#A1A1AA" text-anchor="start">LV chamber expands</text>
+<text x="306" y="541" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8" font-weight="400" fill="#6F7178" text-anchor="start">(eccentric hypertrophy)</text>
+<text x="306" y="552" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8" font-weight="400" fill="#6F7178" text-anchor="start">+ plasma vol → more blood/beat</text>
+<line x1="350" y1="556" x2="350" y2="546.0" stroke="#26282E" stroke-width="0.8" stroke-linecap="butt" stroke-dasharray="2 3"/>
+<rect x="580" y="596" width="80" height="52" rx="6" fill="#121317" stroke="#71717A" stroke-width="1.2"/>
+<text x="620" y="618" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="700" fill="#A1A1AA" text-anchor="middle">BLOOD</text>
+<text x="620" y="634" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#6F7178" text-anchor="middle">O₂ CARRIED</text>
+<text x="620" y="670" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#6F7178" text-anchor="middle">plasma vol ↑ wks 2–4</text>
+<rect x="754.0" y="546.0" width="152" height="152" rx="8" fill="#121317" stroke="#3A3D44" stroke-width="1.4"/>
+<text x="830" y="536.0" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.3">MUSCLE · EXTRACTION</text>
+<circle cx="830" cy="606" r="35" fill="none" stroke="#54E6C2" stroke-width="2" opacity="0.9" filter="url(#glow)"/>
+<circle cx="830" cy="606" r="33" fill="#121317" stroke="#54E6C2" stroke-width="2"/>
+<line x1="808.7867965644036" y1="627.2132034355964" x2="813.0294372515228" y2="622.9705627484772" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="801.4683045111454" y1="615.2705098312484" x2="807.1746436089163" y2="613.4164078649987" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="800.3693497821458" y1="601.3069660487931" x2="806.2954798257167" y2="602.2455728390345" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="805.7294901687516" y1="588.3664424312258" x2="810.5835921350013" y2="591.8931539449807" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="816.3802850078135" y1="579.269804274349" x2="819.1042280062509" y2="584.6158434194791" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="830.0" y1="576.0" x2="830.0" y2="582.0" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="843.6197149921863" y1="579.269804274349" x2="840.8957719937491" y2="584.6158434194791" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="854.2705098312484" y1="588.3664424312258" x2="849.4164078649987" y2="591.8931539449807" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="859.6306502178542" y1="601.306966048793" x2="853.7045201742833" y2="602.2455728390345" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="858.5316954888547" y1="615.2705098312484" x2="852.8253563910837" y2="613.4164078649987" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="851.2132034355965" y1="627.2132034355964" x2="846.9705627484772" y2="622.9705627484772" stroke="#71717A" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<line x1="830" y1="606" x2="850.7414551524979" y2="602.7148762341551" stroke="#54E6C2" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="830" cy="606" r="3.2" fill="#54E6C2" stroke="none" stroke-width="1"/>
+<text x="830" y="652" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="700" fill="#54E6C2" text-anchor="middle">a-vO₂ DIFF ↑</text>
+<text x="830" y="664" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#54E6C2" text-anchor="middle">TRAINABLE · the floor</text>
+<line x1="800" y1="672" x2="860" y2="672" stroke="#54E6C2" stroke-width="0.8" stroke-linecap="butt" opacity="0.55"/>
+<line x1="800" y1="675" x2="860" y2="675" stroke="#54E6C2" stroke-width="0.8" stroke-linecap="butt" opacity="0.55"/>
+<line x1="800" y1="678" x2="860" y2="678" stroke="#54E6C2" stroke-width="0.8" stroke-linecap="butt" opacity="0.55"/>
+<line x1="800" y1="681" x2="860" y2="681" stroke="#54E6C2" stroke-width="0.8" stroke-linecap="butt" opacity="0.55"/>
+<line x1="800" y1="684" x2="860" y2="684" stroke="#54E6C2" stroke-width="0.8" stroke-linecap="butt" opacity="0.55"/>
+<text x="830" y="700" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#6F7178" text-anchor="middle">+ capillary density / fibre</text>
+<rect x="980" y="592" width="160" height="86" rx="6" fill="#121317" stroke="#54E6C2" stroke-width="1.3"/>
+<text x="1060" y="584" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10" font-weight="700" fill="#FFFFFF" text-anchor="middle">MITOCHONDRIA · COMBUSTION</text>
+<text x="1060" y="610" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="500" fill="#A1A1AA" text-anchor="middle">Ca²⁺/AMPK</text>
+<line x1="1060" y1="613" x2="1060" y2="619" stroke="#71717A" stroke-width="1" stroke-linecap="butt"/>
+<path d="M1057 617 L1060 621 L1063 617" fill="none" stroke="#71717A" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter"/>
+<text x="1060" y="626" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="700" fill="#54E6C2" text-anchor="middle">PGC-1α</text>
+<line x1="1060" y1="629" x2="1060" y2="635" stroke="#71717A" stroke-width="1" stroke-linecap="butt"/>
+<path d="M1057 633 L1060 637 L1063 633" fill="none" stroke="#71717A" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter"/>
+<text x="1060" y="642" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="500" fill="#A1A1AA" text-anchor="middle">NRF-1/2·TFAM</text>
+<line x1="1060" y1="645" x2="1060" y2="651" stroke="#71717A" stroke-width="1" stroke-linecap="butt"/>
+<path d="M1057 649 L1060 653 L1063 649" fill="none" stroke="#71717A" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter"/>
+<text x="1060" y="658" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="500" fill="#A1A1AA" text-anchor="middle">+MITO</text>
+<text x="1060" y="690" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="600" fill="#54E6C2" text-anchor="middle">PGC-1α = THE CONDUCTOR</text>
+<rect x="60" y="908" width="1080" height="152" rx="8" fill="#121317" stroke="#3A3D44" stroke-width="1.2"/>
+<text x="82" y="932" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="600" fill="#6F7178" text-anchor="start" letter-spacing="0.8">THE TWO PROTOCOL FEEDS   ▸  each wire lands on a different organ</text>
+<path d="M310 942 C 310 878, 396 898, 396 640" fill="none" stroke="#54E6C2" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter" opacity="0.55" stroke-dasharray="5 4"/>
+<path d="M890 942 C 890 878, 830 898, 830 640" fill="none" stroke="#54E6C2" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter" opacity="0.55" stroke-dasharray="5 4"/>
+<rect x="82" y="942" width="520" height="80" rx="6" fill="#0E0F12" stroke="#54E6C2" stroke-width="1.2"/>
+<rect x="82" y="942" width="4" height="80" rx="0" fill="#54E6C2" stroke="none" stroke-width="1"/>
+<text x="98" y="966" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#54E6C2" text-anchor="start">INTERVALS · 4×4 @ 90–95% HRmax · 1–2×/wk</text>
+<text x="98" y="986" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="400" fill="#A1A1AA" text-anchor="start">→ builds the CENTRAL gain (stroke volume).</text>
+<text x="98" y="1001" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="400" fill="#6F7178" text-anchor="start">Drag the heart to near-max stroke volume and HOLD it</text>
+<text x="98" y="1014" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="400" fill="#6F7178" text-anchor="start">→ LV chamber + autonomic remodel. 4-min bout = sweet spot.</text>
+<rect x="598" y="942" width="520" height="80" rx="6" fill="#0E0F12" stroke="#54E6C2" stroke-width="1.2"/>
+<rect x="1114" y="942" width="4" height="80" rx="0" fill="#54E6C2" stroke="none" stroke-width="1"/>
+<text x="614" y="966" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#54E6C2" text-anchor="start">ZONE 2 · ≥3 h/wk · most days</text>
+<text x="614" y="986" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="400" fill="#A1A1AA" text-anchor="start">→ builds the PERIPHERAL gain (extraction).</text>
+<text x="614" y="1001" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="400" fill="#6F7178" text-anchor="start">Gentle Ca²⁺/AMPK signal for HOURS → PGC-1α dose accumulates</text>
+<text x="614" y="1014" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="400" fill="#6F7178" text-anchor="start">→ biogenesis. Recruits Type I fibres (densest mitochondria).</text>
+<text x="600.0" y="1048" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10" font-weight="600" fill="#FFFFFF" text-anchor="middle">80 / 20 POLARIZED — two organs · two stimuli · two adaptations.  Easy builds the floor · hard builds the ceiling.  Run both, because the cell biology says so.</text>
+<rect x="60" y="1072" width="1080" height="66" rx="6" fill="#0E0F12" stroke="#26282E" stroke-width="1"/>
+<text x="78" y="1094" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#A1A1AA" text-anchor="start">LACTATE IS FUEL — not waste, not “the burn.”</text>
+<text x="78" y="1118" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="400" fill="#6F7178" text-anchor="start">GLYCOLYTIC (fast-twitch) FIBRE</text>
+<path d="M296 1114 L334 1114" fill="none" stroke="#54E6C2" stroke-width="1.4" stroke-linecap="butt" stroke-linejoin="miter"/>
+<path d="M330 1111 L336 1114 L330 1117" fill="none" stroke="#54E6C2" stroke-width="1.4" stroke-linecap="butt" stroke-linejoin="miter"/>
+<text x="300" y="1109" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="7.5" font-weight="400" fill="#54E6C2" text-anchor="start">MCT</text>
+<text x="342" y="1118" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="400" fill="#6F7178" text-anchor="start">OXIDATIVE TISSUE (heart · brain · liver) → burned aerobically for ATP</text>
+<text x="1122" y="1094" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="400" fill="#A1A1AA" text-anchor="end">LT2 rises because clearance &amp; re-use improve — not because you make less.</text>
+<rect x="60.0" y="1152" width="348.0" height="214" rx="7" fill="#121317" stroke="#3A3D44" stroke-width="1.2"/>
+<text x="76.0" y="1176" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="700" fill="#A1A1AA" text-anchor="start" letter-spacing="0.3">GENETICS WRITES THE SLOPE</text>
+<line x1="76.0" y1="1184" x2="392.0" y2="1184" stroke="#26282E" stroke-width="1" stroke-linecap="butt"/>
+<rect x="84.0" y="1202" width="300.0" height="78" rx="4" fill="#0E0F12" stroke="#26282E" stroke-width="0.8"/>
+<line x1="84.0" y1="1280" x2="384.0" y2="1267.52" stroke="#6F7178" stroke-width="1.4" stroke-linecap="butt" opacity="0.9"/>
+<line x1="84.0" y1="1280" x2="384.0" y2="1248.8" stroke="#A1A1AA" stroke-width="1.4" stroke-linecap="butt" opacity="0.9"/>
+<line x1="84.0" y1="1280" x2="384.0" y2="1228.52" stroke="#54E6C2" stroke-width="1.4" stroke-linecap="butt" opacity="0.9"/>
+<line x1="84.0" y1="1280" x2="384.0" y2="1208.24" stroke="#54E6C2" stroke-width="1.4" stroke-linecap="butt" opacity="0.9"/>
+<circle cx="84.0" cy="1280" r="2.5" fill="#A1A1AA" stroke="none" stroke-width="1"/>
+<text x="84.0" y="1294" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8" font-weight="400" fill="#6F7178" text-anchor="start">shared origin → huge spread of response</text>
+<text x="76.0" y="1324" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8.3" font-weight="400" fill="#6F7178" text-anchor="start">HERITAGE: ~400 mL/min avg / 20 wks; trainability h²≈47%.</text>
+<text x="76.0" y="1344" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8.3" font-weight="600" fill="#54E6C2" text-anchor="start">Track YOUR own line. Switch the stimulus if you don’t respond.</text>
+<rect x="426.0" y="1152" width="348.0" height="214" rx="7" fill="#121317" stroke="#3A3D44" stroke-width="1.2"/>
+<text x="442.0" y="1176" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="700" fill="#A1A1AA" text-anchor="start" letter-spacing="0.3">AGING HITS CENTRAL HARDER</text>
+<line x1="442.0" y1="1184" x2="758.0" y2="1184" stroke="#26282E" stroke-width="1" stroke-linecap="butt"/>
+<rect x="450.0" y="1210" width="278.0" height="8" rx="2" fill="#54E6C2" stroke="none" stroke-width="1" opacity="0.83"/>
+<text x="734.0" y="1217" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="7.5" font-weight="400" fill="#6F7178" text-anchor="start">-0%</text>
+<rect x="450.0" y="1224" width="233.51999999999998" height="8" rx="2" fill="#71717A" stroke="none" stroke-width="1" opacity="0.71"/>
+<text x="689.52" y="1231" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="7.5" font-weight="400" fill="#6F7178" text-anchor="start">-10%</text>
+<rect x="450.0" y="1238" width="189.04" height="8" rx="2" fill="#71717A" stroke="none" stroke-width="1" opacity="0.59"/>
+<text x="645.04" y="1245" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="7.5" font-weight="400" fill="#6F7178" text-anchor="start">-20%</text>
+<rect x="450.0" y="1252" width="144.56" height="8" rx="2" fill="#71717A" stroke="none" stroke-width="1" opacity="0.47"/>
+<text x="600.56" y="1259" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="7.5" font-weight="400" fill="#6F7178" text-anchor="start">-30%</text>
+<rect x="450.0" y="1266" width="100.08" height="8" rx="2" fill="#71717A" stroke="none" stroke-width="1" opacity="0.35"/>
+<text x="556.08" y="1273" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="7.5" font-weight="400" fill="#6F7178" text-anchor="start">-40%</text>
+<text x="442.0" y="1300" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8.6" font-weight="400" fill="#6F7178" text-anchor="start">~10%/decade untrained after late 20s.</text>
+<text x="442.0" y="1315" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8.6" font-weight="400" fill="#6F7178" text-anchor="start">Central (stroke vol) fades faster than peripheral.</text>
+<text x="442.0" y="1336" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8.8" font-weight="600" fill="#54E6C2" text-anchor="start">Intervals matter MORE with age — not less.</text>
+<text x="442.0" y="1351" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8.3" font-weight="400" fill="#A1A1AA" text-anchor="start">Trained 60yo out-scores sedentary 25yo.</text>
+<rect x="792.0" y="1152" width="348.0" height="214" rx="7" fill="#121317" stroke="#C9A24B" stroke-width="1.2"/>
+<text x="808.0" y="1176" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="700" fill="#C9A24B" text-anchor="start" letter-spacing="0.3">WHY IT PREDICTS HOW LONG YOU LIVE</text>
+<line x1="808.0" y1="1184" x2="1124.0" y2="1184" stroke="#26282E" stroke-width="1" stroke-linecap="butt"/>
+<text x="808.0" y="1200" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8.6" font-weight="400" fill="#6F7178" text-anchor="start">A high VO₂max REQUIRES all of:</text>
+<circle cx="814.0" cy="1215" r="3" fill="none" stroke="#C9A24B" stroke-width="1.2"/>
+<text x="824.0" y="1219" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="600" fill="#A1A1AA" text-anchor="start">HEART</text>
+<circle cx="814.0" cy="1232" r="3" fill="none" stroke="#C9A24B" stroke-width="1.2"/>
+<text x="824.0" y="1236" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="600" fill="#A1A1AA" text-anchor="start">LUNGS</text>
+<circle cx="814.0" cy="1249" r="3" fill="none" stroke="#C9A24B" stroke-width="1.2"/>
+<text x="824.0" y="1253" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="600" fill="#A1A1AA" text-anchor="start">BLOOD</text>
+<circle cx="814.0" cy="1266" r="3" fill="none" stroke="#C9A24B" stroke-width="1.2"/>
+<text x="824.0" y="1270" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="600" fill="#A1A1AA" text-anchor="start">MITOCHONDRIA</text>
+<circle cx="814.0" cy="1283" r="3" fill="none" stroke="#C9A24B" stroke-width="1.2"/>
+<text x="824.0" y="1287" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="600" fill="#A1A1AA" text-anchor="start">LEAN MUSCLE</text>
+<text x="808.0" y="1319" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8.3" font-weight="400" fill="#6F7178" text-anchor="start">Mandsager 2018 · n=122,007 · no upper limit.</text>
+<text x="808.0" y="1337" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8.3" font-weight="600" fill="#C9A24B" text-anchor="start">A COMPOSITE of system integrity — can’t fake any</text>
+<text x="808.0" y="1350" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8.3" font-weight="600" fill="#C9A24B" text-anchor="start">of the five. That’s why it tracks longevity.</text>
+<line x1="60" y1="1426" x2="1140" y2="1426" stroke="#26282E" stroke-width="1" stroke-linecap="butt"/>
+<circle cx="65" cy="1441" r="4" fill="#54E6C2" stroke="none" stroke-width="1"/>
+<text x="76" y="1445" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9" font-weight="400" fill="#6F7178" text-anchor="start">trainable gain (SV · a-vO₂)</text>
+<circle cx="265" cy="1441" r="4" fill="none" stroke="#5A5C63" stroke-width="1.4"/>
+<line x1="262" y1="1438" x2="268" y2="1444" stroke="#5A5C63" stroke-width="1.4" stroke-linecap="butt"/>
+<text x="276" y="1445" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9" font-weight="400" fill="#6F7178" text-anchor="start">locked term (HRmax)</text>
+<text x="420" y="1445" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9" font-weight="400" fill="#6F7178" text-anchor="start">▸ protocol feed (intervals · Zone 2)</text>
+<text x="60" y="1464" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8" font-weight="400" fill="#6F7178" text-anchor="start">Sources: Raleigh 2018 (PMID 29733694) · Wright PGC-1α→NRF/TFAM (PMC3060512) · HERITAGE Bouchard 1999 (PMC5688475) · Mandsager 2018 JAMA Netw Open (n=122,007).</text>
+<text x="1140" y="1445" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#A1A1AA" text-anchor="end" letter-spacing="1">Fit — Athletic</text>
+</svg>

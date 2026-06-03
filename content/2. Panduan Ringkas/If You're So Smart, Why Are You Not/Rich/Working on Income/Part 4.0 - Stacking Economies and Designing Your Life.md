@@ -83,7 +83,7 @@ This is the unromantic version of the decade, assuming a start at roughly age 20
 | **Y4**   | Scale-up: promoted once; impact named; network expanding                                       | Build has measurable signal (audience, paying clients, product sales)                               | None                                                                                              | Investment cadence is automatic; surplus has compounded for ~18 months                                                    |
 | **Y5–6** | Scale-up: second promotion or exit; jump to corporate planned                                  | Build is now real; secondary income visible; pivot to higher-leverage shape may happen              | None                                                                                              | Surplus is meaningful; first [[Part 4.0 - The Risk Ladder|S-curve]] inflection visible                                                  |
 | **Y6–7** | Corporate seat taken; salary at top of band; flexibility negotiated                            | Build continues; some readers' Build outpaces Climb here                                            | None                                                                                              | Real surplus; investment portfolio diversifying                                                                            |
-| **Y8–9** | Milking the corporate seat; deliberate, well-funded, well-rested                               | Build matures; for some, becomes the main income; for others, stays meaningful side                | None                                                                                              | Optionality coordinate ([[Financial Freedom Is a Coordinate, Not a Number|Coordinate]]) starts to feel reachable           |
+| **Y8–9** | Milking the corporate seat; deliberate, well-funded, well-rested                               | Build matures; for some, becomes the main income; for others, stays meaningful side                | None                                                                                              | Optionality coordinate ([[Wealth Part 2.0 - Financial Freedom Is a Coordinate|Coordinate]]) starts to feel reachable           |
 | **Y10**  | Exit chosen, not forced; either a higher Climb seat, a Build-led full-time, or a deliberate sabbatical | Build is the long-term asset                                                                       | None                                                                                              | The Financial System has compounded for ~8 years; the next decade is *designed*                                          |
 
 ==The shape is the part to keep, even if your starting age shifts.== The shape is: predictable, paid, compounding Climb on the weekdays; cadenced, asset-building Build on the evenings; no catering except as bridge or probe; the surplus routed into the Financial System the moment it exists.
@@ -107,7 +107,7 @@ The clean handoff sequence:
 
 The single sentence that captures the handoff:
 
-==**The salary is not the wealth machine. The surplus is. The surplus, invested over time, is what makes the [[Financial Freedom Is a Coordinate, Not a Number|coordinate of financial freedom]] reachable.**==
+==**The salary is not the wealth machine. The surplus is. The surplus, invested over time, is what makes the [[Wealth Part 2.0 - Financial Freedom Is a Coordinate|coordinate of financial freedom]] reachable.**==
 
 The Income 101 series ends at step 5. Steps 6 and onwards belong to the Financial System series, and that's where the reader should turn next.
 
@@ -184,7 +184,7 @@ Income 101 is the entry essay of the Rich pillar. The natural sequence from here
 - **[[Part 1.0 - Allocation The Sankey Mindset|Multiplying Money 101 — Part 1.0: Allocation: The Sankey Mindset]].** What to do with the income you've now learned to generate.
 - **[[Part 3.0 - On Par by Age|Multiplying Money 101 — Part 3.0: On Par by Age]].** How to size your buckets honestly, and the inflation-adjusted benchmarks that let you stop forcing it.
 - **[[Part 4.0 - The Risk Ladder|Multiplying Money 101 — Part 4.0: The Risk Ladder]].** Which instrument lives on which rung, and why the early investment years (the S-curve blade) feel pointless until the inflection.
-- **[[Financial Freedom Is a Coordinate, Not a Number|Financial Freedom Is a Coordinate, Not a Number]].** The destination this whole pillar is pointed at.
+- **[[Wealth Part 2.0 - Financial Freedom Is a Coordinate|Financial Freedom Is a Coordinate, Not a Number]].** The destination this whole pillar is pointed at.
 - **[[The First Path of Controlling Your life|The First Path of Controlling Your Life]].** The wider context: orderliness as the necessary precondition for design.
 
 ==The income side is the most concrete, most measurable, most teachable lever in the orderliness phase. It is also the lever that, once pulled, makes every other domain of life easier to address.== That is why this series is the size it is, and that is why the next series (Financial System) assumes it has been run.

@@ -7,12 +7,14 @@ tags:
   - scoreboard
 date: 2026-06-01
 ---
-> [!abstract] This is **Part 1.1 of 4** in the Wealth series. The full path:
+> [!abstract] This is **Part 1.1 of 6** in the Wealth series. The full path:
 >
 > - **Part 1.0:** [[Wealth Part 1.0 - The Scoreboard|The Scoreboard]] — the five types of wealth
 > - **Part 1.1 (this article):** [[Wealth Part 1.1 - Building vs Executing|Building vs Executing]] — what this series adds to the book
 > - **Part 1.2:** [[Wealth Part 1.2 - The Five Wealths|The Five Wealths]] — all five spokes, scored and routed
-> - **Part 2.0:** [[Wealth Part 2.0 - Financial Coordination|Financial Coordination]] — the coordinate that defines enough
+> - **Part 2.0:** [[Wealth Part 2.0 - Financial Freedom Is a Coordinate|Financial Freedom Is a Coordinate]] — the framework: what you protect, and for how long
+> - **Part 2.1:** [[Wealth Part 2.1 - The Beauty of Compounding|The Beauty of Compounding]] — Coast FI and the engine under the Multiplier layer
+> - **Part 2.2:** [[Wealth Part 2.2 - Financial Coordination|Financial Coordination]] — the coordinate that defines enough
 > ----
 
 ## Table of Contents
@@ -54,7 +56,7 @@ So this series does not re-explain the five wealths in more words. It is a **hub
 | **Social** | the [[Stronghold Part 1.0 - The Stronghold|Stronghold]] series |
 | **Mental** | Cognitive Enhancement, Behavioral Change, Learning |
 | **Physical** | the Fit, Healthy, and Attractive sections |
-| **Financial** | the Rich section + [[Financial Freedom Is a Coordinate, Not a Number|the Coordinate framework]] |
+| **Financial** | the Rich section + [[Wealth Part 2.0 - Financial Freedom Is a Coordinate|the Coordinate framework]] |
 
 All five of these briefs live together in [[Wealth Part 1.2 - The Five Wealths|Part 1.2]]: each one defines the wealth, gives its question, lets you self-locate with the quiz, and hands you to the manual, plus the one thing the book leaves out for that wealth.
 
@@ -62,10 +64,10 @@ All five of these briefs live together in [[Wealth Part 1.2 - The Five Wealths|P
 
 If you read [[Wealth Part 1.2 - The Five Wealths|Part 1.2]] expecting deep treatment of each wealth, you will think it is thin. It is meant to be. The depth is one click away, in the execution series that has always done the heavy lifting. The Five Wealths article is a switchboard, not a textbook.
 
-The real original writing in this series sits at the two ends: this thesis, and the [[Wealth Part 2.0 - Financial Coordination|Financial Coordination]] capstone. That capstone is the part Bloom genuinely under-specifies: how you actually *define enough*. It is not a generic "balance your life" idea. It is the specific financial coordinate (what you protect, and for how long) that locates enough and, by capping Financial Wealth, frees the capacity the other four wealths need.
+The real original writing in this series sits at the two ends: this thesis, and the [[Wealth Part 2.2 - Financial Coordination|Financial Coordination]] capstone. That capstone is the part Bloom genuinely under-specifies: how you actually *define enough*. It is not a generic "balance your life" idea. It is the specific financial coordinate (what you protect, and for how long) that locates enough and, by capping Financial Wealth, frees the capacity the other four wealths need.
 
 > [!important] How to read the rest of the series
-> Treat [[Wealth Part 1.2 - The Five Wealths|Part 1.2]] as a switchboard: read each brief, follow the link into the section that does the work. Then read [[Wealth Part 2.0 - Financial Coordination|Part 2.0]] to define the "enough" that makes the whole board affordable.
+> Treat [[Wealth Part 1.2 - The Five Wealths|Part 1.2]] as a switchboard: read each brief, follow the link into the section that does the work. Then read [[Wealth Part 2.0 - Financial Freedom Is a Coordinate|Part 2.0]] for the framework, and [[Wealth Part 2.2 - Financial Coordination|Part 2.2]] to define the "enough" that makes the whole board affordable.
 
 ---
 
@@ -86,12 +88,12 @@ Set yourself up to use the rest of the series well.
 1. **Score all five** — go to [[Wealth Part 1.2 - The Five Wealths|Part 1.2]] and run every quiz in one pass.
 2. **Locate your lowest wealth** — name the wealth that scored worst; that is your priority door.
 3. **Bookmark the execution series** — for your lowest wealth, open the section it routes into and skim its map.
-4. **Read Part 2.0 last** — Financial Coordination only lands once you've seen all five and have your scores.
+4. **Read the Part 2 block in order** — the Coordinate framework (2.0), then Compounding (2.1), then Financial Coordination (2.2); the keystone only lands once you've seen all five and have your scores.
 
 > [!note] Up next
 > Score yourself across all five in [[Wealth Part 1.2 - The Five Wealths|Part 1.2 — The Five Wealths]].
 >
-> Then define enough in [[Wealth Part 2.0 - Financial Coordination|Part 2.0 — Financial Coordination]].
+> Then work through the Part 2 block: the framework in [[Wealth Part 2.0 - Financial Freedom Is a Coordinate|Part 2.0]], the compounding engine in [[Wealth Part 2.1 - The Beauty of Compounding|Part 2.1]], and the definition of enough in [[Wealth Part 2.2 - Financial Coordination|Part 2.2]].
 
 ---
 

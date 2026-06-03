@@ -147,6 +147,10 @@ Think of the force-velocity curve as a ceiling. Maximum strength training raises
 
 This also closes the loop with [[Part 3.0 - Endurance and Work Capacity|Part 3.0]]: those Type IIx fibres are the most powerful *and* the least enduring. Endurance training makes them more fatigue-resistant (IIx → IIa); power training makes them fire harder and faster. ==You can bias your fast-twitch fibres toward stamina or toward explosiveness — so train for the athlete you actually want to be.==
 
+*Here's the whole chapter on one bench. This poster is an oscilloscope for the one idea everything rests on — **rate, not peak**: in the ~0.1–0.3 s of ground contact you actually get, the steep force curve beats the tall one, so you train the slope of the force-time curve, not its height ([[Part 3.1 - Power, Speed and Agility#Now the mechanism: why this works|the mechanism]]). Around that hero trace it lays out the three "fast" outputs — power, speed, agility ([[Part 3.1 - Power, Speed and Agility#Where this fits: three flavours of "fast"|three flavours of fast]]) — the elastic stretch-shortening cycle with its RSI gauge, and the safety interlock gating high-intensity plyos behind a 1.5× bodyweight squat ([[Part 3.1 - Power, Speed and Agility#First, the prerequisite|the prerequisite]]). The closing law is the thesis of [[Part 3.1 - Power, Speed and Agility#The strength relationship|the strength relationship]] — **power = strength expressed fast; you can't express force you don't have.** Pin it up and re-check it every training block.*
+
+![[Poster — Fit - Part 3.1 (Athletic) - Power, Speed and Agility.png]]
+
 ---
 
 ## Part 3.1 Takeaways

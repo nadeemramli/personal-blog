@@ -43,7 +43,7 @@ date: 2026-05-29
 ---
 ## Where this series sits
 
-The [[Part 1.0 - Allocation The Sankey Mindset|Financial System]] series is downstream of this one. It assumes the income exists and teaches you what to do with it: how to size your expenses, manage debt, build a surplus, route the surplus into investment, and walk the [[Part 4.0 - The Risk Ladder|S-curve]] until the [[Financial Freedom Is a Coordinate, Not a Number|coordinate of financial freedom]] is reachable. ==Income 101 is the question that has to be answered before any of that math starts.== You can run a beautiful financial equation on a wage that doesn't generate surplus, and at the end of the year nothing will have moved.
+The [[Part 1.0 - Allocation The Sankey Mindset|Financial System]] series is downstream of this one. It assumes the income exists and teaches you what to do with it: how to size your expenses, manage debt, build a surplus, route the surplus into investment, and walk the [[Part 4.0 - The Risk Ladder|S-curve]] until the [[Wealth Part 2.0 - Financial Freedom Is a Coordinate|coordinate of financial freedom]] is reachable. ==Income 101 is the question that has to be answered before any of that math starts.== You can run a beautiful financial equation on a wage that doesn't generate surplus, and at the end of the year nothing will have moved.
 
 Three framings carry into every article that follows:
 

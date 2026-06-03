@@ -7,12 +7,14 @@ tags:
   - scoreboard
 date: 2026-06-01
 ---
-> [!abstract] This is **Part 1.0 of 4** in the Wealth series. The full path:
+> [!abstract] This is **Part 1.0 of 6** in the Wealth series. The full path:
 >
 > - **Part 1.0 (this article):** [[Wealth Part 1.0 - The Scoreboard|The Scoreboard]] — the five types of wealth, and why one number is the wrong one
 > - **Part 1.1:** [[Wealth Part 1.1 - Building vs Executing|Building vs Executing]] — what this series adds to the book
 > - **Part 1.2:** [[Wealth Part 1.2 - The Five Wealths|The Five Wealths]] — all five spokes, scored and routed
-> - **Part 2.0:** [[Wealth Part 2.0 - Financial Coordination|Financial Coordination]] — the coordinate that defines enough
+> - **Part 2.0:** [[Wealth Part 2.0 - Financial Freedom Is a Coordinate|Financial Freedom Is a Coordinate]] — the framework: what you protect, and for how long
+> - **Part 2.1:** [[Wealth Part 2.1 - The Beauty of Compounding|The Beauty of Compounding]] — Coast FI and the engine under the Multiplier layer
+> - **Part 2.2:** [[Wealth Part 2.2 - Financial Coordination|Financial Coordination]] — the coordinate that defines enough
 > ----
 
 ## Table of Contents
@@ -46,7 +48,7 @@ There are five, and money is only the last of them.
 - **Physical Wealth.** Health, fitness, vitality. The most entropic wealth (most exposed to decay and luck), won on the controllables: movement, nutrition, recovery.
 - **Financial Wealth.** Assets minus liabilities, with one nuance the rest of this series turns on: your liabilities include your *expectations*, your definition of enough.
 
-Each is genuinely important on its own. But the real game is what you do once you can see all five at once: you score them together in [[Wealth Part 1.2 - The Five Wealths|Part 1.2]], and then you use [[Wealth Part 2.0 - Financial Coordination|Part 2.0]] to define the financial "enough" that frees capacity for the rest. A scoreboard is only useful if you can read every number on it.
+Each is genuinely important on its own. But the real game is what you do once you can see all five at once: you score them together in [[Wealth Part 1.2 - The Five Wealths|Part 1.2]], and then you use [[Wealth Part 2.2 - Financial Coordination|Part 2.2]] to define the financial "enough" that frees capacity for the rest. A scoreboard is only useful if you can read every number on it.
 
 ## Three things a better scoreboard does
 
@@ -101,7 +103,7 @@ Install the scoreboard before you read further.
 1. **Guess all five** — write a rough score out of 20 for Time, Social, Mental, Physical, Financial right now.
 2. **Sit with the five questions** — answer each honestly in a sentence, especially the one you want to avoid.
 3. **Flag your lowest** — circle the wealth you scored worst. That is your priority wealth.
-4. **Set a re-score date** — 90 days out, to retake all five and read the deltas (this becomes the cadence in [[Wealth Part 2.0 - Financial Coordination|Part 2.0]]).
+4. **Set a re-score date** — 90 days out, to retake all five and read the deltas (this becomes the cadence in [[Wealth Part 2.2 - Financial Coordination|Part 2.2]]).
 5. **Read on** — the five wealths are scored and routed together in [[Wealth Part 1.2 - The Five Wealths|Part 1.2]].
 
 > [!note] Up next

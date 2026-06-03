@@ -1,0 +1,204 @@
+<svg viewBox="0 0 1200 2440" xmlns="http://www.w3.org/2000/svg" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+<defs>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#141417" stroke-width="1"/></pattern>
+<pattern id="hatch" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="14" height="14" fill="none"/><line x1="0" y1="0" x2="0" y2="14" stroke="#EF4444" stroke-width="1.4" opacity="0.28"/></pattern>
+<pattern id="warnstripe" width="22" height="22" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="22" height="22" fill="#2A0E0F"/><rect width="11" height="22" fill="#1c0b0c"/></pattern>
+</defs>
+<rect width="1200" height="2440" fill="#000000"/>
+<rect width="1200" height="2440" fill="url(#grid)" opacity="0.5"/>
+<rect x="38" y="38" width="1124" height="2364" fill="none" stroke="#26262B" stroke-width="1"/>
+<path d="M38 54 L38 38 L54 38" stroke="#71717A" stroke-width="1.4" fill="none"/>
+<path d="M1162 54 L1162 38 L1146 38" stroke="#71717A" stroke-width="1.4" fill="none"/>
+<path d="M38 2386 L38 2402 L54 2402" stroke="#71717A" stroke-width="1.4" fill="none"/>
+<path d="M1162 2386 L1162 2402 L1146 2402" stroke="#71717A" stroke-width="1.4" fill="none"/>
+<line x1="56" y1="56" x2="90" y2="56" stroke="#34D399" stroke-width="2"/>
+<text x="56" y="76" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="14" font-weight="600" fill="#FFFFFF" letter-spacing="2">FIT · PART 4.0 — PHARMACOLOGY</text>
+<text x="1144" y="76" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="500" fill="#A1A1AA" text-anchor="end" letter-spacing="1">4 of 4 · THE MARGIN · closes Aesthetic &amp; Strength</text>
+<text x="56" y="148" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="78" font-weight="600" fill="#FFFFFF" letter-spacing="-1">This is the last 10%.</text>
+<text x="56" y="184" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="400" fill="#A1A1AA" letter-spacing="0"><tspan x="56" dy="0">The program, the diet, and your sleep are 90% of the result — and they&#x27;re drawn bigger here</tspan><tspan x="56" dy="26">than every compound combined. Tier 1 is an open shelf almost anyone serious can use. Tier 2</tspan><tspan x="56" dy="26">sits behind a lock you don&#x27;t open without bloodwork, a doctor, and a plan — and even then</tspan><tspan x="56" dy="26">it&#x27;s shown for transparency, not endorsement.</tspan></text>
+<text x="56" y="290" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#6B6B73" letter-spacing="2">PROPORTION OF RESULT — DRAWN TO SCALE</text>
+<rect x="56" y="304" width="979" height="96" fill="#0C2C22" stroke="#34D399" stroke-width="1.5"/>
+<text x="78" y="344" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="600" fill="#34D399">THE WORK · 90%</text>
+<text x="78" y="372" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="500" fill="#A1A1AA" letter-spacing="0.5">PROGRAM · Pt 3   ·   CALORIE PHASE · Pt 1   ·   SLEEP &amp; STRUCTURE · Pt 2</text>
+<text x="78" y="392" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="500" fill="#6B6B73" letter-spacing="0.5">already built — not theoretical</text>
+<rect x="1035" y="304" width="109" height="96" fill="#141417" stroke="#F59E0B" stroke-width="1.5"/>
+<text x="1090" y="280" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" fill="#F59E0B" text-anchor="middle">THE MARGIN · 10%</text>
+<path d="M1035 292 L1035 298 L1144 298 L1144 292" fill="none" stroke="#F59E0B" stroke-width="1.2"/>
+<text x="1090" y="362" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="600" fill="#F59E0B" text-anchor="middle">↓ this</text>
+<text x="1090" y="378" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="600" fill="#F59E0B" text-anchor="middle">article</text>
+<text x="56" y="430" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="500" fill="#A1A1AA">Master the Work first. The Margin is wasted money on a broken foundation.</text>
+<path d="M1035 400 L56 458" stroke="#F59E0B" stroke-width="1" stroke-dasharray="4 4" opacity="0.7"/>
+<path d="M1144 400 L1144 458" stroke="#F59E0B" stroke-width="1" stroke-dasharray="4 4" opacity="0.7"/>
+<rect x="56" y="488" width="1088" height="40" fill="#0C2C22" stroke="#34D399" stroke-width="1"/>
+<circle cx="78" cy="508" r="6" fill="#34D399"/>
+<text x="96" y="514" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="14" font-weight="600" fill="#34D399" letter-spacing="1">TIER 1 — NATTY</text>
+<text x="256" y="514" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="500" fill="#A1A1AA" letter-spacing="0.3">legal · OTC · safe at sensible doses · appropriate for almost anyone serious about training.</text>
+<rect x="56" y="544" width="534" height="248" rx="8" fill="#0F0F11" stroke="#3F3F46" stroke-width="1"/>
+<line x1="56" y1="578" x2="590" y2="578" stroke="#26262B" stroke-width="1"/>
+<rect x="56" y="544" width="4" height="248" fill="#34D399"/>
+<text x="74" y="567" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#FFFFFF" letter-spacing="1">ENERGY / CARDIO</text>
+<text x="74" y="600" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#FFFFFF">TMG (BETAINE)</text>
+<g><rect x="490.0" y="585" width="88" height="22" rx="11" fill="none" stroke="#34D399" stroke-width="1"/><text x="534" y="600" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#34D399" text-anchor="middle" letter-spacing="0.5">year-round</text></g>
+<text x="74" y="618" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" fill="#A1A1AA">methyl donor → methylation + power output · 2.5–3 g w/</text>
+<text x="74" y="634" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" fill="#A1A1AA">meal</text>
+<text x="74" y="701.0" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#FFFFFF">METHYL-B12</text>
+<g><rect x="497.2" y="686.0" width="81" height="22" rx="11" fill="none" stroke="#34D399" stroke-width="1"/><text x="538" y="701.0" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#34D399" text-anchor="middle" letter-spacing="0.5">as needed</text></g>
+<text x="74" y="719.0" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" fill="#A1A1AA">RBC + neuro + energy; bypasses MTHFR step</text>
+<rect x="610.0" y="544" width="534" height="248" rx="8" fill="#0F0F11" stroke="#3F3F46" stroke-width="1"/>
+<line x1="610.0" y1="578" x2="1144" y2="578" stroke="#26262B" stroke-width="1"/>
+<rect x="610.0" y="544" width="4" height="248" fill="#34D399"/>
+<text x="628.0" y="567" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#FFFFFF" letter-spacing="1">PRE-WORKOUT COGNITION</text>
+<text x="628.0" y="600" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#FFFFFF">ALPHA-GPC</text>
+<g><rect x="1044.0" y="585" width="88" height="22" rx="11" fill="none" stroke="#34D399" stroke-width="1"/><text x="1088" y="600" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#34D399" text-anchor="middle" letter-spacing="0.5">year-round</text></g>
+<text x="628.0" y="618" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" fill="#A1A1AA">choline → acetylcholine (mind-muscle + focus); peaks 60–90</text>
+<text x="628.0" y="634" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" fill="#A1A1AA">min · 600 mg · 60 min pre</text>
+<text x="628.0" y="701.0" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#FFFFFF">HUPERZINE A</text>
+<g><rect x="1015.2" y="686.0" width="117" height="22" rx="11" fill="none" stroke="#F59E0B" stroke-width="1"/><text x="1074" y="701.0" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#F59E0B" text-anchor="middle" letter-spacing="0.5">cycle 5on/2off</text></g>
+<text x="628.0" y="719.0" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" fill="#A1A1AA">slows acetylcholine breakdown — pairs w/ Alpha-GPC (more</text>
+<text x="628.0" y="735.0" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" fill="#A1A1AA">made, less broken) · 200 mcg pre</text>
+<rect x="56" y="812" width="534" height="248" rx="8" fill="#0F0F11" stroke="#3F3F46" stroke-width="1"/>
+<line x1="56" y1="846" x2="590" y2="846" stroke="#26262B" stroke-width="1"/>
+<rect x="56" y="812" width="4" height="248" fill="#34D399"/>
+<text x="74" y="835" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#FFFFFF" letter-spacing="1">FAT LOSS · cut-only</text>
+<text x="74" y="868" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#FFFFFF">CAFFEINE</text>
+<g><rect x="504.4" y="853" width="74" height="22" rx="11" fill="none" stroke="#F59E0B" stroke-width="1"/><text x="541" y="868" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#F59E0B" text-anchor="middle" letter-spacing="0.5">cut-only</text></g>
+<text x="74" y="886" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" fill="#A1A1AA">catecholamines + training output; small metabolic, real</text>
+<text x="74" y="902" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" fill="#A1A1AA">intensity effect</text>
+<text x="74" y="935.3333333333334" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#FFFFFF">L-CARNITINE / ALCAR</text>
+<g><rect x="504.4" y="920.3333333333334" width="74" height="22" rx="11" fill="none" stroke="#F59E0B" stroke-width="1"/><text x="541" y="935.3333333333334" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#F59E0B" text-anchor="middle" letter-spacing="0.5">cut-only</text></g>
+<text x="74" y="953.3333333333334" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" fill="#A1A1AA">fatty-acid → mitochondria; better for endurance/recovery</text>
+<text x="74" y="969.3333333333334" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" fill="#A1A1AA">than fat-loss · 2 g w/ carbs</text>
+<text x="74" y="1002.6666666666667" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#FFFFFF">YOHIMBINE</text>
+<g><rect x="504.4" y="987.6666666666667" width="74" height="22" rx="11" fill="none" stroke="#F59E0B" stroke-width="1"/><text x="541" y="1002.6666666666667" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#F59E0B" text-anchor="middle" letter-spacing="0.5">cut-only</text></g>
+<text x="74" y="1020.6666666666667" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" fill="#A1A1AA">alpha-2 antagonist → releases brake on stubborn fat · 0.2</text>
+<text x="74" y="1036.6666666666667" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" fill="#A1A1AA">mg/kg · FASTED only ⚠ BP/HR</text>
+<rect x="610.0" y="812" width="534" height="248" rx="8" fill="#0F0F11" stroke="#3F3F46" stroke-width="1"/>
+<line x1="610.0" y1="846" x2="1144" y2="846" stroke="#26262B" stroke-width="1"/>
+<rect x="610.0" y="812" width="4" height="248" fill="#34D399"/>
+<text x="628.0" y="835" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#FFFFFF" letter-spacing="1">PUMP / RECOVERY / BASICS</text>
+<text x="628.0" y="868" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#FFFFFF">L-CITRULLINE</text>
+<g><rect x="1044.0" y="853" width="88" height="22" rx="11" fill="none" stroke="#34D399" stroke-width="1"/><text x="1088" y="868" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#34D399" text-anchor="middle" letter-spacing="0.5">year-round</text></g>
+<text x="628.0" y="886" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" fill="#A1A1AA">NO precursor — take this, NOT arginine · 6–8 g · 30–45 min</text>
+<text x="628.0" y="902" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" fill="#A1A1AA">pre</text>
+<text x="628.0" y="969.0" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#FFFFFF">CREATINE MONOHYDRATE</text>
+<g><rect x="1044.0" y="954.0" width="88" height="22" rx="11" fill="none" stroke="#34D399" stroke-width="1"/><text x="1088" y="969.0" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#34D399" text-anchor="middle" letter-spacing="0.5">year-round</text></g>
+<text x="628.0" y="987.0" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" fill="#A1A1AA">phosphocreatine → an extra rep/set → compounding volume ·</text>
+<text x="628.0" y="1003.0" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" fill="#A1A1AA">5 g · any time</text>
+<rect x="56" y="1094" width="1088" height="188" fill="url(#warnstripe)" stroke="#EF4444" stroke-width="2.5"/>
+<rect x="66" y="1104" width="1068" height="168" fill="#000000" stroke="#7F1D1D" stroke-width="1"/>
+<text x="600.0" y="1134" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="17" font-weight="700" fill="#EF4444" text-anchor="middle" letter-spacing="1.5">⚠  NOT A RECOMMENDATION GATE — A TRANSPARENCY GATE  ⚠</text>
+<text x="600.0" y="1154" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="500" fill="#A1A1AA" text-anchor="middle" letter-spacing="0.5">three keys. all must be turned before the lock below opens.</text>
+<rect x="76" y="1170" width="339" height="92" rx="6" fill="#2A0E0F" stroke="#EF4444" stroke-width="1.4"/>
+<circle cx="102" cy="1200" r="11" fill="none" stroke="#EF4444" stroke-width="2"/>
+<line x1="102" y1="1211" x2="102" y2="1228" stroke="#EF4444" stroke-width="2"/>
+<line x1="102" y1="1220" x2="110" y2="1220" stroke="#EF4444" stroke-width="2"/>
+<text x="124" y="1196" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="20" font-weight="700" fill="#EF4444">1</text>
+<text x="148" y="1196" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#FFFFFF">COMPREHENSIVE BLOODWORK</text>
+<text x="124" y="1218" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" fill="#A1A1AA">metabolic · lipid · hormone ·</text>
+<text x="124" y="1233" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" fill="#A1A1AA">hematocrit · kidney/liver</text>
+<rect x="430.6666666666667" y="1170" width="339" height="92" rx="6" fill="#2A0E0F" stroke="#EF4444" stroke-width="1.4"/>
+<circle cx="456.6666666666667" cy="1200" r="11" fill="none" stroke="#EF4444" stroke-width="2"/>
+<line x1="456.6666666666667" y1="1211" x2="456.6666666666667" y2="1228" stroke="#EF4444" stroke-width="2"/>
+<line x1="456.6666666666667" y1="1220" x2="464.6666666666667" y2="1220" stroke="#EF4444" stroke-width="2"/>
+<text x="478.6666666666667" y="1196" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="20" font-weight="700" fill="#EF4444">2</text>
+<text x="502.6666666666667" y="1196" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#FFFFFF">A DOCTOR WHO KNOWS</text>
+<text x="478.6666666666667" y="1218" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" fill="#A1A1AA">...exactly what&#x27;s being run</text>
+<rect x="785.3333333333334" y="1170" width="339" height="92" rx="6" fill="#2A0E0F" stroke="#EF4444" stroke-width="1.4"/>
+<circle cx="811.3333333333334" cy="1200" r="11" fill="none" stroke="#EF4444" stroke-width="2"/>
+<line x1="811.3333333333334" y1="1211" x2="811.3333333333334" y2="1228" stroke="#EF4444" stroke-width="2"/>
+<line x1="811.3333333333334" y1="1220" x2="819.3333333333334" y2="1220" stroke="#EF4444" stroke-width="2"/>
+<text x="833.3333333333334" y="1196" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="20" font-weight="700" fill="#EF4444">3</text>
+<text x="857.3333333333334" y="1196" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#FFFFFF">A STRUCTURED PLAN</text>
+<text x="833.3333333333334" y="1218" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" fill="#A1A1AA">dose · duration · what to monitor</text>
+<rect x="56" y="1312" width="1088" height="40" fill="#2A0E0F" stroke="#EF4444" stroke-width="1"/>
+<rect x="56" y="1312" width="1088" height="40" fill="url(#hatch)"/>
+<text x="74" y="1338" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="14" font-weight="600" fill="#EF4444" letter-spacing="1">TIER 2 — HALF-NATTY</text>
+<text x="316" y="1338" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="500" fill="#A1A1AA">the gray zone between supplement and pharmacology.</text>
+<text x="1132" y="1338" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#EF4444" text-anchor="end" letter-spacing="1">SHOWN FOR TRANSPARENCY — NOT ENDORSEMENT</text>
+<rect x="56" y="1362" width="1088" height="396" fill="#2A0E0F" stroke="#7F1D1D" stroke-width="1.5" opacity="0.55"/>
+<rect x="56" y="1362" width="1088" height="396" fill="url(#hatch)"/>
+<rect x="70" y="1376" width="520" height="174" rx="6" fill="#141417" stroke="#EF4444" stroke-width="1.2"/>
+<rect x="70" y="1376" width="4" height="174" fill="#EF4444"/>
+<text x="88" y="1402" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="14" font-weight="700" fill="#FFFFFF">RETATRUTIDE</text>
+<text x="88" y="1422" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" fill="#A1A1AA">triple GLP-1/GIP/glucagon agonist</text>
+<text x="88" y="1443" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" fill="#6B6B73">USE · ~20–24% weight loss in trials; glucagon arm</text>
+<text x="88" y="1458" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" fill="#6B6B73">mobilizes liver fat + raises expenditure; preserves</text>
+<text x="88" y="1473" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" fill="#6B6B73">lean mass better than diet-only.</text>
+<text x="88" y="1496" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#F59E0B">⚠ appetite suppression can wreck protein targets ·</text>
+<text x="88" y="1511" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#F59E0B">GI side effects · expensive</text>
+<rect x="610" y="1376" width="520" height="174" rx="6" fill="#141417" stroke="#EF4444" stroke-width="1.2"/>
+<rect x="610" y="1376" width="4" height="174" fill="#EF4444"/>
+<text x="628" y="1402" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="14" font-weight="700" fill="#FFFFFF">CJC-1295 + IPAMORELIN</text>
+<text x="628" y="1422" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" fill="#A1A1AA">GH secretagogue pair (amplitude + extra pulses,</text>
+<text x="628" y="1437" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" fill="#A1A1AA">clean)</text>
+<text x="628" y="1458" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" fill="#6B6B73">USE · recovery · deep sleep · gradual recomp.</text>
+<text x="628" y="1481" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#F59E0B">⚠ NOT a steroid replacement; impairs insulin</text>
+<text x="628" y="1496" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#F59E0B">sensitivity — monitor glucose/HbA1c</text>
+<rect x="70" y="1570" width="520" height="174" rx="6" fill="#141417" stroke="#EF4444" stroke-width="1.2"/>
+<rect x="70" y="1570" width="4" height="174" fill="#EF4444"/>
+<text x="88" y="1596" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="14" font-weight="700" fill="#FFFFFF">MK-677 (IBUTAMOREN)</text>
+<text x="88" y="1616" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" fill="#A1A1AA">oral ghrelin mimetic — GH elevation without</text>
+<text x="88" y="1631" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" fill="#A1A1AA">injections</text>
+<text x="88" y="1652" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" fill="#6B6B73">USE · convenience of an oral; sustained GH/IGF-1</text>
+<text x="88" y="1667" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" fill="#6B6B73">elevation.</text>
+<text x="88" y="1690" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#F59E0B">⚠ appetite + water retention + glucose; BULK-phase</text>
+<text x="88" y="1705" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#F59E0B">tool only, fights a cut</text>
+<rect x="610" y="1570" width="520" height="174" rx="6" fill="#141417" stroke="#EF4444" stroke-width="1.2"/>
+<rect x="610" y="1570" width="4" height="174" fill="#EF4444"/>
+<text x="628" y="1596" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="14" font-weight="700" fill="#FFFFFF">CLENBUTEROL / CARDARINE</text>
+<text x="628" y="1616" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" fill="#A1A1AA">Clen = beta-2 agonist thermogenic · Cardarine =</text>
+<text x="628" y="1631" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" fill="#A1A1AA">PPAR-δ</text>
+<text x="628" y="1652" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" fill="#6B6B73">USE · Clen: fat-loss + output. Cardarine: fat-ox +</text>
+<text x="628" y="1667" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" fill="#6B6B73">endurance.</text>
+<text x="628" y="1690" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#F59E0B">⚠ Clen: tachycardia/BP, fibrotic hypertrophy risk</text>
+<text x="628" y="1705" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#F59E0B">· Cardarine: rodent cancer-dose history — not</text>
+<text x="628" y="1720" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#F59E0B">casual</text>
+<text x="56" y="1794" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="14" font-weight="600" fill="#FFFFFF" letter-spacing="1">THE HIERARCHY OF IMPACT — most → least. People invert this.</text>
+<rect x="56" y="1812" width="653" height="38" rx="5" fill="#0F0F11" stroke="#34D399" stroke-width="1.4"/>
+<rect x="56" y="1812" width="40" height="38" rx="5" fill="#34D399" opacity="0.18"/>
+<text x="76" y="1837" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="16" font-weight="700" fill="#34D399" text-anchor="middle">1</text>
+<text x="108" y="1836" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#FFFFFF">TRAINING STIMULUS &amp; CONSISTENCY</text>
+<rect x="56" y="1858" width="607" height="38" rx="5" fill="#0F0F11" stroke="#34D399" stroke-width="1.4"/>
+<rect x="56" y="1858" width="40" height="38" rx="5" fill="#34D399" opacity="0.18"/>
+<text x="76" y="1883" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="16" font-weight="700" fill="#34D399" text-anchor="middle">2</text>
+<text x="108" y="1882" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#FFFFFF">CALORIE MANAGEMENT</text>
+<rect x="56" y="1904" width="561" height="38" rx="5" fill="#0F0F11" stroke="#34D399" stroke-width="1.4"/>
+<rect x="56" y="1904" width="40" height="38" rx="5" fill="#34D399" opacity="0.18"/>
+<text x="76" y="1929" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="16" font-weight="700" fill="#34D399" text-anchor="middle">3</text>
+<text x="108" y="1928" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#FFFFFF">SLEEP &amp; RECOVERY</text>
+<rect x="56" y="1950" width="515" height="38" rx="5" fill="#0F0F11" stroke="#F59E0B" stroke-width="1.4"/>
+<rect x="56" y="1950" width="40" height="38" rx="5" fill="#F59E0B" opacity="0.18"/>
+<text x="76" y="1975" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="16" font-weight="700" fill="#F59E0B" text-anchor="middle">4</text>
+<text x="108" y="1974" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#FFFFFF">TIER 1 SUPPLEMENTS</text>
+<rect x="56" y="1996" width="469" height="38" rx="5" fill="#0F0F11" stroke="#EF4444" stroke-width="1.4"/>
+<rect x="56" y="1996" width="40" height="38" rx="5" fill="#EF4444" opacity="0.18"/>
+<text x="76" y="2021" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="16" font-weight="700" fill="#EF4444" text-anchor="middle">5</text>
+<text x="108" y="2020" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#FFFFFF">TIER 2 COMPOUNDS</text>
+<text x="779" y="1806" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#6B6B73" letter-spacing="0.5">WHAT MOST PEOPLE OPTIMIZE FIRST</text>
+<rect x="779" y="1812" width="365" height="38" rx="5" fill="none" stroke="#6B6B73" stroke-width="1" opacity="0.55"/>
+<text x="793" y="1836" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="500" fill="#6B6B73" text-decoration="line-through" opacity="0.75">TIER 2 COMPOUNDS</text>
+<line x1="793" y1="1832" x2="1130" y2="1832" stroke="#6B6B73" stroke-width="1" opacity="0.7"/>
+<rect x="779" y="1858" width="365" height="38" rx="5" fill="none" stroke="#6B6B73" stroke-width="1" opacity="0.55"/>
+<text x="793" y="1882" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="500" fill="#6B6B73" text-decoration="line-through" opacity="0.75">TIER 1 SUPPLEMENTS</text>
+<line x1="793" y1="1878" x2="1130" y2="1878" stroke="#6B6B73" stroke-width="1" opacity="0.7"/>
+<rect x="779" y="1904" width="365" height="38" rx="5" fill="none" stroke="#6B6B73" stroke-width="1" opacity="0.55"/>
+<text x="793" y="1928" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="500" fill="#6B6B73" text-decoration="line-through" opacity="0.75">SLEEP &amp; RECOVERY</text>
+<line x1="793" y1="1924" x2="1130" y2="1924" stroke="#6B6B73" stroke-width="1" opacity="0.7"/>
+<rect x="779" y="1950" width="365" height="38" rx="5" fill="none" stroke="#6B6B73" stroke-width="1" opacity="0.55"/>
+<text x="793" y="1974" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="500" fill="#6B6B73" text-decoration="line-through" opacity="0.75">CALORIE MANAGEMENT</text>
+<line x1="793" y1="1970" x2="1130" y2="1970" stroke="#6B6B73" stroke-width="1" opacity="0.7"/>
+<rect x="779" y="1996" width="365" height="38" rx="5" fill="none" stroke="#6B6B73" stroke-width="1" opacity="0.55"/>
+<text x="793" y="2020" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="500" fill="#6B6B73" text-decoration="line-through" opacity="0.75">TRAINING STIMULUS &amp; CONSISTENCY</text>
+<line x1="793" y1="2016" x2="1130" y2="2016" stroke="#6B6B73" stroke-width="1" opacity="0.7"/>
+<path d="M743 1822 C717 1912 717 1932 743 2022" fill="none" stroke="#34D399" stroke-width="2" marker-end="url(#arr)"/>
+<defs><marker id="arr" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6Z" fill="#34D399"/></marker></defs>
+<text x="713" y="1927" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10" font-weight="600" fill="#34D399" transform="rotate(-90 713 1927)" text-anchor="middle">FLIP IT UPRIGHT</text>
+<text x="56" y="2054" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="400" fill="#A1A1AA" letter-spacing="0"><tspan x="56" dy="0">Compounds make the difference at the margins. The fundamentals are 90% of the actual outcome. The people who</tspan><tspan x="56" dy="19">make the most progress aren&#x27;t the ones with the most exotic protocols — they&#x27;re the ones who nailed the daily</tspan><tspan x="56" dy="19">structure, ran a consistent program for years, and added pharmacology only after they&#x27;d outgrown what training</tspan><tspan x="56" dy="19">and diet alone can produce.</tspan></text>
+<line x1="56" y1="2156" x2="1144" y2="2156" stroke="#26262B" stroke-width="1"/>
+<text x="56" y="2180" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#34D399" letter-spacing="0.5">IF YOU'RE STARTING →</text>
+<text x="56" y="2200" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="400" fill="#A1A1AA" letter-spacing="0"><tspan x="56" dy="0">1 Creatine 5 g/day year-round. · 2 Citrulline 6–8 g pre. · 3 Alpha-GPC 600 mg + Huperzine (cycled) pre. · 4</tspan><tspan x="56" dy="17">TMG 2.5–3 g w/ a meal. · 5 Add cut-only tools (caffeine · yohimbine FASTED) only during a deficit. · 6 Don&#x27;t</tspan><tspan x="56" dy="17">touch Tier 2 until the Work is mastered AND the three keys are turned.</tspan></text>
+<text x="56" y="2269" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="600" fill="#FFFFFF">This closes the 4-part Aesthetic &amp; Strength series — Goal → Day → Program → Margin.</text>
+<text x="56" y="2287" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="400" fill="#6B6B73" letter-spacing="0"><tspan x="56" dy="0">Not medical advice. Tier 2 compounds are not approved as dietary supplements in most countries and carry real risk without</tspan><tspan x="56" dy="14">medical supervision. Shared for transparency, not as a recommendation.</tspan></text>
+<text x="56" y="2327" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="400" fill="#6B6B73" letter-spacing="0"><tspan x="56" dy="0">Sources: Creatine — ISSN/Kreider et al. 2017 · Yohimbine — Ostojic 2006 · Betaine — Cholewa et al. 2014 · Citrulline —</tspan><tspan x="56" dy="14">Schwedhelm et al. 2008 · Retatrutide — Jastreboff et al., NEJM 2023.</tspan></text>
+<text x="1144" y="2386" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="600" fill="#71717A" text-anchor="end" letter-spacing="1">Fit — Aesthetic &amp; Strength</text>
+</svg>

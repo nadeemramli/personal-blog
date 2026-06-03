@@ -70,7 +70,7 @@ Each goal below lists: what it needs → what already exists → what's missing 
 
 ### Goal 4 — "Design surplus / am I already on-par?"
 - **Needs:** the Nut (goal 1) → the two freedom targets → income comparison.
-- **Decision locked:** **Freedom Fund = 24× monthly E+F** (inflation-adjusted ~6% over 2yr); **"6-month optionality" = 6× monthly E+F emergency fund**. Both on E+F only. (See [[Part 1.1 - The Five Buckets]], [[Financial Freedom Is a Coordinate, Not a Number]].)
+- **Decision locked:** **Freedom Fund = 24× monthly E+F** (inflation-adjusted ~6% over 2yr); **"6-month optionality" = 6× monthly E+F emergency fund**. Both on E+F only. (See [[Part 1.1 - The Five Buckets]], [[Wealth Part 2.0 - Financial Freedom Is a Coordinate|Financial Freedom Is a Coordinate]].)
 - **Missing:** the audited E+F (blocked on goal 1); current income figure; EPF balance for the Bucket 4 / Coast-FI check ([[Part 3.0 - On Par by Age]]).
 - **Move:** once E+F is real, compute the three numbers in §3.3, then compare to income → surplus → "on-par or not."
 
@@ -149,4 +149,4 @@ The OS root is already clean (Bases live inside their stack folders). Light touc
 ## Links
 - Why: [[The Operating System]] · Capstone: [[The Upward Spiral — How the Order Compounds]]
 - Data: [[Schema — Data Model]] · [[Product List]] · [[QC & Gap Analysis]]
-- Money framework: [[Part 1.1 - The Five Buckets]] · [[Financial Freedom Is a Coordinate, Not a Number]] · [[Part 3.0 - On Par by Age]]
+- Money framework: [[Part 1.1 - The Five Buckets]] · [[Wealth Part 2.0 - Financial Freedom Is a Coordinate|Financial Freedom Is a Coordinate]] · [[Part 3.0 - On Par by Age]]

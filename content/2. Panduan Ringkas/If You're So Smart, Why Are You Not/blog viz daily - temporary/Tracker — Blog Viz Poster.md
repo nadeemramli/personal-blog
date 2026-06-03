@@ -29,6 +29,7 @@ Scope: this tracker covers the **"If You're So Smart, Why Are You Not"** Big Ser
 | [[Visualization Concept — Fit - Part 3.1 - The Program - Concepts]] | `visualization/Poster — Fit - Part 3.1 - The Program - Concepts.png` | Fit · Engineering Diagnostic Instrument | 2026-05-29 | code-render → SVG (scratch) + PNG, 1200×1500 @2x (CairoSVG) |
 | [[Visualization Concept — Fit - Part 3.2 - The Program - Rules and Building the Program]] | `visualization/Poster — Fit - Part 3.2 - The Program - Rules and Building the Program.png` | Fit · Engineering Diagnostic Instrument | 2026-05-30 | code-render → SVG (scratch) + PNG, 1200×1500 @2x (CairoSVG) |
 | [[Visualization Concept — Fit - Part 3.3 - The Program - Example Programs]] | `visualization/Poster — Fit - Part 3.3 - The Program - Example Programs.png` | Fit · Engineering Diagnostic Instrument | 2026-05-31 | code-render → SVG (scratch) + PNG, 1200×2548 @2x → 2400×5096, ~803 KB (CairoSVG 2.9.0) |
+| [[Visualization Concept — Fit - Part 3.1 (Athletic) - Power, Speed and Agility]] | `visualization/Poster — Fit - Part 3.1 (Athletic) - Power, Speed and Agility.png` | Fit · Engineering Diagnostic Instrument | 2026-06-03 | code-render → SVG (scratch) + PNG, 1200×1860 @2x → 2400×3720, ~602 KB (CairoSVG). Sub-archetype: **oscilloscope / signal-tuning bench** — first Fit poster to plot force vs *time in ms*, first to use a hard **safety interlock**, and first Athletic poster to *use* the danger state (rationed to the interlock). |
 
 ## Pending — concept exists in /concepts/, poster not yet produced
 

@@ -7,12 +7,14 @@ tags:
   - scoreboard
 date: 2026-06-01
 ---
-> [!abstract] This is **Part 1.2 of 4** in the Wealth series. The full path:
+> [!abstract] This is **Part 1.2 of 6** in the Wealth series. The full path:
 >
 > - **Part 1.0:** [[Wealth Part 1.0 - The Scoreboard|The Scoreboard]] — the five types of wealth, and why one number is the wrong one
 > - **Part 1.1:** [[Wealth Part 1.1 - Building vs Executing|Building vs Executing]] — what this series adds to the book
 > - **Part 1.2 (this article):** [[Wealth Part 1.2 - The Five Wealths|The Five Wealths]] — all five spokes, scored and routed
-> - **Part 2.0:** [[Wealth Part 2.0 - Financial Coordination|Financial Coordination]] — the coordinate that defines enough
+> - **Part 2.0:** [[Wealth Part 2.0 - Financial Freedom Is a Coordinate|Financial Freedom Is a Coordinate]] — the framework: what you protect, and for how long
+> - **Part 2.1:** [[Wealth Part 2.1 - The Beauty of Compounding|The Beauty of Compounding]] — Coast FI and the engine under the Multiplier layer
+> - **Part 2.2:** [[Wealth Part 2.2 - Financial Coordination|Financial Coordination]] — the coordinate that defines enough
 > ----
 
 ## Table of Contents
@@ -50,7 +52,7 @@ Freedom over your time: how you spend it, with whom, where, and whether you trad
 4. I rarely feel too busy or scattered to spend time on the most important priorities.
 5. I am in control of my calendar and priorities.
 
-**What the book leaves out:** Time is *bought* with money, but only up to the point where your expectations stop rising. You buy back hours through buffers and systems, and a bigger life eats them straight back if your definition of enough keeps climbing. Runway is just pre-purchased time, which is why this wealth meets Financial Wealth at the [[Wealth Part 2.0 - Financial Coordination|coordinate of enough]].
+**What the book leaves out:** Time is *bought* with money, but only up to the point where your expectations stop rising. You buy back hours through buffers and systems, and a bigger life eats them straight back if your definition of enough keeps climbing. Runway is just pre-purchased time, which is why this wealth meets Financial Wealth at the [[Wealth Part 2.2 - Financial Coordination|coordinate of enough]].
 
 **Where the execution lives:** the Peaceful / Living material. Start with [[Baseline - buffers - freedom|Baseline, buffers, freedom]], then [[Min-maxxing|Min-maxxing]] for where to spend effort and [[Only Live Once|Only Live Once]] for what the freed time is for.
 
@@ -124,9 +126,9 @@ Assets minus liabilities, with one nuance the next article turns on: your liabil
 4. I have a clear process for investing excess monthly income for long-term compounding.
 5. I use my financial wealth as a tool to build other types of wealth.
 
-**What the book leaves out:** how to actually *find* enough. That is financial coordination, and it is important enough to get its own article. The whole of [[Wealth Part 2.0 - Financial Coordination|Part 2.0]] is about it.
+**What the book leaves out:** how to actually *find* enough. That is financial coordination, and it is important enough to get its own article. The whole of [[Wealth Part 2.2 - Financial Coordination|Part 2.2]] is about it.
 
-**Where the execution lives:** the Rich section, as a chain (generate income with Income 101, aim it with Capabilities and Competency, compound it with Multiplying Money 101), plus [[Financial Freedom Is a Coordinate, Not a Number|the Coordinate framework]] and [[Beauty Of Compounding|the Beauty of Compounding]]. Start with [[Part 1.0 - What Income Actually Is|Income 101 Part 1.0]].
+**Where the execution lives:** the Rich section, as a chain (generate income with Income 101, aim it with Capabilities and Competency, compound it with Multiplying Money 101), plus [[Wealth Part 2.0 - Financial Freedom Is a Coordinate|the Coordinate framework]] and [[Wealth Part 2.1 - The Beauty of Compounding|the Beauty of Compounding]]. Start with [[Part 1.0 - What Income Actually Is|Income 101 Part 1.0]].
 
 ## Tally your 100
 
@@ -159,7 +161,7 @@ One wealth, though, sits underneath the others, because left undefined it quietl
 5. **Set a 90-day re-score** — the cadence you'll formalise in Part 2.0.
 
 > [!note] Up next
-> The keystone of the whole board: [[Wealth Part 2.0 - Financial Coordination|Part 2.0 — Financial Coordination]], the coordinate that defines enough and frees the other four wealths.
+> The keystone of the whole board: [[Wealth Part 2.2 - Financial Coordination|Part 2.2 — Financial Coordination]], the coordinate that defines enough and frees the other four wealths. Read [[Wealth Part 2.0 - Financial Freedom Is a Coordinate|Part 2.0]] and [[Wealth Part 2.1 - The Beauty of Compounding|Part 2.1]] first for the framework and the compounding engine behind it.
 
 ---
 
@@ -170,4 +172,4 @@ One wealth, though, sits underneath the others, because left undefined it quietl
 
 ## Sources & references
 
-[^1]: The five wealths, their questions, and the quiz statements are from Sahil Bloom, *The 5 Types of Wealth* (2025). The per-wealth mechanisms and the routing into execution series are this project's own ([[Stronghold Part 1.0 - The Stronghold|Stronghold]], the Rich section, Fit/Healthy, Behavioral Change, Learning, and the [[Financial Freedom Is a Coordinate, Not a Number|Coordinate framework]]).
+[^1]: The five wealths, their questions, and the quiz statements are from Sahil Bloom, *The 5 Types of Wealth* (2025). The per-wealth mechanisms and the routing into execution series are this project's own ([[Stronghold Part 1.0 - The Stronghold|Stronghold]], the Rich section, Fit/Healthy, Behavioral Change, Learning, and the [[Wealth Part 2.0 - Financial Freedom Is a Coordinate|Coordinate framework]]).
