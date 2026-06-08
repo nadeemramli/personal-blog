@@ -8,7 +8,7 @@ tags:
   - life-design
 date: 2026-05-29
 ---
-> [!abstract] **Part 7 of 7 in the [[Part 1.0 - What Income Actually Is|Income 101 Series]].** The first six articles set up the lens (optionality), the scorecard (four attributes), the strategy (cheap-and-capable), and the three economies (Climb, Build, Catering). This article is the synthesis: how to layer the economies so the years actually compound, what the handoff to the [[Part 1.0 - Allocation The Sankey Mindset|Financial System]] looks like, and what "designing your life" means when the income side is finally working.
+> [!abstract] **Part 8 of 8 in the [[Part 1.0 - What Income Actually Is|Income 101 Series]].** The first seven articles set up the lens (optionality), the scorecard (four attributes), the strategy (cheap-and-capable), and the four economies (Climb, Build, Catering, Commission). This article is the synthesis: how to layer the economies so the years actually compound, what the handoff to the [[Part 1.0 - Allocation The Sankey Mindset|Financial System]] looks like, and what "designing your life" means when the income side is finally working.
 > ----
 ## Table of Contents
 
@@ -27,14 +27,14 @@ date: 2026-05-29
 ---
 
 > [!important] Why a synthesis article and not just a summary?
-> Because the value of the three economies is not in any one of them; it is in how they layer. ==The Climb funds the Build. The Build eventually loosens the Climb's grip. Catering, where used at all, is a probe or a bridge.== The synthesis is also where the series finally points outward: at the [[Part 1.0 - Allocation The Sankey Mindset|Financial System]] that turns income into a wealth machine, and at the [[The First Path of Controlling Your life|wider series]] that turns wealth into a designed life.
+> Because the value of the four economies is not in any one of them; it is in how they layer. ==The Climb funds the Build. The Commission lane, where the disposition fits, steepens the Climb's slope. The Build eventually loosens the Climb's grip. Catering, where used at all, is a probe or a bridge.== The synthesis is also where the series finally points outward: at the [[Part 1.0 - Allocation The Sankey Mindset|Financial System]] that turns income into a wealth machine, and at the [[The First Path of Controlling Your life|wider series]] that turns wealth into a designed life.
 
 ---
 ## Where this article sits
 
 The Income 101 series exists because every other essay on this blog assumes there is income to work with. [[Part 1.0 - What Healthy Actually Is|Healthy]] assumes you can afford a blood panel and a wearable. [[Part 1.0 - The Cognitive Architecture|Productive]] assumes you have control over your hours. The [[Part 1.0 - Allocation The Sankey Mindset|Financial System]] assumes there's a surplus to route. ==Income 101 is the upstream tributary that makes all of that solvable.==
 
-This article closes the loop. It assumes you've read the previous six and now have:
+This article closes the loop. It assumes you've read the previous seven and now have:
 
 - A lens (optionality, not salary).
 - A scorecard (the four attributes).
@@ -42,6 +42,7 @@ This article closes the loop. It assumes you've read the previous six and now ha
 - A spine (the three-step Climb).
 - A parallel asset path (the Build).
 - A dissection of the layer that pretends to be a path but isn't (Catering).
+- A proportional lane for the disposition that fits it (the Commission seat).
 
 What this article adds is the *layering*: the timing, the handoffs, and the handover to the downstream Multiplying Money 101 series ([[Part 1.0 - Allocation The Sankey Mindset|Allocation]], [[Part 3.0 - On Par by Age|On Par by Age]], [[Part 4.0 - The Risk Ladder|The Risk Ladder]]). It also sets up the bridge from *Orderliness* into *Design* that [[The First Path of Controlling Your life|the first-path essay]] argues is the real point of all this.
 
@@ -50,7 +51,7 @@ What this article adds is the *layering*: the timing, the handoffs, and the hand
 
 Here is the through-line for the whole series, restated:
 
-==The Climb gives you a *base*. The Build gives you a *ceiling*. Catering, used selectively, gives you a *bridge*. Stacking the three correctly is what turns a decade of working into a decade of compounding.==
+==The Climb gives you a *base*. The Commission lane, where your disposition fits, gives that base a *steeper slope*. The Build gives you a *ceiling*. Catering, used selectively, gives you a *bridge*. Stacking them correctly is what turns a decade of working into a decade of compounding.==
 
 The mistake almost everyone makes is to treat the economies as alternatives:
 
@@ -65,6 +66,7 @@ A useful mental model:
 | Economy        | Schedule                  | Metric                            | Horizon                          | What it pays for             |
 | -------------- | ------------------------- | --------------------------------- | -------------------------------- | ---------------------------- |
 | **Climb**      | Weekdays, business hours  | Promotions, salary, scope         | 2–3 years per step               | The base income and the floor |
+| **Commission** (a Climb lane) | Weekdays, business hours  | Quota attainment, proportional pay | Monthly/quarterly settlements, 18–24 months per seat | A steeper base and an earlier, wider surplus window |
 | **Build**      | 4 evenings + 1 weekend block | Cadence shipped, asset growing    | 12 weeks per sprint, 2–5 years overall | The ceiling and the exit option |
 | **Catering**   | Time-boxed, specific      | Cash collected against expense   | Weeks, not years                | A bridge or a probe          |
 
@@ -91,6 +93,9 @@ This is the unromantic version of the decade, assuming a start at roughly age 20
 > [!note] The compression case
 > If you started later (28, 32, 36), the same shape compresses: the Climb steps are shorter, the Build is more urgent because the compounding window is shorter, and the surplus discipline is *more* important rather than less. The strategy doesn't change; the cadence inside it intensifies.
 
+> [!note] The commission variant of the map
+> If your weekday seat is a [[Part 3.3 - The Fourth Economy - The Commission Economy|commission seat]], the decade map keeps its shape but the surplus column arrives earlier: a strong rep reaches the income the salaried climber sees at step 3 sometime during step 2 (years 3 to 5 instead of 6 to 8). Two adjustments follow. First, ==the Financial System discipline has to start earlier and handle lumpier inputs== (the variance-buffer account from Part 3.3's task list). Second, the Build matters *more*, not less, because the commission seat's leverage still stops the day you stop selling; the bigger early surplus is exactly what should be funding the asset.
+
 ---
 ## The income-to-Financial-System handoff
 
@@ -98,7 +103,7 @@ This is the unromantic version of the decade, assuming a start at roughly age 20
 
 The clean handoff sequence:
 
-1. **Income arrives.** From the Climb, primarily; from the Build, increasingly.
+1. **Income arrives.** From the Climb (or its [[Part 3.3 - The Fourth Economy - The Commission Economy|commission lane]]), primarily; from the Build, increasingly.
 2. **Expenses are paid.** From a baseline defined deliberately, not inflated automatically. ([[Part 3.0 - On Par by Age|Multiplying Money 101 — Part 3.0]] is the long version.)
 3. **The surplus is named.** The difference between income and disciplined expenses. ==This is the only number that matters at this stage.==
 4. **The emergency fund is filled first.** Six to twelve months of expenses, parked in a low-friction, low-return account. ==Without this, every subsequent step is fragile.==
@@ -157,7 +162,7 @@ The reframe: ==you cannot reclaim the years you didn't compound, but you can com
 
 > [!check] Key concepts to internalise
 > 
-> - **The economies stack, they don't substitute.** Climb on weekdays for the base; Build on evenings for the ceiling; Catering only as bridge or probe.
+> - **The economies stack, they don't substitute.** Climb on weekdays for the base (or its [[Part 3.3 - The Fourth Economy - The Commission Economy|commission lane]] for a steeper one); Build on evenings for the ceiling; Catering only as bridge or probe.
 > - **Each economy has its own schedule, metric, and horizon.** Don't ask the Build to pay rent in month 3 and don't ask the Climb to produce asset-style returns.
 > - **The decade map has a shape**: paid compounding work in the first two years, scale-up climb in years 3–6, corporate milking in years 6–9, deliberate exit or sabbatical in year 10. ==The shape is the keeper, not the specific ages.==
 > - **The handoff to the [[Part 1.0 - Allocation The Sankey Mindset|Financial System]] is the central transition** of the whole project: income arrives, expenses are disciplined, surplus is named, emergency fund is filled, the surplus is routed, the S-curve begins.
@@ -190,7 +195,7 @@ Income 101 is the entry essay of the Rich pillar. The natural sequence from here
 ==The income side is the most concrete, most measurable, most teachable lever in the orderliness phase. It is also the lever that, once pulled, makes every other domain of life easier to address.== That is why this series is the size it is, and that is why the next series (Financial System) assumes it has been run.
 
 > [!note] The end of Income 101
-> The lens, the scorecard, the strategy, and the three economies are now in your hands. ==Most readers who internalise this series and act on it for ten years will be in a structurally different position than the friends who didn't.== Not richer in the magazine sense, but more optional, more compounded, more stable, and more able to choose. That is the whole point.
+> The lens, the scorecard, the strategy, and the four economies are now in your hands. ==Most readers who internalise this series and act on it for ten years will be in a structurally different position than the friends who didn't.== Not richer in the magazine sense, but more optional, more compounded, more stable, and more able to choose. That is the whole point.
 
 ---
 

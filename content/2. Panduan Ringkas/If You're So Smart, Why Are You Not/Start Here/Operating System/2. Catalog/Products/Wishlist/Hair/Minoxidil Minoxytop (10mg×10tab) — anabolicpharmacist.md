@@ -1,0 +1,51 @@
+---
+draft: true
+type: product
+product_id: "minoxidil-minoxytop-10mgx10tab-anabolicpharmacist"
+compound: "Minoxidil"
+name: "Minoxytop 10mg"
+aliases:
+  - Minoxidil
+brand: "Minoxytop (Healing Pharma)"
+vendor: "anabolicpharmacist"
+source: "anabolicpharmacist"
+warehouse: "Indian Pharmacy"
+source_url: "https://anabolicpharmacist.to/product/minoxytop-10mg/"
+pillar: Attractive
+sub_series: Blueprint (Hair)
+category: Pharmacology
+importance: Moderate
+status: planned
+stack: Hair
+restock: Not needed now
+dosing: ED
+use: Daily
+protocols:
+  - "[[Part 2.0 - The Stack and the Routine]]"
+active: false
+count_in_total: true
+package_size: 10
+size_unit: "tabs"
+base_dose: 10
+dose_unit: "mg"
+cost_per_bottle: 61.5
+list_price: 15.0
+promo_price:
+current_phase: not_started
+stock_on_hand: 0
+daily_dose:
+product_tags:
+  - Hair
+notes: "anabolicpharmacist.to, captured 2026-06-08: **USD15.0 ≈ RM61.5** (@4.1). Warehouse: Indian Pharmacy. Spec follows LISTING text (rule: listing over photo). Oral minoxidil 10mg — above your current 5mg protocol dose; splittable. RM6.15/tab vs [[Minoxidil Minoxytop (5mg×10tab) — anabolicpharmacist|Minoxytop 5 (RM2.87/tab)]] — the 5mg is cheaper per mg. Current stock: [[Oral Minoxidil (5mg×100tab) — Lazada|Lazada 5mg×100]]."
+---
+# Minoxidil Minoxytop (10mg×10tab) — anabolicpharmacist
+
+**Minoxytop (Healing Pharma)** · Pharmacology · Attractive / Blueprint (Hair)
+
+> [!info] Wishlist offer — anabolicpharmacist (Indian Pharmacy warehouse)
+> - **Price:** USD15.0 ≈ RM61.5 · **Listing:** [Minoxytop 10mg @ anabolicpharmacist](https://anabolicpharmacist.to/product/minoxytop-10mg/)
+> - Oral minoxidil 10mg — above your current 5mg protocol dose; splittable. RM6.15/tab vs [[Minoxidil Minoxytop (5mg×10tab) — anabolicpharmacist|Minoxytop 5 (RM2.87/tab)]] — the 5mg is cheaper per mg. Current stock: [[Oral Minoxidil (5mg×100tab) — Lazada|Lazada 5mg×100]].
+
+## Links
+- Source: [[anabolicpharmacist]] · Price sheet: [[International Vendor Price Sheet]]
+- Operating system: [[The Operating System]] · [[Product List]] · [[Schema — Data Model]]

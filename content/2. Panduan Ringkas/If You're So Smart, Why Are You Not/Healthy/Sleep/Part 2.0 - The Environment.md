@@ -174,6 +174,10 @@ A one-time audit. Walk into your bedroom tonight and run it:
 | **Bed** | Wake with neck/back pain or pressure points? | Right pillow for your position; replace a sagging mattress |
 | **Phone** | Is it within arm's reach of the pillow? | Charge it **outside** the room; buy a dumb alarm clock |
 
+*Here's the whole room in a single picture: your bedroom drawn as a defensive machine you build once, which then intercepts heat, light, noise, and intrusion every night while you sleep defenceless inside it. The four walls are the four pillars — [[Part 2.0 - The Environment#The four pillars of a sleep room|Cold · Dark · Quiet · Reserved]] — each stopping its matching incoming threat, with [[Part 2.0 - The Environment#Air: the pillar everyone forgets|Air]] as the forgotten foundation beneath and [[Part 2.0 - The Environment#The phone|the phone]] as the one red breach you leave open in an otherwise sealed wall. Pin it up: build the room once, and it works every night.*
+
+![[Poster — Healthy - Sleep Part 2.0 - The Environment.png]]
+
 ---
 ## Part 2.0 Takeaways
 

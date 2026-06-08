@@ -156,7 +156,7 @@ The shared pattern in all four: ==the work you do today produces revenue tomorro
 - ==Bucket 5b cannot fund operating losses for more than 12-18 months.== If the business needs sustained Innovation Fund injection past that horizon, the model is wrong, not the funding amount.
 - The business equity, once stable, becomes a Rung 11 holding inside the Innovation Fund. Eventually it can throw off cashflow into Buckets 3 and 5a (the dividend / distribution pattern).
 
-**The handoff from [[Part 4.0 - Stacking Economies and Designing Your Life|Income 101 — Part 4.0]]:** Part 4.0 of Income 101 introduces the three economies (Climb, Build, Catering) and ends with "stacking economies." The Build economy (assets that pay you for what you have, not what you do) maps almost directly onto Play 3 here. ==The business is the most concrete form of the Build economy, and the financial system in this series is what lets you fund the Build without breaking the Climb==.
+**The handoff from [[Part 4.0 - Stacking Economies and Designing Your Life|Income 101 — Part 4.0]]:** Part 4.0 of Income 101 introduces the four economies (Climb, Build, Catering, Commission) and ends with "stacking economies." The Build economy (assets that pay you for what you have, not what you do) maps almost directly onto Play 3 here. ==The business is the most concrete form of the Build economy, and the financial system in this series is what lets you fund the Build without breaking the Climb==.
 
 **When this play makes sense:**
 

@@ -8,7 +8,7 @@ tags:
   - affiliate
 date: 2026-05-29
 ---
-> [!abstract] **Part 6 of 7 in the [[Part 1.0 - What Income Actually Is|Income 101 Series]].** The [[Part 3.0 - The First Economy - The Climb|Climb]] sells capability. The [[Part 3.1 - The Second Economy - The Build|Build]] sells an asset. The Catering Game sells *availability*: your time, your attention, your willingness to be a node in someone else's funnel. It is the most marketed of the three economies and the most likely to swallow several years for very little return. This article is the dissection: what it is, when it makes sense, when it doesn't, and why the top 1% of the catering game looks nothing like the brochure.
+> [!abstract] **Part 6 of 8 in the [[Part 1.0 - What Income Actually Is|Income 101 Series]].** The [[Part 3.0 - The First Economy - The Climb|Climb]] sells capability. The [[Part 3.1 - The Second Economy - The Build|Build]] sells an asset. The Catering Game sells *availability*: your time, your attention, your willingness to be a node in someone else's funnel. It is the most marketed of the four economies and the most likely to swallow several years for very little return. This article is the dissection: what it is, when it makes sense, when it doesn't, and why the top 1% of the catering game looks nothing like the brochure. (One important boundary up front: performance pay funded by a *company's* budget is not catering; that is the [[Part 3.3 - The Fourth Economy - The Commission Economy|Commission Economy]], and it gets its own article next.)
 > ----
 ## Table of Contents
 
@@ -20,7 +20,7 @@ date: 2026-05-29
 - [Affiliate marketing: the one corner worth taking seriously](#affiliate-marketing-the-one-corner-worth-taking-seriously)
 - [When catering actually makes sense](#when-catering-actually-makes-sense)
 - [How catering kills a Climb and a Build](#how-catering-kills-a-climb-and-a-build)
-- [The fourth economy, and why we're skipping it](#the-fourth-economy-and-why-were-skipping-it)
+- [The unique economy, and why we're skipping it](#the-unique-economy-and-why-were-skipping-it)
 - [Part 3.2 Takeaways](#part-32-takeaways)
 - [Your Baseline Task List](#your-baseline-task-list)
 - [Sources & references](#sources--references)
@@ -78,12 +78,15 @@ The catering economy in Malaysia (and most SEA markets) breaks into roughly thes
 | Category                              | Examples                                                                                                          | Notes                                                                                                                            |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Gig labour**                        | Grab driving, Foodpanda delivery, Lalamove, Bungkusit                                                              | Real income; real wear on your car, your body, your sleep                                                                        |
-| **Personal sales agent / MLM-adjacent** | Selling someone else's product on commission, insurance agents at the bottom of the pyramid, MLM downlines       | Pay is mostly recruiting other agents; the actual product is often beside the point                                              |
+| **Self-funded sales agent / MLM-adjacent** | Commission-only selling where *you* fund the leads, booths, starter kits, and marketing; insurance agents at the bottom of the pyramid, MLM downlines | Pay is mostly recruiting other agents; the actual product is often beside the point. The company-funded version of commission work is a different economy entirely ([[Part 3.3 - The Commission Economy|Part 3.3]]) |
 | **Dropshipping & marketplace reselling** | Lazada, Shopee, TikTok Shop, Amazon FBA flips                                                                    | Margin compressed every cycle; ad spend and platform fees eat most of it                                                         |
 | **Affiliate marketing**               | Bank cards, insurance, fintech apps, e-commerce products, software (the only category that compounds; see below) | Mixed; the asset-style version is legitimate; the rest is a high-volume churn                                                    |
 | **Productising yourself as a course / coach** | Course on selling courses, "make RM 10k/month doing what I do" funnels                                       | The top 1% who post screenshots are often *selling the screenshot*; the rest of the cohort funds the screenshot                  |
 | **Trading "as a side hustle"**        | Crypto, forex, options                                                                                            | The few who win are often the same people who would have done it anyway; the rest underperform a passive portfolio after fees   |
 | **One-off hustles**                   | Reselling event tickets, flipping items, weekend market stalls                                                    | Real money for some people; almost never compounds into a path                                                                  |
+
+> [!note] The boundary: commission is not automatically catering
+> The test that separates a catering gig from a [[Part 3.3 - The Fourth Economy - The Commission Economy|Commission Economy]] seat is *whose cash burns when nothing sells*. A B2B sales role with a base salary, company-provided leads, and a proportional cut is not on this list, however commission-flavoured the vocabulary sounds. A commission-only arrangement where you fund your own leads, ads, inventory, or "starter kit" is on this list, however professional the brand looks. ==Same word, different balance sheet, different economy.==
 
 Two patterns run through the list:
 
@@ -160,13 +163,13 @@ The most expensive form of catering is the kind that interferes with the things 
 > Before signing up for any new catering activity, ask: "If this works for the next 12 months, what asset will I own at the end?" If the answer is "nothing, I'll just have done the work," you are renting hours, not building a path. Sometimes that's the right rental. Often it isn't.
 
 ---
-## The fourth economy, and why we're skipping it
+## The unique economy, and why we're skipping it
 
-There is a fourth economy that exists for completeness's sake: the *unique* economy. Pick a specific arbitrage that almost nobody else can see, build the supply chain and the service layer around it, and capture an outsized margin until the gap closes. Sourcing-from-China is a classic version (find a product that's underserved locally, import it with white-glove service, charge a premium because the support is rare). Niche commercial real estate plays are another.
+There is one more economy that exists for completeness's sake: the *unique* economy. Pick a specific arbitrage that almost nobody else can see, build the supply chain and the service layer around it, and capture an outsized margin until the gap closes. Sourcing-from-China is a classic version (find a product that's underserved locally, import it with white-glove service, charge a premium because the support is rare). Niche commercial real estate plays are another.
 
-==The fourth economy is mostly luck-and-position dependent.== It works for people who happened to be in the right industry, with the right relationships, at the right time. It is not learnable in the way the other three are, and articles that try to teach it usually slip into either survivor-bias storytelling or vague "spot the opportunity" platitudes.
+==The unique economy is mostly luck-and-position dependent.== It works for people who happened to be in the right industry, with the right relationships, at the right time. It is not learnable in the way the other three are, and articles that try to teach it usually slip into either survivor-bias storytelling or vague "spot the opportunity" platitudes.
 
-This series is going to skip teaching it for that reason. ==If you find a unique opportunity that fits your skills, take it; you don't need a series to tell you that.== The other three economies are the ones that scale across readers, and they are what the [[Part 4.0 - Stacking Economies and Designing Your Life|next article]] will synthesise.
+This series is going to skip teaching it for that reason. ==If you find a unique opportunity that fits your skills, take it; you don't need a series to tell you that.== The four named economies are the ones that scale across readers: the next article covers the last of them (the [[Part 3.3 - The Fourth Economy - The Commission Economy|Commission Economy]]), and [[Part 4.0 - Stacking Economies and Designing Your Life|Part 4.0]] synthesises the stack.
 
 ---
 ## Part 3.2 Takeaways
@@ -179,7 +182,7 @@ This series is going to skip teaching it for that reason. ==If you find a unique
 > - **Affiliate marketing is the one corner that compounds**, but only when it sits *on top of* a real Build (a niche audience or search position) you would have built anyway.
 > - **Catering makes sense in three specific scenarios:** bridging between Climb seats, covering a sudden expense, or probing a niche cheaply before committing to a Build. Outside those, it does not stack into a path.
 > - **The most expensive form of catering** is the kind that displaces Climb or Build hours and slowly re-shapes your identity into "side-hustler." ==The cost is a decade of compounding.==
-> - **The fourth (unique) economy exists** but isn't teachable. If you find one, take it. Don't wait for a course on it.
+> - **The unique (arbitrage) economy exists** but isn't teachable. If you find one, take it. Don't wait for a course on it.
 
 ## Your Baseline Task List
 
@@ -192,7 +195,7 @@ This is the only article in the series whose task list is largely *removal*, not
 5. **Define your bridge rules in advance.** Under what conditions (loss of Climb income, specific expense, specific Build probe) would you take a *time-boxed* catering job? Writing it now means you will only do it for the right reason later.
 
 > [!note] Up next
-> The three economies have all been described. [[Part 4.0 - Stacking Economies and Designing Your Life|Part 4.0 — Stacking Economies and Designing Your Life]] is the synthesis: how to layer the Climb, the Build, and (selectively) catering so the years actually compound; the handoff to the [[Part 1.0 - Allocation The Sankey Mindset|Financial System]]; and what "designing your life" means when the income side is finally working.
+> The dissection is done, but one economy from the carve-out deserves its own treatment. [[Part 3.3 - The Fourth Economy - The Commission Economy|Part 3.3 — The Commission Economy]] covers the structurally sound version of performance pay: proportional upside on a company's budget, the balance-sheet test that separates it from everything in this article, and why it is the most common escalator from bottom income to upper-middle income that exists.
 
 ---
 

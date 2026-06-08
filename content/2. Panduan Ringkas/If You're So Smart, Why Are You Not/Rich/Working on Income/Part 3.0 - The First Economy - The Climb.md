@@ -8,7 +8,7 @@ tags:
   - climb
 date: 2026-05-29
 ---
-> [!abstract] **Part 4 of 7 in the [[Part 1.0 - What Income Actually Is|Income 101 Series]].** [[Part 2.0 - Positioning Yourself Cheap and Capable|Part 2.0]] got you in the door at a small no-name startup. This article is the path *from* that door: the three-step climb (startup → scale-up → overpaid corporate) that turns a low-cost first role into a high-cost late-twenties seat. It is the first of three economy articles; the [[Part 3.1 - The Second Economy - The Build|Build]] and the [[Part 3.2 - The Third Economy - The Catering Game|Catering Game]] follow.
+> [!abstract] **Part 4 of 8 in the [[Part 1.0 - What Income Actually Is|Income 101 Series]].** [[Part 2.0 - Positioning Yourself Cheap and Capable|Part 2.0]] got you in the door at a small no-name startup. This article is the path *from* that door: the three-step climb (startup → scale-up → overpaid corporate) that turns a low-cost first role into a high-cost late-twenties seat. It is the first of four economy articles; the [[Part 3.1 - The Second Economy - The Build|Build]], the [[Part 3.2 - The Third Economy - The Catering Game|Catering Game]], and the [[Part 3.3 - The Fourth Economy - The Commission Economy|Commission Economy]] follow.
 > ----
 ## Table of Contents
 

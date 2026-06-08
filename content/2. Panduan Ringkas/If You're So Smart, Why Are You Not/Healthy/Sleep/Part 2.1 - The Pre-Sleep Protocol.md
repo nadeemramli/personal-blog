@@ -171,6 +171,10 @@ Putting the active pieces on a timeline, for an 11 PM target bedtime (shift to y
 | **~10:45 PM** | Cool, dark, quiet room (Part 2.0); phone outside | The environment takes over |
 | **11 PM (T-0)** | Lights out at a consistent time | Pressure + clock + calm nervous system align |
 
+*Here's the whole evening as a single descent profile: sleep isn't a switch you flip at 11 — it's a [[Part 2.1 - The Pre-Sleep Protocol#The four-hour runway|four-hour glide-path]] you fly down, each habit a waypoint that steps your core temperature, cortisol, and heart rate lower until you touch down. The poster lays the good approach against the failing "switch model," marks the [[Part 2.1 - The Pre-Sleep Protocol#The master control: a fixed wake time + morning light|morning launch anchor]] that quietly sets tonight's landing, flags [[Part 2.1 - The Pre-Sleep Protocol#Alcohol: the great sleep deceiver|alcohol as the deceiver]] that fakes a fast descent then breaks the second half, and reserves its one red for the phone go-around. Pin it up: you don't flip a switch, you fly an approach.*
+
+![[Poster — Healthy - Sleep Part 2.1 - The Pre-Sleep Protocol.png]]
+
 ---
 ## Part 2.1 Takeaways
 

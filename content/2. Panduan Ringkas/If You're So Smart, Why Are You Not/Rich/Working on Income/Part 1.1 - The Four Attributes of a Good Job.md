@@ -8,7 +8,7 @@ tags:
   - leverage
 date: 2026-05-29
 ---
-> [!abstract] **Part 2 of 7 in the [[Part 1.0 - What Income Actually Is|Income 101 Series]].** [[Part 1.0 - What Income Actually Is|Part 1.0]] argued that income is a vote for optionality, not a number. This article turns that lens into a four-attribute checklist you can score any job against (current, prospective, or imagined). The series is structured as Foundation (1.0, 1.1) → Strategy (2.0) → The Three Economies (3.0, 3.1, 3.2) → Synthesis (4.0).
+> [!abstract] **Part 2 of 8 in the [[Part 1.0 - What Income Actually Is|Income 101 Series]].** [[Part 1.0 - What Income Actually Is|Part 1.0]] argued that income is a vote for optionality, not a number. This article turns that lens into a four-attribute checklist you can score any job against (current, prospective, or imagined). The series is structured as Foundation (1.0, 1.1) → Strategy (2.0) → The Four Economies (3.0, 3.1, 3.2, 3.3) → Synthesis (4.0).
 > ----
 ## Table of Contents
 
@@ -33,11 +33,12 @@ date: 2026-05-29
 
 [[Part 1.0 - What Income Actually Is|Part 1.0]] argued that income is graded on optionality, not on the size of the number. ==This article is the checklist.== Every job (current, prospective, side-project) gets scored on the same four attributes. The scorecard is what makes the abstraction usable: instead of "is this a good role?", the question becomes "does this role earn at least 3 out of 4 attributes, and is the missing one fixable?"
 
-The four attributes also map cleanly to the three economies that the rest of the series will explore:
+The four attributes also map cleanly to the four economies that the rest of the series will explore:
 
 - **The First Economy (the Climb)** maximises *leverage* and *living industry*, and partially earns *flexibility* as you accumulate seniority.
 - **The Second Economy (the Build)** maximises *flexibility*, *leverage*, and *uniqueness* directly, at the cost of stability in the early years.
 - **The Third Economy (the Catering Game)** earns *flexibility* in the short term but tends to fail on *leverage*, *uniqueness*, and *industry*. ([[Part 3.2 - The Third Economy - The Catering Game|Part 3.2]] is the dissection.)
+- **The Commission Economy** earns *flexibility* through the number (nobody clock-watches a rep above quota) and *amplifies* whatever industry slope it sits on; its payoff is proportional rather than fixed. ([[Part 3.3 - The Fourth Economy - The Commission Economy|Part 3.3]] is the full treatment.)
 
 > [!note] The unit of analysis is a *role*, not a *company*
 > A company can be on a dying industry while one specific role inside it (the one closest to AI, payments, distribution) is on a living one. A great company can house a terrible role for you. ==Always score the role, not the logo.==
@@ -147,7 +148,7 @@ The trap is to assume you should pick the highest-pay category and go for that. 
 - If you are wired to develop a *view* (a thesis about the world, a style, a method, an angle), the Unique category is for you. ==The Unique game is more forgiving of being in the top 10–20% because the buyer is not comparing you against an objective benchmark; they are choosing your specific voice.==
 - The Mechanical category is for almost nobody who is reading a series like this voluntarily. ==It is what the default career path drifts you into if you don't actively pick.==
 
-A practical example: **sales vs marketing**. Sales is Top 1%; you are competing against other salespeople on close rate and pipeline, and the pay curve is brutal in the middle. Marketing is closer to Unique; two marketers with very different philosophies can both build successful careers (and both attract clients who specifically want *their* approach). Both are good careers; they reward different temperaments.
+A practical example: **sales vs marketing**. Sales is Top 1%; you are competing against other salespeople on close rate and pipeline, and the pay curve is brutal in the middle. Marketing is closer to Unique; two marketers with very different philosophies can both build successful careers (and both attract clients who specifically want *their* approach). Both are good careers; they reward different temperaments. (One nuance to hold for later: the competition *shape* is a separate axis from the payoff *structure*. Sales is a brutal middle on a fixed salary, but most sales seats pay proportionally, which changes the math considerably; [[Part 3.3 - The Fourth Economy - The Commission Economy|Part 3.3]] covers when that trade is worth taking.)
 
 > [!caution] The marketing field has a snake-oil problem
 > Be honest with yourself about this. The unique-work end of marketing is filled with people who confuse "having an angle" with "having a result." There is a cottage industry of agency owners and course sellers who built their careers in this gap. Pick the category for the right reason (you genuinely have a view), and develop the discipline to back it with measurable outcomes. The world doesn't need another marketing personality; it needs the small minority who can also produce numbers.

@@ -363,6 +363,10 @@ The honest hierarchy of impact for hair, from most to least:
 
 ==People run this hierarchy backward.== They stack RU58841 and MK-677 while skipping topical minoxidil on weekends, never microneedling, and never getting a baseline scan. Get the diagnostic loop running, lock down Tier 1 adherence and the mechanical layer, and only then evaluate whether Tier 2 has anything to add.
 
+*Here's the whole protocol drawn as one building — because a stack is a building, not a list. A massive [[Part 2.0 - The Stack and the Routine#The 90/10 frame|90% foundation of adherence]] carries a thin 10% of chemistry, built up in load-ordered courses: the [[Part 2.0 - The Stack and the Routine#Tier 1 — The Pharmacy Stack|Tier-1 pharmacy spine]], the [[Part 2.0 - The Stack and the Routine#Beyond pharmacology — mechanical and environmental protocols|mechanical multiplier layer]], and the optional Tier-2 top course — read bottom-to-top for what carries what. Down the side, the [[Part 2.0 - The Stack and the Routine#The optimized daily and weekly schedule|phasing rail]] times every coat and dimensions the dry-time gaps, and the single red interlock marks the one rule you can't break: a needled scalp turns a local topical systemic. Get the 90% right, then layer the 10% — pin it up and re-check the order every week.*
+
+![[Poster — Attractive - Hair Part 2.0 - The Stack and the Routine.png]]
+
 ---
 
 ## Part 2.0 Takeaways

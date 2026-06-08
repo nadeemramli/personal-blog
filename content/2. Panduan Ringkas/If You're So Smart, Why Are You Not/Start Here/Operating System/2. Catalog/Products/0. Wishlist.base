@@ -1,0 +1,31 @@
+filters:
+  and:
+    - type == "product"
+    - status == "planned"
+properties:
+  note.vendor:
+    displayName: Vendor
+  note.cost_per_bottle:
+    displayName: Cost (RM)
+  note.list_price:
+    displayName: List price
+views:
+  - type: table
+    name: Wishlist (all offers)
+    order:
+      - file.name
+      - stack
+      - vendor
+      - list_price
+      - cost_per_bottle
+      - package_size
+      - size_unit
+      - importance
+  - type: table
+    name: By vendor
+    order:
+      - file.name
+      - stack
+      - cost_per_bottle
+      - importance
+    group_by: vendor

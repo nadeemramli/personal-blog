@@ -10,6 +10,19 @@ date: 2026-05-31
 > [!abstract] The operating layer of the whole series.
 > Every section of [[The Real Problem Manifesto|If You're So Smart, Why Are You Not]] tells you *what* order to install. This folder is *how you run it* — the single place that holds every product, protocol, cost and dose across all the pillars, so the loop in [[The Upward Spiral — How the Order Compounds|The Upward Spiral]] can actually be priced and maintained.
 
+## How this folder is organised (4 purposes)
+
+The OS is split into four purpose-folders so each answers one question. Navigate by *what you're trying to do*:
+
+| Folder | Purpose | Answers | Start note |
+|---|---|---|---|
+| **1. Uses** | How it's run (operational) | "How do I run a cycle right now?" | [[Pipelines]] |
+| **2. Catalog** | Categorization (what exists) | "What products/costs do I have?" | [[Product List]] |
+| **3. Schema** | The data model | "How is the data shaped?" | [[Schema — Data Model]] |
+| **4. Management** | Running the numbers | "What does it cost / what to buy?" | [[Monthly Nut]] |
+
+Root holds only the two orientation notes: this one (*why*) and [[Skeleton — Build Map]] (*what next*). The **Uses** layer (pipelines, protocols, cycles, bloodwork) is the operational tier that ties the catalog, schema, and ledger together.
+
 ## Why this exists
 
 The series argues that orderliness is a **bill you pay daily**. A bill you can't see is a bill you can't manage. The sections (Fit, Healthy, Productive…) each carry a real recurring cost — money and time — and those costs are scattered across spreadsheets that are quantitatively fine but qualitatively dumb: a sheet can't tell you that an item dosed *every other day* lasts twice as long as one dosed *every day*, or that a product is "on-cycle only" versus "year-round".

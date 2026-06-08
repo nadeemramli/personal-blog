@@ -8,17 +8,18 @@ tags:
   - career
 date: 2026-05-29
 ---
-> [!abstract] This is **Part 1 of 7** in the Income 101 Series, the upstream hub of the [[Part 1.0 - Allocation The Sankey Mindset|Rich]] section. Where the [[Part 1.0 - Allocation The Sankey Mindset|Financial System]] series teaches you what to *do* with income once it arrives, Income 101 is about how you generate it in the first place: the work you choose, the way you position yourself, and the economies you actually have access to. The full path:
+> [!abstract] This is **Part 1 of 8** in the Income 101 Series, the upstream hub of the [[Part 1.0 - Allocation The Sankey Mindset|Rich]] section. Where the [[Part 1.0 - Allocation The Sankey Mindset|Financial System]] series teaches you what to *do* with income once it arrives, Income 101 is about how you generate it in the first place: the work you choose, the way you position yourself, and the economies you actually have access to. The full path:
 > 
 > - **Part 1 — Foundation (2 sub-articles):**
 > 	- **Part 1.0 (this article):** [[Part 1.0 - What Income Actually Is|What "Income" Actually Is]] (income is not a number, it's a vote for optionality)
 > 	- **Part 1.1:** [[Part 1.1 - The Four Attributes of a Good Job|The Four Attributes of a Good Job]] (flexibility, leverage, uniqueness, a living industry)
 > - **Part 2 — The Strategy:**
 > 	- **Part 2.0:** [[Part 2.0 - Positioning Yourself Cheap and Capable|Positioning Yourself Cheap-and-Capable]] (target the startup, not the dream job)
-> - **Part 3 — The Three Economies (3 sub-articles):**
+> - **Part 3 — The Four Economies (4 sub-articles):**
 > 	- **Part 3.0:** [[Part 3.0 - The First Economy - The Climb|The First Economy: The Climb]] (startup → scale-up → overpaid corporate)
 > 	- **Part 3.1:** [[Part 3.1 - The Second Economy - The Build|The Second Economy: The Build]] (an asset that gets paid for what you have)
 > 	- **Part 3.2:** [[Part 3.2 - The Third Economy - The Catering Game|The Third Economy: The Catering Game]] (the hustle layer, and why it caps out)
+> 	- **Part 3.3:** [[Part 3.3 - The Fourth Economy - The Commission Economy|The Commission Economy: Paid in Proportion]] (proportional upside on the company's budget; the most common escalator out of low income)
 > - **Part 4 — Synthesis:**
 > 	- **Part 4.0:** [[Part 4.0 - Stacking Economies and Designing Your Life|Stacking Economies and Designing Your Life]] (how to layer them; the handoff to [[Part 1.0 - Allocation The Sankey Mindset|the Financial System]])
 > ----

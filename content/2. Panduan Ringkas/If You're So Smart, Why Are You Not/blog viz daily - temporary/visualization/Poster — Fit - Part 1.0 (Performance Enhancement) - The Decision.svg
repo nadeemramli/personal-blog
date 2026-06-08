@@ -1,0 +1,280 @@
+<svg viewBox="0 0 1200 2660" xmlns="http://www.w3.org/2000/svg" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+<defs>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#141417" stroke-width="1"/></pattern>
+<pattern id="unknown" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#141417"/><line x1="0" y1="0" x2="0" y2="8" stroke="#3F3F46" stroke-width="1.5"/></pattern>
+<pattern id="warnstripe" width="22" height="22" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="22" height="22" fill="#2A0E0F"/><rect width="11" height="22" fill="#1c0b0c"/></pattern>
+</defs>
+<rect width="1200" height="2660" fill="#000000"/>
+<rect width="1200" height="2660" fill="url(#grid)" opacity="0.5"/>
+<rect x="38" y="38" width="1124" height="2584" fill="none" stroke="#26262B" stroke-width="1"/>
+<path d="M38 54 L38 38 L54 38" stroke="#71717A" stroke-width="1.4" fill="none"/>
+<path d="M1162 54 L1162 38 L1146 38" stroke="#71717A" stroke-width="1.4" fill="none"/>
+<path d="M38 2606 L38 2622 L54 2622" stroke="#71717A" stroke-width="1.4" fill="none"/>
+<path d="M1162 2606 L1162 2622 L1146 2622" stroke="#71717A" stroke-width="1.4" fill="none"/>
+
+<!-- ============ HEADER ============ -->
+<line x1="56" y1="56" x2="90" y2="56" stroke="#F59E0B" stroke-width="2"/>
+<text x="56" y="76" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="14" font-weight="600" fill="#FFFFFF" letter-spacing="2">FIT · PERFORMANCE ENHANCEMENT · PART 1.0 — THE DECISION</text>
+<text x="1144" y="76" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="500" fill="#A1A1AA" text-anchor="end" letter-spacing="1">TIER 3 · opens the 15-article track · continues A&amp;S 4.0</text>
+<text x="56" y="150" font-size="64" font-weight="600" fill="#FFFFFF" letter-spacing="-1">You only have so many blasts.</text>
+<text x="56" y="192" font-size="17" font-weight="400" fill="#A1A1AA"><tspan x="56" dy="0">Enhancement is the first tool in this blog that buys Fit by spending Healthy — the two needles are linked,</tspan><tspan x="56" dy="26">and they move in opposite directions. Your organs and your hairline are a counter that only counts down.</tspan><tspan x="56" dy="26">Eleven keys and a consent form stand between you and a door that latches. And the exit rail is always</tspan><tspan x="56" dy="26">there: the safest cycle is the one you never run.</tspan></text>
+
+<!-- ============ NO-GO RAIL (full height, calm) ============ -->
+<g id="nogo-rail">
+<rect x="1004" y="344" width="140" height="2154" fill="#0A0A0C" stroke="#26262B" stroke-width="1" stroke-dasharray="6 5"/>
+<text transform="rotate(90 1078 380)" x="1078" y="380" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="600" fill="#71717A" letter-spacing="6">EXIT LANE · ALWAYS OPEN · NO PENALTY</text>
+<path d="M1062 800 l12 14 l12 -14" fill="none" stroke="#3F3F46" stroke-width="2"/>
+<path d="M1062 1180 l12 14 l12 -14" fill="none" stroke="#3F3F46" stroke-width="2"/>
+<path d="M1062 1560 l12 14 l12 -14" fill="none" stroke="#3F3F46" stroke-width="2"/>
+<path d="M1062 1940 l12 14 l12 -14" fill="none" stroke="#3F3F46" stroke-width="2"/>
+<path d="M1062 2160 l12 14 l12 -14" fill="none" stroke="#3F3F46" stroke-width="2"/>
+<rect x="1014" y="2240" width="120" height="246" fill="#141417" stroke="#71717A" stroke-width="1"/>
+<text x="1074" y="2268" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="1074" dy="0">THE SAFEST</tspan><tspan x="1074" dy="16">CYCLE IS THE</tspan><tspan x="1074" dy="16">ONE YOU</tspan><tspan x="1074" dy="16">NEVER RUN.</tspan></text>
+<text x="1074" y="2348" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="500" fill="#A1A1AA" text-anchor="middle"><tspan x="1074" dy="0">Still natural?</tspan><tspan x="1074" dy="15">Close the tab.</tspan><tspan x="1074" dy="15">Add two years</tspan><tspan x="1074" dy="15">of training</tspan><tspan x="1074" dy="15">age. This</tspan><tspan x="1074" dy="15">series will</tspan><tspan x="1074" dy="15">still be here.</tspan></text>
+</g>
+
+<!-- ============ ZONE 1 · THE TRADE ============ -->
+<text x="56" y="334" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#6B6B73" letter-spacing="2">ZONE 1 · THE TRADE — COUPLED DIFFERENTIAL GAUGE</text>
+<rect x="56" y="348" width="924" height="456" fill="#0F0F11" stroke="#3F3F46" stroke-width="1"/>
+<!-- gauge face -->
+<circle cx="310" cy="570" r="142" fill="#141417" stroke="#3F3F46" stroke-width="1.5"/>
+<circle cx="310" cy="570" r="120" fill="none" stroke="#26262B" stroke-width="1"/>
+<!-- FIT scale ticks, upper right (θ -5 to -65 every 12) -->
+<g stroke="#71717A" stroke-width="1.2">
+<line x1="429.5" y1="559.5" x2="451.4" y2="557.6"/>
+<line x1="424.0" y1="535.3" x2="445.1" y2="528.7"/>
+<line x1="412.7" y1="513.2" x2="431.7" y2="502.2"/>
+<line x1="396.2" y1="494.5" x2="412.2" y2="479.4"/>
+<line x1="375.5" y1="480.5" x2="387.7" y2="462.1"/>
+<line x1="352.0" y1="472.0" x2="359.4" y2="451.2"/>
+</g>
+<!-- HEALTHY scale ticks, lower left (θ 115 to 175 every 12) -->
+<g stroke="#71717A" stroke-width="1.2">
+<line x1="259.3" y1="678.8" x2="250.0" y2="698.8"/>
+<line x1="237.5" y1="664.7" x2="224.5" y2="682.5"/>
+<line x1="220.0" y1="646.0" x2="204.2" y2="661.2"/>
+<line x1="207.3" y1="623.9" x2="189.2" y2="636.6"/>
+<line x1="194.0" y1="585.0" x2="172.0" y2="588.4"/>
+<line x1="196.0" y1="611.0" x2="174.5" y2="618.6"/>
+</g>
+<!-- ghost coupling (where the bar used to be: flat) -->
+<line x1="170" y1="570" x2="450" y2="570" stroke="#3F3F46" stroke-width="3" stroke-dasharray="7 6"/>
+<!-- the rigid coupling bar: one linkage, two ends -->
+<line x1="310" y1="570" x2="426.3" y2="488.6" stroke="#34D399" stroke-width="6" stroke-linecap="round"/>
+<line x1="310" y1="570" x2="193.7" y2="651.4" stroke="#F59E0B" stroke-width="6" stroke-linecap="round"/>
+<polygon points="426.3,488.6 438,477 442,494" fill="#34D399"/>
+<polygon points="193.7,651.4 182,663 178,646" fill="#F59E0B"/>
+<!-- pivot -->
+<circle cx="310" cy="570" r="13" fill="#26262B" stroke="#71717A" stroke-width="1.5"/>
+<circle cx="310" cy="570" r="4" fill="#71717A"/>
+<!-- sweep arrows -->
+<path d="M456 540 A158 158 0 0 0 408 448" fill="none" stroke="#34D399" stroke-width="1.5"/>
+<polygon points="408,448 404,462 418,458" fill="#34D399"/>
+<path d="M222 692 A158 158 0 0 1 160 600" fill="none" stroke="#F59E0B" stroke-width="1.5"/>
+<polygon points="222,692 210,684 220,676" fill="#F59E0B" transform="rotate(120 222 692)"/>
+<text x="446" y="470" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="16" font-weight="700" fill="#34D399">FIT ▲</text>
+<text x="170" y="690" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="16" font-weight="700" fill="#F59E0B" text-anchor="end">HEALTHY ▼</text>
+<text x="310" y="445" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#6B6B73" text-anchor="middle" letter-spacing="1">ONE LINKAGE — TWO NEEDLES</text>
+<text x="310" y="712" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="500" fill="#6B6B73" text-anchor="middle">cannot move one without the other</text>
+<!-- ghosted inset: all previous tools -->
+<rect x="600" y="372" width="360" height="148" fill="#141417" stroke="#26262B" stroke-width="1"/>
+<circle cx="662" cy="446" r="42" fill="none" stroke="#3F3F46" stroke-width="1.2"/>
+<line x1="662" y1="446" x2="683" y2="410" stroke="#6B6B73" stroke-width="3" stroke-linecap="round"/>
+<line x1="662" y1="446" x2="641" y2="410" stroke="#6B6B73" stroke-width="3" stroke-linecap="round"/>
+<polygon points="683,410 689,403 691,412" fill="#6B6B73"/>
+<polygon points="641,410 635,403 633,412" fill="#6B6B73"/>
+<text x="662" y="504" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10" font-weight="500" fill="#6B6B73" text-anchor="middle">both rise</text>
+<text x="724" y="404" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#A1A1AA">ALL PREVIOUS TOOLS</text>
+<text x="724" y="424" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="500" fill="#6B6B73">training · food · sleep —</text>
+<text x="724" y="441" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="500" fill="#6B6B73">every one raised both needles.</text>
+<line x1="724" y1="456" x2="940" y2="456" stroke="#26262B" stroke-width="1"/>
+<text x="724" y="478" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#F59E0B">TIER 3 — the first tool</text>
+<text x="724" y="496" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#F59E0B">where they oppose.</text>
+<!-- dashboard chips -->
+<rect x="600" y="548" width="360" height="40" fill="#0F0F11" stroke="#3F3F46" stroke-width="1"/>
+<rect x="600" y="548" width="4" height="40" fill="#FFFFFF"/>
+<text x="616" y="573" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="600" fill="#FFFFFF">DASHBOARD 1 · FIT — KPIs unchanged</text>
+<rect x="600" y="598" width="360" height="62" fill="#0F0F11" stroke="#F59E0B" stroke-width="1"/>
+<rect x="600" y="598" width="4" height="62" fill="#F59E0B"/>
+<text x="616" y="621" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="600" fill="#F59E0B">DASHBOARD 2 · HEALTH — NEW · NON-NEGOTIABLE</text>
+<text x="616" y="641" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="500" fill="#A1A1AA">lipids · BP · hematocrit · glucose · liver/kidney</text>
+<text x="616" y="656" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="500" fill="#A1A1AA">· estradiol · prolactin</text>
+<text x="600" y="686" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="500" fill="#6B6B73"><tspan x="600" dy="0">same symptom, more causes — several are</tspan><tspan x="600" dy="15">emergencies, not programming tweaks</tspan></text>
+<!-- zone 1 captions -->
+<text x="80" y="758" font-size="18" font-weight="600" fill="#FFFFFF">THE TRADE — every previous tool raised both. This one doesn&#x27;t.</text>
+<text x="80" y="784" font-size="14" font-weight="500" fill="#A1A1AA">Your entire job, enhanced: make the trade as small as possible.</text>
+
+<!-- ============ ZONE 2 · THE BLAST REGISTER ============ -->
+<text x="56" y="844" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#6B6B73" letter-spacing="2">ZONE 2 · THE BLAST REGISTER — A COUNTER THAT ONLY COUNTS DOWN</text>
+<rect x="56" y="858" width="924" height="440" fill="#0F0F11" stroke="#3F3F46" stroke-width="1"/>
+<!-- odometer -->
+<rect x="84" y="906" width="290" height="72" fill="#141417" stroke="#71717A" stroke-width="1.5"/>
+<rect x="96" y="918" width="48" height="48" fill="url(#unknown)" stroke="#3F3F46" stroke-width="1"/>
+<rect x="152" y="918" width="48" height="48" fill="url(#unknown)" stroke="#3F3F46" stroke-width="1"/>
+<rect x="208" y="918" width="48" height="48" fill="url(#unknown)" stroke="#3F3F46" stroke-width="1"/>
+<rect x="264" y="918" width="48" height="48" fill="url(#unknown)" stroke="#3F3F46" stroke-width="1"/>
+<rect x="320" y="918" width="42" height="48" fill="#141417" stroke="#F59E0B" stroke-width="1.2"/>
+<text x="341" y="952" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="22" font-weight="700" fill="#F59E0B" text-anchor="middle">▼</text>
+<rect x="236" y="890" width="160" height="26" fill="#000000" stroke="#F59E0B" stroke-width="1.4"/>
+<text x="316" y="908" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#F59E0B" text-anchor="middle" letter-spacing="2">NON-RESETTABLE</text>
+<text x="84" y="1000" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="600" fill="#A1A1AA">DECREMENTS ONLY · no reset fitted</text>
+<text x="84" y="1018" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="500" fill="#6B6B73">count unknown — genetic · quantity never shown</text>
+<!-- reservoirs -->
+<g>
+<rect x="84" y="1044" width="150" height="64" fill="#141417" stroke="#3F3F46" stroke-width="1.2"/>
+<line x1="84" y1="1058" x2="234" y2="1058" stroke="#F59E0B" stroke-width="1.2" stroke-dasharray="3 3"/>
+<text x="159" y="1082" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">ONE SET</text>
+<text x="159" y="1097" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">OF ORGANS</text>
+<rect x="252" y="1044" width="150" height="64" fill="#141417" stroke="#3F3F46" stroke-width="1.2"/>
+<line x1="252" y1="1058" x2="402" y2="1058" stroke="#F59E0B" stroke-width="1.2" stroke-dasharray="3 3"/>
+<text x="327" y="1082" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">~100,000</text>
+<text x="327" y="1097" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">FOLLICLES</text>
+<text x="84" y="1130" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="500" fill="#6B6B73">fixed reservoirs — refill not available · spent by supraphysiological androgens</text>
+</g>
+<!-- terminal states -->
+<text x="446" y="918" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#6B6B73" letter-spacing="1">TERMINAL — what stops men</text>
+<path d="M374 942 L438 942" stroke="#F59E0B" stroke-width="1.2"/>
+<polygon points="438,942 430,938 430,946" fill="#F59E0B"/>
+<rect x="446" y="930" width="200" height="32" fill="#141417" stroke="#F59E0B" stroke-width="1.2"/>
+<text x="462" y="951" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#F59E0B">HEALTH CRISIS</text>
+<rect x="446" y="970" width="200" height="32" fill="#141417" stroke="#F59E0B" stroke-width="1.2"/>
+<text x="462" y="991" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#F59E0B">BALD</text>
+<text x="446" y="1022" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="500" fill="#6B6B73">the career is finite by default</text>
+<!-- rule plate -->
+<rect x="84" y="1152" width="562" height="50" fill="#000000" stroke="#FFFFFF" stroke-width="1.5"/>
+<text x="365" y="1184" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">IF YOUR BLASTS ARE NUMBERED — WASTE NONE.</text>
+<!-- worked case -->
+<text x="84" y="1230" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#6B6B73" letter-spacing="1">WORKED CASE — Derek, MPMD</text>
+<rect x="84" y="1240" width="562" height="24" fill="#141417" stroke="#F59E0B" stroke-width="0.8"/>
+<text x="96" y="1257" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="600" fill="#F59E0B">WASTED · 500–700 mg/wk + sloppy diet + half-assed training → never recovered</text>
+<rect x="84" y="1268" width="562" height="24" fill="#141417" stroke="#3F3F46" stroke-width="0.8"/>
+<text x="96" y="1285" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="600" fill="#FFFFFF">NOW · 100 mg/wk TRT — holds the physique</text>
+<!-- ratchet detail column -->
+<rect x="672" y="890" width="288" height="388" fill="#141417" stroke="#26262B" stroke-width="1"/>
+<text x="692" y="920" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#FFFFFF" letter-spacing="1">THE RATCHET</text>
+<line x1="692" y1="932" x2="940" y2="932" stroke="#26262B" stroke-width="1"/>
+<!-- ratchet icon -->
+<path d="M756 1010 A48 48 0 1 1 853 1010" fill="none" stroke="#71717A" stroke-width="2"/>
+<path d="M756 1010 l-6 -14 l14 2 z" fill="#71717A"/>
+<path d="M804 962 l8 -12 l8 12" fill="none" stroke="#34D399" stroke-width="2"/>
+<line x1="853" y1="1010" x2="872" y2="996" stroke="#34D399" stroke-width="2.4"/>
+<text x="804" y="1044" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10" font-weight="500" fill="#6B6B73" text-anchor="middle">pawl engaged — no slip back</text>
+<text x="692" y="1080" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="500" fill="#A1A1AA"><tspan x="692" dy="0">MYONUCLEI ARE RETAINED.</tspan><tspan x="692" dy="20">A well-run blast raises your</tspan><tspan x="692" dy="18">ceiling permanently — real</tspan><tspan x="692" dy="18">muscle memory.</tspan></text>
+<text x="692" y="1180" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="500" fill="#F59E0B"><tspan x="692" dy="0">A wasted blast is a permanent</tspan><tspan x="692" dy="18">opportunity cost — not a</tspan><tspan x="692" dy="18">do-over.</tspan></text>
+<text x="692" y="1252" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#FFFFFF">PERMANENCE CUTS BOTH WAYS.</text>
+
+<!-- ============ ZONE 3 · AUTHORIZATION PANEL ============ -->
+<text x="56" y="1338" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#6B6B73" letter-spacing="2">ZONE 3 · AUTHORIZATION PANEL — ALL 11 KEYS REQUIRED · NONE OPTIONAL</text>
+<rect x="56" y="1352" width="924" height="496" fill="#0F0F11" stroke="#3F3F46" stroke-width="1"/>
+<!-- Bank A -->
+<rect x="80" y="1376" width="428" height="370" fill="#141417" stroke="#26262B" stroke-width="1"/>
+<rect x="80" y="1376" width="428" height="30" fill="#000000" stroke="#26262B" stroke-width="1"/>
+<text x="94" y="1396" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#FFFFFF" letter-spacing="1">BANK A · COMPETENCE — 5 KEYS · Derek, MPMD</text>
+<g>
+<circle cx="106" cy="1438" r="9" fill="none" stroke="#34D399" stroke-width="1.6"/><line x1="106" y1="1433" x2="106" y2="1443" stroke="#34D399" stroke-width="1.6"/>
+<text x="128" y="1434" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#FFFFFF"><tspan fill="#34D399">K1 </tspan>AT THE NATURAL CEILING</text>
+<text x="128" y="1451" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="500" fill="#6B6B73">FFMI 23–25 · advanced strength standards</text>
+<circle cx="106" cy="1504" r="9" fill="none" stroke="#34D399" stroke-width="1.6"/><line x1="106" y1="1499" x2="106" y2="1509" stroke="#34D399" stroke-width="1.6"/>
+<text x="128" y="1500" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#FFFFFF"><tspan fill="#34D399">K2 </tspan>FLUENT IN ALL THREE</text>
+<text x="128" y="1517" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="500" fill="#6B6B73">diet · training · pharmacology</text>
+<circle cx="106" cy="1570" r="9" fill="none" stroke="#34D399" stroke-width="1.6"/><line x1="106" y1="1565" x2="106" y2="1575" stroke="#34D399" stroke-width="1.6"/>
+<text x="128" y="1566" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#FFFFFF"><tspan fill="#34D399">K3 </tspan>LIFETIME COMMITMENT ACCEPTED</text>
+<text x="128" y="1583" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="500" fill="#6B6B73">HPTA suppression certain — recovery not</text>
+<circle cx="106" cy="1636" r="9" fill="none" stroke="#34D399" stroke-width="1.6"/><line x1="106" y1="1631" x2="106" y2="1641" stroke="#34D399" stroke-width="1.6"/>
+<text x="128" y="1632" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#FFFFFF"><tspan fill="#34D399">K4 </tspan>BASELINE MEASURED &amp; CLEAN</text>
+<text x="128" y="1649" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="500" fill="#6B6B73">every marker, before anything → Part 2.0</text>
+<circle cx="106" cy="1702" r="9" fill="none" stroke="#34D399" stroke-width="1.6"/><line x1="106" y1="1697" x2="106" y2="1707" stroke="#34D399" stroke-width="1.6"/>
+<text x="128" y="1698" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#FFFFFF"><tspan fill="#34D399">K5 </tspan>AN HONEST WHY</text>
+<text x="128" y="1715" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="500" fill="#6B6B73">said out loud, to yourself, without flinching</text>
+</g>
+<!-- Bank B -->
+<rect x="532" y="1376" width="428" height="370" fill="#141417" stroke="#26262B" stroke-width="1"/>
+<rect x="532" y="1376" width="428" height="30" fill="#000000" stroke="#26262B" stroke-width="1"/>
+<text x="546" y="1396" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#FFFFFF" letter-spacing="1">BANK B · BEHAVIOUR — 6 KEYS · Vigorous Steve</text>
+<g>
+<circle cx="558" cy="1432" r="9" fill="none" stroke="#34D399" stroke-width="1.6"/><line x1="558" y1="1427" x2="558" y2="1437" stroke="#34D399" stroke-width="1.6"/>
+<text x="580" y="1430" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#FFFFFF"><tspan fill="#34D399">K6 </tspan>COOKS EVERY MEAL, MISSES NONE</text>
+<circle cx="558" cy="1486" r="9" fill="none" stroke="#34D399" stroke-width="1.6"/><line x1="558" y1="1481" x2="558" y2="1491" stroke="#34D399" stroke-width="1.6"/>
+<text x="580" y="1484" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#FFFFFF"><tspan fill="#34D399">K7 </tspan>HARD SESSIONS GENUINELY INTIMIDATE</text>
+<circle cx="558" cy="1540" r="9" fill="none" stroke="#34D399" stroke-width="1.6"/><line x1="558" y1="1535" x2="558" y2="1545" stroke="#34D399" stroke-width="1.6"/>
+<text x="580" y="1538" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#FFFFFF"><tspan fill="#34D399">K8 </tspan>DELOADS SCHEDULED, NOT FORCED</text>
+<circle cx="558" cy="1594" r="9" fill="none" stroke="#34D399" stroke-width="1.6"/><line x1="558" y1="1589" x2="558" y2="1599" stroke="#34D399" stroke-width="1.6"/>
+<text x="580" y="1588" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#FFFFFF"><tspan fill="#34D399">K9 </tspan>NATURAL T DECLINING DESPITE</text>
+<text x="580" y="1605" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#FFFFFF">EVERY NATURAL LEVER</text>
+<circle cx="558" cy="1652" r="9" fill="none" stroke="#34D399" stroke-width="1.6"/><line x1="558" y1="1647" x2="558" y2="1657" stroke="#34D399" stroke-width="1.6"/>
+<text x="580" y="1648" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#FFFFFF"><tspan fill="#34D399">K10 </tspan>BELOW ~12% BODY FAT</text>
+<text x="580" y="1665" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="600" fill="#F59E0B">aromatase trap above — more E2 per dose</text>
+<circle cx="558" cy="1712" r="9" fill="none" stroke="#34D399" stroke-width="1.6"/><line x1="558" y1="1707" x2="558" y2="1717" stroke="#34D399" stroke-width="1.6"/>
+<text x="580" y="1708" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#FFFFFF"><tspan fill="#34D399">K11 </tspan>MISTAKEN FOR ENHANCED</text>
+<text x="580" y="1725" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="500" fill="#6B6B73">while natural — by a 100 kg enhanced bodybuilder</text>
+</g>
+<!-- readiness law -->
+<rect x="80" y="1768" width="880" height="48" fill="#0C2C22" stroke="#34D399" stroke-width="1.2"/>
+<text x="520" y="1799" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="17" font-weight="700" fill="#34D399" text-anchor="middle" letter-spacing="1">READY = THE MOMENT YOU NO LONGER NEED THEM.</text>
+
+<!-- ============ ZONE 4 · CONSENT STRIP ============ -->
+<text x="56" y="1882" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#6B6B73" letter-spacing="2">ZONE 4 · CONSENT — THE PRE-FLIGHT FORM · READ EVERY LINE</text>
+<rect x="56" y="1896" width="924" height="306" fill="#0F0F11" stroke="#3F3F46" stroke-width="1"/>
+<g font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="500">
+<rect x="84" y="1924" width="11" height="11" fill="none" stroke="#71717A" stroke-width="1.2"/><text x="106" y="1934" fill="#A1A1AA">lifetime commitment</text><line x1="106" y1="1940" x2="490" y2="1940" stroke="#26262B" stroke-width="1"/>
+<rect x="84" y="1958" width="11" height="11" fill="none" stroke="#71717A" stroke-width="1.2"/><text x="106" y="1968" fill="#A1A1AA">medical bills covered</text><line x1="106" y1="1974" x2="490" y2="1974" stroke="#26262B" stroke-width="1"/>
+<rect x="84" y="1992" width="11" height="11" fill="none" stroke="#71717A" stroke-width="1.2"/><text x="106" y="2002" fill="#A1A1AA">legal in your jurisdiction</text><line x1="106" y1="2008" x2="490" y2="2008" stroke="#26262B" stroke-width="1"/>
+<rect x="84" y="2026" width="11" height="11" fill="none" stroke="#71717A" stroke-width="1.2"/><text x="106" y="2036" fill="#A1A1AA">every marker in range BEFORE pin one</text><line x1="106" y1="2042" x2="490" y2="2042" stroke="#26262B" stroke-width="1"/>
+<rect x="84" y="2060" width="11" height="11" fill="none" stroke="#71717A" stroke-width="1.2"/><text x="106" y="2070" fill="#A1A1AA">full cycle + PCT in hand before pin one</text><line x1="106" y1="2076" x2="490" y2="2076" stroke="#26262B" stroke-width="1"/>
+<rect x="532" y="1924" width="11" height="11" fill="none" stroke="#71717A" stroke-width="1.2"/><text x="554" y="1934" fill="#A1A1AA">gear verified real</text><line x1="554" y1="1940" x2="952" y2="1940" stroke="#26262B" stroke-width="1"/>
+<rect x="532" y="1958" width="11" height="11" fill="none" stroke="#71717A" stroke-width="1.2"/><text x="554" y="1968" fill="#A1A1AA">every side effect understood in advance</text><line x1="554" y1="1974" x2="952" y2="1974" stroke="#26262B" stroke-width="1"/>
+<rect x="532" y="1992" width="11" height="11" fill="none" stroke="#71717A" stroke-width="1.2"/><text x="554" y="2002" fill="#A1A1AA">temper controlled</text><line x1="554" y1="2008" x2="952" y2="2008" stroke="#26262B" stroke-width="1"/>
+<rect x="532" y="2026" width="11" height="11" fill="none" stroke="#F59E0B" stroke-width="1.2"/><text x="554" y="2036" fill="#F59E0B" font-weight="600">you are RENTING this physique</text><line x1="554" y1="2042" x2="952" y2="2042" stroke="#26262B" stroke-width="1"/>
+<rect x="532" y="2060" width="11" height="11" fill="none" stroke="#71717A" stroke-width="1.2"/><text x="554" y="2070" fill="#A1A1AA">now impersonating 5 specialists you are not</text><line x1="554" y1="2076" x2="952" y2="2076" stroke="#26262B" stroke-width="1"/>
+</g>
+<!-- signature + flinch stamp -->
+<line x1="84" y1="2150" x2="600" y2="2150" stroke="#71717A" stroke-width="1.2"/>
+<text x="84" y="2170" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="500" fill="#6B6B73">SIGNATURE — sign with your eyes open</text>
+<g transform="rotate(-4 790 2125)">
+<rect x="640" y="2096" width="300" height="58" fill="none" stroke="#EF4444" stroke-width="2"/>
+<text x="790" y="2120" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#EF4444" text-anchor="middle">IF ANY LINE MAKES YOU FLINCH —</text>
+<text x="790" y="2140" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#EF4444" text-anchor="middle">THE FLINCH IS YOUR ANSWER.</text>
+</g>
+
+<!-- ============ ZONE 5 · THE ONE-WAY DOOR ============ -->
+<text x="56" y="2236" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#EF4444" letter-spacing="2">ZONE 5 · THE ONE-WAY DOOR — WHAT LATCHES BEHIND YOU</text>
+<rect x="56" y="2250" width="924" height="248" fill="#0F0F11" stroke="#7F1D1D" stroke-width="1.2"/>
+<rect x="56" y="2250" width="924" height="8" fill="url(#warnstripe)"/>
+<!-- door mechanism -->
+<g>
+<rect x="92" y="2286" width="120" height="180" fill="none" stroke="#71717A" stroke-width="1.6"/>
+<path d="M212 2286 L268 2320 L268 2500" stroke="#EF4444" stroke-width="2.4" fill="none" transform="translate(0,-34)"/>
+<path d="M212 2466 A 130 130 0 0 0 252 2436" fill="none" stroke="#3F3F46" stroke-width="1" stroke-dasharray="4 4"/>
+<path d="M132 2360 L196 2360" stroke="#FFFFFF" stroke-width="1.8"/><polygon points="196,2360 186,2355 186,2365" fill="#FFFFFF"/>
+<text x="128" y="2348" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10" font-weight="600" fill="#FFFFFF">IN</text>
+<path d="M196 2412 L132 2412" stroke="#EF4444" stroke-width="1.8" stroke-dasharray="5 4"/>
+<line x1="158" y1="2400" x2="172" y2="2424" stroke="#EF4444" stroke-width="1.8"/>
+<line x1="172" y1="2400" x2="158" y2="2424" stroke="#EF4444" stroke-width="1.8"/>
+<text x="200" y="2428" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10" font-weight="600" fill="#EF4444" text-anchor="end">RETURN</text>
+<rect x="226" y="2330" width="14" height="22" fill="#EF4444" transform="translate(0,-20)"/>
+<text x="152" y="2486" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="700" fill="#EF4444" text-anchor="middle">LATCHES SHUT</text>
+</g>
+<!-- four closures -->
+<g>
+<rect x="320" y="2278" width="640" height="48" fill="#2A0E0F"/><rect x="320" y="2278" width="4" height="48" fill="#EF4444"/>
+<text x="338" y="2298" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#FFFFFF">HPTA SUPPRESSION</text>
+<text x="338" y="2316" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="500" fill="#A1A1AA">guaranteed from pin one — recovery possible, not guaranteed</text>
+<rect x="320" y="2332" width="640" height="48" fill="#2A0E0F"/><rect x="320" y="2332" width="4" height="48" fill="#EF4444"/>
+<text x="338" y="2352" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#FFFFFF">CARDIOVASCULAR ACCRUAL</text>
+<text x="338" y="2370" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="500" fill="#A1A1AA">lipids · BP · hematocrit · remodeling — the likeliest harm</text>
+<rect x="320" y="2386" width="640" height="48" fill="#2A0E0F"/><rect x="320" y="2386" width="4" height="48" fill="#EF4444"/>
+<text x="338" y="2406" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#FFFFFF">HAIR</text>
+<text x="338" y="2424" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="500" fill="#A1A1AA">androgen-driven acceleration — permanent if predisposed</text>
+<rect x="320" y="2440" width="640" height="48" fill="#2A0E0F"/><rect x="320" y="2440" width="4" height="48" fill="#EF4444"/>
+<text x="338" y="2460" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#FFFFFF">THE MENTAL GRIP</text>
+<text x="338" y="2478" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="500" fill="#A1A1AA">attachment to size that pushes past your body&#x27;s stop signal</text>
+</g>
+
+<!-- ============ FOOTER ============ -->
+<line x1="56" y1="2520" x2="1144" y2="2520" stroke="#26262B" stroke-width="1"/>
+<text x="56" y="2548" font-size="15" font-weight="600" fill="#FFFFFF">Cleared honestly? The next step is not a compound. It&#x27;s the baseline panel — Part 2.0, Medical Screening &amp; Monitoring.</text>
+<text x="56" y="2572" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="600" fill="#F59E0B">Harm reduction, not encouragement. Nothing here is medical advice or a recommendation to use any compound.</text>
+<text x="56" y="2594" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10" font-weight="500" fill="#6B6B73">Finite-blasts framework &amp; readiness rules: Derek, More Plates More Dates · Behavioural gate &amp; pre-flight checklist: Vigorous Steve</text>
+<text x="56" y="2610" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10" font-weight="500" fill="#6B6B73">Myonuclei retention ("muscle memory"): longitudinal myonuclear-domain literature · HPTA suppression &amp; CV risk: clinical AAS literature</text>
+<text x="1144" y="2610" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#A1A1AA" text-anchor="end" letter-spacing="1">FIT — PERFORMANCE ENHANCEMENT</text>
+</svg>

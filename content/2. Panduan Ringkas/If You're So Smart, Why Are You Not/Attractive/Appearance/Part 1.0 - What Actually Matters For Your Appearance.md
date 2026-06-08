@@ -69,6 +69,10 @@ This series deliberately does **not** re-teach what other folders already own. I
 > [!note] The clean line
 > Facial sharpness equals a *chronic base* you build in Fit/Skin/Hair/Sleep, plus an *acute layer* this series adds on top. Appearance never claims the base. It sharpens what the base already built and then signals it correctly.
 
+*Here's the whole framework as one drawing: appearance is a four-storey building you construct from the ground up — `substrate → frame → signal → floor` — where [[Part 1.0 - What Actually Matters For Your Appearance#The 3-layer model|width equals leverage]], so the most leverage sits lowest and the watch is the last brick, not the first. A hard horizontal "epistemic line" splits it: everything below is [[Part 1.0 - What Actually Matters For Your Appearance#The two epistemics: how to read this series|measurable mechanism]], everything above is honest convention — and the greyed footing it stands on is [[Part 1.0 - What Actually Matters For Your Appearance#The boundary map: what Appearance owns|the chronic base]] (leanness, skin, retention, recovery) this series borrows but never claims. The toppling top-down stack in the corner is the failure mode this article exists to prevent. Pin it up — the order is the leverage.*
+
+![[Poster — Attractive - Appearance Part 1.0 - What Actually Matters.png]]
+
 ## How the series is sequenced
 
 Drafting and reading order both follow the leverage stack: **base, frame, signal, floor.**

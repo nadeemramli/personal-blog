@@ -161,6 +161,10 @@ The reader who has hit most of the lines on the Athletic Standard dashboard does
 
 The chassis series gives you a body that looks the part. This series gives you a body that *does* the part. The combination is the whole point.
 
+*Here's the entire practice mounted on one board: athleticism as four banks of gauges — [[Part 5.0 - The Athletic Standard#The Athletic Standard: the complete dashboard|Chassis · Engine · Outputs · Control]] — where the gap between each "you" needle and its redline target is the diagnosis of which lever to pull next. Beneath the cluster sits the [[Part 5.0 - The Athletic Standard#A worked annual plan|annual block-cycle dial]] (build one bank, hold the rest, swap — one year is one turn) and the surprise [[Part 5.0 - The Athletic Standard#The minimum effective dose: holding the standard|idle readout]]: once built, the whole panel holds on ~3–4 hrs/week. Pin it up and re-test the full battery once a year — the gaps are the map.*
+
+![[Poster — Fit - Part 5.0 (Athletic) - The Athletic Standard.png]]
+
 ---
 
 ## Part 5.0 Takeaways

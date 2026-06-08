@@ -8,7 +8,7 @@ tags:
   - creative-economy
 date: 2026-05-29
 ---
-> [!abstract] **Part 5 of 7 in the [[Part 1.0 - What Income Actually Is|Income 101 Series]].** The [[Part 3.0 - The First Economy - The Climb|Climb]] is about being paid for *what you can do*. The Build is about being paid for *what you have*. This article covers the second economy: assets, brand, audience, creative practice, freelance. It is the path that runs in parallel to the Climb for some, and replaces it for others.
+> [!abstract] **Part 5 of 8 in the [[Part 1.0 - What Income Actually Is|Income 101 Series]].** The [[Part 3.0 - The First Economy - The Climb|Climb]] is about being paid for *what you can do*. The Build is about being paid for *what you have*. This article covers the second economy: assets, brand, audience, creative practice, freelance. It is the path that runs in parallel to the Climb for some, and replaces it for others.
 > ----
 ## Table of Contents
 
@@ -194,7 +194,7 @@ The Build is years-long, so the first task list is just about *starting honestly
 5. **Define the kill switch.** What does "this build isn't working" look like at month 12, 18, 24? Write it down now, when you're calm, so you can read it later when you're not.
 
 > [!note] Up next
-> The Build is the second of three economies. [[Part 3.2 - The Third Economy - The Catering Game|Part 3.2 — The Third Economy: The Catering Game]] is the third: the hustle layer (affiliate, Grab, courses, dropshipping, sales-agent gigs) that looks like easy income from the outside and almost never delivers it. The article exists because the catering layer is the most likely place a new Builder gets sidetracked.
+> The Build is the second of four economies. [[Part 3.2 - The Third Economy - The Catering Game|Part 3.2 — The Third Economy: The Catering Game]] is the third: the hustle layer (affiliate, Grab, courses, dropshipping, self-funded sales gigs) that looks like easy income from the outside and almost never delivers it. The article exists because the catering layer is the most likely place a new Builder gets sidetracked. After the dissection, [[Part 3.3 - The Fourth Economy - The Commission Economy|Part 3.3 — The Commission Economy]] covers the structurally sound version of performance pay that the catering layer imitates.
 
 ---
 

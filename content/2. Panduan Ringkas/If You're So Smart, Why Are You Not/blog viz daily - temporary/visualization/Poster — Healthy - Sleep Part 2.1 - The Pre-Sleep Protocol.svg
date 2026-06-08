@@ -1,0 +1,162 @@
+<svg viewBox="0 0 1200 1500" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, 'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#121A30"/><stop offset="0.45" stop-color="#0B0F1A"/><stop offset="1" stop-color="#070A12"/>
+  </linearGradient>
+  <linearGradient id="glide" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#E8A23D" stop-opacity="0.95"/>
+    <stop offset="1" stop-color="#E8A23D" stop-opacity="0.75"/>
+  </linearGradient>
+  <linearGradient id="glideFill" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#E8A23D" stop-opacity="0.13"/>
+    <stop offset="1" stop-color="#E8A23D" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="touch" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#E8A23D" stop-opacity="0.45"/><stop offset="1" stop-color="#E8A23D" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="alarm" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#FF5C5C" stop-opacity="0.40"/><stop offset="1" stop-color="#FF5C5C" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="ground" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+    <line x1="0" y1="0" x2="0" y2="16" stroke="#8B7CF0" stroke-width="1.2" stroke-opacity="0.16"/>
+  </pattern>
+</defs>
+<rect x="0" y="0" width="1200" height="1500" fill="url(#sky)"/>
+<g><circle cx="377" cy="131" r="1.2" fill="#E6E8EE" fill-opacity="0.26"/><circle cx="1021" cy="239" r="0.8" fill="#E6E8EE" fill-opacity="0.3"/><circle cx="1089" cy="70" r="1.0" fill="#E6E8EE" fill-opacity="0.16"/><circle cx="46" cy="27" r="0.9" fill="#E6E8EE" fill-opacity="0.25"/><circle cx="181" cy="61" r="1.2" fill="#E6E8EE" fill-opacity="0.16"/><circle cx="516" cy="201" r="0.6" fill="#E6E8EE" fill-opacity="0.35"/><circle cx="873" cy="181" r="1.0" fill="#E6E8EE" fill-opacity="0.34"/><circle cx="1146" cy="151" r="1.2" fill="#E6E8EE" fill-opacity="0.26"/><circle cx="794" cy="29" r="0.7" fill="#E6E8EE" fill-opacity="0.3"/><circle cx="295" cy="231" r="1.3" fill="#E6E8EE" fill-opacity="0.21"/><circle cx="742" cy="126" r="1.0" fill="#E6E8EE" fill-opacity="0.15"/><circle cx="116" cy="144" r="1.3" fill="#E6E8EE" fill-opacity="0.16"/><circle cx="444" cy="77" r="1.1" fill="#E6E8EE" fill-opacity="0.3"/><circle cx="185" cy="55" r="1.0" fill="#E6E8EE" fill-opacity="0.24"/><circle cx="834" cy="75" r="0.9" fill="#E6E8EE" fill-opacity="0.14"/><circle cx="1137" cy="128" r="0.8" fill="#E6E8EE" fill-opacity="0.34"/><circle cx="1066" cy="122" r="0.9" fill="#E6E8EE" fill-opacity="0.22"/><circle cx="584" cy="30" r="1.3" fill="#E6E8EE" fill-opacity="0.14"/><circle cx="1055" cy="24" r="1.0" fill="#E6E8EE" fill-opacity="0.24"/><circle cx="1109" cy="80" r="1.1" fill="#E6E8EE" fill-opacity="0.18"/><circle cx="270" cy="70" r="1.1" fill="#E6E8EE" fill-opacity="0.26"/><circle cx="720" cy="112" r="1.2" fill="#E6E8EE" fill-opacity="0.33"/><circle cx="543" cy="50" r="0.7" fill="#E6E8EE" fill-opacity="0.33"/><circle cx="396" cy="222" r="0.9" fill="#E6E8EE" fill-opacity="0.14"/><circle cx="115" cy="197" r="1.0" fill="#E6E8EE" fill-opacity="0.26"/><circle cx="534" cy="128" r="1.3" fill="#E6E8EE" fill-opacity="0.14"/><circle cx="69" cy="250" r="0.9" fill="#E6E8EE" fill-opacity="0.23"/><circle cx="546" cy="248" r="0.8" fill="#E6E8EE" fill-opacity="0.24"/><circle cx="939" cy="230" r="0.9" fill="#E6E8EE" fill-opacity="0.29"/><circle cx="157" cy="238" r="0.8" fill="#E6E8EE" fill-opacity="0.31"/><circle cx="633" cy="32" r="0.9" fill="#E6E8EE" fill-opacity="0.14"/><circle cx="182" cy="246" r="0.9" fill="#E6E8EE" fill-opacity="0.32"/><circle cx="349" cy="214" r="1.2" fill="#E6E8EE" fill-opacity="0.11"/><circle cx="325" cy="190" r="1.0" fill="#E6E8EE" fill-opacity="0.28"/><circle cx="97" cy="78" r="1.3" fill="#E6E8EE" fill-opacity="0.19"/><circle cx="355" cy="249" r="0.9" fill="#E6E8EE" fill-opacity="0.29"/><circle cx="1032" cy="172" r="1.3" fill="#E6E8EE" fill-opacity="0.22"/><circle cx="324" cy="160" r="1.1" fill="#E6E8EE" fill-opacity="0.13"/><circle cx="60" cy="121" r="1.1" fill="#E6E8EE" fill-opacity="0.34"/><circle cx="88" cy="91" r="1.1" fill="#E6E8EE" fill-opacity="0.26"/><circle cx="902" cy="89" r="1.1" fill="#E6E8EE" fill-opacity="0.29"/><circle cx="323" cy="58" r="0.7" fill="#E6E8EE" fill-opacity="0.2"/><circle cx="422" cy="30" r="1.1" fill="#E6E8EE" fill-opacity="0.3"/><circle cx="187" cy="246" r="0.7" fill="#E6E8EE" fill-opacity="0.17"/><circle cx="662" cy="161" r="1.4" fill="#E6E8EE" fill-opacity="0.2"/><circle cx="489" cy="183" r="0.7" fill="#E6E8EE" fill-opacity="0.15"/></g>
+<g id="header">
+<text x="70" y="62" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="15" letter-spacing="5" fill="#8B7CF0">THE PRE-SLEEP PROTOCOL&#160;&#160;·&#160;&#160;SLEEP / PART 2.1</text>
+<text x="68" y="126" font-size="46" font-weight="600" letter-spacing="0.5" fill="#E6E8EE">SLEEP IS A RUNWAY, NOT A SWITCH.</text>
+<text x="70" y="160" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="15" fill="#A1A1AA">you don&#8217;t fall asleep at 11 &#8212; you begin landing at 7.</text>
+<line x1="70" y1="180" x2="1130" y2="180" stroke="#71717A" stroke-width="1" stroke-opacity="0.5"/>
+</g>
+<g id="hero">
+<text x="60" y="540" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13" letter-spacing="3" fill="#71717A" transform="rotate(-90 60 540)">AROUSAL / ALTITUDE</text>
+<text x="92" y="312" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11.5" fill="#A1A1AA">HIGH</text>
+<text x="86" y="770" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11.5" fill="#A1A1AA">LOW</text>
+<text x="124" y="540" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11" fill="#71717A" transform="rotate(-90 124 540)">core temp &#8595; · cortisol &#8595; · heart rate &#8595; · (melatonin &#8593;)</text>
+<g stroke="#71717A" stroke-opacity="0.13" stroke-width="1">
+<line x1="150" y1="300" x2="1140" y2="300"/>
+<line x1="150" y1="432" x2="1140" y2="432"/>
+<line x1="150" y1="560" x2="1140" y2="560"/>
+<line x1="150" y1="690" x2="1140" y2="690"/>
+<line x1="150" y1="852" x2="1140" y2="852"/>
+</g>
+<rect x="150" y="852" width="990" height="68" fill="url(#ground)"/>
+<rect x="150" y="852" width="990" height="68" fill="#8B7CF0" fill-opacity="0.05"/>
+<line x1="150" y1="852" x2="1140" y2="852" stroke="#8B7CF0" stroke-opacity="0.5" stroke-width="1.4"/>
+<text x="164" y="886" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" fill="#8B7CF0" fill-opacity="0.9">THE COOL / DARK / QUIET ROOM &#8212; touchdown into Part 2.0</text>
+<polyline points="185,305 1058,305 1058,852" fill="none" stroke="#A1A1AA" stroke-width="2" stroke-opacity="0.45" stroke-dasharray="2 6"/>
+<polyline points="1058,852 1080,808 1098,846 1116,818 1132,848" fill="none" stroke="#A1A1AA" stroke-width="1.8" stroke-opacity="0.5"/>
+<text x="1048" y="296" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12" fill="#A1A1AA" fill-opacity="0.75">THE SWITCH MODEL &#8212; full speed to 11 PM, then a cliff</text>
+<text x="1088" y="794" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11.5" fill="#A1A1AA" fill-opacity="0.7">&#8220;tired but wired&#8221;</text>
+<path d="M185,300 L330,314 C390,314 425,342 475,350 C545,360 565,456 625,470 C680,482 700,540 755,548 C777,578 785,604 795,614 C835,644 840,698 890,718 C960,748 998,824 1058,838  L1058,852 L185,852 Z" fill="url(#glideFill)"/>
+<path d="M185,300 L330,314 C390,314 425,342 475,350 C545,360 565,456 625,470 C680,482 700,540 755,548 C777,578 785,604 795,614 C835,644 840,698 890,718 C960,748 998,824 1058,838 " fill="none" stroke="url(#glide)" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="1058" cy="838" rx="120" ry="44" fill="url(#touch)"/>
+<g>
+<circle cx="185" cy="300" r="13" fill="none" stroke="#E8A23D" stroke-width="2"/>
+<line x1="201" y1="300" x2="208" y2="300" stroke="#E8A23D" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="196" y1="311" x2="201" y2="316" stroke="#E8A23D" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="185" y1="316" x2="185" y2="323" stroke="#E8A23D" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="174" y1="311" x2="169" y2="316" stroke="#E8A23D" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="169" y1="300" x2="162" y2="300" stroke="#E8A23D" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="174" y1="289" x2="169" y2="284" stroke="#E8A23D" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="185" y1="284" x2="185" y2="277" stroke="#E8A23D" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="196" y1="289" x2="201" y2="284" stroke="#E8A23D" stroke-width="1.6" stroke-opacity="0.8"/>
+<text x="165" y="348" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" font-weight="600" fill="#E8A23D">LAUNCH ANCHOR &#183; THIS MORNING</text>
+<text x="165" y="366" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11" fill="#A1A1AA">fixed wake time + 10&#8211;20 min outdoor light</text>
+<path d="M199,294 C420,210 760,205 1058,688" fill="none" stroke="#E8A23D" stroke-width="1.2" stroke-opacity="0.4" stroke-dasharray="2 7"/>
+<text x="600" y="214" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11" fill="#E8A23D" fill-opacity="0.7">sets tonight&#8217;s landing &#8212; melatonin &#8776; 14&#8211;16 h later</text>
+</g>
+<circle cx="330" cy="314" r="7" fill="#0B0F1A" stroke="#E8A23D" stroke-width="1.8"/>
+<text x="328" y="256" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" font-weight="600" fill="#E6E8EE">1&#8211;2 PM &#183; LAST CAFFEINE</text>
+<text x="328" y="273" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11" fill="#A1A1AA">~5&#8211;6 h half-life</text>
+<text x="328" y="289" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="10.5" fill="#71717A">watch late pre-workout</text>
+<circle cx="475" cy="350" r="9" fill="#0B0F1A" stroke="#E8A23D" stroke-width="2.4"/>
+<circle cx="475" cy="350" r="3" fill="#E8A23D"/>
+<text x="489" y="284" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" font-weight="600" fill="#E6E8EE">T-4h &#183; SLEEP STARTS NOW</text>
+<text x="489" y="301" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11" fill="#A1A1AA">finish hard training &#183; last big meal</text>
+<text x="489" y="317" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="10.5" fill="#71717A">the last 4 hours = the start of sleep</text>
+<circle cx="625" cy="470" r="7" fill="#0B0F1A" stroke="#E8A23D" stroke-width="1.8"/>
+<text x="641" y="426" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" font-weight="600" fill="#E6E8EE">T-2h &#183; DIM THE WORLD</text>
+<text x="641" y="443" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11" fill="#A1A1AA">warm/amber light &#183; screens down</text>
+<circle cx="755" cy="548" r="7" fill="#0B0F1A" stroke="#E8A23D" stroke-width="1.8"/>
+<text x="771" y="490" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" font-weight="600" fill="#E6E8EE">T-90m &#183; WARM SHOWER</text>
+<text x="771" y="507" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11" fill="#A1A1AA">warms skin &#8594; core temp DROPS</text>
+<text x="771" y="523" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="10.5" fill="#71717A">the dip that initiates sleep</text>
+<circle cx="890" cy="718" r="7" fill="#0B0F1A" stroke="#E8A23D" stroke-width="1.8"/>
+<text x="740" y="762" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" font-weight="600" fill="#E6E8EE">T-1h &#183; WIND-DOWN</text>
+<text x="740" y="779" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11" fill="#A1A1AA">brain-dump &#183; reading &#183; 4-7-8 breathing</text>
+<text x="740" y="795" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="10.5" fill="#71717A">walk the heart rate down</text>
+<circle cx="1058" cy="838" r="7" fill="#0B0F1A" stroke="#E8A23D" stroke-width="1.8"/>
+<text x="980" y="908" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" font-weight="600" fill="#E6E8EE">T-0 &#183; TOUCHDOWN</text>
+<text x="980" y="925" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11" fill="#A1A1AA">lights out</text>
+<text x="1140" y="338" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11.5" letter-spacing="1" fill="#71717A">SABOTEURS &#8212; forces that push the approach back UP</text>
+<path d="M607,452 L619,400 L631,452" fill="none" stroke="#E8A23D" stroke-width="1.8" stroke-opacity="0.7"/>
+<polygon points="619,400 614,411 624,411" fill="#E8A23D" fill-opacity="0.7"/>
+<text x="469" y="450" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="10.5" font-weight="600" fill="#E8A23D" fill-opacity="0.85">BIG / LATE MEAL</text>
+<text x="469" y="465" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="10" fill="#A1A1AA">digestion = heat + reflux</text>
+<path d="M912,648 L924,578 L936,648" fill="none" stroke="#E8A23D" stroke-width="1.8" stroke-opacity="0.7"/>
+<polygon points="924,578 919,589 929,589" fill="#E8A23D" fill-opacity="0.7"/>
+<text x="936" y="650" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="10.5" font-weight="600" fill="#E8A23D" fill-opacity="0.85">VIGOROUS LATE TRAINING</text>
+<text x="936" y="665" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="10" fill="#A1A1AA">core temp + cortisol + HR &#8593;</text>
+<path d="M936,712 L948,654 L960,712" fill="none" stroke="#E8A23D" stroke-width="1.8" stroke-opacity="0.7"/>
+<polygon points="948,654 943,665 953,665" fill="#E8A23D" fill-opacity="0.7"/>
+<text x="798" y="710" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="10.5" font-weight="600" fill="#E8A23D" fill-opacity="0.85">LATE CAFFEINE</text>
+<text x="798" y="725" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="10" fill="#A1A1AA">degrades deep sleep</text>
+<path d="M898,736 C940,788 988,860 1058,882 C1088,896 1113,882 1128,860 L1144,812 L1156,856 L1132,782" fill="none" stroke="#8B7CF0" stroke-width="2.6" stroke-opacity="0.92" stroke-linejoin="round"/>
+<text x="540" y="886" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11.5" font-weight="600" fill="#8B7CF0">ALCOHOL &#8212; sedation is not sleep &#183; wrecks the 2nd half (4 AM)</text>
+<ellipse cx="1064" cy="832" rx="60" ry="40" fill="url(#alarm)"/>
+<rect x="1052" y="818" width="16" height="28" rx="3" fill="#0B0F1A" stroke="#FF5C5C" stroke-width="1.8"/>
+<line x1="1056" y1="823" x2="1064" y2="823" stroke="#FF5C5C" stroke-width="1.2"/>
+<path d="M1070,830 L1098,780 L1088,788 M1098,780 L1087,776" fill="none" stroke="#FF5C5C" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1098,780 1112,802 1124,776 1134,794" fill="none" stroke="#FF5C5C" stroke-width="2" stroke-opacity="0.85"/>
+<line x1="1090" y1="468" x2="1076" y2="814" stroke="#FF5C5C" stroke-width="1" stroke-opacity="0.45" stroke-dasharray="2 4"/>
+<text x="1132" y="452" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12" font-weight="700" fill="#FF7A7A">THE PHONE &#8212; the one red go-around</text>
+<text x="1132" y="470" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="10.5" fill="#FF7A7A" fill-opacity="0.9">light + engagement = airborne again</text>
+<text x="1132" y="488" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="10.5" font-weight="600" fill="#FF5C5C">charge it OUTSIDE the room.</text>
+<line x1="150" y1="920" x2="1140" y2="920" stroke="#71717A" stroke-opacity="0.4" stroke-width="1"/>
+<g font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11.5" fill="#A1A1AA" text-anchor="middle">
+<line x1="185" y1="920" x2="185" y2="927" stroke="#71717A" stroke-opacity="0.5"/>
+<text x="185" y="944">morning</text>
+<line x1="330" y1="920" x2="330" y2="927" stroke="#71717A" stroke-opacity="0.5"/>
+<text x="330" y="944">1–2 PM</text>
+<line x1="475" y1="920" x2="475" y2="927" stroke="#71717A" stroke-opacity="0.5"/>
+<text x="475" y="944">T-4h</text>
+<line x1="625" y1="920" x2="625" y2="927" stroke="#71717A" stroke-opacity="0.5"/>
+<text x="625" y="944">T-2h</text>
+<line x1="755" y1="920" x2="755" y2="927" stroke="#71717A" stroke-opacity="0.5"/>
+<text x="755" y="944">T-90m</text>
+<line x1="890" y1="920" x2="890" y2="927" stroke="#71717A" stroke-opacity="0.5"/>
+<text x="890" y="944">T-1h</text>
+<line x1="1058" y1="920" x2="1058" y2="927" stroke="#71717A" stroke-opacity="0.5"/>
+<text x="1058" y="944">T-0 · 11 PM</text>
+</g>
+<text x="150" y="944" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11" fill="#71717A">&#8592; the runway</text>
+</g>
+<g id="instrument">
+<rect x="70" y="956" width="540" height="168" rx="6" fill="#8B7CF0" fill-opacity="0.05" stroke="#8B7CF0" stroke-opacity="0.5" stroke-width="1.3"/>
+<text x="92" y="990" font-size="20" font-weight="600" fill="#8B7CF0">THE SCOREBOARD</text>
+<text x="588" y="990" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12" fill="#A1A1AA">overnight resting heart rate</text>
+<line x1="92" y1="1004" x2="588" y2="1004" stroke="#8B7CF0" stroke-opacity="0.25"/>
+<text x="100" y="1042" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11.5" fill="#E8A23D">CLEAN DESCENT &#8594; low sleeping RHR &#10003;</text>
+<polyline points="100,1068 150,1070 200,1066 250,1071 300,1067" fill="none" stroke="#E8A23D" stroke-width="2.4"/>
+<polyline points="320,1074 345,1042 365,1076 390,1048 415,1078 440,1044 470,1072 500,1052 540,1074 580,1056" fill="none" stroke="#FF5C5C" stroke-width="2.2" stroke-opacity="0.85"/>
+<text x="320" y="1032" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11.5" fill="#FF7A7A">ABORTED &#8594; RHR &#8593; + recovery &#8595;</text>
+<text x="92" y="1112" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="10.5" fill="#71717A">for the lifter: a controlled descent = a bigger deep-sleep GH pulse = a better session tomorrow</text>
+<rect x="630" y="956" width="500" height="168" rx="6" fill="#E8A23D" fill-opacity="0.05" stroke="#E8A23D" stroke-opacity="0.5" stroke-width="1.3"/>
+<text x="652" y="990" font-size="20" font-weight="600" fill="#E8A23D">THIS + PART 2.0 = CBT-I</text>
+<line x1="652" y1="1004" x2="1108" y2="1004" stroke="#E8A23D" stroke-opacity="0.25"/>
+<text x="652" y="1036" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13" fill="#E6E8EE">first-line treatment for insomnia &#8212; beats pills.</text>
+<text x="652" y="1064" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12" fill="#A1A1AA">a racing mind is behavioural, not chemical &#8212;</text>
+<text x="652" y="1084" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12" fill="#A1A1AA">the fix is the runway, not a bottle.</text>
+</g>
+<g id="thesis">
+<line x1="70" y1="1168" x2="1130" y2="1168" stroke="#71717A" stroke-width="1" stroke-opacity="0.4"/>
+<text x="600" y="1240" text-anchor="middle" font-size="40" font-weight="600" fill="#E6E8EE">YOU DON&#8217;T FLIP A SWITCH.</text>
+<text x="600" y="1290" text-anchor="middle" font-size="40" font-weight="600" fill="#E8A23D">YOU FLY AN APPROACH.</text>
+<text x="600" y="1338" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13.5" fill="#A1A1AA">fly the approach and you touch down clean &#183; slam the switch and you spend the first hour still in the air.</text>
+<line x1="70" y1="1410" x2="1130" y2="1410" stroke="#71717A" stroke-width="1" stroke-opacity="0.3"/>
+<text x="70" y="1448" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" letter-spacing="2" fill="#71717A">PART 2 OF 5&#160;&#160;·&#160;&#160;SLEEP&#160;&#160;·&#160;&#160;THE HEALTHY PILLAR</text>
+<text x="1130" y="1448" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" letter-spacing="2" fill="#71717A">IF YOU&#8217;RE SO SMART, WHY ARE YOU NOT</text>
+</g>
+</svg>

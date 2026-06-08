@@ -1,0 +1,16 @@
+filters:
+  and:
+    - type == "product"
+views:
+  - type: table
+    name: Usage by pillar
+    order:
+      - file.name
+      - pillar
+      - sub_series
+      - category
+      - use
+      - protocols
+      - dosing
+      - importance
+      - active

@@ -1,0 +1,37 @@
+---
+draft: true
+type: protocol
+name: Cut Protocol
+phase: Cut
+goal: Strip the last 5–10% — aggressive deficit while preserving muscle
+date: 2026-05-31
+---
+# Cut Protocol
+
+**Goal:** get lean — remove the last 5–10% of body fat while holding onto muscle.
+
+## Diet & training base
+- **Caloric deficit**, **more protein**, **more cardio**.
+- **Fasted cardio** — push more of the work into a fasted state.
+
+### Calorie framework (current: 91 kg)
+- **Maintenance:** ~2,100–2,300 kcal base; **+250 kcal** from 8k steps EOD → effective TDEE **~2,650**.
+- **Deficit band:** 200–500 typical; aggressive blocks use **intermittent low/refeed** weeks (e.g. 1,450 low / 2,650 refeed) that *average* to the target deficit.
+- **Protein anchor:** ~200 g held across the cut (≈2.2 g/kg). Fats ≥45 g (joint/hormone support on Test). Carbs cycled — low on deficit days, high on refeeds for glycogen.
+- **Refeed cadence:** every 3rd week (full maintenance) restores leptin/training output and is the safe window for SGLT2 dosing.
+- Live numbers for the current run: [[2026 Q3 Cut to 15%]]. Goal-state calories: [[FFMI Trajectory & Calorie Targets]].
+
+## The stack
+- [[Cytolin (25mcg×100tab) — kohohpharma|Cytomel (T3)]] — **2–3** (use **3 only for a 4–6 week window**).
+- [[Cardarine (GW-501516) (10mg×50tab) — kohohpharma|Cardarine]] — endurance + fat oxidation.
+- [[Oxandrolone (Anavar) (10mg×100tab) — kohohpharma|Anavar]] — muscle retention while cutting.
+- [[CJC-1295 (No DAC) + Ipamorelin (10mg×10vial) — TCI|CJC-1295 (No DAC) + Ipamorelin]] — before sleep (GH secretagogue; INDEXA-funded).
+- [[HMB (500mg×240cap) — iHerb|HMB]] — muscle preservation in the deficit.
+- **Fat-loss adjuncts:** [[Yohimbine (5mg×240tab) — iHerb|Yohimbine]], [[Caffeine (200mg×250tab) — iHerb|Caffeine]], [[Coleus Forskohlii (400mg×60tab) — iHerb|Coleus Forskohlii]], [[SLU-PP-332 (0.5mg-ml ×30ml) — Uther|SLU-PP-332]], [[MOTS-C (100mg-box) — TCI|MOTS-C]] — **or** [[Clenbuterol (40mcg×100tab) — kohohpharma|Clenbuterol]].
+
+## Always-on (every phase)
+- [[GHK-Cu (1000mg-box) — TCI|GHK-Cu]]
+- [[KPV (100mg-box) — TCI|KPV]]
+
+> [!note] Phase tag
+> Cut-only items: Cytomel, Cardarine, MOTS-C, Retatrutide (cut), Clenbuterol, Yohimbine, Coleus, SLU-PP-332. See [[Bulk Protocol]] / [[Lean Bulk Protocol]].

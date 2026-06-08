@@ -26,9 +26,10 @@ date: 2026-05-25
 > 	- **Part 4.3 (this article):** [[Part 4.3 - The Bodybuilding Realm|The Bodybuilding Realm]] — performance & aesthetic compounds
 > 	- **Part 4.4:** [[Part 4.4 - Electrolyte Management|Electrolyte Management]] — water & the mineral balance
 > 	- **Part 4.5:** [[Part 4.5 - Coming Off and PCT|Coming Off & PCT]] — restoring the HPTA & fertility
-> - **Part 5 — Putting it all together (2 sub-articles):**
-> 	- **Part 5.0:** [[Part 5.0 - Putting It All Together|Putting It All Together]] — the worked 3-year example
-> 	- **Part 5.1:** [[Part 5.1 - Cost|Cost]] — budgeting & stock planning
+> - **Part 5 — Putting it all together (3 sub-articles):**
+> 	- **Part 5.0:** [[Part 5.0 - The Operating System|The Operating System — Four Pipelines]] — the four concurrent control loops
+> 	- **Part 5.1:** [[Part 5.1 - Putting It All Together|Putting It All Together]] — the worked 3-year example
+> 	- **Part 5.2:** [[Part 5.2 - Cost|Cost]] — budgeting & stock planning
 > ----
 ## Table of Contents
 
@@ -36,11 +37,13 @@ date: 2026-05-25
 - [How to read a compound: direct vs. indirect](#how-to-read-a-compound-direct-vs-indirect)
 - [Fat loss & conditioning](#fat-loss--conditioning)
 - [Thyroid for cutting: T3 (vs. the protective T4)](#thyroid-for-cutting-t3-vs-the-protective-t4)
+- [Metabolic & mitochondrial adjusters](#metabolic--mitochondrial-adjusters)
 - [Fullness & recovery: MK-677](#fullness--recovery-mk-677)
 - [Pumps & vascularity: tadalafil](#pumps--vascularity-tadalafil)
 - [Stage aesthetics: tanning and the diuretic line](#stage-aesthetics-tanning-and-the-diuretic-line)
 - [Direct vs. indirect effects — the master table](#direct-vs-indirect-effects--the-master-table)
 - [The visual & performance drivers](#the-visual--performance-drivers)
+- [Tiering the cut: light, medium, heavy](#tiering-the-cut-light-medium-heavy)
 - [How this maps back to the framework](#how-this-maps-back-to-the-framework)
 - [Part 4.3 Takeaways](#part-43-takeaways)
 - [Your Realm Task List](#your-realm-task-list)
@@ -111,6 +114,32 @@ Every compound here has a **direct mechanism** (what it does at the receptor) an
 - **Indirect effects:** accelerated fat loss in a cut, overriding the metabolic slowdown of prolonged dieting — often paired with clenbuterol.
 - **Caveats:** ==it's catabolic to muscle and taxing on the heart.== Demands FT3/FT4 [[Part 2.0 - Medical Screening and Monitoring|tracking]], conservative dosing (a ~25 mcg replacement-level dose is a different animal from hypermetabolic contest dosing), and a careful taper — abrupt cessation leaves the thyroid axis sluggish. A contest-prep tool, not a year-round one.
 
+## Metabolic & mitochondrial adjusters
+
+The fat-burners above (clenbuterol, ephedrine) work by flogging the central nervous system. This newer drawer works *underneath* the CNS — at the mitochondria and the cell's glucose machinery — to change how fuel is handled rather than just how fast it's burned. ==The appeal is a far lower cardiovascular cost,== which is why these are the backbone of a *mini-cut* aimed at restoring insulin sensitivity without crashing training.[^6]
+
+### SLU-PP-332
+
+- **Direct:** an ERR (estrogen-related receptor) agonist.
+- **Direct effect:** mimics the cellular signalling of endurance exercise — "exercise in a molecule."
+- **Indirect effects:** raised fat oxidation and metabolic rate *without* a stimulant load, so you get a fat-loss tailwind that doesn't spike heart rate or BP the way clenbuterol does.
+- **Caveat:** a research chemical with scant human data — promising mechanism, thin evidence.
+
+### MOTS-c
+
+- **Direct:** a mitochondrial-derived peptide.
+- **Direct/indirect effect:** drastically enhances **metabolic flexibility** (the cell's ability to switch cleanly between burning fat and glucose) and helps **prevent diet-induced insulin resistance** — the exact failure mode a long deficit creates. Pairs naturally with SLU-PP-332.
+- **Caveat:** peptide, research-tier; injectable, limited long-term data.
+
+### Methylene Blue
+
+- **Direct:** acts as an electron cycler in the mitochondrial electron transport chain.
+- **Indirect effects:** increases ATP production and helps clear metabolic waste during periods of intense oxidative stress — i.e., a hard cut.
+- **Caveats:** ==it's hormetic (a low dose helps, a high dose harms) and it's an MAOI== — combining it with serotonergic drugs risks serotonin syndrome. Not a casual add; it also turns urine blue-green.
+
+> [!important] Glucose management for the cut (the "+" combo)
+> The fastest way to restore insulin-receptor sensitivity in a mini-cut is to clear glucose from three directions at once: ==**Metformin + an SGLT2 inhibitor (empagliflozin / ertugliflozin) + Retatrutide.**==[^8] The SGLT2 inhibitor forces the kidneys to dump excess glucose into the urine; **metformin** improves peripheral insulin sensitivity in muscle and lowers hepatic (liver) glucose output; **retatrutide** (a GLP-1/GIP/glucagon triple agonist) suppresses appetite and elevates metabolic rate. Several of these double as the [[Part 4.2 - Choosing Your Ancillaries|year-round glucose ancillaries]] — which is why they're tagged "+": they may already be running. (Retatrutide's appetite crush makes it a *cut* tool, not a bulk one; full selection logic in [[Part 4.2 - Choosing Your Ancillaries|Part 4.2]].)
+
 ---
 ## Fullness & recovery: MK-677
 
@@ -153,6 +182,10 @@ You met tadalafil as a [[Part 4.2 - Choosing Your Ancillaries|BP "super ancillar
 | **MK-677** | Ghrelin agonist | ↑ GH/IGF-1 | Fullness/vascularity, deep sleep, joint cushion, **appetite ↑** |
 | **Tadalafil** | PDE5 inhibitor | Vasodilation | Pumps, vascularity, set-to-set endurance |
 | **Melanotan-2** | Melanocortin agonist | Pigmentation | Tan, appetite ↓, erection quality |
+| **SLU-PP-332** | ERR agonist | Exercise-mimetic signalling | ↑ fat oxidation/metabolic rate, no stimulant load |
+| **MOTS-c** | Mitochondrial-derived peptide | Metabolic flexibility | Prevents diet-induced insulin resistance |
+| **Methylene Blue** | Mitochondrial electron cycler | ↑ ATP, waste clearance | Oxidative-stress support in a hard cut (MAOI caution) |
+| **Metformin + SGLT2 + Retatrutide** | AMPK / renal glucose dump / GLP-1·GIP·GCGR | Insulin-sensitivity restoration | Glucose clearance + appetite suppression for the cut |
 
 ---
 ## The visual & performance drivers
@@ -165,6 +198,7 @@ Reading the drawer by *goal* rather than by drug:
 | **Intracellular fullness** | MK-677 | Tadalafil (blood volume) |
 | **Endurance & work capacity** | Cardarine | Clenbuterol, tadalafil |
 | **Dryness, vascularity, sharpness** | (water management) | Tadalafil (veins), clenbuterol |
+| **Insulin sensitivity / metabolic flexibility** | SLU-PP-332, MOTS-c, glucose stack | Methylene Blue, steps/cardio |
 
 And the **indirect strength** angle — none of these are anabolics, but three raise the weight on the bar through non-androgen routes:
 
@@ -172,15 +206,27 @@ And the **indirect strength** angle — none of these are anabolics, but three r
 - **Tadalafil** → pump-as-structural-support + faster recovery between sets → sustained power across a workout.
 - **Cardarine** → glycogen sparing → more reps at a high percentage of your max → more total volume → neurological strength adaptation over weeks.
 
+## Tiering the cut: light, medium, heavy
+
+The single most important discipline with this drawer is *not deploying the heavy artillery for a light job.* ==You match the accelerator intensity to how lean you already are== — the [[Part 5.0 - The Operating System|deployment pipeline]] escalating to meet the [[Part 3.2 - Cycle Design|body-fat tier]], never the reverse. Three tiers:
+
+- **Tier 1 — light (you're soft, or opening a mini-cut).** Don't go full-blast. Add ~10k steps a day, run a deficit or maintenance with **protein held high**, give a gentle thyroid nudge (T4 with a little T3), and clear glucose with the [[#metabolic--mitochondrial-adjusters|Metformin + SGLT2 (+ Retatrutide)]] combo, on top of your year-round Cardarine and injectable L-carnitine. A mini-cut here should be **aggressive, brief (2–4 weeks), and hyper-efficient at restoring insulin sensitivity** without crashing training.
+- **Tier 2 — medium (a genuine mid-cut).** Add the **mitochondrial layer** on top of Tier 1: SLU-PP-332 and MOTS-c for metabolic flexibility, and Methylene Blue for ATP and oxidative-waste clearance.
+- **Tier 3 — heavy (lean, chasing a final peak before bulking back).** Earned only when you've lean-bulked ~20+ weeks without much fat and want to get truly shredded for a short window. ==Skip the glucose-management layer — you're already insulin-sensitive.== Run the full fasted-morning fat-loss routine (yohimbine + caffeine + tyrosine + creatine + coleus forskohlii), the metabolic stack (Cardarine, L-carnitine, MOTS-c, SLU-PP-332, Methylene Blue), thyroid plus HGH, and a short, low-dose fasted clenbuterol run with electrolyte support.
+
+> [!caution] The tier is set by your body fat, not your impatience
+> The tier you deploy is decided by [[Part 3.2 - Cycle Design|how lean you are]] (Pipeline 2's read), not by how badly you want to be shredded. Stepping straight to the heavy stack while soft just burns through your CNS and your insulin sensitivity for nothing — and the moment a marker the [[Part 2.1 - Continuous Monitoring|monitoring]] watches turns the wrong way, the tier steps back down.
+
 ---
 ## How this maps back to the framework
 
 - **It's the margin on the margin.** Anabolics ([[Part 3.0 - The Eight Anabolic Pathways|Part 3]]) build the tissue; this drawer mostly *reveals* or *sharpens* it. If your training, diet, and base cycle aren't dialled, none of it matters — the [[Part 4.0 - Pharmacology|90/10 rule]] one more time.
 - **It's mostly cut-phase.** Fat-burners, T3, melanotan, and diuretics are contest/cut tools; MK-677 and tadalafil span phases. Year-round use of the stimulant fat-burners is how people damage their hearts.
+- **It's tiered, and the tier is set by body fat.** The [[Part 5.0 - The Operating System|deployment pipeline]] escalates these tools to match how lean you are (Pipeline 2), never the reverse — a light job gets light tools.
 - **Protection still rules.** Everything in [[Part 4.0 - Protection|4.0]]–[[Part 4.2 - Choosing Your Ancillaries|4.2]] applies *on top* — clenbuterol and ephedrine push BP and heart rate, T3 and MK-677 move glucose and thyroid markers, so the [[Part 2.1 - Continuous Monitoring|monitoring]] gets *more* important here, not less.
 
 > [!note] Up next
-> That's the whole pharmacological toolbox — anabolics, protection, and now the performance/aesthetic drawer. But there's one thread running underneath nearly every compound here: water, and the minerals that move with it. **[[Part 4.4 - Electrolyte Management|Part 4.4 — Electrolyte Management]]** is where those factors converge — sodium, potassium, magnesium, and the water retention that shows up everywhere from EQ to clenbuterol. Then **[[Part 5.0 - Putting It All Together|Part 5.0 — Putting It All Together]]** assembles all of it into a single worked, three-year example: a calendar, a stack, a monitoring schedule, and a shopping checklist.
+> That's the whole pharmacological toolbox — anabolics, protection, and now the performance/aesthetic drawer. But there's one thread running underneath nearly every compound here: water, and the minerals that move with it. **[[Part 4.4 - Electrolyte Management|Part 4.4 — Electrolyte Management]]** is where those factors converge — sodium, potassium, magnesium, and the water retention that shows up everywhere from EQ to clenbuterol. Then **Part 5** assembles all of it: first **[[Part 5.0 - The Operating System|the four-pipeline operating system]]** that runs the whole practice as concurrent control loops, then **[[Part 5.1 - Putting It All Together|a single worked three-year example]]** (a calendar, a stack, a monitoring schedule, and a shopping checklist), and finally the **[[Part 5.2 - Cost|budget]]** that keeps it sustainable.
 
 ---
 ## Part 4.3 Takeaways
@@ -216,7 +262,12 @@ And the **indirect strength** angle — none of these are anabolics, but three r
 [^2]: Clenbuterol cardiovascular effects (tachycardia, hypertension, chronic β2-agonist cardiac hypertrophy): see the primary literature on chronic β2-agonist exposure and the [[Part 4.0 - Pharmacology|Fit series]] references; ketotifen is used to restore β2 receptor sensitivity during use.
 
 [^3]: Cardarine (GW-501516) PPAR-δ agonism — fatty-acid oxidation, endurance, glycogen sparing, and favourable HDL/triglyceride shifts, alongside the high-dose rodent carcinogenicity findings — as detailed in [[Part 4.0 - Protection|Part 4.0]] and the GW-501516 literature.
-
 [^4]: MK-677 (ibutamoren) as an oral ghrelin-receptor agonist raising GH/IGF-1, with intracellular water/glycogen-driven fullness, improved slow-wave sleep, and appetite stimulation/water-retention trade-offs. See GH-secretagogue literature and the [[Part 4.0 - Pharmacology|Fit series]] overview.
 
-[^5]: T3 (liothyronine) vs T4 (levothyroxine): T3 is the active hormone used for aggressive fat loss with greater catabolic/cardiac risk; T4 is
+[^5]: T3 (liothyronine) vs T4 (levothyroxine): T3 is the active hormone used for aggressive fat loss with greater catabolic/cardiac risk; T4 is the protective replacement that maintains the thyroid output exogenous GH burns through (see [[Part 4.2 - Choosing Your Ancillaries|Part 4.2]]). Liothyronine demands FT3/FT4 [[Part 2.0 - Medical Screening and Monitoring|tracking]], conservative dosing, and a careful taper — abrupt cessation leaves the thyroid axis sluggish.
+
+[^6]: The metabolic/mitochondrial drawer — SLU-PP-332 as an ERR agonist that mimics endurance-exercise signalling, and MOTS-c as a mitochondrial-derived peptide enhancing metabolic flexibility and resisting diet-induced insulin resistance — is cutting-edge and research-tier, with limited human long-term data. Treated here as harm-reduction education, not endorsement.
+
+[^7]: Methylene Blue as a mitochondrial electron-transport-chain electron cycler raising ATP output and clearing oxidative waste; note its hormetic dose-response (low beneficial, high harmful) and its monoamine-oxidase-inhibitor activity, which carries serotonin-syndrome risk when combined with serotonergic agents.
+
+[^8]: The cut-phase glucose-management combination — metformin (AMPK activation → peripheral insulin sensitisation and reduced hepatic glucose output), an SGLT2 inhibitor (empagliflozin/ertugliflozin → renal glucose excretion), and retatrutide (GLP-1/GIP/glucagon triple agonist → appetite suppression and metabolic-rate elevation) — is detailed, with within-family selection and cadence, in [[Part 4.2 - Choosing Your Ancillaries|Part 4.2]]. Several members double as year-round protective ancillaries.

@@ -1,0 +1,28 @@
+---
+draft: true
+type: source
+source_name: "TCI"
+aliases:
+  - Tianjin Cangtu
+  - TCI/JCE
+method: "Direct (international) — peptide lab (China)"
+currency: "USD"
+shipping_model: "TBD (confirm) — tiered by kit count likely"
+payment: "TBD (confirm — typ. crypto/bank)"
+fees: "Buyer pays customs; bulk discounts ≥10 kits"
+tier: "Peptides — Tier-2 PRIMARY"
+ships_to_malaysia: "TBD (confirm)"
+notes: "Tianjin Cangtu Import & Export. The PRIMARY Tier-2 peptide source ([[Peptide Sourcing Tiers]]). Broadest catalogue + 2-price tiers (<10 kits / ≥10 kits). All finished 10 vials/kit. Strong/cheapest on HGH (100iu $70!), SS-31 ($100), Thymosin α1 ($170), GHK-Cu. See [[Peptide Price Comparison]]. FX ≈ RM4.1/USD."
+---
+# TCI (Tianjin Cangtu)
+
+- **Method:** Direct (international) — China peptide lab
+- **Role:** **Tier-2 PRIMARY** ([[Peptide Sourcing Tiers]]) — anything on the TCI list
+- **Pricing:** 2 tiers — `<10 kits` and `≥10 kits` (10 vials/kit). Bulk discounts on request.
+- **Shipping / payment / ships-to-MY:** ⚠️ confirm
+- **Edge:** broadest catalogue; **cheapest HGH** (10iu×10 = 100iu for **$70** vs rupharma $220), SS-31, Thymosin α1.
+
+Full price list parsed → [[Peptide Price Comparison]].
+
+## Links
+- Routing: [[Peptide Sourcing Tiers]] · Compare: [[Peptide Price Comparison]] · [[The Operating System]] · [[Schema — Data Model]]

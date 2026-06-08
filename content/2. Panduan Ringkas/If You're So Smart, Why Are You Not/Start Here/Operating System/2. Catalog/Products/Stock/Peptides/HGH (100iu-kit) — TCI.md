@@ -1,0 +1,57 @@
+---
+draft: true
+type: product
+product_id: "hgh-100iu-kit-tci"
+compound: "HGH"
+aliases:
+  - "HGH (4iu-day)"
+name: "HGH (4iu/day)"
+brand: ""
+vendor: "TCI"
+source: "TCI"
+pillar: "Fit"
+sub_series: "Performance Enhancement"
+category: "Peptide"
+importance: "Very"
+status: "restock"
+stack: "Peptides"
+restock: "Restock via INDEXA (TCI)"
+dosing: ""
+use: "Growth hormone"
+protocols:
+  - "[[Bulk Recovery & Partitioning Protocol]]"
+  - "[[Final Shred Deployment Protocol]]"
+active: true
+count_in_total: false
+cycle_weeks: 48
+package_size: 100
+size_unit: "iu/kit"
+base_dose: 1.33
+dose_unit: "mg"
+cost_per_bottle: 287
+list_price: 
+promo_price: 
+current_phase: ""
+stock_on_hand: 
+daily_dose: 
+product_tags:
+  - INDEXA-funded
+  - Always-on
+notes: "OPEN: hunting a reputable generic brand for HGH (no committed brand yet). Growth hormone. 1.33mg/pin (~4IU) × 5/wk = 20IU/wk, 48 wks ON per 2yr ≈ 960IU ≈ 10×100IU kits. TCI $70/kit (≈RM287) via INDEXA → ~RM2,870/2yr ≈ RM120/mo (excluded from personal cost). Prime Pharma history voided — faulty vendor, blacklisted."
+---
+# HGH (4iu/day)
+
+**** · Peptide · Fit / Performance Enhancement
+
+> [!info] Peptide — **funded by INDEXA**, excluded from the personal maintenance bill.
+> - **Goal:** Growth hormone · **Phase:** Always-on · **Dose/pin:** 1.33mg (~4IU) · **Pins/wk:** 5 (= 20IU/wk)
+> - **Run:** 48 weeks ON per 2 years (≈960IU total) · ~10×100IU kit(s) (10iu×10 vials)
+> - **Cost:** [[TCI]] US$70/kit (≈RM287) · **2-year ~RM2,870** · **~RM120/mo** (INDEXA)
+
+> [!note] Vendor landscape (per IU; 1mg ≈ 3IU)
+> Sourced through **INDEXA**, which buys from **[[TCI]] — 100IU $70 = $0.70/IU, cheapest reliable.**
+> - [[Uther]] 100IU $70 (backup, same price) · [[anabolicpharmacist]] Generic HGH (AP Labs) $150/100IU = $1.50/IU, up to $500/500IU; Qomatropin (PharmaQo) $250/100IU · rupharma $220/100IU ($2.20/IU).
+> - ⚠️ The old "Prime Pharma $150/80mg ≈ $0.625/IU" line was a faulty record — Prime Pharma was a one-time mistake purchase, now **blacklisted** ([[Prime Pharma]]). Pricing re-based on TCI.
+
+## Links
+- Operating system: [[The Operating System]] · [[Product List]] · [[Schema — Data Model]]

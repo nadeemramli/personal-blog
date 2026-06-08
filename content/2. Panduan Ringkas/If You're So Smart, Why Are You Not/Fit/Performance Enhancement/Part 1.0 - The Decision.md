@@ -25,9 +25,10 @@ date: 2026-05-25
 > 	- **Part 4.3:** [[Part 4.3 - The Bodybuilding Realm|The Bodybuilding Realm]] — performance & aesthetic compounds
 > 	- **Part 4.4:** [[Part 4.4 - Electrolyte Management|Electrolyte Management]] — water & the mineral balance
 > 	- **Part 4.5:** [[Part 4.5 - Coming Off and PCT|Coming Off & PCT]] — restoring the HPTA & fertility
-> - **Part 5 — Putting it all together (2 sub-articles):**
-> 	- **Part 5.0:** [[Part 5.0 - Putting It All Together|Putting It All Together]] — the worked 3-year example
-> 	- **Part 5.1:** [[Part 5.1 - Cost|Cost]] — budgeting & stock planning
+> - **Part 5 — Putting it all together (3 sub-articles):**
+> 	- **Part 5.0:** [[Part 5.0 - The Operating System|The Operating System — Four Pipelines]] — the four concurrent control loops
+> 	- **Part 5.1:** [[Part 5.1 - Putting It All Together|Putting It All Together]] — the worked 3-year example
+> 	- **Part 5.2:** [[Part 5.2 - Cost|Cost]] — budgeting & stock planning
 > ----
 ## Table of Contents
 

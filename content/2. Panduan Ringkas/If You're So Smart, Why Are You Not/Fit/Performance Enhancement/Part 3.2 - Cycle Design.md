@@ -26,9 +26,10 @@ date: 2026-05-25
 > 	- **Part 4.3:** [[Part 4.3 - The Bodybuilding Realm|The Bodybuilding Realm]] — performance & aesthetic compounds
 > 	- **Part 4.4:** [[Part 4.4 - Electrolyte Management|Electrolyte Management]] — water & the mineral balance
 > 	- **Part 4.5:** [[Part 4.5 - Coming Off and PCT|Coming Off & PCT]] — restoring the HPTA & fertility
-> - **Part 5 — Putting it all together (2 sub-articles):**
-> 	- **Part 5.0:** [[Part 5.0 - Putting It All Together|Putting It All Together]] — the worked 3-year example
-> 	- **Part 5.1:** [[Part 5.1 - Cost|Cost]] — budgeting & stock planning
+> - **Part 5 — Putting it all together (3 sub-articles):**
+> 	- **Part 5.0:** [[Part 5.0 - The Operating System|The Operating System — Four Pipelines]] — the four concurrent control loops
+> 	- **Part 5.1:** [[Part 5.1 - Putting It All Together|Putting It All Together]] — the worked 3-year example
+> 	- **Part 5.2:** [[Part 5.2 - Cost|Cost]] — budgeting & stock planning
 > ----
 ## Table of Contents
 
@@ -40,6 +41,7 @@ date: 2026-05-25
 - [The adjustment ladder: how to actually progress](#the-adjustment-ladder-how-to-actually-progress)
 - [The diagnostic marker hierarchy](#the-diagnostic-marker-hierarchy)
 - [Cycling by the calendar](#cycling-by-the-calendar)
+- [Periodising the food: macro cycles and body-fat gates](#periodising-the-food-macro-cycles-and-body-fat-gates)
 - [Post-cycle: sustaining the deflated physique](#post-cycle-sustaining-the-deflated-physique)
 - [The enhanced-longevity year on one page](#the-enhanced-longevity-year-on-one-page)
 - [Part 3.2 Takeaways](#part-32-takeaways)
@@ -174,6 +176,27 @@ The "Blast and Cruise" model — never fully coming off, just alternating high a
 >
 > The full rhythm is a four-phase loop: **Preparation** (natural optimisation, sub-12% body fat, a strength logbook) → **Blast** (off-season growth, start low, climb the [[#the-adjustment-ladder-how-to-actually-progress|adjustment ladder]]) → **Cut** (deficit, shift toward [[#wet-vs-dry-is-a-setting-not-a-property|dry compounds]] to hold muscle) → **Cruise / down-period** (3–4 months restoring health). Repeat — push to calculated unhealthiness, then pull back to recover.
 
+## Periodising the food: macro cycles and body-fat gates
+
+[[#cycling-by-the-calendar|Cycling by the calendar]] periodised the *drugs*. Underneath it runs a second, slower periodisation of the *food* — and this is the lever you actually pull most often. In the [[Part 5.0 - The Operating System|operating-system]] view it's the bio-feedback pipeline: ==the loop that decides whether a stalled lift is a food problem or a drug problem.== The food year is built from three macro cycles, each carrying its own mini-cycles inside it.
+
+**The three macro cycles.** Most of the year is spent building, a smaller slice revealing, and a short bridge resetting between them:
+
+- **Lean bulk / off-season — roughly 75% of the year.** A controlled surplus where the real growth happens. (This is the [[#the-offseason-is-not-a-free-for-all|"not a free-for-all"]] surplus, governed by the Vacuum Rule and the carb-to-protein inverse ratio above.)
+- **Cutting — roughly 20% of the year.** A deficit to strip the fat the bulk added and reveal the physique.
+- **Maintenance — roughly 5% of the year.** A short bridge from a cut back up into a bulk, letting hormones and appetite normalise before the next surplus.
+
+> [!important] The body-fat gate (the rule the whole loop runs on)
+> The decision is driven by **body-fat % plus strength progress**, not the scale. The hard rule: ==a man should **never run a surplus above ~15% body fat.**== Men tend to grow best pushing in the **~8–12%** window and pull back with a cut around **~15–17%**. Push body fat too high and you feel sluggish, watery, inflamed, and flat in the gym (and insulin sensitivity craters, which is exactly the [[#the-offseason-is-not-a-free-for-all|environment that hinders MPS]]). Push it too low and recovery suffers, hunger ramps, sleep degrades, and performance drops. ==The goal was never to stay shredded year-round — it's to spend most of your time in the range where you can train hard and recover like a normal human.==
+
+**The mini-cycles inside the macro cycles.** Neither a bulk nor a cut runs as a flat line:
+
+- **Inside a cut: refeeds and diet breaks.** A long cut is broken up so performance and hormones don't collapse. A representative ~21-week cut might place **refeeds** (single high-carb days restoring glycogen and leptin) around weeks 3, 6, 12, 15, and 21, with longer **diet breaks** (a week back at maintenance) around weeks 9 and 18. The schedule is the point: planned breaks beat the involuntary binge.
+- **Inside a bulk: the mini-aggressive cut and the continuation check.** A lean bulk is audited, not run blind. Run it ~8 weeks, then assess: ==if you're holding roughly **0.5% bodyweight gain per week**, the surplus is mostly muscle — continue.== Gain much faster than that and you're likely adding fat, not tissue, which is the cue for a brief, aggressive mini-cut (2–4 weeks) to restore insulin-receptor sensitivity before resuming the bulk.
+
+> [!note] This is where the food lever hands off to the drug lever
+> The whole point of running the food on a schedule is that it gives you a clean answer to "what do I change next?" If you're lean and progressing, the food is working — touch nothing. If you stall while lean, add carbs. Only when extra food turns to *fat* instead of strength does the question pass up to the [[#the-adjustment-ladder-how-to-actually-progress|adjustment ladder]] and the gear. The deployment of any [[Part 4.3 - The Bodybuilding Realm|fat-loss accelerator]] is then *tiered to how lean you are* — a light mini-cut gets light tools; only a genuinely lean physique chasing a peak earns the heavy stack.
+
 ---
 ## Post-cycle: sustaining the deflated physique
 
@@ -184,7 +207,53 @@ Coming off is a transition into an **androgen-deficient state**, and the psychol
 - **The professional responsibility.** The professional prioritises the health of the vessel over the vanity of the mirror. Bioidentical hormones, rigorous diagnostics, and environmental periodization are what make a physique a sustainable manifestation of high-level health management rather than a borrowed illusion.
 
 ---
+
 ## The enhanced-longevity year on one page
 
 | Phase | Duration | Pharmacology posture | Focus | Key support |
 |---|---|---|---|---|
+| **Preparation** | Pre-cycle / ongoing | None (natural optimisation) | Sub-12% body fat, dialled food/training/sleep, a strength logbook | [[Part 2.0 - Medical Screening and Monitoring|Baseline bloods]] |
+| **Blast (off-season)** | In blocks, ~8 months "on" across the year | Start low, climb the [[#the-adjustment-ladder-how-to-actually-progress|adjustment ladder]]; bioidentical-first | Lean-bulk growth, [[Part 3.0 - The Eight Anabolic Pathways|multi-pathway]] | [[Part 4.2 - Choosing Your Ancillaries|Protection stack]], ~8-week bloods |
+| **Cut** | Within the on-period | Shift toward [[#wet-vs-dry-is-a-setting-not-a-property|dry compounds]] to hold muscle | Reveal the physique, hold tissue in a deficit | [[Part 4.3 - The Bodybuilding Realm|Realm drawer (tiered)]], [[Part 4.4 - Electrolyte Management|electrolytes]] |
+| **Cruise / down-period** | **3–4 months** | TRT-dose maintenance, never running hot | Restore lipids, liver, kidney, fertility | [[Part 4.5 - Coming Off and PCT|HCG/HMG]], recovery bloods |
+| **Post-cycle (if PCT)** | As needed | Gonadotropins, then SERMs | Restart the HPTA when fully coming off | [[Part 4.5 - Coming Off and PCT|The PCT sequence]] |
+
+*Underneath this pharmacology calendar runs the [[#periodising-the-food-macro-cycles-and-body-fat-gates|food calendar]] (lean-bulk / cut / maintenance with their refeeds and mini-cuts) and the always-on [[Part 4.2 - Choosing Your Ancillaries|protection stack]]. The full week-by-week assembly is in [[Part 5.1 - Putting It All Together|Part 5.1]].*
+
+---
+## Part 3.2 Takeaways
+
+> [!check] Key concepts to internalize
+> 
+> - **The offseason is not a free-for-all** — "Michelin Man" fat gain crushes insulin sensitivity and *hinders* the muscle growth the drugs are paying for.
+> - **Wet vs. dry is a setting, not a property** — a DHT-family compound is the *dial* you use to keep an aromatizing base in range, not a weaker steroid.
+> - **Bioidentical first, exotic last** — exhaust the Golden Triangle (Test, GH, insulin) before reaching for Tren or Deca; add one compound at a time with bloods 4 weeks in.
+> - **Food is the first lever, drugs the last** — climb the adjustment ladder (food → training → dose), and "milk the dose" before raising it.
+> - **Periodise the food, not just the drugs** — lean-bulk / cut / maintenance with refeeds and mini-cuts, governed by the body-fat gate (never surplus above ~15%, push ~8–12%, pull ~15–17%).
+> - **Cycle by the calendar** — ~8 months on / 3–4 months down, because clearing a cycle and *restoring* health are different jobs; muscle memory banks the gains.
+> - **Blood work is the final arbiter** — when a marker deviates, the cycle is adjusted or stopped regardless of the mirror.
+
+## Your Cycle-Design Task List
+
+1. **Map your year before you buy anything** — on-blocks in cooler/lower-stress months, a real 3–4 month down-period, and the food macro cycles underneath.
+2. **Set your body-fat gates** — the surplus ceiling (~15%) and the push/pull windows — and check body-fat % and the logbook before any food or drug change.
+3. **Write the adjustment ladder onto the wall** — food, then training, then dose — and refuse to skip rungs.
+4. **Plan compound additions one at a time**, each with bloods 4 weeks in, and respect the sequencing rules (DHT-family before 19-nor, hematocrit ceiling, Halotestin last-resort, Proviron is not an AI).
+5. **Schedule the down-period as recovery, not a clean-out** — 3–4 months with [[Part 4.5 - Coming Off and PCT|HCG/HMG]], re-baselining bloods before the next push.
+6. **Run it as the [[Part 5.0 - The Operating System|four-pipeline operating system]]** and read the assembled example in [[Part 5.1 - Putting It All Together|Part 5.1]].
+
+---
+
+> [!danger] Disclaimer
+> This article is harm-reduction education, not medical advice or a protocol. It describes how experienced enhanced athletes *structure* a year, not a copy-paste recipe. The few doses mentioned illustrate the "lowest effective dose" philosophy and are not a prescription. The compounds referenced are prescription-only or illegal without a prescription in most jurisdictions, including Malaysia. Individual response varies; work with a qualified physician and rely on [[Part 2.0 - Medical Screening and Monitoring|bloodwork]] and [[Part 2.1 - Continuous Monitoring|monitoring]] before using anything referenced here.
+
+---
+## Sources & references
+
+[^1]: The adjustment ladder (food → training → dose, "milk the dose") and the compound-sequencing rules (one variable at a time with 4-week bloods; exhaust the bioidentical Golden Triangle before exotics; Primobolan/Masteron before Trenbolone; the Test + EQ + Deca hematocrit ceiling; Halotestin as a last-resort plateau-breaker; Proviron as a free-testosterone/SHBG agent, not an aromatase inhibitor) follow the harm-reduction / longevity-minded PED-management approach (Vigorous Steve, MPMD, and similar) used throughout this series; ancillary specifics are in [[Part 4.2 - Choosing Your Ancillaries|Part 4.2]].
+
+[^2]: Myonuclear retention ("muscle memory") — the permanent myonuclei accrued while "on" that let lost volume return within roughly six weeks of resuming a moderate protocol — is introduced in [[Part 1.0 - The Decision|Part 1.0]]; it is what makes a true 3–4 month down-period safe for the physique.
+
+[^3]: SHBG as a *vital carrier* rather than an enemy — it delivers androgens and estrogens to tissue via the SHBG-receptor complex, so crushing it through oral abuse diminishes libido and anabolism — is detailed in [[Part 3.0 - The Eight Anabolic Pathways|Part 3.0 (Pathway 2)]].
+
+[^4]: Cystatin C as the gold-standard estimate of kidney filtration (GFR) in muscular people — unlike creatinine, it is not skewed by muscle mass or creatine supplementation — is covered in [[Part 2.0 - Medical Screening and Monitoring|Part 2.0]].

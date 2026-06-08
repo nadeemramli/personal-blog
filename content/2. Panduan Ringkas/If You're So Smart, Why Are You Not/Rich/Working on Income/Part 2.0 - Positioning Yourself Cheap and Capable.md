@@ -8,7 +8,7 @@ tags:
   - strategy
 date: 2026-05-29
 ---
-> [!abstract] **Part 3 of 7 in the [[Part 1.0 - What Income Actually Is|Income 101 Series]].** [[Part 1.0 - What Income Actually Is|Part 1.0]] set the lens (optionality). [[Part 1.1 - The Four Attributes of a Good Job|Part 1.1]] set the scorecard (the four attributes). This article is the *strategy*: how you actually get into a high-attribute role when you don't yet have the credentials to walk in the front door. It is the bridge between the framework and [[Part 3.0 - The First Economy - The Climb|the Climb]] that follows.
+> [!abstract] **Part 3 of 8 in the [[Part 1.0 - What Income Actually Is|Income 101 Series]].** [[Part 1.0 - What Income Actually Is|Part 1.0]] set the lens (optionality). [[Part 1.1 - The Four Attributes of a Good Job|Part 1.1]] set the scorecard (the four attributes). This article is the *strategy*: how you actually get into a high-attribute role when you don't yet have the credentials to walk in the front door. It is the bridge between the framework and [[Part 3.0 - The First Economy - The Climb|the Climb]] that follows.
 > ----
 ## Table of Contents
 

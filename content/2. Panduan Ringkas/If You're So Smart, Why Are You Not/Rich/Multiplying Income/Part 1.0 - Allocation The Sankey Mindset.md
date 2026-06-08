@@ -46,7 +46,7 @@ date: 2026-05-29
 
 ## Where this series sits
 
-The [[Part 1.0 - What Income Actually Is|Income 101]] series ended with an explicit handoff: once you've engineered your income engine (a job worth doing, an industry that's alive, the [[Part 4.0 - Stacking Economies and Designing Your Life|three economies]] stacked in the right order), the money has to *go somewhere*. This series is where it goes.
+The [[Part 1.0 - What Income Actually Is|Income 101]] series ended with an explicit handoff: once you've engineered your income engine (a job worth doing, an industry that's alive, the [[Part 4.0 - Stacking Economies and Designing Your Life|four economies]] stacked in the right order), the money has to *go somewhere*. This series is where it goes.
 
 The companion piece in the Successful section, [[Financial Freedom Is a Coordinate, Not a Number|Financial Freedom Is a Coordinate]], is the philosophical spine. It argues that freedom is not a number but a *coordinate* on two axes: what you're protecting × how long you can protect it. ==Where the Coordinate piece is the framework, Multiplying Money 101 is the operating manual.== Same map, more roads.
 

@@ -1,0 +1,53 @@
+---
+draft: true
+type: product
+product_id: "methylene-blue-1pct-solution-1000ml-heiltropfen"
+compound: "Methylene Blue"
+name: "1% Methylene Blue solution 1000ml"
+aliases:
+  - Methylene Blue
+brand: "Heiltropfen (USP pharma grade)"
+vendor: "heiltropfen"
+source: "heiltropfen"
+source_url: "https://www.heiltropfen.de/shop/en/home/374-1-methylene-blue-solution-100-ml-3830069051159.html"
+pillar: Fit
+sub_series: Performance Enhancement
+category: Pharmacology
+importance: Slight
+status: planned
+stack: Ancillaries & Supplement
+restock: Not needed now
+dosing: ED
+use: Cutting
+protocols:
+  - "[[Glucose & Insulin Sensitivity Protocol]]"
+  - "[[Cutting Cycle Deployment Protocol]]"
+  - "[[Final Shred Deployment Protocol]]"
+active: false
+count_in_total: true
+package_size: 10000
+size_unit: "mg (1% ×1000ml)"
+base_dose: 10
+dose_unit: "mg"
+cost_per_bottle: 298.85
+list_price: 60.99
+promo_price:
+current_phase: not_started
+stock_on_hand: 0
+daily_dose:
+product_tags:
+  - Cutting
+  - Mitochondrial
+notes: "heiltropfen.de, captured 2026-06-08: **EUR60.99 ≈ RM298.85** (@4.9 FX confirm). USP pharma grade, 3rd-party tested (heavy metals), GMP/ISO facility, formaldehyde-free. **ON SALE EUR60.99 (was 81.89)**: 10,000mg MB, 1 drop = 0.5mg. RM0.0299/mg — best ready-made value; bulk bottle (decant into the 100ml dropper)."
+---
+# Methylene Blue 1% Solution (1000ml) — heiltropfen
+
+**Heiltropfen** · Pharmacology (USP MB) · Fit / Performance Enhancement
+
+> [!info] Wishlist offer — [1% Methylene Blue solution 1000ml @ heiltropfen](https://www.heiltropfen.de/shop/en/home/374-1-methylene-blue-solution-100-ml-3830069051159.html) · EUR60.99 ≈ RM298.85
+> - **ON SALE EUR60.99 (was 81.89)**: 10,000mg MB, 1 drop = 0.5mg. RM0.0299/mg — best ready-made value; bulk bottle (decant into the 100ml dropper).
+> - Sibling offers: [[Methylene Blue (25g powder) — heiltropfen|25g powder]] · [[Methylene Blue Powder (10g) — heiltropfen|10g powder]] · 1% solutions (100ml/1000ml) · 5% (1000ml)
+
+## Links
+- Source: [[heiltropfen]] · Compare: [[Peptide Price Comparison]]
+- Operating system: [[The Operating System]] · [[Product List]] · [[Schema — Data Model]]

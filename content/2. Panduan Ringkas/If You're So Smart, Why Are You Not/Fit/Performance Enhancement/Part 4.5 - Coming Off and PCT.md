@@ -27,9 +27,10 @@ date: 2026-05-26
 > 	- **Part 4.3:** [[Part 4.3 - The Bodybuilding Realm|The Bodybuilding Realm]] — performance & aesthetic compounds
 > 	- **Part 4.4:** [[Part 4.4 - Electrolyte Management|Electrolyte Management]] — water & the mineral balance
 > 	- **Part 4.5 (this article):** [[Part 4.5 - Coming Off and PCT|Coming Off & PCT]] — restoring the HPTA & fertility
-> - **Part 5 — Putting it all together (2 sub-articles):**
-> 	- **Part 5.0:** [[Part 5.0 - Putting It All Together|Putting It All Together]] — the worked 3-year example
-> 	- **Part 5.1:** [[Part 5.1 - Cost|Cost]] — budgeting & stock planning
+> - **Part 5 — Putting it all together (3 sub-articles):**
+> 	- **Part 5.0:** [[Part 5.0 - The Operating System|The Operating System — Four Pipelines]] — the four concurrent control loops
+> 	- **Part 5.1:** [[Part 5.1 - Putting It All Together|Putting It All Together]] — the worked 3-year example
+> 	- **Part 5.2:** [[Part 5.2 - Cost|Cost]] — budgeting & stock planning
 > ----
 ## Table of Contents
 
@@ -145,7 +146,7 @@ Two honest notes: you *can* run a fertility protocol while staying on a TRT base
 ---
 ## The honest caveat
 
-Recovery is not guaranteed, and it's not symmetric. ==The longer you've been suppressed, the older you are, and the more aggressive the compounds, the less completely — and less quickly — the axis bounces back.== Some men recover to full baseline; some land lower than they started; a few don't meaningfully recover and end up on lifelong TRT, which should be a *chosen* destination, not an accident. This is the biological accounting from [[Part 3.2 - Cycle Design|Cycle Design]] and the [[Part 5.0 - Putting It All Together|Years 4–5 horizon]] made concrete: PCT is the tool that keeps "coming back" on the table — but the surest protection is the restraint that came before it.
+Recovery is not guaranteed, and it's not symmetric. ==The longer you've been suppressed, the older you are, and the more aggressive the compounds, the less completely — and less quickly — the axis bounces back.== Some men recover to full baseline; some land lower than they started; a few don't meaningfully recover and end up on lifelong TRT, which should be a *chosen* destination, not an accident. This is the biological accounting from [[Part 3.2 - Cycle Design|Cycle Design]] and the [[Part 5.1 - Putting It All Together|Years 4–5 horizon]] made concrete: PCT is the tool that keeps "coming back" on the table — but the surest protection is the restraint that came before it.
 
 ---
 ## Part 4.5 Takeaways
@@ -172,7 +173,7 @@ Recovery is not guaranteed, and it's not symmetric. ==The longer you've been sup
 7. **Phase 3 — verify with bloods** at baseline and ~4–6 weeks post-SERM (Test, LH, FSH, SHBG); reassess with a physician if LH/FSH haven't climbed.
 
 > [!note] Up next
-> That closes the protection toolbox — mechanisms ([[Part 4.0 - Protection|4.0]]), diagnostics ([[Part 4.1 - When the Numbers Move|4.1]]), ancillary selection ([[Part 4.2 - Choosing Your Ancillaries|4.2]]), the performance drawer ([[Part 4.3 - The Bodybuilding Realm|4.3]]), electrolytes ([[Part 4.4 - Electrolyte Management|4.4]]), and now coming off cleanly. **Part 5** assembles all of it into a [[Part 5.0 - Putting It All Together|worked three-year example]] — including where PCT and the down-period sit on the calendar — and the [[Part 5.1 - Cost|budgeting and stock plan]] that makes it sustainable.
+> That closes the protection toolbox — mechanisms ([[Part 4.0 - Protection|4.0]]), diagnostics ([[Part 4.1 - When the Numbers Move|4.1]]), ancillary selection ([[Part 4.2 - Choosing Your Ancillaries|4.2]]), the performance drawer ([[Part 4.3 - The Bodybuilding Realm|4.3]]), electrolytes ([[Part 4.4 - Electrolyte Management|4.4]]), and now coming off cleanly. **Part 5** assembles all of it: the [[Part 5.0 - The Operating System|four-pipeline operating system]], a [[Part 5.1 - Putting It All Together|worked three-year example]] (including where PCT and the down-period sit on the calendar), and the [[Part 5.2 - Cost|budgeting and stock plan]] that makes it sustainable.
 
 ---
 

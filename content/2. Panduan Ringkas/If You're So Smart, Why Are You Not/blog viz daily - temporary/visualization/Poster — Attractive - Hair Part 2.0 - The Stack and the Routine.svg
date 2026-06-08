@@ -1,0 +1,256 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1580" font-family="'Inter','DejaVu Sans',system-ui,-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif">
+<defs>
+<pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="0" cy="0" r="1.1" fill="#1E2024" opacity="0.05"/></pattern>
+<pattern id="warmh" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="9" height="9" fill="#EBD8C7"/><line x1="0" y1="0" x2="0" y2="9" stroke="#C2703D" stroke-width="1.1" opacity="0.5"/></pattern>
+<pattern id="slabh" width="11" height="11" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="11" height="11" fill="#E7D0BC"/><line x1="0" y1="0" x2="0" y2="11" stroke="#C2703D" stroke-width="1.7" opacity="0.6"/></pattern>
+<pattern id="memh" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#EFE4D6"/><line x1="0" y1="0" x2="8" y2="8" stroke="#C2703D" stroke-width="0.9" opacity="0.55"/><line x1="8" y1="0" x2="0" y2="8" stroke="#C2703D" stroke-width="0.9" opacity="0.55"/></pattern>
+<pattern id="redh" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#EAD3CE"/><line x1="0" y1="0" x2="0" y2="8" stroke="#D9483B" stroke-width="1.2" opacity="0.6"/></pattern>
+<pattern id="earth" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="14" height="14" fill="#DAD5CC"/><line x1="0" y1="0" x2="0" y2="14" stroke="#9A958C" stroke-width="1" opacity="0.5"/></pattern>
+<marker id="aW" markerWidth="10" markerHeight="10" refX="6" refY="4.5" orient="auto"><path d="M2,1 L8,4.5 L2,8" fill="none" stroke="#C2703D" stroke-width="1.6"/></marker>
+<marker id="aWup" markerWidth="10" markerHeight="10" refX="4.5" refY="3" orient="auto"><path d="M1,8 L4.5,2 L8,8" fill="none" stroke="#C2703D" stroke-width="1.6"/></marker>
+<marker id="aK" markerWidth="10" markerHeight="10" refX="6" refY="4.5" orient="auto"><path d="M2,1 L8,4.5 L2,8" fill="none" stroke="#1E2024" stroke-width="1.4"/></marker>
+<marker id="aC" markerWidth="10" markerHeight="10" refX="6" refY="4.5" orient="auto"><path d="M2,1 L8,4.5 L2,8" fill="none" stroke="#5E7585" stroke-width="1.5"/></marker>
+<marker id="aR" markerWidth="10" markerHeight="10" refX="6" refY="4.5" orient="auto"><path d="M2,1 L8,4.5 L2,8" fill="none" stroke="#D9483B" stroke-width="1.7"/></marker>
+</defs>
+<rect width="1200" height="1580" fill="#F4F1EA"/>
+<rect width="1200" height="1580" fill="url(#dots)"/>
+<rect x="26" y="26" width="1148" height="1528" fill="none" stroke="#1E2024" stroke-width="1" opacity="0.35"/>
+<line x1="12" y1="26" x2="40" y2="26" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="26" y1="12" x2="26" y2="40" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="1160" y1="26" x2="1188" y2="26" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="1174" y1="12" x2="1174" y2="40" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="12" y1="1554" x2="40" y2="1554" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="26" y1="1540" x2="26" y2="1568" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="1160" y1="1554" x2="1188" y2="1554" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="1174" y1="1540" x2="1174" y2="1568" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<text x="56" y="78" font-size="13" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="3">ATTRACTIVE / ASSEMBLY SECTION &#8212; SHEET H2.0</text>
+<text x="56" y="128" font-size="41" font-weight="700" fill="#1E2024" letter-spacing="1.5">A STACK IS A BUILDING, NOT A LIST.</text>
+<line x1="56" y1="148" x2="1144" y2="148" stroke="#1E2024" stroke-width="1.4"/>
+<text x="56" y="170" font-size="12.5" fill="#1E2024" opacity="0.75" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="0.5">Part 2.0 of 3 · Hair · the Attractive pillar · the final article</text>
+<text x="1144" y="170" text-anchor="end" font-size="12.5" fill="#1E2024" opacity="0.6" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">section: read bottom &#8593; top · load-bearing order</text>
+<path d="M64,184 L70,176 L76,184" fill="none" stroke="#1E2024" stroke-width="1.3" opacity="0.6"/><line x1="70" y1="192" x2="70" y2="178" stroke="#1E2024" stroke-width="1.2" opacity="0.55"/>
+<text x="86" y="190" font-size="10.5" fill="#1E2024" opacity="0.6" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="2">LOAD-BEARING ORDER</text>
+<rect x="300" y="1148" width="560" height="20" fill="url(#earth)" opacity="0.75"/>
+<line x1="312" y1="1148" x2="306" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="332" y1="1148" x2="326" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="352" y1="1148" x2="346" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="372" y1="1148" x2="366" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="392" y1="1148" x2="386" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="412" y1="1148" x2="406" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="432" y1="1148" x2="426" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="452" y1="1148" x2="446" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="472" y1="1148" x2="466" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="492" y1="1148" x2="486" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="512" y1="1148" x2="506" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="532" y1="1148" x2="526" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="552" y1="1148" x2="546" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="572" y1="1148" x2="566" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="592" y1="1148" x2="586" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="612" y1="1148" x2="606" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="632" y1="1148" x2="626" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="652" y1="1148" x2="646" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="672" y1="1148" x2="666" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="692" y1="1148" x2="686" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="712" y1="1148" x2="706" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="732" y1="1148" x2="726" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="752" y1="1148" x2="746" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="772" y1="1148" x2="766" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="792" y1="1148" x2="786" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="812" y1="1148" x2="806" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="832" y1="1148" x2="826" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="852" y1="1148" x2="846" y2="1157" stroke="#9A958C" stroke-width="1" opacity="0.55"/>
+<line x1="300" y1="1148" x2="860" y2="1148" stroke="#9A958C" stroke-width="2.2"/>
+<line x1="340" y1="1152" x2="340" y2="1164" stroke="#9A958C" stroke-width="1.4" opacity="0.6"/>
+<circle cx="340" cy="1166" r="2.4" fill="none" stroke="#9A958C" stroke-width="1.1" opacity="0.6"/>
+<line x1="410" y1="1152" x2="410" y2="1164" stroke="#9A958C" stroke-width="1.4" opacity="0.6"/>
+<circle cx="410" cy="1166" r="2.4" fill="none" stroke="#9A958C" stroke-width="1.1" opacity="0.6"/>
+<line x1="480" y1="1152" x2="480" y2="1164" stroke="#9A958C" stroke-width="1.4" opacity="0.6"/>
+<circle cx="480" cy="1166" r="2.4" fill="none" stroke="#9A958C" stroke-width="1.1" opacity="0.6"/>
+<line x1="550" y1="1152" x2="550" y2="1164" stroke="#9A958C" stroke-width="1.4" opacity="0.6"/>
+<circle cx="550" cy="1166" r="2.4" fill="none" stroke="#9A958C" stroke-width="1.1" opacity="0.6"/>
+<line x1="620" y1="1152" x2="620" y2="1164" stroke="#9A958C" stroke-width="1.4" opacity="0.6"/>
+<circle cx="620" cy="1166" r="2.4" fill="none" stroke="#9A958C" stroke-width="1.1" opacity="0.6"/>
+<line x1="690" y1="1152" x2="690" y2="1164" stroke="#9A958C" stroke-width="1.4" opacity="0.6"/>
+<circle cx="690" cy="1166" r="2.4" fill="none" stroke="#9A958C" stroke-width="1.1" opacity="0.6"/>
+<line x1="760" y1="1152" x2="760" y2="1164" stroke="#9A958C" stroke-width="1.4" opacity="0.6"/>
+<circle cx="760" cy="1166" r="2.4" fill="none" stroke="#9A958C" stroke-width="1.1" opacity="0.6"/>
+<line x1="830" y1="1152" x2="830" y2="1164" stroke="#9A958C" stroke-width="1.4" opacity="0.6"/>
+<circle cx="830" cy="1166" r="2.4" fill="none" stroke="#9A958C" stroke-width="1.1" opacity="0.6"/>
+<text x="580.0" y="1186" text-anchor="middle" font-size="11.5" fill="#9A958C" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="0.5">BELOW GRADE &#8212; the living follicles Part 1.1 said are still left of the line.</text>
+<rect x="300" y="826" width="560" height="306" fill="url(#slabh)" stroke="#C2703D" stroke-width="3"/>
+<line x1="300" y1="886" x2="860" y2="886" stroke="#C2703D" stroke-width="0.9" opacity="0.35"/>
+<line x1="300" y1="946" x2="860" y2="946" stroke="#C2703D" stroke-width="0.9" opacity="0.35"/>
+<line x1="300" y1="1006" x2="860" y2="1006" stroke="#C2703D" stroke-width="0.9" opacity="0.35"/>
+<line x1="300" y1="1066" x2="860" y2="1066" stroke="#C2703D" stroke-width="0.9" opacity="0.35"/>
+<line x1="300" y1="1126" x2="860" y2="1126" stroke="#C2703D" stroke-width="0.9" opacity="0.35"/>
+<text x="580.0" y="904" text-anchor="middle" font-size="40" font-weight="700" fill="#C2703D" letter-spacing="2">THE 90%</text>
+<text x="580.0" y="942" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="1">adherence + the diagnostic loop</text>
+<text x="580.0" y="976" text-anchor="middle" font-size="13" fill="#1E2024" opacity="0.78">hit it every day · hold the Month-3 shed · re-audit at 6 &amp; 12 mo</text>
+<text x="580.0" y="1008" text-anchor="middle" font-size="13.5" font-weight="700" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">&#8593; everything above is the 10%</text>
+<line x1="278" y1="826" x2="278" y2="1132" stroke="#5E7585" stroke-width="1.1"/>
+<line x1="273" y1="826" x2="283" y2="826" stroke="#5E7585" stroke-width="1.1"/>
+<line x1="273" y1="1132" x2="283" y2="1132" stroke="#5E7585" stroke-width="1.1"/>
+<text transform="translate(268,979.0) rotate(-90)" text-anchor="middle" font-size="10.5" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="1">LOAD-BEARING · the result lives here</text>
+<path d="M790,1132 l-8,-26 l12,-20 l-9,-24" fill="none" stroke="#D9483B" stroke-width="2.2"/>
+<text x="802" y="1046" font-size="10.5" fill="#D9483B" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">skip two weeks &#8212;</text>
+<text x="802" y="1060" font-size="10.5" fill="#D9483B" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">the slab cracks,</text>
+<text x="802" y="1074" font-size="10.5" fill="#D9483B" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">the coats go with it.</text>
+<text x="300" y="630" font-size="14" font-weight="700" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="1.5">TIER 1 · THE PHARMACY SPINE</text>
+<text x="860" y="630" text-anchor="end" font-size="11.5" fill="#1E2024" opacity="0.7" font-style="italic">most of the response lives here</text>
+<rect x="300.0" y="640" width="132.5" height="162" fill="url(#warmh)" stroke="#C2703D" stroke-width="2.2"/>
+<text x="366.25" y="706" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1E2024">oral minoxidil</text>
+<line x1="314.0" y1="768" x2="418.5" y2="768" stroke="#5E7585" stroke-width="1" marker-start="url(#aC)" marker-end="url(#aC)"/>
+<text x="366.25" y="786" text-anchor="middle" font-size="12.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">2.5–5 mg</text>
+<rect x="442.5" y="640" width="132.5" height="162" fill="url(#warmh)" stroke="#C2703D" stroke-width="2.2"/>
+<text x="508.75" y="698" text-anchor="middle" font-size="13" font-weight="700" fill="#1E2024">topical minoxidil</text>
+<text x="508.75" y="716" text-anchor="middle" font-size="13" font-weight="700" fill="#1E2024">5% + tretinoin</text>
+<line x1="456.5" y1="768" x2="561.0" y2="768" stroke="#5E7585" stroke-width="1" marker-start="url(#aC)" marker-end="url(#aC)"/>
+<text x="508.75" y="786" text-anchor="middle" font-size="12.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">0.025%</text>
+<rect x="585.0" y="640" width="132.5" height="162" fill="url(#warmh)" stroke="#C2703D" stroke-width="2.2"/>
+<text x="651.25" y="706" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1E2024">ketoconazole</text>
+<line x1="599.0" y1="768" x2="703.5" y2="768" stroke="#5E7585" stroke-width="1" marker-start="url(#aC)" marker-end="url(#aC)"/>
+<text x="651.25" y="786" text-anchor="middle" font-size="12.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">2% (or 1%)</text>
+<rect x="727.5" y="640" width="132.5" height="162" fill="url(#warmh)" stroke="#C2703D" stroke-width="2.2"/>
+<text x="793.75" y="706" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1E2024">alpha-estradiol</text>
+<line x1="741.5" y1="768" x2="846.0" y2="768" stroke="#5E7585" stroke-width="1" marker-start="url(#aC)" marker-end="url(#aC)"/>
+<text x="793.75" y="786" text-anchor="middle" font-size="12.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">0.025%</text>
+<rect x="300" y="556" width="560" height="56" fill="url(#memh)" stroke="#C2703D" stroke-width="2.2"/>
+<circle cx="330" cy="584.0" r="15" fill="#F4F1EA" stroke="#C2703D" stroke-width="2"/>
+<text x="330" y="591.0" text-anchor="middle" font-size="20" font-weight="700" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">&#215;</text>
+<text x="358" y="578" font-size="13" font-weight="700" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="0.5">THE MECHANICAL LAYER &#8212; multiplies the chemistry, doesn’t replace it</text>
+<text x="358" y="600" font-size="11" font-weight="700" fill="#1E2024" opacity="1" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">microneedling 1.0–1.5 mm ×weekly</text>
+<text x="538" y="600" font-size="11" font-weight="400" fill="#1E2024" opacity="0.7" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">scalp massage 4–5 min daily</text>
+<text x="718" y="600" font-size="11" font-weight="400" fill="#1E2024" opacity="0.7" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">LLLT 650–670 nm 3–4× wk</text>
+<line x1="834" y1="554" x2="834" y2="536" stroke="#C2703D" stroke-width="1.8" marker-end="url(#aWup)"/>
+<line x1="834" y1="614" x2="834" y2="632" stroke="#C2703D" stroke-width="1.8" marker-end="url(#aW)"/>
+<text transform="translate(846,584.0) rotate(-90)" text-anchor="middle" font-size="9.5" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">amplifies both</text>
+<text x="324" y="386" font-size="14" font-weight="700" fill="#C2703D" opacity="0.85" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="1.5">TIER 2 · THE RESEARCH STACK</text>
+<text x="860" y="386" text-anchor="end" font-size="11.5" fill="#1E2024" opacity="0.65" font-style="italic">meaningful on top, trivial without</text>
+<rect x="324.0" y="396" width="120.5" height="132" fill="#F4F1EA" stroke="#C2703D" stroke-width="1.5" stroke-dasharray="5 4" opacity="0.95"/>
+<text x="384.25" y="446" text-anchor="middle" font-size="14" font-weight="700" fill="#1E2024">RU58841</text>
+<text x="384.25" y="470" text-anchor="middle" font-size="11.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">5%</text>
+<rect x="454.5" y="396" width="120.5" height="132" fill="#F4F1EA" stroke="#C2703D" stroke-width="1.5" stroke-dasharray="5 4" opacity="0.95"/>
+<text x="514.75" y="446" text-anchor="middle" font-size="14" font-weight="700" fill="#1E2024">MK-677</text>
+<text x="514.75" y="470" text-anchor="middle" font-size="11.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">20 mg</text>
+<circle cx="514.75" cy="496" r="9" fill="none" stroke="#C2703D" stroke-width="1.4"/>
+<line x1="514.75" y1="496" x2="514.75" y2="490" stroke="#C2703D" stroke-width="1.4"/>
+<line x1="514.75" y1="496" x2="518.75" y2="498" stroke="#C2703D" stroke-width="1.4"/>
+<text x="529.75" y="500" font-size="9" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">cycle</text>
+<rect x="585.0" y="396" width="120.5" height="132" fill="#F4F1EA" stroke="#C2703D" stroke-width="1.5" stroke-dasharray="5 4" opacity="0.95"/>
+<text x="645.25" y="446" text-anchor="middle" font-size="14" font-weight="700" fill="#1E2024">GHK-Cu</text>
+<text x="645.25" y="470" text-anchor="middle" font-size="11.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">2 mg SubQ EOD</text>
+<rect x="715.5" y="396" width="120.5" height="132" fill="#F4F1EA" stroke="#C2703D" stroke-width="1.5" stroke-dasharray="5 4" opacity="0.95"/>
+<text x="775.75" y="446" text-anchor="middle" font-size="14" font-weight="700" fill="#1E2024">KPV</text>
+<text x="775.75" y="470" text-anchor="middle" font-size="11.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">500 mcg SubQ daily</text>
+<text x="580.0" y="366" text-anchor="middle" font-size="11" fill="#1E2024" opacity="0.6" font-style="italic">&#8212; the building stands without this course &#8212;</text>
+<rect x="56" y="404" width="226" height="156" fill="url(#redh)" stroke="#D9483B" stroke-width="2.6"/>
+<rect x="56" y="404" width="226" height="22" fill="#D9483B"/>
+<text x="169.0" y="420" text-anchor="middle" font-size="11.5" font-weight="700" fill="#F4F1EA" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="1.5">&#9888; THE BREACH INTERLOCK</text>
+<line x1="74" y1="466" x2="118" y2="466" stroke="#1E2024" stroke-width="2.4"/>
+<text x="96" y="484" text-anchor="middle" font-size="8.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">SEALED ok</text>
+<line x1="220" y1="466" x2="264" y2="466" stroke="#D9483B" stroke-width="2.4" stroke-dasharray="4 4"/>
+<line x1="230" y1="466" x2="230" y2="454" stroke="#D9483B" stroke-width="1.4"/>
+<path d="M227,454 L230,449 L233,454" fill="none" stroke="#D9483B" stroke-width="1.2"/>
+<line x1="242" y1="466" x2="242" y2="454" stroke="#D9483B" stroke-width="1.4"/>
+<path d="M239,454 L242,449 L245,454" fill="none" stroke="#D9483B" stroke-width="1.2"/>
+<line x1="254" y1="466" x2="254" y2="454" stroke="#D9483B" stroke-width="1.4"/>
+<path d="M251,454 L254,449 L257,454" fill="none" stroke="#D9483B" stroke-width="1.2"/>
+<text x="242" y="484" text-anchor="middle" font-size="8.5" fill="#D9483B" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">NEEDLED open</text>
+<text x="169.0" y="512" text-anchor="middle" font-size="11.5" font-weight="700" fill="#D9483B" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">MICRONEEDLE NIGHT</text>
+<text x="169.0" y="528" text-anchor="middle" font-size="11.5" font-weight="700" fill="#D9483B" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">= TOPICALS OFF</text>
+<text x="169.0" y="546" text-anchor="middle" font-size="9.5" fill="#1E2024" opacity="0.8" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">resume +24 h · RU58841 +48 h</text>
+<path d="M282,482.0 C312,482.0 270,584.0 300,584.0" fill="none" stroke="#D9483B" stroke-width="2" stroke-dasharray="5 4" marker-end="url(#aR)"/>
+<text x="291.0" y="552.0" text-anchor="middle" font-size="9" fill="#D9483B" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-style="italic">a needled scalp turns a LOCAL topical SYSTEMIC</text>
+<rect x="56" y="640" width="226" height="172" fill="none" stroke="#1E2024" stroke-width="1.4"/>
+<text x="169.0" y="660" text-anchor="middle" font-size="10.5" font-weight="700" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="1">KEPT LOCAL ON PURPOSE</text>
+<rect x="86" y="674" width="166" height="40" fill="none" stroke="#1E2024" stroke-width="1" stroke-dasharray="3 3" opacity="0.55"/>
+<text x="169.0" y="691" text-anchor="middle" font-size="9" fill="#1E2024" opacity="0.7" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">UPSTAIRS &#8212; left intact</text>
+<text x="169.0" y="705" text-anchor="middle" font-size="8.5" fill="#1E2024" opacity="0.6" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">allopregnanolone · mood · drive</text>
+<line x1="82" y1="738" x2="128" y2="738" stroke="#9A958C" stroke-width="2.4" stroke-dasharray="5 4"/>
+<line x1="134" y1="730" x2="142" y2="746" stroke="#9A958C" stroke-width="2"/>
+<line x1="146" y1="730" x2="154" y2="746" stroke="#9A958C" stroke-width="2"/>
+<line x1="160" y1="738" x2="256" y2="738" stroke="#9A958C" stroke-width="2.4" stroke-dasharray="5 4" opacity="0.5"/>
+<text x="169.0" y="758" text-anchor="middle" font-size="9" fill="#9A958C" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">systemic mains &#8212; DISCONNECTED</text>
+<rect x="100" y="778" width="138" height="30" rx="14" fill="none" stroke="#C2703D" stroke-width="2"/>
+<text x="169.0" y="797" text-anchor="middle" font-size="9.5" font-weight="700" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">LOCAL LOOP · scalp only</text>
+<text x="169.0" y="802" text-anchor="middle" font-size="9" fill="#1E2024" opacity="0.7" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">no finasteride wired to the mains</text>
+<line x1="282" y1="726.0" x2="300" y2="721.0" stroke="#1E2024" stroke-width="1.2" stroke-dasharray="4 4" opacity="0.6" marker-end="url(#aK)"/>
+<text x="984" y="386" font-size="11" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="1">THE PHASING RAIL</text>
+<text x="984" y="402" font-size="9.5" fill="#1E2024" opacity="0.6" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">the gaps are the lesson</text>
+<line x1="998" y1="412" x2="998" y2="1130" stroke="#5E7585" stroke-width="1.6"/>
+<circle cx="998" cy="430" r="4" fill="#5E7585"/>
+<text x="1012" y="426" font-size="11.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">8:00 AM</text>
+<text x="1012" y="442" font-size="11" fill="#1E2024">oral min + alpha-E2</text>
+<text x="1012" y="457" font-size="9.5" fill="#1E2024" opacity="0.6" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">AM only</text>
+<circle cx="998" cy="550" r="4" fill="#5E7585"/>
+<text x="1012" y="546" font-size="11.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">9:00 PM</text>
+<text x="1012" y="562" font-size="11" fill="#1E2024">RU58841</text>
+<line x1="990" y1="558" x2="990" y2="628" stroke="#5E7585" stroke-width="1"/>
+<line x1="985" y1="558" x2="995" y2="558" stroke="#5E7585" stroke-width="1"/>
+<line x1="985" y1="628" x2="995" y2="628" stroke="#5E7585" stroke-width="1"/>
+<text transform="translate(980,593.0) rotate(-90)" text-anchor="middle" font-size="9" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">dry 15–20 min</text>
+<circle cx="998" cy="650" r="4" fill="#5E7585"/>
+<text x="1012" y="646" font-size="11.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">9:30 PM</text>
+<text x="1012" y="662" font-size="11" fill="#1E2024">minoxidil</text>
+<line x1="990" y1="658" x2="990" y2="718" stroke="#5E7585" stroke-width="1"/>
+<line x1="985" y1="658" x2="995" y2="658" stroke="#5E7585" stroke-width="1"/>
+<line x1="985" y1="718" x2="995" y2="718" stroke="#5E7585" stroke-width="1"/>
+<text transform="translate(980,688.0) rotate(-90)" text-anchor="middle" font-size="9" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">dry 10 min</text>
+<circle cx="998" cy="740" r="4" fill="#5E7585"/>
+<text x="1012" y="736" font-size="11.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">then</text>
+<text x="1012" y="752" font-size="11" fill="#1E2024">tretinoin</text>
+<circle cx="998" cy="830" r="4" fill="#5E7585"/>
+<text x="1012" y="826" font-size="11.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">M/W/F</text>
+<text x="1012" y="842" font-size="11" fill="#1E2024">ketoconazole</text>
+<text x="1012" y="857" font-size="9.5" fill="#1E2024" opacity="0.6" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">non-topical window</text>
+<circle cx="998" cy="920" r="4" fill="#5E7585"/>
+<text x="1012" y="916" font-size="11.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">weekly</text>
+<text x="1012" y="932" font-size="11" fill="#1E2024">microneedle</text>
+<text x="1012" y="947" font-size="9.5" fill="#1E2024" opacity="0.6" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">TOPICALS OFF</text>
+<circle cx="998" cy="920" r="6" fill="none" stroke="#D9483B" stroke-width="2"/>
+<path d="M1138,424 h8 v322 h-8" fill="none" stroke="#1E2024" stroke-width="1.3" opacity="0.55"/>
+<text transform="translate(1159,585) rotate(90)" text-anchor="middle" font-size="9.5" fill="#1E2024" opacity="0.7" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="0.5">AM / PM SPLIT &#8212; one split, never one saturation event</text>
+<line x1="56" y1="1196" x2="1144" y2="1196" stroke="#1E2024" stroke-width="1" opacity="0.4"/>
+<rect x="56" y="1214" width="664" height="202" fill="none" stroke="#5E7585" stroke-width="1.6"/>
+<text x="72" y="1238" font-size="11" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="2">THE IMPACT LADDER · WHERE THE LEVERAGE IS</text>
+<text x="72" y="1264" font-size="12.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">1</text>
+<text x="94" y="1264" font-size="13" font-weight="700" fill="#1E2024">catch it early</text>
+<text x="704" y="1264" text-anchor="end" font-size="10" fill="#1E2024" opacity="0.6" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">left of the line (Part 1.1)</text>
+<rect x="94" y="1269" width="300" height="4" fill="#5E7585" opacity="0.85"/>
+<text x="72" y="1289" font-size="12.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">2</text>
+<text x="94" y="1289" font-size="13" font-weight="700" fill="#1E2024">daily adherence</text>
+<text x="704" y="1289" text-anchor="end" font-size="10" fill="#1E2024" opacity="0.6" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">the 90% — non-negotiable</text>
+<rect x="94" y="1294" width="258" height="4" fill="#5E7585" opacity="0.75"/>
+<text x="72" y="1314" font-size="12.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">3</text>
+<text x="94" y="1314" font-size="13" font-weight="700" fill="#1E2024">Tier-1 spine</text>
+<text x="704" y="1314" text-anchor="end" font-size="10" fill="#1E2024" opacity="0.6" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">most of the response</text>
+<rect x="94" y="1319" width="216" height="4" fill="#5E7585" opacity="0.65"/>
+<text x="72" y="1339" font-size="12.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">4</text>
+<text x="94" y="1339" font-size="13" font-weight="700" fill="#1E2024">mechanical multiplier</text>
+<text x="704" y="1339" text-anchor="end" font-size="10" fill="#1E2024" opacity="0.6" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">amplifies the rest</text>
+<rect x="94" y="1344" width="174" height="4" fill="#5E7585" opacity="0.55"/>
+<text x="72" y="1364" font-size="12.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">5</text>
+<text x="94" y="1364" font-size="13" font-weight="700" fill="#1E2024">Tier-2 research stack</text>
+<text x="704" y="1364" text-anchor="end" font-size="10" fill="#1E2024" opacity="0.6" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">on top, optional</text>
+<rect x="94" y="1369" width="132" height="4" fill="#5E7585" opacity="0.45"/>
+<text x="72" y="1389" font-size="12.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">6</text>
+<text x="94" y="1389" font-size="13" font-weight="700" fill="#1E2024">transplant</text>
+<text x="704" y="1389" text-anchor="end" font-size="10" fill="#1E2024" opacity="0.6" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">only past the line</text>
+<rect x="94" y="1394" width="90" height="4" fill="#5E7585" opacity="0.35"/>
+<rect x="744" y="1214" width="400" height="202" fill="none" stroke="#1E2024" stroke-width="1.6"/>
+<text x="760" y="1238" font-size="11" font-weight="700" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="2">THE PROPORTION</text>
+<rect x="760" y="1272" width="331" height="40" fill="url(#warmh)" stroke="#C2703D" stroke-width="2"/>
+<rect x="1091" y="1272" width="37" height="40" fill="#E3E7E9" stroke="#5E7585" stroke-width="2"/>
+<text x="926" y="1297" text-anchor="middle" font-size="15" font-weight="700" fill="#C2703D">90% FOUNDATION</text>
+<text x="1110" y="1328" text-anchor="middle" font-size="10" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">10%</text>
+<text x="944.0" y="1354" text-anchor="middle" font-size="14" font-weight="700" fill="#1E2024" font-style="italic">the chemistry is the 10%.</text>
+<text x="944.0" y="1380" text-anchor="middle" font-size="11.5" fill="#1E2024" opacity="0.7" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">run it the other way and the slab cracks.</text>
+<line x1="56" y1="1454" x2="1144" y2="1454" stroke="#1E2024" stroke-width="1.4"/>
+<text x="600.0" y="1498" text-anchor="middle" font-size="33" font-weight="700" fill="#1E2024" letter-spacing="1.5">GET THE 90% RIGHT, THEN LAYER THE 10%.</text>
+<rect x="100" y="1522" width="317" height="30" rx="15" fill="none" stroke="#C2703D" stroke-width="2"/>
+<text x="259" y="1542" text-anchor="middle" font-size="13" font-weight="700" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="1">STACK BY LOAD</text>
+<rect x="441" y="1522" width="317" height="30" rx="15" fill="none" stroke="#5E7585" stroke-width="2"/>
+<text x="600" y="1542" text-anchor="middle" font-size="13" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="1">APPLY IN SEQUENCE</text>
+<rect x="783" y="1522" width="317" height="30" rx="15" fill="none" stroke="#D9483B" stroke-width="2"/>
+<text x="941" y="1542" text-anchor="middle" font-size="13" font-weight="700" fill="#D9483B" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="1">NEVER BREACH THE LOOP</text>
+</svg>

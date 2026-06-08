@@ -55,7 +55,7 @@ date: 2026-05-30
 
 ## Where this series sits
 
-[[Part 1.0 - What Income Actually Is|Income 101]] was about *why* income matters (it buys optionality) and *how to position yourself* inside the labour market (cheap-and-capable, target the startup, stack three economies). It ended with a handoff: once you've decided income is the project, the next question is *what capability is the income built on*.
+[[Part 1.0 - What Income Actually Is|Income 101]] was about *why* income matters (it buys optionality) and *how to position yourself* inside the labour market (cheap-and-capable, target the startup, stack the four economies). It ended with a handoff: once you've decided income is the project, the next question is *what capability is the income built on*.
 
 [[Part 1.0 - Allocation The Sankey Mindset|Multiplying Money 101]] is downstream of that. It tells you what to do with the money once you've earned it (allocate, defend, multiply, then stop forcing it). It assumes the income exists.
 

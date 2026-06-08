@@ -1,0 +1,66 @@
+---
+draft: true
+type: product
+product_id: "rosuvastatin-10mgx28tab-shopee-china"
+compound: "Rosuvastatin"
+aliases:
+  - "Rosuvastatin"
+name: "Rosuvastatin"
+brand: "shopee-china"
+vendor: "shopee-china"
+source: "shopee-china"
+pillar: "Healthy"
+sub_series: "Blueprint (General)"
+category: "Ancillary"
+importance: "Very"
+status: "active"
+stack: "Ancillaries & Supplement"
+restock: "Not needed now"
+dosing: "ED"
+use: "Daily"
+protocols:
+  - "[[Year-Round Shield]]"
+  - "[[Lipid Management Protocol]]"
+active: true
+count_in_total: true
+cycle_weeks: 52
+package_size: 28
+size_unit: "tabs"
+base_dose: 10
+dose_unit: "mg"
+cost_per_bottle: 13.23
+list_price: 
+promo_price: 
+current_phase: "not_started"
+stock_on_hand: 5600
+daily_dose: 10
+product_tags:
+  - Cardio-protective
+notes: "Vendor options: current [[shopee-china]] RM264.52/560×10mg (~RM0.047/mg, cheapest landed for MY). ALT [[indiamart]] Rosuvas 10mg (GS Associates, verified) USD3.51/box (10×20=200 tabs) ≈ RM16.5/box → ~RM0.008/mg if bundling intl. Source: https://export.indiamart.com/products/?id=2854745398955&pos=2&kwd=rosuvastatin . Split a 20mg per deals note. [lipid core, 10mg ED]"
+---
+# Rosuvastatin
+
+**shopee-china** · Ancillary · Healthy / Blueprint (General)
+
+> [!info] Quick reference
+> - **Dose:** 10mg per serving (5.0mg per half) · **Schedule:** [[ED — Every Day|Every Day]]
+> - **Cost:** RM264.52 per tabs · ~RM0.4724/unit
+> - **Importance:** Very · **Status:** paused · **Source:** shopee-china
+
+## How I use it
+- **Protocol:** Healthy / Blueprint (General)
+- **Pattern:** Daily
+- **Tags:** Cardio-protective
+
+## Dosing tiers
+| Tier | Weekly serving | Cost / serving | Cost / cycle |
+|---|---|---|---|
+| early | 3.5 | RM0.24 | RM42.98 |
+| medium | 7 | RM0.47 | RM171.94 |
+| high | 14 | RM0.94 | RM687.75 |
+| highest | 28 | RM1.89 | RM2,751.01 |
+
+## Links
+- Schedule: [[ED — Every Day]]
+- Source: [[shopee-china]]
+- Operating s

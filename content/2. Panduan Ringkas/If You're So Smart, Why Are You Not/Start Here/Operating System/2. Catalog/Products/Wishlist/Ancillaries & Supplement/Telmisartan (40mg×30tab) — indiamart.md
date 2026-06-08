@@ -1,0 +1,58 @@
+---
+draft: true
+type: product
+product_id: "telmisartan-40mgx30tab-indiamart"
+compound: "Micardis"
+name: "Telmisartan"
+aliases:
+  - Micardis
+brand: "Micardis (Boehringer Ingelheim)"
+vendor: indiamart
+source: indiamart
+supplier: "Dev Impex (Maharashtra, India) — verified exporter, TrustSEAL"
+source_url: "https://export.indiamart.com/products/?id=2859275695655&pos=10&kwd=micardis"
+pillar: Healthy
+sub_series: Blueprint (General)
+category: Ancillary
+importance: Very
+status: planned
+stack: Ancillaries & Supplement
+restock: Not needed now
+dosing: ED
+use: Daily
+protocols:
+  - "[[Year-Round Shield]]"
+  - "[[Blood Pressure & Fluid Escalation Protocol]]"
+active: false
+count_in_total: true
+cycle_weeks: 52
+package_size: 30
+size_unit: tabs
+base_dose: 40
+dose_unit: mg
+cost_per_bottle: 23
+list_price:
+promo_price:
+current_phase: not_started
+stock_on_hand: 0
+daily_dose: 40
+product_tags:
+  - Cardio-protective
+weeks_per_year: 52
+notes: "IndiaMART, confirmed supplier+brand. Micardis (Boehringer) 40mg, supplier Dev Impex — USD5.63/box (30 tabs) ≈ RM26. The ARB alternative to [[Irbesartan (150mg×120tab) — shopee-china|Irbesartan]] named in [[Year-Round Shield]] (gold-standard for enhanced athletes — longest half-life ARB, strongest renal protection). Pick ONE ARB, not both. Source: see source_url."
+---
+# Telmisartan
+
+**Micardis (Boehringer Ingelheim)** · Ancillary (ARB) · Healthy / Blueprint
+
+> [!info] Quick reference — IndiaMART
+> - **40mg** · daily · **Schedule:** [[ED — Every Day|Every Day]]
+> - **Cost:** [[indiamart]] (Dev Impex) **$5.63/box (30 tabs)** ≈ RM26
+> - **Source:** [Micardis @ IndiaMART](https://export.indiamart.com/products/?id=2859275695655&pos=10&kwd=micardis)
+> - **Role:** ARB for [[Year-Round Shield|P4 shield]] — alternative to [[Irbesartan (150mg×120tab) — shopee-china|Irbesartan]]. **Status:** planned
+
+> [!note] Telmisartan vs Irbesartan: same slot. Telmisartan has the longest half-life + strongest renal/metabolic profile (PPAR-γ activity) — the shield's "gold-standard" pick. Run one ARB, not both.
+
+## Links
+- Schedule: [[ED — Every Day]] · Source: [[indiamart]] · Protocol: [[Year-Round Shield]]
+- Operating system: [[The Operating System]] · [[Product List]] · [[Schema — Data Model]]

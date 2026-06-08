@@ -1,0 +1,341 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1200" font-family="'Inter','DejaVu Sans',system-ui,-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif">
+<defs>
+<pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="0" cy="0" r="1.1" fill="#1E2024" opacity="0.05"/></pattern>
+<pattern id="earth" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="14" height="14" fill="#E7E2D7"/><line x1="0" y1="0" x2="0" y2="14" stroke="#9A958C" stroke-width="1" opacity="0.45"/></pattern>
+<pattern id="warmh" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="9" height="9" fill="#EBD8C7"/><line x1="0" y1="0" x2="0" y2="9" stroke="#C2703D" stroke-width="1.1" opacity="0.5"/></pattern>
+<pattern id="poredots" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="1.3" fill="#1E2024" opacity="0.55"/></pattern>
+<marker id="aW" markerWidth="10" markerHeight="10" refX="6" refY="4.5" orient="auto"><path d="M2,1 L8,4.5 L2,8" fill="none" stroke="#C2703D" stroke-width="1.8"/></marker>
+<marker id="aG" markerWidth="10" markerHeight="10" refX="6" refY="4.5" orient="auto"><path d="M2,1 L8,4.5 L2,8" fill="none" stroke="#8B8E94" stroke-width="1.5"/></marker>
+<marker id="aR" markerWidth="10" markerHeight="10" refX="6" refY="4.5" orient="auto"><path d="M2,1 L8,4.5 L2,8" fill="none" stroke="#D9483B" stroke-width="1.8"/></marker>
+<marker id="aK" markerWidth="10" markerHeight="10" refX="6" refY="4.5" orient="auto"><path d="M2,1 L8,4.5 L2,8" fill="none" stroke="#5E7585" stroke-width="1.5"/></marker>
+</defs>
+
+<!-- ============ SURFACE ============ -->
+<rect width="1500" height="1200" fill="#F4F1EA"/>
+<rect width="1500" height="1200" fill="url(#dots)"/>
+<rect x="28" y="28" width="1444" height="1144" fill="none" stroke="#1E2024" stroke-width="1" opacity="0.35"/>
+<line x1="14" y1="28" x2="42" y2="28" stroke="#1E2024" stroke-width="1" opacity="0.5"/><line x1="28" y1="14" x2="28" y2="42" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="1458" y1="28" x2="1486" y2="28" stroke="#1E2024" stroke-width="1" opacity="0.5"/><line x1="1472" y1="14" x2="1472" y2="42" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="14" y1="1172" x2="42" y2="1172" stroke="#1E2024" stroke-width="1" opacity="0.5"/><line x1="28" y1="1158" x2="28" y2="1186" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="1458" y1="1172" x2="1486" y2="1172" stroke="#1E2024" stroke-width="1" opacity="0.5"/><line x1="1472" y1="1158" x2="1472" y2="1186" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+
+<!-- ============ HEADER ============ -->
+<text x="60" y="84" font-size="13" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="2.5">ATTRACTIVE PILLAR · HAIR TRACK CODA · BEARD PART 1 — THE COMPANION DRAWING</text>
+<text x="60" y="140" font-size="52" font-weight="650" fill="#1E2024" letter-spacing="0.5">SAME HORMONE. OPPOSITE VERDICT.</text>
+<!-- glyph primer, right -->
+<g>
+  <circle cx="1118" cy="80" r="8" fill="none" stroke="#1E2024" stroke-width="1.4"/>
+  <path d="M1118,72 A8,8 0 0 0 1118,88 Z" fill="#1E2024"/>
+  <text x="1136" y="84" font-size="12.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace" letter-spacing="1.5">SAME CURRENT · OPPOSITE VERDICT</text>
+  <circle cx="1428" cy="80" r="8" fill="none" stroke="#1E2024" stroke-width="1.4"/>
+  <path d="M1428,72 A8,8 0 0 1 1428,88 Z" fill="#1E2024"/>
+</g>
+<text x="1440" y="112" text-anchor="end" font-size="12" fill="#8B8E94" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">Beard Part 1 · the Hair series companion</text>
+<text x="60" y="166" font-size="13.5" fill="#5E7585">The beard is the scalp, inverted — hold the Hair series' drawing up to a mirror and you get the protocol.</text>
+<line x1="60" y1="182" x2="1440" y2="182" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+
+<!-- ============ HERO : TWIN-LOT INVERSION SECTION ============ -->
+
+<!-- earth band + grade -->
+<rect x="60" y="700" width="1120" height="150" fill="url(#earth)"/>
+<line x1="60" y1="700" x2="1180" y2="700" stroke="#1E2024" stroke-width="1.8"/>
+<text x="64" y="694" font-size="9.5" fill="#1E2024" opacity="0.6" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">GRADE</text>
+
+<!-- THE ANDROGEN MAIN : one unbroken terracotta pipe -->
+<rect x="60" y="778" width="1120" height="26" fill="#C2703D" opacity="0.18"/>
+<line x1="60" y1="778" x2="1180" y2="778" stroke="#C2703D" stroke-width="3"/>
+<line x1="60" y1="804" x2="1180" y2="804" stroke="#C2703D" stroke-width="3"/>
+<g stroke="#C2703D" stroke-width="1.8">
+  <line x1="150" y1="791" x2="186" y2="791" marker-end="url(#aW)"/>
+  <line x1="290" y1="791" x2="320" y2="791" marker-end="url(#aW)"/>
+  <line x1="700" y1="791" x2="736" y2="791" marker-end="url(#aW)"/>
+  <line x1="1000" y1="791" x2="1036" y2="791" marker-end="url(#aW)"/>
+</g>
+<text x="620" y="836" text-anchor="middle" font-size="13" font-weight="600" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace" letter-spacing="1.5">THE ANDROGEN MAIN · testosterone → DHT · one current, both lots — no joint, no break</text>
+
+<!-- THE INVERSION LINE -->
+<line x1="440" y1="196" x2="440" y2="850" stroke="#1E2024" stroke-width="2.6"/>
+<text x="440" y="210" text-anchor="middle" font-size="12.5" font-weight="700" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace" letter-spacing="2">THE INVERSION LINE</text>
+<text x="440" y="226" text-anchor="middle" font-size="10.5" fill="#1E2024" opacity="0.75">same hormone, opposite verdict — a property boundary, not a hazard</text>
+<rect x="330" y="781" width="92" height="20" fill="#F4F1EA" stroke="#8B8E94" stroke-width="1"/>
+<text x="376" y="795" text-anchor="middle" font-size="11" font-weight="700" fill="#6B6F76" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">DHT = LOSS</text>
+<rect x="458" y="781" width="92" height="20" fill="#F4F1EA" stroke="#C2703D" stroke-width="1.2"/>
+<text x="504" y="795" text-anchor="middle" font-size="11" font-weight="700" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">DHT = GAIN</text>
+
+<!-- ======== LOT 1 · THE SCALP (ghosted pinned sheet) ======== -->
+<g opacity="0.92">
+<rect x="78" y="240" width="338" height="360" fill="#EDEAE2" stroke="#8B8E94" stroke-width="1.2"/>
+<rect x="70" y="234" width="26" height="13" fill="#D8D4CA" opacity="0.9" transform="rotate(-18 83 240)"/>
+<rect x="400" y="234" width="26" height="13" fill="#D8D4CA" opacity="0.9" transform="rotate(14 413 240)"/>
+<text x="94" y="268" font-size="13" font-weight="700" fill="#6B6F76" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">LOT 1 · THE SCALP</text>
+<text x="94" y="285" font-size="10.5" fill="#6B6F76">block the current, then stimulate · Hair Parts 1.1–2.0</text>
+<text x="94" y="300" font-size="9.5" fill="#8B8E94" font-style="italic">the already-published drawing, pinned for reference</text>
+
+<!-- miniaturizing follicle course (the loss direction) -->
+<g stroke="#8B8E94" fill="none">
+  <path d="M140,530 C140,545 160,545 160,530 L160,520 C160,505 140,505 140,520 Z" stroke-width="2.2" fill="#C9C5BB"/>
+  <line x1="150" y1="505" x2="150" y2="380" stroke-width="5"/>
+  <path d="M235,530 C235,542 251,542 251,530 L251,523 C251,512 235,512 235,523 Z" stroke-width="1.8" fill="#D5D1C7"/>
+  <line x1="243" y1="512" x2="243" y2="430" stroke-width="2.8"/>
+  <path d="M325,530 C325,539 336,539 336,530 L336,526 C336,518 325,518 325,526 Z" stroke-width="1.4" fill="#E2DED4"/>
+  <line x1="330" y1="518" x2="330" y2="475" stroke-width="1.3"/>
+</g>
+<line x1="150" y1="555" x2="320" y2="555" stroke="#8B8E94" stroke-width="1.2" marker-end="url(#aG)"/>
+<text x="240" y="572" text-anchor="middle" font-size="9.5" fill="#6B6F76" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">terminal → miniaturizing → vellus · the loss direction</text>
+<text x="247" y="590" text-anchor="middle" font-size="9.5" fill="#6B6F76">gains held by permanent shoring — stop and it recedes.</text>
+<!-- shoring struts -->
+<line x1="118" y1="528" x2="138" y2="470" stroke="#8B8E94" stroke-width="1.6"/>
+<line x1="182" y1="528" x2="162" y2="470" stroke="#8B8E94" stroke-width="1.6"/>
+</g>
+
+<!-- scalp service line + blockade fittings -->
+<line x1="200" y1="778" x2="200" y2="608" stroke="#8B8E94" stroke-width="2.4"/>
+<g stroke="#8B8E94" fill="#EDEAE2" stroke-width="1.6">
+  <path d="M188,618 L212,634 L188,634 L212,618 Z"/>
+  <path d="M188,652 L212,668 L188,668 L212,652 Z"/>
+</g>
+<text x="222" y="628" font-size="9.5" fill="#6B6F76" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">blockade fittings</text>
+<text x="222" y="641" font-size="9.5" fill="#6B6F76" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">RU58841 · finasteride · α-estradiol</text>
+<text x="222" y="664" font-size="9" fill="#8B8E94">installed on the service line —</text>
+<text x="222" y="676" font-size="9" fill="#8B8E94">intercept the current, then stimulate</text>
+
+<!-- ======== LOT 2 · THE BEARD (live construction site) ======== -->
+<text x="460" y="262" font-size="14.5" font-weight="700" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">LOT 2 · THE BEARD</text>
+<text x="460" y="280" font-size="11" fill="#1E2024">never block, just stimulate — the current builds here.</text>
+
+<!-- ════ THE WRONG-LOT FITTING — the one red object ════ -->
+<rect x="455" y="296" width="245" height="136" fill="#F8EFEC" stroke="#D9483B" stroke-width="2"/>
+<text x="467" y="316" font-size="12.5" font-weight="750" fill="#D9483B" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">═ NEVER BLOCK ANDROGENS</text>
+<text x="467" y="332" font-size="12.5" font-weight="750" fill="#D9483B" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">  ON THE BEARD ═</text>
+<text x="467" y="352" font-size="9.8" fill="#1E2024">RU58841 · finasteride · dutasteride ·</text>
+<text x="467" y="365" font-size="9.8" fill="#1E2024">α-E2 — actively counterproductive here:</text>
+<text x="467" y="378" font-size="9.8" fill="#1E2024">they block the very hormone</text>
+<text x="467" y="391" font-size="9.8" fill="#1E2024">doing the building.</text>
+<text x="467" y="409" font-size="9.8" font-weight="600" fill="#D9483B">watch runoff &amp; hand-transfer —</text>
+<text x="467" y="422" font-size="9.8" font-weight="600" fill="#D9483B">apply scalp-only · wash hands.</text>
+<!-- red runoff trace migrating across the line -->
+<path d="M214,668 C300,722 380,700 438,684 C480,670 510,664 549,668" fill="none" stroke="#D9483B" stroke-width="2" stroke-dasharray="7 5"/>
+<circle cx="300" cy="716" r="2.2" fill="#D9483B"/><circle cx="395" cy="700" r="2.2" fill="#D9483B"/><circle cx="470" cy="678" r="2.2" fill="#D9483B"/>
+<text x="300" y="754" text-anchor="middle" font-size="9" font-weight="600" fill="#D9483B" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">runoff &amp; hand-transfer</text>
+<path d="M470,432 C468,540 492,622 547,661" fill="none" stroke="#D9483B" stroke-width="1.4" stroke-dasharray="4 4"/>
+<circle cx="562" cy="670" r="13" fill="#F8EFEC" stroke="#D9483B" stroke-width="2.6"/>
+<line x1="553" y1="679" x2="571" y2="661" stroke="#D9483B" stroke-width="2.6"/>
+
+<!-- beard service connection : no fittings, full pressure -->
+<line x1="510" y1="778" x2="510" y2="700" stroke="#C2703D" stroke-width="3"/>
+<line x1="510" y1="716" x2="502" y2="716" stroke="#C2703D" stroke-width="1.5"/>
+<text x="498" y="714" text-anchor="end" font-size="9.5" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">service connection —</text>
+<text x="498" y="726" text-anchor="end" font-size="9.5" font-weight="700" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">no fittings · full pressure</text>
+<!-- distribution along grade to the frames -->
+<line x1="510" y1="700" x2="880" y2="700" stroke="#C2703D" stroke-width="3"/>
+
+<!-- the three construction stages : vellus frame → scaffolded → terminal masonry -->
+<!-- 1 · vellus frame -->
+<g stroke="#C2703D" stroke-width="1.3" opacity="0.55" fill="none">
+  <line x1="600" y1="700" x2="600" y2="596"/><line x1="640" y1="700" x2="640" y2="596"/>
+  <line x1="600" y1="596" x2="640" y2="596"/><line x1="600" y1="648" x2="640" y2="648"/>
+  <line x1="600" y1="700" x2="640" y2="648"/>
+</g>
+<!-- 2 · scaffolded, terminalizing -->
+<g stroke="#C2703D" stroke-width="2.4" fill="none">
+  <line x1="728" y1="700" x2="728" y2="536"/><line x1="772" y1="700" x2="772" y2="536"/>
+  <line x1="728" y1="536" x2="772" y2="536"/><line x1="728" y1="618" x2="772" y2="618"/>
+</g>
+<rect x="728" y="640" width="44" height="60" fill="#C2703D" opacity="0.5"/>
+<g stroke="#1E2024" stroke-width="1" opacity="0.6" fill="none">
+  <line x1="716" y1="700" x2="716" y2="528"/><line x1="784" y1="700" x2="784" y2="528"/>
+  <line x1="716" y1="528" x2="784" y2="528"/>
+  <line x1="716" y1="700" x2="784" y2="612"/><line x1="716" y1="612" x2="784" y2="528"/>
+  <line x1="716" y1="612" x2="784" y2="700"/><line x1="716" y1="528" x2="784" y2="612"/>
+</g>
+<!-- 3 · terminal masonry -->
+<rect x="856" y="472" width="48" height="228" fill="#C2703D"/>
+<rect x="852" y="464" width="56" height="10" fill="#1E2024"/>
+<g stroke="#F4F1EA" stroke-width="1" opacity="0.55">
+  <line x1="856" y1="510" x2="904" y2="510"/><line x1="856" y1="548" x2="904" y2="548"/>
+  <line x1="856" y1="586" x2="904" y2="586"/><line x1="856" y1="624" x2="904" y2="624"/>
+  <line x1="856" y1="662" x2="904" y2="662"/>
+</g>
+<!-- recruitment arrows -->
+<line x1="650" y1="612" x2="708" y2="612" stroke="#C2703D" stroke-width="1.8" marker-end="url(#aW)"/>
+<line x1="792" y1="600" x2="844" y2="600" stroke="#C2703D" stroke-width="1.8" marker-end="url(#aW)"/>
+<!-- stage plates below grade -->
+<g font-size="8.8" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">
+  <rect x="588" y="708" width="64" height="17" fill="#F4F1EA" stroke="#C2703D" stroke-width="0.8" opacity="0.95"/>
+  <text x="620" y="720" text-anchor="middle" fill="#C2703D">VELLUS</text>
+  <rect x="700" y="708" width="100" height="17" fill="#F4F1EA" stroke="#C2703D" stroke-width="0.8" opacity="0.95"/>
+  <text x="750" y="720" text-anchor="middle" fill="#C2703D">TERMINALIZING</text>
+  <rect x="838" y="708" width="84" height="17" fill="#F4F1EA" stroke="#C2703D" stroke-width="0.8" opacity="0.95"/>
+  <text x="880" y="720" text-anchor="middle" fill="#C2703D" font-weight="700">TERMINAL</text>
+</g>
+<rect x="556" y="734" width="390" height="18" fill="#F4F1EA" opacity="0.9"/>
+<text x="750" y="747" font-size="9.5" fill="#1E2024" opacity="0.8" text-anchor="middle">one frame, three stages — the recruitment direction, the scalp course mirrored</text>
+
+<!-- THE MINOXIDIL CRANE — the star, the largest equipment -->
+<g stroke="#C2703D" fill="none">
+  <line x1="1144" y1="700" x2="1144" y2="340" stroke-width="3"/>
+  <line x1="1156" y1="700" x2="1156" y2="340" stroke-width="3"/>
+  <line x1="1144" y1="680" x2="1156" y2="650" stroke-width="1.3"/><line x1="1156" y1="680" x2="1144" y2="650" stroke-width="1.3"/>
+  <line x1="1144" y1="620" x2="1156" y2="590" stroke-width="1.3"/><line x1="1156" y1="620" x2="1144" y2="590" stroke-width="1.3"/>
+  <line x1="1144" y1="560" x2="1156" y2="530" stroke-width="1.3"/><line x1="1156" y1="560" x2="1144" y2="530" stroke-width="1.3"/>
+  <line x1="1144" y1="500" x2="1156" y2="470" stroke-width="1.3"/><line x1="1156" y1="500" x2="1144" y2="470" stroke-width="1.3"/>
+  <line x1="1144" y1="440" x2="1156" y2="410" stroke-width="1.3"/><line x1="1156" y1="440" x2="1144" y2="410" stroke-width="1.3"/>
+  <line x1="716" y1="340" x2="1178" y2="340" stroke-width="3.4"/>
+  <line x1="1150" y1="316" x2="1150" y2="340" stroke-width="3"/>
+  <line x1="1150" y1="316" x2="800" y2="340" stroke-width="1.6"/>
+  <line x1="1150" y1="316" x2="1178" y2="340" stroke-width="1.6"/>
+  <rect x="754" y="340" width="22" height="10" fill="#C2703D"/>
+  <line x1="765" y1="350" x2="765" y2="520" stroke-width="2" marker-end="url(#aW)"/>
+</g>
+<text x="720" y="330" font-size="10" font-weight="700" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">THE MINOXIDIL CRANE</text>
+<!-- LCLT co-feed joining the topical drop -->
+<line x1="822" y1="428" x2="774" y2="440" stroke="#5E7585" stroke-width="1.6" marker-end="url(#aK)"/>
+<text x="898" y="424" text-anchor="end" font-size="9.5" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">+ LCLT co-feed</text>
+
+<!-- crane spec card -->
+<rect x="905" y="358" width="226" height="96" fill="#F4F1EA" stroke="#1E2024" stroke-width="1.1"/>
+<line x1="905" y1="358" x2="905" y2="454" stroke="#C2703D" stroke-width="3.5"/>
+<text x="918" y="378" font-size="12.5" font-weight="750" fill="#C2703D">MINOXIDIL — THE STAR</text>
+<text x="918" y="393" font-size="10" fill="#1E2024">the single most important intervention,</text>
+<text x="918" y="406" font-size="10" fill="#1E2024">by a wide margin — a clean runway.</text>
+<text x="918" y="423" font-size="10" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">oral 2.5–5 mg · topical 5%</text>
+<text x="918" y="437" font-size="9" fill="#5E7585">+ LCLT — minoxidil brings the blood,</text>
+<text x="918" y="448" font-size="9" fill="#5E7585">LCLT gives the follicle the ATP to use it</text>
+
+<!-- castor-oil feed : the PGE2 line -->
+<line x1="1170" y1="778" x2="1170" y2="510" stroke="#C2703D" stroke-width="2"/>
+<line x1="1170" y1="510" x2="1160" y2="510" stroke="#C2703D" stroke-width="2"/>
+<line x1="1141" y1="510" x2="1133" y2="510" stroke="#C2703D" stroke-width="2" marker-end="url(#aW)"/>
+<path d="M1162,562 L1178,574 L1162,574 L1178,562 Z" fill="#F4F1EA" stroke="#C2703D" stroke-width="1.5"/>
+<rect x="905" y="470" width="226" height="92" fill="#F4F1EA" stroke="#1E2024" stroke-width="1.1"/>
+<line x1="905" y1="470" x2="905" y2="562" stroke="#C2703D" stroke-width="2"/>
+<text x="918" y="490" font-size="11.5" font-weight="700" fill="#C2703D">ORAL CASTOR OIL 0.5–2 mL</text>
+<text x="918" y="505" font-size="10" fill="#1E2024">ricinoleic acid → PGE2 · counters PGD2</text>
+<text x="918" y="522" font-size="9.5" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">start 0.5 mL · GI is the limiter</text>
+<text x="918" y="536" font-size="9.5" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">100% USP/BP — not Jamaican black</text>
+<text x="918" y="553" font-size="9" fill="#8B8E94">secondary supply — sized to its leverage</text>
+
+<!-- mechanical kit -->
+<rect x="508" y="448" width="192" height="66" fill="#F4F1EA" stroke="#1E2024" stroke-width="1.1"/>
+<text x="520" y="466" font-size="10" font-weight="700" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">MECHANICAL KIT</text>
+<text x="520" y="481" font-size="9.3" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">dermastamp 1.0–1.5 mm ×weekly</text>
+<text x="520" y="494" font-size="9.3" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">(stamp &gt; roller on the face)</text>
+<text x="520" y="507" font-size="9" fill="#1E2024" opacity="0.8">firm massage while applying — free.</text>
+
+<!-- RLT : the absent tool, drawn as an exclusion -->
+<g stroke="#8B8E94" stroke-dasharray="5 4" fill="none">
+  <rect x="508" y="528" width="192" height="56" stroke-width="1.2"/>
+  <path d="M524,572 A18,16 0 0 1 560,572" stroke-width="1.6"/>
+  <line x1="524" y1="572" x2="560" y2="572" stroke-width="1.6"/>
+</g>
+<text x="572" y="548" font-size="9.3" font-weight="700" fill="#8B8E94" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">LLLT — NOT IN THIS STACK</text>
+<text x="572" y="562" font-size="8.8" fill="#8B8E94">no facial evidence ·</text>
+<text x="572" y="574" font-size="8.8" fill="#8B8E94">no facial hardware.</text>
+
+<!-- THE RATCHET DETAIL : the permanence bonus -->
+<g stroke="#1E2024" fill="none" stroke-width="1.4">
+  <path d="M904,600 l8,8 l-8,8 l8,8 l-8,8 l8,8 l-8,8 l8,8 l-8,8"/>
+</g>
+<path d="M930,628 L912,636 L930,646 Z" fill="#C2703D" stroke="#1E2024" stroke-width="1.2"/>
+<circle cx="936" cy="637" r="3.4" fill="#1E2024"/>
+<rect x="948" y="590" width="200" height="96" fill="#F4F1EA" stroke="#1E2024" stroke-width="1.1"/>
+<line x1="948" y1="590" x2="948" y2="686" stroke="#C2703D" stroke-width="2"/>
+<text x="960" y="610" font-size="11" font-weight="750" fill="#C2703D">THE PERMANENCE BONUS</text>
+<text x="960" y="626" font-size="9.8" fill="#1E2024">once terminal, stays terminal —</text>
+<text x="960" y="639" font-size="9.8" fill="#1E2024">no androgenic undertow.</text>
+<text x="960" y="657" font-size="9.5" font-weight="600" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">run hard 12–24 mo → strike the</text>
+<text x="960" y="670" font-size="9.5" font-weight="600" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">scaffold → the building stands.</text>
+
+<!-- lot captions on grade -->
+<text x="240" y="868" text-anchor="middle" font-size="10.5" fill="#6B6F76" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">LOT 1 · gains need permanent shoring</text>
+<text x="810" y="868" text-anchor="middle" font-size="10.5" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">LOT 2 · the scaffolding comes down — the building stands</text>
+
+<!-- ============ SPEC RAIL (cool instrument register) ============ -->
+<rect x="1205" y="196" width="235" height="688" fill="none" stroke="#5E7585" stroke-width="1.2"/>
+<rect x="1205" y="196" width="235" height="30" fill="#5E7585" opacity="0.12"/>
+<text x="1218" y="216" font-size="11" font-weight="750" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">INSTRUMENT RAIL</text>
+
+<!-- 01 the at-home tell -->
+<text x="1218" y="248" font-size="10.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">01 · THE AT-HOME TELL</text>
+<text x="1218" y="262" font-size="9" fill="#5E7585">smartphone macro on the patchy zone</text>
+<circle cx="1268" cy="312" r="36" fill="#F4F1EA" stroke="#5E7585" stroke-width="2"/>
+<path d="M1268,276 A36,36 0 0 0 1268,348 Z" fill="url(#poredots)"/>
+<line x1="1268" y1="276" x2="1268" y2="348" stroke="#5E7585" stroke-width="1.2"/>
+<line x1="1294" y1="338" x2="1312" y2="356" stroke="#5E7585" stroke-width="4"/>
+<text x="1322" y="300" font-size="9.5" font-weight="700" fill="#1E2024">pores / vellus =</text>
+<text x="1322" y="312" font-size="9.5" font-weight="700" fill="#C2703D">RECRUITABLE</text>
+<text x="1322" y="324" font-size="8.5" fill="#1E2024" opacity="0.7">(the large majority)</text>
+<text x="1322" y="340" font-size="9.5" fill="#1E2024">smooth, no pores =</text>
+<text x="1322" y="352" font-size="9.5" font-weight="700" fill="#1E2024">ABSENT → transplant</text>
+<rect x="1218" y="368" width="208" height="34" fill="none" stroke="#5E7585" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="1226" y="382" font-size="9" fill="#5E7585">under ~30? natural fill may still be</text>
+<text x="1226" y="394" font-size="9" fill="#5E7585">coming — don't condemn early.</text>
+
+<line x1="1218" y1="416" x2="1426" y2="416" stroke="#5E7585" stroke-width="0.8" opacity="0.5"/>
+
+<!-- 02 gauges + zone map -->
+<text x="1218" y="438" font-size="10.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">02 · SAME THREE GAUGES</text>
+<text x="1218" y="452" font-size="9" fill="#5E7585">as the scalp — new zones</text>
+<text x="1218" y="468" font-size="9.5" font-weight="600" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">T:V ratio · density/cm² · shaft Ø</text>
+<!-- face zone map -->
+<g transform="translate(1268,548)">
+  <path d="M-34,-62 C-34,-86 34,-86 34,-62 C34,-40 30,-18 24,0 C18,18 10,30 0,30 C-10,30 -18,18 -24,0 C-30,-18 -34,-40 -34,-62 Z" fill="#F4F1EA" stroke="#5E7585" stroke-width="1.6"/>
+  <path d="M-13,-26 C-8,-22 8,-22 13,-26 L13,-20 C8,-16 -8,-16 -13,-20 Z" fill="#5E7585" opacity="0.5"/>
+  <path d="M-9,8 C-4,12 4,12 9,8 C9,18 4,24 0,24 C-4,24 -9,18 -9,8 Z" fill="#5E7585" opacity="0.5"/>
+  <path d="M-24,-2 C-18,16 -8,26 0,27 C8,26 18,16 24,-2 L20,10 C14,24 6,30 0,30 C-6,30 -14,24 -20,10 Z" fill="#5E7585" opacity="0.35"/>
+  <path d="M-30,-44 C-28,-26 -26,-12 -22,-4 L-14,-12 C-18,-22 -20,-34 -21,-44 Z" fill="#5E7585" opacity="0.22"/>
+  <path d="M30,-44 C28,-26 26,-12 22,-4 L14,-12 C18,-22 20,-34 21,-44 Z" fill="#5E7585" opacity="0.22"/>
+</g>
+<g font-size="8.5" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">
+  <text x="1318" y="522">1 · mustache</text>
+  <text x="1318" y="536">2 · chin</text>
+  <text x="1318" y="550">3 · jawline</text>
+  <text x="1318" y="564">4 · cheeks — respond last</text>
+  <text x="1318" y="578">5 · cheek–jaw connection</text>
+</g>
+<text x="1218" y="606" font-size="9" fill="#1E2024" opacity="0.8">patchiness is regional —</text>
+<text x="1218" y="618" font-size="9" fill="#1E2024" opacity="0.8">track each zone separately.</text>
+
+<line x1="1218" y1="634" x2="1426" y2="634" stroke="#5E7585" stroke-width="0.8" opacity="0.5"/>
+
+<!-- 03 gate strip -->
+<text x="1218" y="656" font-size="10.5" font-weight="700" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">03 · THE GATE-STRIP</text>
+<line x1="1232" y1="668" x2="1232" y2="856" stroke="#5E7585" stroke-width="1.6"/>
+<g>
+  <line x1="1224" y1="684" x2="1240" y2="684" stroke="#5E7585" stroke-width="1.6"/>
+  <text x="1250" y="682" font-size="9.8" font-weight="700" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">M1–3 · HOLD</text>
+  <text x="1250" y="694" font-size="8.8" fill="#5E7585">a shed is possible — don't quit</text>
+  <line x1="1224" y1="728" x2="1240" y2="728" stroke="#5E7585" stroke-width="1.6"/>
+  <text x="1250" y="726" font-size="9.8" font-weight="700" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">M3–6 · DARKENING</text>
+  <text x="1250" y="738" font-size="8.8" fill="#5E7585">first vellus → terminal conversions</text>
+  <line x1="1224" y1="772" x2="1240" y2="772" stroke="#5E7585" stroke-width="1.6"/>
+  <text x="1250" y="770" font-size="9.8" font-weight="700" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">M6–12 · THE BULK</text>
+  <text x="1250" y="782" font-size="8.8" fill="#5E7585">most terminalization lands here</text>
+  <line x1="1224" y1="816" x2="1240" y2="816" stroke="#1E2024" stroke-width="2.2"/>
+  <text x="1250" y="814" font-size="9.8" font-weight="750" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">M12–18 · VERDICT</text>
+  <text x="1250" y="826" font-size="8.8" fill="#1E2024">still bare = absent → transplant</text>
+</g>
+<text x="1218" y="872" font-size="8.5" fill="#8B8E94" font-style="italic">the beard twin of the scalp's 3-6-12 gates</text>
+
+<!-- ============ BOTTOM BAND ============ -->
+<line x1="60" y1="900" x2="1440" y2="900" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<text x="60" y="952" font-size="34" font-weight="650" fill="#1E2024" letter-spacing="0.5">KEEP THE STIMULATION. THROW AWAY THE SHIELD.</text>
+<text x="1440" y="950" text-anchor="end" font-size="11" fill="#8B8E94" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace">the Hair stack, one wing demolished</text>
+
+<!-- routine micro-strip -->
+<rect x="60" y="980" width="1380" height="44" fill="#5E7585" opacity="0.08"/>
+<rect x="60" y="980" width="1380" height="44" fill="none" stroke="#5E7585" stroke-width="1.2"/>
+<text x="750" y="1008" text-anchor="middle" font-size="12.5" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace" letter-spacing="0.5">AM ▸ oral minoxidil + castor oil (with food)&#160;&#160;&#160;·&#160;&#160;&#160;DAILY ▸ topical 5% + LCLT + 1–2 min massage&#160;&#160;&#160;·&#160;&#160;&#160;WEEKLY ▸ dermastamp 1.0–1.5 mm</text>
+
+<!-- exit chips -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace" font-size="13" font-weight="700">
+  <rect x="408" y="1052" width="172" height="38" rx="19" fill="#C2703D"/>
+  <text x="494" y="1077" text-anchor="middle" fill="#F4F1EA">ONE CURRENT</text>
+  <rect x="596" y="1052" width="296" height="38" rx="19" fill="#1E2024"/>
+  <text x="744" y="1077" text-anchor="middle" fill="#F4F1EA">STIMULATE, DON'T BLOCK</text>
+  <rect x="908" y="1052" width="184" height="38" rx="19" fill="#5E7585"/>
+  <text x="1000" y="1077" text-anchor="middle" fill="#F4F1EA">GAINS LOCK IN</text>
+</g>
+<!-- footer -->
+<text x="750" y="1136" text-anchor="middle" font-size="9.5" fill="#8B8E94" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,ui-monospace,monospace" letter-spacing="1">IF YOU'RE SO SMART, WHY ARE YOU NOT · ATTRACTIVE — HAIR PART 3.0 · THE BEARD · the Hair section, mirrored · DWG A-HB-3.0 · 2026-06-07</text>
+</svg>
