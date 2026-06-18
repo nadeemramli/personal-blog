@@ -26,7 +26,7 @@ use: "Cutting"
 protocols:
   - "[[Endocrine Design Rules]]"
   - "[[Bulk Protocol]]"
-  - "[[Lean Bulk Protocol]]"
+  - "[[Recomposition & Lean Bulk Protocol|Lean Bulk]]"
 active: false
 count_in_total: true
 cycle_weeks: 12

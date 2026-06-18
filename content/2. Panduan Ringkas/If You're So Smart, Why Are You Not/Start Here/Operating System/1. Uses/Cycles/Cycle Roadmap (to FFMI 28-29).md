@@ -34,7 +34,7 @@ Endocrine per [[Endocrine Design Rules]] (zones 350/400/500/600; **lean-bulk = T
 | 8+ | loop if short of FFMI 29 | 2029 | — | per [[Endocrine Design Rules]] | — | last 2-3kg slowest | — |
 
 ## Block 2 — Lean Bulk #1 (12 wk, post-cut)
-- **Endocrine:** Test **450 mg/wk** + [[Proviron (25mg×50tab) — kohohpharma|Proviron]] (E2/dryness). Per [[Lean Bulk Protocol]].
+- **Endocrine:** Test **450 mg/wk** + [[Proviron (25mg×50tab) — kohohpharma|Proviron]] (E2/dryness). Per [[Recomposition & Lean Bulk Protocol|Lean Bulk]].
 - **Fuel:** small surplus **+200–500 kcal** (~0.25–0.5%/wk bodyweight). Hold fat ≤15% (the [[Cut Protocol|P2]] rule); mini-cut if gain >0.5%/wk = fat.
 - **Support:** [[MK-677 (10mg×50tab) — kohohpharma|MK-677]], [[Retatrutide (60mg×10vial) — BFF-AMO|Retatrutide]] low (partitioning), [[Year-Round Shield]].
 - **Expected:** ~+2–4 kg lean (conservative–aggressive) over 12 wk.

@@ -60,11 +60,11 @@ notes: "Price CONFIRMED via supplier chat (Shree DKR, 6 Jun). Jardiance 25mg, mf
 > Used in **cutting** (~42 tabs/cut) **and off-season mini-aggressive-cuts** (Tier-1 glucose stack) → **~168 tabs/yr (~17 strips)**. The 4-box (360 tabs) bulk = **~2.1 yr supply**, comfortably inside the 36-month shelf life, ~RM51/mo amortized. Right-size: 2 box ≈ 1 yr, 4 box ≈ 2 yr.
 
 ## How I use it
-- **Protocol:** Cut + off-season mini-aggressive-cut glucose stack — see [[Mini-Cut & Accelerator Tiers]]
+- **Protocol:** Cut + off-season mini-aggressive-cut glucose stack — see [[Off-Season Mini-Cut & Accelerator Tiers]]
 - **Pairs with:** [[Metformin (500mg×100tab) — indiamart|Metformin]] + [[Retatrutide (60mg×10vial) — BFF-AMO|Retatrutide]]
 - **Tags:** Glucose control, Cutting, Mini-cut
 
 ## Links
 - Schedule: [[ED — Every Day]] · Source: [[indiamart]] (Shree DKR)
-- Protocol: [[Mini-Cut & Accelerator Tiers]] · Campaign: [[2026 Q3 Cut to 15%]]
+- Protocol: [[Off-Season Mini-Cut & Accelerator Tiers]] · Campaign: [[2026 Q3 Cut to 15%]]
 - Operating system: [[The Operating System]] · [[Product List]] · [[Schema — Data Model]]

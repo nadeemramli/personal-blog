@@ -1,0 +1,437 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1540" viewBox="0 0 1920 1540" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0C1118"/><stop offset="1" stop-color="#0A0D12"/></linearGradient>
+<linearGradient id="coreFill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#36C9C0" stop-opacity="0.38"/><stop offset="1" stop-color="#36C9C0" stop-opacity="0.22"/></linearGradient>
+<pattern id="vgrid" width="80" height="80" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="80" stroke="#10161E" stroke-width="1" opacity="0.55"/></pattern>
+<pattern id="redhatch" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="12" stroke="#7A2327" stroke-width="2" opacity="0.5"/></pattern>
+<marker id="arrB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8C99A8"/></marker>
+<marker id="arrT" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#36C9C0"/></marker>
+<marker id="arrG" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#58B368"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#E3B23C"/></marker>
+</defs>
+
+<!-- ground -->
+<rect x="0" y="0" width="1920" height="1540" fill="url(#bg)"/>
+<rect x="0" y="0" width="1920" height="1540" fill="url(#vgrid)"/>
+
+<!-- ============ HEADER ============ -->
+<g id="header" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<line x1="40" y1="42" x2="1880" y2="42" stroke="#46586A" stroke-width="1"/>
+<line x1="40" y1="42" x2="40" y2="54" stroke="#46586A" stroke-width="1"/>
+<line x1="1880" y1="42" x2="1880" y2="54" stroke="#46586A" stroke-width="1"/>
+<text x="40" y="74" font-size="13" fill="#8C99A8" letter-spacing="2">FIT · PERFORMANCE ENHANCEMENT · PART 4.4 OF 5 — PROTECTION &amp; THE TOOLBOX</text>
+<text x="1880" y="74" font-size="13" fill="#6A7585" letter-spacing="2" text-anchor="end">INSTRUMENT № PE-4.4 · FLUID-BALANCE REGULATION STAND</text>
+<text x="40" y="136" font-family="Inter,'Helvetica Neue','DejaVu Sans',Arial,sans-serif" font-size="56" font-weight="500" fill="#E6ECF2" letter-spacing="0.5">THE FIVE LEVERS ON ONE FLUID</text>
+<text x="40" y="166" font-size="14" fill="#8C99A8">water is the recurring villain. you don't chase it or starve it — you balance it.</text>
+<text x="1880" y="136" font-size="13" fill="#36C9C0" text-anchor="end" letter-spacing="1">WORKING FLUID: WATER</text>
+<text x="1880" y="156" font-size="13" fill="#6A7585" text-anchor="end" letter-spacing="1">LEVERS: Na · K · Mg · Ca · H2O</text>
+<line x1="40" y1="186" x2="1880" y2="186" stroke="#46586A" stroke-width="1"/>
+</g>
+
+<!-- ============ LEFT FLANK — CONVERGENCE MANIFOLD ============ -->
+<g id="manifold" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="40" y="214" width="378" height="886" rx="8" fill="#121821" stroke="#2C3A48" stroke-width="1"/>
+<text x="60" y="248" font-size="15" fill="#E6ECF2" letter-spacing="1.5" font-weight="600">CONVERGENCE MANIFOLD</text>
+<text x="60" y="268" font-size="11.5" fill="#6A7585">everything upstream arrives here</text>
+<line x1="60" y1="282" x2="398" y2="282" stroke="#2C3A48" stroke-width="1"/>
+
+<!-- pipe rows -->
+<g font-size="12">
+<!-- 1 -->
+<circle cx="72" cy="334" r="4" fill="#8C99A8"/>
+<line x1="76" y1="334" x2="412" y2="334" stroke="#46586A" stroke-width="2" marker-end="url(#arrB)"/>
+<text x="64" y="312" fill="#E6ECF2" font-weight="600">AROMATIZING COMPOUNDS + GH</text>
+<text x="64" y="354" fill="#8C99A8">→ ↑ Na &amp; water · hold consistent Na,</text>
+<text x="64" y="370" fill="#8C99A8">  lean on the BP ancillaries</text>
+<!-- 2 -->
+<circle cx="72" cy="448" r="4" fill="#8C99A8"/>
+<line x1="76" y1="448" x2="412" y2="448" stroke="#46586A" stroke-width="2" marker-end="url(#arrB)"/>
+<text x="64" y="426" fill="#E6ECF2" font-weight="600">DRY vs WET COMPOUND</text>
+<text x="64" y="468" fill="#8C99A8">→ different water feel, same athlete</text>
+<!-- 3 -->
+<circle cx="72" cy="552" r="4" fill="#E3B23C"/>
+<line x1="76" y1="552" x2="412" y2="552" stroke="#46586A" stroke-width="2" marker-end="url(#arrA)"/>
+<text x="64" y="530" fill="#E6ECF2" font-weight="600">DIURETICS (INDAPAMIDE)</text>
+<text x="64" y="572" fill="#E3B23C">→ dumps Na AND K — crashing</text>
+<text x="64" y="588" fill="#E3B23C">  electrolytes = dangerous, not clever</text>
+<!-- 4 -->
+<circle cx="72" cy="664" r="4" fill="#E3B23C"/>
+<line x1="76" y1="664" x2="412" y2="664" stroke="#46586A" stroke-width="2" marker-end="url(#arrA)"/>
+<text x="64" y="642" fill="#E6ECF2" font-weight="600">CLENBUTEROL</text>
+<text x="64" y="684" fill="#E3B23C">→ burns K + taurine</text>
+<!-- 5 -->
+<circle cx="72" cy="762" r="4" fill="#8C99A8"/>
+<line x1="76" y1="762" x2="412" y2="762" stroke="#46586A" stroke-width="2" marker-end="url(#arrB)"/>
+<text x="64" y="740" fill="#E6ECF2" font-weight="600">CARB ↔ KETO · HARD CUT</text>
+<text x="64" y="782" fill="#8C99A8">→ moves the ratio · a hard cut drops</text>
+<text x="64" y="798" fill="#8C99A8">  intracellular water (the flat look)</text>
+<!-- 6 -->
+<circle cx="72" cy="876" r="4" fill="#8C99A8"/>
+<line x1="76" y1="876" x2="412" y2="876" stroke="#46586A" stroke-width="2" marker-end="url(#arrB)"/>
+<text x="64" y="854" fill="#E6ECF2" font-weight="600">BODYWEIGHT · SWEAT · MALAYSIAN HEAT</text>
+<text x="64" y="896" fill="#8C99A8">→ top of every range</text>
+</g>
+
+<!-- law plate -->
+<rect x="60" y="940" width="338" height="130" rx="6" fill="#0F141C" stroke="#46586A" stroke-width="1.5"/>
+<line x1="74" y1="958" x2="384" y2="958" stroke="#2C3A48" stroke-width="1"/>
+<text x="229" y="990" font-size="14" fill="#E6ECF2" text-anchor="middle" font-weight="600" letter-spacing="1">ELECTROLYTES TRACK YOUR</text>
+<text x="229" y="1012" font-size="14" fill="#E6ECF2" text-anchor="middle" font-weight="600" letter-spacing="1">WHOLE PROTOCOL —</text>
+<text x="229" y="1040" font-size="15" fill="#E3B23C" text-anchor="middle" font-weight="600" letter-spacing="1.5">SET LAST · REVISIT OFTEN</text>
+<line x1="74" y1="1056" x2="384" y2="1056" stroke="#2C3A48" stroke-width="1"/>
+</g>
+
+<!-- ============ CENTER-LEFT — THE VESSEL ============ -->
+<g id="vessel" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<text x="680" y="248" font-size="15" fill="#E6ECF2" letter-spacing="1.5" text-anchor="middle" font-weight="600">THE TWO-COMPARTMENT VESSEL</text>
+<text x="680" y="268" font-size="11.5" fill="#6A7585" text-anchor="middle">same litre, wrong compartment = a different physique</text>
+
+<!-- inlet -->
+<line x1="680" y1="278" x2="680" y2="346" stroke="#36C9C0" stroke-width="3"/>
+<rect x="655" y="292" width="50" height="24" rx="4" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1.2"/>
+<line x1="668" y1="304" x2="692" y2="304" stroke="#36C9C0" stroke-width="2"/>
+<text x="645" y="300" font-size="12" fill="#36C9C0" text-anchor="end" font-weight="600">WATER · the carrier</text>
+<text x="645" y="316" font-size="11" fill="#8C99A8" text-anchor="end">consistency-governed inlet</text>
+<text x="645" y="332" font-size="11" fill="#58B368" text-anchor="end">sip steadily, all day</text>
+<!-- drip ticks -->
+<line x1="680" y1="322" x2="680" y2="326" stroke="#36C9C0" stroke-width="1.5" opacity="0.9"/>
+<line x1="680" y1="332" x2="680" y2="336" stroke="#36C9C0" stroke-width="1.5" opacity="0.7"/>
+<!-- ghost chug branch -->
+<g opacity="0.6">
+<path d="M 705 298 L 768 318" stroke="#E3B23C" stroke-width="1.5" stroke-dasharray="5 4" fill="none"/>
+<line x1="729" y1="301" x2="743" y2="315" stroke="#E3B23C" stroke-width="1.5"/>
+<line x1="743" y1="301" x2="729" y2="315" stroke="#E3B23C" stroke-width="1.5"/>
+<text x="778" y="314" font-size="11" fill="#E3B23C">chug-and-starve →</text>
+<text x="778" y="328" font-size="11" fill="#E3B23C">vasopressin pauses</text>
+<text x="778" y="342" font-size="11" fill="#E3B23C">filtration</text>
+</g>
+
+<!-- outer shell -->
+<rect x="470" y="346" width="420" height="616" rx="20" fill="#36C9C0" fill-opacity="0.06" stroke="#6A7585" stroke-width="2.5"/>
+<!-- inner core -->
+<rect x="532" y="420" width="296" height="462" rx="14" fill="url(#coreFill)" stroke="#36C9C0" stroke-width="1.8"/>
+<!-- core fill-level meniscus -->
+<line x1="540" y1="446" x2="820" y2="446" stroke="#36C9C0" stroke-width="1.2" stroke-dasharray="6 4" opacity="0.9"/>
+<text x="680" y="498" font-size="15" fill="#E6ECF2" text-anchor="middle" font-weight="600" letter-spacing="1.5">INTRACELLULAR</text>
+<text x="680" y="520" font-size="13" fill="#36C9C0" text-anchor="middle" font-weight="600" letter-spacing="1">KEEP FULL</text>
+<text x="680" y="544" font-size="11" fill="#8C99A8" text-anchor="middle">fullness · pump · hard muscle</text>
+<text x="680" y="566" font-size="11" fill="#6A7585" text-anchor="middle">runs on POTASSIUM + glycogen</text>
+<!-- core level gauge -->
+<g stroke="#36C9C0" opacity="0.55">
+<line x1="544" y1="446" x2="560" y2="446" stroke-width="1.5"/>
+<line x1="544" y1="520" x2="554" y2="520" stroke-width="1"/>
+<line x1="544" y1="594" x2="554" y2="594" stroke-width="1"/>
+<line x1="544" y1="668" x2="554" y2="668" stroke-width="1"/>
+<line x1="544" y1="742" x2="554" y2="742" stroke-width="1"/>
+<line x1="544" y1="816" x2="554" y2="816" stroke-width="1"/>
+</g>
+<text x="566" y="450" font-size="9" fill="#36C9C0" opacity="0.8">FULL — hold here</text>
+<text x="566" y="820" font-size="9" fill="#6A7585">FLAT — the failure</text>
+<!-- flat-cut failure note inside core, low -->
+<text x="680" y="844" font-size="10.5" fill="#6A7585" text-anchor="middle">core drains on a hard cut →</text>
+<text x="680" y="858" font-size="10.5" fill="#6A7585" text-anchor="middle">flat, weak, "stringy" muscle</text>
+<!-- shell labels -->
+<text x="680" y="394" font-size="13" fill="#8C99A8" text-anchor="middle" font-weight="600" letter-spacing="1.5">EXTRACELLULAR · KEEP LOW</text>
+<text x="680" y="412" font-size="10.5" fill="#6A7585" text-anchor="middle">bloat · blood-volume · BP water — held down by the drain</text>
+<text x="680" y="930" font-size="10.5" fill="#6A7585" text-anchor="middle">shell swells = the smooth look that hides conditioning</text>
+
+<!-- shell water shading strip -->
+<rect x="482" y="358" width="396" height="592" rx="16" fill="none" stroke="#36C9C0" stroke-width="0.8" opacity="0.25"/>
+
+<!-- drain + float valve -->
+<line x1="680" y1="962" x2="680" y2="992" stroke="#36C9C0" stroke-width="3"/>
+<rect x="608" y="992" width="144" height="58" rx="6" fill="#121821" stroke="#6A7585" stroke-width="1.5"/>
+<circle cx="646" cy="1024" r="11" fill="none" stroke="#E3B23C" stroke-width="2"/>
+<line x1="657" y1="1024" x2="700" y2="1016" stroke="#E3B23C" stroke-width="1.8"/>
+<rect x="700" y="1008" width="8" height="18" fill="#E3B23C"/>
+<text x="646" y="1004" font-size="9.5" fill="#E3B23C" text-anchor="middle">float</text>
+<!-- open outlet, flushing (good state) -->
+<line x1="752" y1="1021" x2="812" y2="1021" stroke="#58B368" stroke-width="2.5" marker-end="url(#arrG)"/>
+<text x="822" y="1017" font-size="11" fill="#58B368">open ·</text>
+<text x="822" y="1031" font-size="11" fill="#58B368">flushing</text>
+<text x="680" y="1078" font-size="13" fill="#E3B23C" text-anchor="middle" font-weight="600" letter-spacing="1">SODIUM · THE DRAIN (ALDOSTERONE / RAAS)</text>
+<text x="680" y="1096" font-size="11" fill="#8C99A8" text-anchor="middle">wired BACKWARDS: float reads empty → drain CLAMPS, not opens</text>
+<text x="680" y="1114" font-size="10.5" fill="#6A7585" text-anchor="middle">pink salt 1:1 iodised · ~500 mg Na / litre water · iodine = thyroid</text>
+</g>
+
+<!-- routing corridor: vessel -> K valve -->
+<g opacity="0.55">
+<path d="M 890 620 L 1480 620 L 1480 470 L 1496 470" stroke="#36C9C0" stroke-width="1.2" fill="none" stroke-dasharray="2 5" marker-end="url(#arrT)"/>
+<text x="1180" y="612" font-size="10" fill="#36C9C0" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" text-anchor="middle">K fills the core ←</text>
+</g>
+<!-- routing: vessel -> beam -->
+<g opacity="0.55">
+<line x1="890" y1="790" x2="932" y2="790" stroke="#36C9C0" stroke-width="1.2" stroke-dasharray="2 5"/>
+</g>
+
+<!-- ============ UPPER-CENTER — COUNTERINTUITION INSET ============ -->
+<g id="inset" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="940" y="214" width="520" height="386" rx="8" fill="#121821" stroke="#E3B23C" stroke-width="1.5"/>
+<text x="960" y="246" font-size="15" fill="#E3B23C" letter-spacing="1.5" font-weight="600">THE COUNTERINTUITION</text>
+<text x="960" y="265" font-size="11.5" fill="#8C99A8">a float valve wired backwards — the single most important idea</text>
+<line x1="960" y1="278" x2="1440" y2="278" stroke="#2C3A48" stroke-width="1"/>
+
+<!-- LEFT paradox vessel: cut salt -->
+<g>
+<text x="1078" y="302" font-size="12" fill="#E6ECF2" text-anchor="middle" font-weight="600">CUT SALT TO LOOK DRY</text>
+<!-- puffy shell: bulging -->
+<path d="M 1010 318 q -22 60 0 122 q 68 26 136 0 q 22 -62 0 -122 q -68 -26 -136 0 z" fill="#36C9C0" fill-opacity="0.20" stroke="#6A7585" stroke-width="2"/>
+<rect x="1048" y="346" width="60" height="64" rx="8" fill="#36C9C0" fill-opacity="0.16" stroke="#36C9C0" stroke-width="1" opacity="0.7"/>
+<text x="1078" y="382" font-size="9" fill="#8C99A8" text-anchor="middle">core</text>
+<text x="1078" y="338" font-size="9.5" fill="#8C99A8" text-anchor="middle">shell PUFFY</text>
+<!-- low float -->
+<circle cx="1036" cy="438" r="8" fill="none" stroke="#E3B23C" stroke-width="1.8"/>
+<text x="1036" y="462" font-size="9" fill="#E3B23C" text-anchor="middle">float low</text>
+<!-- clamped drain -->
+<line x1="1078" y1="446" x2="1078" y2="470" stroke="#6A7585" stroke-width="2.5"/>
+<rect x="1066" y="470" width="24" height="8" fill="#E3B23C"/>
+<line x1="1064" y1="464" x2="1092" y2="486" stroke="#E3B23C" stroke-width="2"/>
+<line x1="1092" y1="464" x2="1064" y2="486" stroke="#E3B23C" stroke-width="2"/>
+<text x="1078" y="504" font-size="9.5" fill="#E3B23C" text-anchor="middle">drain CLAMPED</text>
+<rect x="978" y="514" width="200" height="20" rx="3" fill="#241D0C"/>
+<text x="1078" y="528" font-size="10.5" fill="#E3B23C" text-anchor="middle" font-weight="600">ALDOSTERONE HIGH · you hold water</text>
+<text x="1078" y="552" font-size="10.5" fill="#E3B23C" text-anchor="middle">less salt → MORE water. backfires.</text>
+</g>
+
+<!-- RIGHT paradox vessel: steady surplus -->
+<g>
+<text x="1322" y="302" font-size="12" fill="#E6ECF2" text-anchor="middle" font-weight="600">CONSISTENT SLIGHT SURPLUS</text>
+<!-- dry shell: tight -->
+<rect x="1262" y="318" width="120" height="124" rx="12" fill="#36C9C0" fill-opacity="0.05" stroke="#6A7585" stroke-width="2"/>
+<text x="1322" y="333" font-size="9" fill="#8C99A8" text-anchor="middle">shell dry</text>
+<rect x="1276" y="340" width="92" height="88" rx="8" fill="url(#coreFill)" stroke="#36C9C0" stroke-width="1.4"/>
+<text x="1322" y="388" font-size="9.5" fill="#36C9C0" text-anchor="middle" font-weight="600">core FULL</text>
+<!-- cheat input passes through -->
+<line x1="1446" y1="336" x2="1390" y2="336" stroke="#8C99A8" stroke-width="1.4" marker-end="url(#arrB)"/>
+<text x="1394" y="354" font-size="9" fill="#8C99A8">CHEAT/</text>
+<text x="1394" y="366" font-size="9" fill="#8C99A8">REFEED</text>
+<text x="1394" y="378" font-size="9" fill="#8C99A8">passes</text>
+<text x="1394" y="390" font-size="9" fill="#8C99A8">through</text>
+<!-- mid float -->
+<circle cx="1250" cy="362" r="8" fill="none" stroke="#58B368" stroke-width="1.8"/>
+<text x="1244" y="386" font-size="9" fill="#58B368" text-anchor="middle">float</text>
+<text x="1244" y="397" font-size="9" fill="#58B368" text-anchor="middle">steady</text>
+<!-- open drain flushing -->
+<line x1="1322" y1="442" x2="1322" y2="466" stroke="#36C9C0" stroke-width="2.5"/>
+<line x1="1322" y1="470" x2="1322" y2="486" stroke="#58B368" stroke-width="2" marker-end="url(#arrG)"/>
+<line x1="1308" y1="468" x2="1308" y2="480" stroke="#58B368" stroke-width="1.4" marker-end="url(#arrG)"/>
+<line x1="1336" y1="468" x2="1336" y2="480" stroke="#58B368" stroke-width="1.4" marker-end="url(#arrG)"/>
+<text x="1322" y="504" font-size="9.5" fill="#58B368" text-anchor="middle">drain OPEN · continuously flushing</text>
+<rect x="1222" y="514" width="200" height="20" rx="3" fill="#0E2E2C"/>
+<text x="1322" y="528" font-size="10.5" fill="#58B368" text-anchor="middle" font-weight="600">ALDOSTERONE LOW · you flush</text>
+<text x="1322" y="552" font-size="10.5" fill="#58B368" text-anchor="middle">steady surplus → kidneys run dry.</text>
+</g>
+
+<text x="1200" y="582" font-size="10" fill="#6A7585" text-anchor="middle">BP on cycle: tadalafil · telmisartan · nebivolol → keep the blood volume, control the pressure</text>
+</g>
+
+<!-- ============ RIGHT-CENTER — ANTAGONIST BEAM ============ -->
+<g id="beam" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="940" y="640" width="520" height="360" rx="8" fill="#121821" stroke="#2C3A48" stroke-width="1"/>
+<text x="960" y="672" font-size="15" fill="#E6ECF2" letter-spacing="1.5" font-weight="600">THE ANTAGONIST BEAM</text>
+<text x="960" y="691" font-size="11.5" fill="#6A7585">magnesium ↔ calcium — opposite ends of one mechanism</text>
+<line x1="960" y1="704" x2="1440" y2="704" stroke="#2C3A48" stroke-width="1"/>
+
+<!-- beam + fulcrum -->
+<line x1="1000" y1="790" x2="1400" y2="790" stroke="#8C99A8" stroke-width="3"/>
+<path d="M 1200 790 L 1186 822 L 1214 822 z" fill="#46586A"/>
+<line x1="1160" y1="822" x2="1240" y2="822" stroke="#46586A" stroke-width="2"/>
+
+<!-- Mg end -->
+<rect x="980" y="736" width="118" height="44" rx="6" fill="#10243A" stroke="#4F8FC9" stroke-width="1.5"/>
+<text x="1039" y="755" font-size="13" fill="#4F8FC9" text-anchor="middle" font-weight="600">MAGNESIUM</text>
+<text x="1039" y="771" font-size="9.5" fill="#8C99A8" text-anchor="middle">RELAX · the eccentric</text>
+<text x="1039" y="812" font-size="9.5" fill="#6A7585" text-anchor="middle">lowering = the growth half</text>
+
+<!-- Ca end -->
+<rect x="1302" y="736" width="118" height="44" rx="6" fill="#241509" stroke="#C97B3E" stroke-width="1.5"/>
+<text x="1361" y="755" font-size="13" fill="#C97B3E" text-anchor="middle" font-weight="600">CALCIUM</text>
+<text x="1361" y="771" font-size="9.5" fill="#8C99A8" text-anchor="middle">CONTRACT · the concentric</text>
+<text x="1361" y="812" font-size="9.5" fill="#6A7585" text-anchor="middle">binds troponin-C = force</text>
+
+<text x="1200" y="852" font-size="10.5" fill="#8C99A8" text-anchor="middle">they compete for the same binding sites — every rep rides this beam</text>
+
+<!-- Mg self-limiting dial -->
+<g>
+<circle cx="1024" cy="912" r="26" fill="#0F141C" stroke="#4F8FC9" stroke-width="1.5"/>
+<line x1="1024" y1="912" x2="1038" y2="894" stroke="#4F8FC9" stroke-width="2"/>
+<text x="1064" y="900" font-size="10.5" fill="#4F8FC9" font-weight="600">SELF-LIMITING DIAL</text>
+<text x="1064" y="916" font-size="10" fill="#8C99A8">raise until loose stool → back off</text>
+<text x="1064" y="930" font-size="10" fill="#8C99A8">one increment = your ceiling</text>
+<text x="1064" y="944" font-size="10" fill="#6A7585">glycinate / citrate, not oxide</text>
+</g>
+<!-- Ca chip -->
+<text x="1420" y="900" font-size="10.5" fill="#C97B3E" text-anchor="end" font-weight="600">CALCIUM RULE</text>
+<text x="1420" y="916" font-size="10" fill="#8C99A8" text-anchor="end">timed-release · never one mega-hit</text>
+<text x="1420" y="930" font-size="10" fill="#8C99A8" text-anchor="end">chronically low = pulled from bone</text>
+<text x="1200" y="976" font-size="10" fill="#6A7585" text-anchor="middle">Mg also gates ATP, protein synthesis, sleep — the most under-dosed lever on the stand</text>
+</g>
+
+<!-- ============ RIGHT EDGE — POTASSIUM ASSEMBLY ============ -->
+<g id="potassium" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="1500" y="214" width="380" height="786" rx="8" fill="#121821" stroke="#2C3A48" stroke-width="1"/>
+<text x="1520" y="246" font-size="15" fill="#E6ECF2" letter-spacing="1.5" font-weight="600">POTASSIUM</text>
+<text x="1520" y="265" font-size="11.5" fill="#6A7585">the glycogen-geared fill valve — fills the core</text>
+<line x1="1520" y1="278" x2="1860" y2="278" stroke="#2C3A48" stroke-width="1"/>
+
+<!-- glycogen tank -->
+<rect x="1540" y="300" width="150" height="98" rx="8" fill="#241D0C" stroke="#E3B23C" stroke-width="1.5"/>
+<rect x="1548" y="338" width="134" height="52" rx="5" fill="#E3B23C" fill-opacity="0.25"/>
+<text x="1615" y="322" font-size="11" fill="#E3B23C" text-anchor="middle" font-weight="600">GLYCOGEN TANK</text>
+<text x="1615" y="336" font-size="9.5" fill="#8C99A8" text-anchor="middle">carbs on board</text>
+<text x="1615" y="372" font-size="10" fill="#E6ECF2" text-anchor="middle">offseason high-carb =</text>
+<text x="1615" y="386" font-size="10" fill="#E6ECF2" text-anchor="middle">a BIGGER K reservoir</text>
+
+<!-- gears -->
+<circle cx="1612" cy="470" r="42" fill="none" stroke="#8C99A8" stroke-width="3" stroke-dasharray="7 5"/>
+<circle cx="1612" cy="470" r="30" fill="#0F141C" stroke="#46586A" stroke-width="1"/>
+<circle cx="1680" cy="470" r="24" fill="none" stroke="#36C9C0" stroke-width="3" stroke-dasharray="6 4"/>
+<circle cx="1680" cy="470" r="14" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1"/>
+<line x1="1612" y1="404" x2="1612" y2="428" stroke="#E3B23C" stroke-width="2" marker-end="url(#arrA)"/>
+<text x="1612" y="475" font-size="9.5" fill="#8C99A8" text-anchor="middle">carb</text>
+<text x="1680" y="475" font-size="9" fill="#36C9C0" text-anchor="middle">K</text>
+<!-- K valve -->
+<rect x="1726" y="442" width="134" height="56" rx="6" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1.5"/>
+<text x="1793" y="466" font-size="11.5" fill="#36C9C0" text-anchor="middle" font-weight="600">K FILL VALVE</text>
+<text x="1793" y="482" font-size="9.5" fill="#8C99A8" text-anchor="middle">→ intracellular core</text>
+<rect x="1540" y="520" width="320" height="24" rx="4" fill="#0F141C" stroke="#46586A" stroke-width="1"/>
+<text x="1700" y="537" font-size="11.5" fill="#E6ECF2" text-anchor="middle" font-weight="600">GEAR RATIO ≈ 10 mg K per 1 g carb</text>
+
+<!-- food-source dial -->
+<text x="1520" y="586" font-size="12" fill="#E6ECF2" font-weight="600">FOOD-SOURCE DIAL</text>
+<path d="M 1560 690 A 70 70 0 0 1 1700 690" fill="none" stroke="#46586A" stroke-width="3"/>
+<line x1="1630" y1="690" x2="1582" y2="648" stroke="#E3B23C" stroke-width="2.5"/>
+<circle cx="1630" cy="690" r="5" fill="#8C99A8"/>
+<text x="1548" y="712" font-size="10" fill="#E3B23C" text-anchor="middle">white rice</text>
+<text x="1548" y="725" font-size="10" fill="#E3B23C" text-anchor="middle">~1 mg/g</text>
+<text x="1712" y="712" font-size="10" fill="#58B368" text-anchor="middle">sweet potato</text>
+<text x="1712" y="725" font-size="10" fill="#58B368" text-anchor="middle">~20 mg/g</text>
+<text x="1748" y="618" font-size="10" fill="#8C99A8">rice-staple diet =</text>
+<text x="1748" y="632" font-size="10" fill="#8C99A8">silent under-supply</text>
+<text x="1748" y="652" font-size="10" fill="#E6ECF2">top up: + spinach ·</text>
+<text x="1748" y="666" font-size="10" fill="#E6ECF2">K-chloride "lite" salt</text>
+
+<!-- RED INTERLOCK — the only red on the page -->
+<rect x="1520" y="764" width="340" height="210" rx="8" fill="#2A1012" stroke="#E5484D" stroke-width="2.5"/>
+<rect x="1520" y="764" width="340" height="14" fill="url(#redhatch)"/>
+<rect x="1520" y="960" width="340" height="14" fill="url(#redhatch)"/>
+<path d="M 1548 826 L 1564 798 L 1580 826 z" fill="none" stroke="#E5484D" stroke-width="2.5"/>
+<line x1="1564" y1="808" x2="1564" y2="817" stroke="#E5484D" stroke-width="2"/>
+<circle cx="1564" cy="821.5" r="1.4" fill="#E5484D"/>
+<text x="1596" y="812" font-size="14" fill="#E5484D" font-weight="600" letter-spacing="1">HYPERKALEMIA</text>
+<text x="1596" y="830" font-size="14" fill="#E5484D" font-weight="600" letter-spacing="1">INTERLOCK</text>
+<line x1="1544" y1="846" x2="1836" y2="846" stroke="#7A2327" stroke-width="1"/>
+<text x="1544" y="870" font-size="11.5" fill="#E6ECF2">ARB (irbesartan / telmisartan)</text>
+<text x="1544" y="888" font-size="11.5" fill="#E6ECF2">or MRA in the stack →</text>
+<text x="1544" y="912" font-size="12.5" fill="#E5484D" font-weight="600">DO NOT MEGA-DOSE POTASSIUM</text>
+<text x="1544" y="934" font-size="11" fill="#8C99A8">both raise serum K · stacking them</text>
+<text x="1544" y="950" font-size="11" fill="#8C99A8">risks the heart · food first · bloods</text>
+</g>
+
+<!-- ============ HERO LOCKUP BANNER ============ -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="940" y="1024" width="940" height="76" rx="8" fill="#0F141C" stroke="#46586A" stroke-width="1.5"/>
+<text x="1410" y="1056" font-size="15.5" fill="#E3B23C" text-anchor="middle" font-weight="600" letter-spacing="0.5">CUT SALT → ALDOSTERONE HIGH → YOU HOLD WATER.</text>
+<text x="1410" y="1082" font-size="15.5" fill="#58B368" text-anchor="middle" font-weight="600" letter-spacing="0.5">STEADY SURPLUS → ALDOSTERONE LOW → YOU FLUSH.</text>
+</g>
+
+<!-- ============ FOOT — FORMULA PLATE + RATIO SELECTOR + WORKED EXAMPLE ============ -->
+<g id="foot" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<line x1="40" y1="1124" x2="1880" y2="1124" stroke="#46586A" stroke-width="1"/>
+
+<!-- formula plate -->
+<rect x="40" y="1148" width="1100" height="208" rx="8" fill="#121821" stroke="#2C3A48" stroke-width="1"/>
+<text x="60" y="1180" font-size="14" fill="#E6ECF2" letter-spacing="1.5" font-weight="600">FORMULA PLATE — PER-BODYWEIGHT SETPOINTS</text>
+<text x="1120" y="1180" font-size="10.5" fill="#6A7585" text-anchor="end">daily totals · food + supplement combined</text>
+<line x1="60" y1="1192" x2="1120" y2="1192" stroke="#2C3A48" stroke-width="1"/>
+<!-- five cells -->
+<g font-size="11">
+<rect x="60" y="1208" width="196" height="124" rx="6" fill="#0F141C" stroke="#36C9C0" stroke-width="1"/>
+<text x="158" y="1232" font-size="12" fill="#36C9C0" text-anchor="middle" font-weight="600">WATER</text>
+<line x1="76" y1="1242" x2="240" y2="1242" stroke="#2C3A48" stroke-width="1"/>
+<text x="158" y="1268" fill="#E6ECF2" text-anchor="middle">500–1,000 ml</text>
+<text x="158" y="1284" fill="#E6ECF2" text-anchor="middle">per 10 kg bodyweight</text>
+<text x="158" y="1312" fill="#6A7585" text-anchor="middle" font-size="10">sipped, not chugged</text>
+
+<rect x="272" y="1208" width="196" height="124" rx="6" fill="#0F141C" stroke="#E3B23C" stroke-width="1"/>
+<text x="370" y="1232" font-size="12" fill="#E3B23C" text-anchor="middle" font-weight="600">SODIUM</text>
+<line x1="288" y1="1242" x2="452" y2="1242" stroke="#2C3A48" stroke-width="1"/>
+<text x="370" y="1268" fill="#E6ECF2" text-anchor="middle">~500 mg</text>
+<text x="370" y="1284" fill="#E6ECF2" text-anchor="middle">per litre of water</text>
+<text x="370" y="1312" fill="#6A7585" text-anchor="middle" font-size="10">consistent &gt; restricted</text>
+
+<rect x="484" y="1208" width="196" height="124" rx="6" fill="#0F141C" stroke="#36C9C0" stroke-width="1"/>
+<text x="582" y="1232" font-size="12" fill="#36C9C0" text-anchor="middle" font-weight="600">POTASSIUM</text>
+<line x1="500" y1="1242" x2="664" y2="1242" stroke="#2C3A48" stroke-width="1"/>
+<text x="582" y="1268" fill="#E6ECF2" text-anchor="middle">500 mg / 10 kg</text>
+<text x="582" y="1284" fill="#E6ECF2" text-anchor="middle">+ 10 mg / g carb</text>
+<text x="582" y="1312" fill="#6A7585" text-anchor="middle" font-size="10">rides the carb intake</text>
+
+<rect x="696" y="1208" width="196" height="124" rx="6" fill="#0F141C" stroke="#4F8FC9" stroke-width="1"/>
+<text x="794" y="1232" font-size="12" fill="#4F8FC9" text-anchor="middle" font-weight="600">MAGNESIUM</text>
+<line x1="712" y1="1242" x2="876" y2="1242" stroke="#2C3A48" stroke-width="1"/>
+<text x="794" y="1268" fill="#E6ECF2" text-anchor="middle">100 mg / 10 kg</text>
+<text x="794" y="1284" fill="#E6ECF2" text-anchor="middle">+ 10–15 mg / min trained</text>
+<text x="794" y="1312" fill="#6A7585" text-anchor="middle" font-size="10">bowel-tolerance capped</text>
+
+<rect x="908" y="1208" width="196" height="124" rx="6" fill="#0F141C" stroke="#C97B3E" stroke-width="1"/>
+<text x="1006" y="1232" font-size="12" fill="#C97B3E" text-anchor="middle" font-weight="600">CALCIUM</text>
+<line x1="924" y1="1242" x2="1088" y2="1242" stroke="#2C3A48" stroke-width="1"/>
+<text x="1006" y="1268" fill="#E6ECF2" text-anchor="middle">100 mg / 10 kg</text>
+<text x="1006" y="1284" fill="#E6ECF2" text-anchor="middle">+ 5 mg / min trained</text>
+<text x="1006" y="1312" fill="#6A7585" text-anchor="middle" font-size="10">timed-release only</text>
+</g>
+
+<!-- ratio selector -->
+<rect x="1164" y="1148" width="332" height="208" rx="8" fill="#121821" stroke="#2C3A48" stroke-width="1"/>
+<text x="1184" y="1180" font-size="14" fill="#E6ECF2" letter-spacing="1.5" font-weight="600">RATIO SELECTOR</text>
+<text x="1184" y="1198" font-size="10.5" fill="#6A7585">Na : K : Mg : Ca — the diet re-proportions the levers</text>
+<line x1="1184" y1="1208" x2="1476" y2="1208" stroke="#2C3A48" stroke-width="1"/>
+<!-- CARB preset -->
+<text x="1184" y="1234" font-size="11" fill="#E3B23C" font-weight="600">CARB</text>
+<g>
+<rect x="1240" y="1239.5" width="22" height="22.5" fill="#E3B23C" fill-opacity="0.8"/>
+<rect x="1270" y="1209.5" width="22" height="52.5" fill="#36C9C0" fill-opacity="0.8"/>
+<rect x="1300" y="1247" width="22" height="15" fill="#4F8FC9" fill-opacity="0.8"/>
+<rect x="1330" y="1252" width="22" height="10" fill="#C97B3E" fill-opacity="0.8"/>
+</g>
+<text x="1368" y="1244" font-size="10" fill="#8C99A8">2–2.5 : 5–5.5</text>
+<text x="1368" y="1257" font-size="10" fill="#8C99A8">: 1.5 : 1</text>
+<line x1="1240" y1="1262" x2="1352" y2="1262" stroke="#46586A" stroke-width="1"/>
+<!-- KETO preset -->
+<text x="1184" y="1296" font-size="11" fill="#4F8FC9" font-weight="600">KETO</text>
+<g>
+<rect x="1240" y="1302.5" width="22" height="27.5" fill="#E3B23C" fill-opacity="0.8"/>
+<rect x="1270" y="1287.5" width="22" height="42.5" fill="#36C9C0" fill-opacity="0.8"/>
+<rect x="1300" y="1310" width="22" height="20" fill="#4F8FC9" fill-opacity="0.8"/>
+<rect x="1330" y="1317.5" width="22" height="12.5" fill="#C97B3E" fill-opacity="0.8"/>
+</g>
+<text x="1368" y="1308" font-size="10" fill="#8C99A8">2.5–3 : 4–4.5</text>
+<text x="1368" y="1321" font-size="10" fill="#8C99A8">: 2 : 1–1.5</text>
+<line x1="1240" y1="1330" x2="1352" y2="1330" stroke="#46586A" stroke-width="1"/>
+<text x="1184" y="1348" font-size="9.5" fill="#6A7585">carbs raise the K share · keto raises Na + Mg</text>
+
+<!-- worked example -->
+<rect x="1520" y="1148" width="360" height="208" rx="8" fill="#121821" stroke="#2C3A48" stroke-width="1"/>
+<text x="1540" y="1180" font-size="14" fill="#E6ECF2" letter-spacing="1.5" font-weight="600">WORKED EXAMPLE</text>
+<text x="1540" y="1198" font-size="10.5" fill="#6A7585">set yours from the plate, then sanity-check</text>
+<line x1="1540" y1="1208" x2="1860" y2="1208" stroke="#2C3A48" stroke-width="1"/>
+<text x="1540" y="1232" font-size="11" fill="#E6ECF2">90 kg · ~300 g carb · ~100 min/day · hot</text>
+<text x="1540" y="1256" font-size="11" fill="#36C9C0">water 7–9 L</text>
+<text x="1540" y="1274" font-size="11" fill="#E3B23C">Na ~4,000 mg</text>
+<text x="1700" y="1256" font-size="11" fill="#36C9C0">K ~7,500 mg</text>
+<text x="1700" y="1274" font-size="11" fill="#4F8FC9">Mg ~1,900–2,300 mg</text>
+<text x="1540" y="1292" font-size="11" fill="#C97B3E">Ca ~1,400 mg</text>
+<rect x="1540" y="1306" width="320" height="36" rx="4" fill="#241D0C"/>
+<text x="1700" y="1321" font-size="10" fill="#E3B23C" text-anchor="middle">MALAYSIAN TAX: 31 °C · 70–80% humidity</text>
+<text x="1700" y="1335" font-size="10" fill="#E3B23C" text-anchor="middle">→ 8–12 L/day · top of every range</text>
+</g>
+
+<!-- ============ FOOTER ============ -->
+<g>
+<line x1="40" y1="1388" x2="1880" y2="1388" stroke="#46586A" stroke-width="1"/>
+<text x="960" y="1438" font-family="Inter,'Helvetica Neue','DejaVu Sans',Arial,sans-serif" font-size="30" font-weight="500" fill="#E6ECF2" text-anchor="middle" letter-spacing="0.5">YOU DON'T CHASE WATER OR STARVE IT — YOU REGULATE THE BALANCE.</text>
+<text x="960" y="1474" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="11" fill="#6A7585" text-anchor="middle">nutrition &amp; harm-reduction education, not medical advice · build ratios against your own bloodwork + a physician · kidney / cardiac history = extra caution</text>
+<text x="960" y="1504" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="11" fill="#46586A" text-anchor="middle" letter-spacing="1.5">IF YOU'RE SO SMART · FIT — PERFORMANCE ENHANCEMENT · PART 4.4 ELECTROLYTE MANAGEMENT · SHEET PE-4.4</text>
+</g>
+</svg>

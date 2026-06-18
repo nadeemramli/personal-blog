@@ -1,15 +1,15 @@
 ---
 draft: true
 type: product
-product_id: "shredder-20ml-aminotech"
-compound: "Shredder Blend"
-name: "The Shredder"
+product_id: shredder-20ml-aminotech
+compound: Shredder Blend
+name: The Shredder
 aliases:
   - Shredder Blend
-brand: "Amino Tech"
-vendor: "aminotech"
-source: "aminotech"
-source_url: "https://aminotech.shop/product/shredder/"
+brand: Amino Tech
+vendor: aminotech
+source: aminotech
+source_url: https://aminotech.shop/product/shredder/
 pillar: Fit
 sub_series: Performance Enhancement
 category: Research liquid
@@ -21,13 +21,13 @@ dosing: ED
 use: Cutting
 protocols:
   - "[[Cutting Cycle Deployment Protocol]]"
-  - "[[Mini-Cut & Accelerator Tiers]]"
+  - "[[Off-Season Mini-Cut & Accelerator Tiers]]"
 active: false
 count_in_total: true
 package_size: 20
-size_unit: "ml"
+size_unit: ml
 base_dose: 1
-dose_unit: "ml"
+dose_unit: ml
 cost_per_bottle: 204.96
 list_price: 49.99
 promo_price:

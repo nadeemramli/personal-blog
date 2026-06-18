@@ -23,7 +23,7 @@ use: Cycling
 protocols:
   - "[[Endocrine Design Rules]]"
   - "[[Bulk Protocol]]"
-  - "[[Lean Bulk Protocol]]"
+  - "[[Recomposition & Lean Bulk Protocol|Lean Bulk]]"
 active: false
 count_in_total: true
 package_size: 10

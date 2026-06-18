@@ -51,11 +51,11 @@ notes: "CONFIRM dose/price/source — experimental research compound, no human d
 > - **Role:** Tier-2/3 fat-loss — mimics endurance-exercise cellular signaling. **Status:** planned
 
 ## How I use it
-- **Protocol:** Cut Tier 2/3 — see [[Mini-Cut & Accelerator Tiers]]
+- **Protocol:** Cut Tier 2/3 — see [[Off-Season Mini-Cut & Accelerator Tiers]]
 - **Stacks with:** [[MOTS-C (100mg-box) — TCI|MOTS-C]] + [[Methylene Blue (25g powder) — heiltropfen|Methylene Blue]]
 - **Tags:** Cut only, Mitochondrial
 
 ## Links
 - Schedule: [[ED — Every Day]] · Source: [[Overseas GMP (crypto)]]
-- Protocol: [[Mini-Cut & Accelerator Tiers]] · Campaign: [[2026 Q3 Cut to 15%]]
+- Protocol: [[Off-Season Mini-Cut & Accelerator Tiers]] · Campaign: [[2026 Q3 Cut to 15%]]
 - Operating system: [[The Operating System]] · [[Product List]] · [[Schema — Data Model]]

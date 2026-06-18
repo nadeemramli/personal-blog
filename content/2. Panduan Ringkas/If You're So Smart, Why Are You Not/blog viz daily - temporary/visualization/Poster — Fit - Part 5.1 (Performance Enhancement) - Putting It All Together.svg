@@ -1,0 +1,353 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1600" viewBox="0 0 1920 1600" font-family="Inter,'Helvetica Neue','DejaVu Sans',Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0C1118"/><stop offset="1" stop-color="#090C11"/></linearGradient>
+<pattern id="vgrid" width="80" height="80" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="80" stroke="#10161E" stroke-width="1" opacity="0.55"/></pattern>
+<pattern id="hgrid" width="80" height="80" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="80" y2="0" stroke="#10161E" stroke-width="1" opacity="0.35"/></pattern>
+<pattern id="ghosthatch" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="14" stroke="#3A4654" stroke-width="2" opacity="0.5"/></pattern>
+<pattern id="redhatch" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="12" stroke="#7A2327" stroke-width="2.5" opacity="0.55"/></pattern>
+<linearGradient id="bandfill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5FBE74" stop-opacity="0.10"/><stop offset="1" stop-color="#5FBE74" stop-opacity="0.03"/></linearGradient>
+<radialGradient id="grGlow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#5FBE74" stop-opacity="0.6"/><stop offset="1" stop-color="#5FBE74" stop-opacity="0"/></radialGradient>
+<radialGradient id="amGlow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#E3B23C" stop-opacity="0.55"/><stop offset="1" stop-color="#E3B23C" stop-opacity="0"/></radialGradient>
+<radialGradient id="rdGlow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#C0392B" stop-opacity="0.6"/><stop offset="1" stop-color="#C0392B" stop-opacity="0"/></radialGradient>
+<marker id="arrSlate" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#6A7585"/></marker>
+<marker id="arrGr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5FBE74"/></marker>
+<marker id="arrAm" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#E3B23C"/></marker>
+<marker id="arrRd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#C0392B"/></marker>
+<marker id="arrGhost" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4F5965"/></marker>
+</defs>
+
+<rect x="0" y="0" width="1920" height="1600" fill="url(#bg)"/>
+<rect x="0" y="0" width="1920" height="1600" fill="url(#vgrid)"/>
+<rect x="0" y="0" width="1920" height="1600" fill="url(#hgrid)"/>
+
+<!-- ================= HEADER ================= -->
+<g id="header" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<line x1="40" y1="42" x2="1880" y2="42" stroke="#46586A" stroke-width="1"/>
+<line x1="40" y1="42" x2="40" y2="54" stroke="#46586A" stroke-width="1"/>
+<line x1="1880" y1="42" x2="1880" y2="54" stroke="#46586A" stroke-width="1"/>
+<text x="40" y="74" font-size="13" fill="#8C99A8" letter-spacing="2">FIT · PERFORMANCE ENHANCEMENT · PART 5.1 — PUTTING IT ALL TOGETHER · CLOSING ARC 5.0 › 5.1 › 5.2</text>
+<text x="1880" y="74" font-size="13" fill="#6A7585" letter-spacing="2" text-anchor="end">INSTRUMENT № PE-5.1 · STAGED COMMISSIONING RUN-UP PROFILE</text>
+<text x="40" y="146" font-family="Inter,'Helvetica Neue','DejaVu Sans',Arial,sans-serif" font-size="64" font-weight="600" fill="#E6ECF2" letter-spacing="0.5">THE PATIENT THREE-YEAR RUN-UP</text>
+<text x="40" y="180" font-size="15" fill="#8C99A8">not a cycle — a multi-year climb to a rated capacity you deliberately stop short of. earn it. build it. know where to stop.</text>
+<text x="1880" y="120" font-size="13" fill="#C7D2DE" text-anchor="end" letter-spacing="1">CEILING — LEAN FFMI 28–29.5 · "RATED CAPACITY"</text>
+<text x="1880" y="142" font-size="13" fill="#5FBE74" text-anchor="end" letter-spacing="1">RATCHET: ON-BLOCK CLIMB · VALLEY RESTORES (NOT CLEARS)</text>
+<text x="1880" y="164" font-size="13" fill="#E3B23C" text-anchor="end" letter-spacing="1">BRAID: TEST › DHT-FAMILY › 19-NOR — BIOIDENTICAL FIRST</text>
+<text x="1880" y="186" font-size="13" fill="#C0392B" text-anchor="end" letter-spacing="1">RED = THE ONE MOVE THAT BREAKS THE ARC</text>
+<line x1="40" y1="202" x2="1880" y2="202" stroke="#46586A" stroke-width="1"/>
+</g>
+
+<!-- thesis lockup strip -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" letter-spacing="1.5" text-anchor="middle">
+<text x="960" y="232" fill="#9FB0C0">THE LEAST THAT WORKS &#160;·&#160; ACROSS PATHWAYS &#160;·&#160; MEASURED RELENTLESSLY &#160;·&#160; DEFENDED AGGRESSIVELY &#160;·&#160; ON A CALENDAR</text>
+</g>
+
+<!-- ================= HERO CHART : THE RUN-UP PROFILE ================= -->
+<!-- plot frame -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<!-- y-axis label -->
+<text x="60" y="470" font-size="12" fill="#6A7585" transform="rotate(-90 60 470)" text-anchor="middle" letter-spacing="2">LEAN MASS  ·  FFMI →</text>
+
+<!-- tetra zone above ceiling -->
+<rect x="120" y="262" width="1500" height="68" fill="url(#ghosthatch)" opacity="0.5"/>
+<text x="135" y="288" font-size="11.5" fill="#5C6776" letter-spacing="1">FFMI 30+  ·  A DIFFERENT SPORT  —  above the line you choose not to cross</text>
+
+<!-- TARGET ASYMPTOTE — dominant heaviest line -->
+<line x1="120" y1="330" x2="1700" y2="330" stroke="#C7D2DE" stroke-width="4"/>
+<text x="1340" y="322" font-size="13" fill="#C7D2DE" letter-spacing="1" font-weight="600">TARGET ASYMPTOTE — LEAN FFMI 28–29.5 · "WE DON'T WANT TO BE TOO BIG"</text>
+
+<!-- in-band fill 28-29.5 -->
+<rect x="120" y="330" width="1500" height="32" fill="url(#bandfill)"/>
+<line x1="120" y1="362" x2="1620" y2="362" stroke="#3D6B49" stroke-width="1" stroke-dasharray="2 5"/>
+<text x="125" y="356" font-size="10.5" fill="#5FBE74" letter-spacing="1">IN-BAND = THE PLAN IS WORKING</text>
+
+<!-- NATURAL CEILING floor line -->
+<line x1="120" y1="575" x2="1700" y2="575" stroke="#46586A" stroke-width="1.5" stroke-dasharray="7 6"/>
+<text x="1378" y="569" font-size="12" fill="#7B8593" letter-spacing="1">NATURAL CEILING ~FFMI 25  (Part 1.1 — where you started)</text>
+
+<!-- baseline axis -->
+<line x1="120" y1="660" x2="1810" y2="660" stroke="#46586A" stroke-width="1.5"/>
+<!-- year gridlines + labels -->
+<line x1="500" y1="262" x2="500" y2="660" stroke="#1A2230" stroke-width="1"/>
+<line x1="880" y1="262" x2="880" y2="660" stroke="#1A2230" stroke-width="1"/>
+<line x1="1280" y1="262" x2="1280" y2="660" stroke="#1A2230" stroke-width="1"/>
+<line x1="1620" y1="262" x2="1620" y2="660" stroke="#1A2230" stroke-width="1"/>
+<text x="310" y="684" font-size="13" fill="#9FB0C0" text-anchor="middle" letter-spacing="1.5">Y1 · EARN IT, TEST THE WATER</text>
+<text x="690" y="684" font-size="13" fill="#9FB0C0" text-anchor="middle" letter-spacing="1.5">Y2 · THE REAL BUILD</text>
+<text x="1080" y="684" font-size="13" fill="#9FB0C0" text-anchor="middle" letter-spacing="1.5">Y3 · ADD THE SHARP TOOLS (LAST)</text>
+<text x="1450" y="684" font-size="13" fill="#9FB0C0" text-anchor="middle" letter-spacing="1.5">Y4–5 · REFINE · MAINTAIN · STOP</text>
+<text x="1715" y="684" font-size="12" fill="#6A7585" text-anchor="middle" letter-spacing="1">IF YOU STOP →</text>
+</g>
+
+<!-- ratchet valley restore markers (green glow at each banked valley floor) -->
+<g>
+<circle cx="470" cy="545" r="13" fill="url(#grGlow)"/>
+<circle cx="850" cy="438" r="13" fill="url(#grGlow)"/>
+<circle cx="1260" cy="374" r="13" fill="url(#grGlow)"/>
+</g>
+
+<!-- THE BUILD TRACE — ratcheting sawtooth, decelerating into the ceiling -->
+<polyline points="120,615 340,520 470,545 720,415 850,438 1120,358 1260,374 1460,346 1620,337"
+  fill="none" stroke="#E6ECF2" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
+<!-- node dots -->
+<g fill="#E6ECF2">
+<circle cx="120" cy="615" r="4"/><circle cx="340" cy="520" r="4"/><circle cx="470" cy="545" r="4.5" fill="#5FBE74"/>
+<circle cx="720" cy="415" r="4"/><circle cx="850" cy="438" r="4.5" fill="#5FBE74"/>
+<circle cx="1120" cy="358" r="4"/><circle cx="1260" cy="374" r="4.5" fill="#5FBE74"/>
+<circle cx="1460" cy="346" r="4"/><circle cx="1620" cy="337" r="5"/>
+</g>
+
+<!-- come-off drift tail (dashed, drifts down to ~75% peak) -->
+<polyline points="1620,337 1700,395 1810,500" fill="none" stroke="#7B8593" stroke-width="2.5" stroke-dasharray="6 6" marker-end="url(#arrSlate)"/>
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<text x="1700" y="528" font-size="11" fill="#9FB0C0" text-anchor="middle">COME-OFF DRIFT</text>
+<text x="1700" y="544" font-size="10" fill="#7B8593" text-anchor="middle">~75% of peak muscle held</text>
+<text x="1700" y="558" font-size="10" fill="#7B8593" text-anchor="middle">test below where it started</text>
+<text x="1700" y="578" font-size="9.5" fill="#C8A23C" text-anchor="middle">liver regenerates · kidneys</text>
+<text x="1700" y="591" font-size="9.5" fill="#C8A23C" text-anchor="middle">(cystatin C) largely do NOT</text>
+</g>
+
+<!-- on-block / valley annotations on the trace -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="10.5" fill="#7B8593">
+<text x="232" y="556" text-anchor="middle">on-block ↑</text>
+<text x="470" y="588" text-anchor="middle" fill="#5FBE74">3–4 mo valley</text>
+<text x="470" y="601" text-anchor="middle" fill="#5FBE74">gains banked</text>
+<text x="600" y="446" text-anchor="middle">tall build ↑</text>
+<text x="1000" y="392" text-anchor="middle">shorter step ↑</text>
+<text x="1520" y="392" text-anchor="middle" fill="#9FB0C0">gains crawl — flattens into ceiling</text>
+</g>
+
+<!-- WE STOP HERE pin -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<line x1="1255" y1="392" x2="1280" y2="372" stroke="#C7D2DE" stroke-width="1.5" marker-end="url(#arrSlate)"/>
+<text x="1190" y="408" font-size="11.5" fill="#C7D2DE" text-anchor="middle" letter-spacing="1" font-weight="600">WE STOP HERE ▶</text>
+</g>
+
+<!-- GHOSTED TETRA FORCE — road not taken (grey, NOT red) -->
+<polyline points="1120,358 1230,300 1340,250 1430,214" fill="none" stroke="#5C6776" stroke-width="2.5" stroke-dasharray="3 7" marker-end="url(#arrGhost)"/>
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" fill="#7B8593">
+<text x="1442" y="210" font-size="13" fill="#9FB0C0" letter-spacing="0.5" font-weight="600">⤳ THE ROAD NOT TAKEN</text>
+<text x="1442" y="228" font-size="11">+ IGF-1 → TETRA FORCE · 4 pathways forced</text>
+<text x="1442" y="243" font-size="11">high-dose ~6-wk blasts · 30+ FFMI / 260 lb+</text>
+<text x="1442" y="258" font-size="10.5" fill="#C8A23C">far steeper health bill — insulin &amp; IGF-1</text>
+<text x="1442" y="271" font-size="10.5" fill="#C8A23C">the riskiest tools · cancer-marker caveat bites here</text>
+<text x="1442" y="287" font-size="10" fill="#6A7585">grey, not red — a choice declined, not a mistake made</text>
+</g>
+
+<!-- THE ONE RED OBJECT : skipped down-period bypass over the Y2 valley -->
+<g>
+<path d="M770,430 C800,360 905,360 935,432" fill="none" stroke="#C0392B" stroke-width="3" stroke-dasharray="8 5" marker-end="url(#arrRd)"/>
+<circle cx="852" cy="377" r="16" fill="url(#rdGlow)"/>
+<line x1="843" y1="368" x2="861" y2="386" stroke="#E0584A" stroke-width="3"/>
+<line x1="861" y1="368" x2="843" y2="386" stroke="#E0584A" stroke-width="3"/>
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<text x="852" y="345" font-size="11.5" fill="#E0584A" text-anchor="middle" font-weight="600" letter-spacing="0.5">✕ SKIP THE VALLEY</text>
+<rect x="690" y="468" width="335" height="58" rx="6" fill="#1A0E0D" stroke="#7A2327" stroke-width="1"/>
+<rect x="690" y="468" width="335" height="58" rx="6" fill="url(#redhatch)" opacity="0.25"/>
+<text x="703" y="488" font-size="11" fill="#E58A80">CLEARING a cycle (~4–6 wk) ≠ RESTORING (months).</text>
+<text x="703" y="503" font-size="11" fill="#E58A80">Collapse the down-period and the axis never comes</text>
+<text x="703" y="518" font-size="11" fill="#E58A80">back — a patient arc becomes a permanent dependency.</text>
+</g>
+</g>
+
+<!-- hematocrit amber grace-note on Y2/Y3 on-blocks -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<circle cx="1120" cy="358" r="11" fill="url(#amGlow)"/>
+<rect x="1040" y="430" width="232" height="44" rx="5" fill="#1A1606" stroke="#6E5526" stroke-width="1"/>
+<text x="1052" y="448" font-size="10" fill="#C8A23C">HCT ceiling: Test+EQ(±Deca) is potently</text>
+<text x="1052" y="461" font-size="10" fill="#C8A23C">erythropoietic — climbs despite hydration +</text>
+<text x="1052" y="468" font-size="10" fill="#C8A23C"></text>
+<text x="1052" y="473" font-size="10" fill="#C8A23C">donation → EQ/Deca/Tren come OFF THE TABLE.</text>
+</g>
+
+<!-- ================= MATURATION BRAID STRIP ================= -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<line x1="40" y1="726" x2="1880" y2="726" stroke="#2C3A48" stroke-width="1"/>
+<text x="40" y="750" font-size="13" fill="#8C99A8" letter-spacing="1.5" font-weight="600">THE FOUR-LOOP MATURATION BRAID</text>
+<text x="320" y="750" font-size="11" fill="#5C6776">the 5.0 loops run forward — strands MULTIPLY as complexity earns it, then THIN back to maintenance</text>
+<text x="1880" y="750" font-size="11" fill="#6A7585" text-anchor="end" letter-spacing="1">complexity over time = braid thickness, capped by the ceiling</text>
+</g>
+
+<!-- braid threads: 1 (Y1) -> 3 (Y2) -> 6 (Y3) -> 2 (Y4-5) -->
+<g fill="none" stroke-width="2.5" stroke-linecap="round">
+<!-- Y1 : single thread -->
+<path d="M120,790 L500,790" stroke="#8C99A8"/>
+<!-- fan to 3 at x=500 -->
+<path d="M500,790 C520,790 522,766 540,766 L880,766" stroke="#8C99A8"/>
+<path d="M500,790 L880,790" stroke="#8C99A8"/>
+<path d="M500,790 C520,790 522,814 540,814 L880,814" stroke="#8C99A8"/>
+<!-- fan to 6 at x=880 -->
+<path d="M880,766 C900,766 902,748 920,748 L1280,748" stroke="#8C99A8"/>
+<path d="M880,766 L1280,766" stroke="#8C99A8"/>
+<path d="M880,790 C900,790 902,782 920,782 L1280,782" stroke="#8C99A8"/>
+<path d="M880,790 L1280,798" stroke="#8C99A8"/>
+<path d="M880,814 C900,814 902,824 920,824 L1280,824" stroke="#E3B23C" opacity="0.8"/>
+<path d="M880,814 L1280,840" stroke="#E3B23C" opacity="0.7"/>
+<!-- thin back to 2 at x=1280 -->
+<path d="M1280,748 C1300,748 1486,778 1620,778 L1640,778" stroke="#8C99A8"/>
+<path d="M1280,798 C1300,798 1486,802 1620,802 L1640,802" stroke="#8C99A8"/>
+<!-- faded ends of the dropped strands -->
+<path d="M1280,766 L1340,770" stroke="#46586A" stroke-dasharray="2 5"/>
+<path d="M1280,782 L1340,786" stroke="#46586A" stroke-dasharray="2 5"/>
+<path d="M1280,824 L1340,828" stroke="#46586A" stroke-dasharray="2 5"/>
+<path d="M1280,840 L1340,844" stroke="#46586A" stroke-dasharray="2 5"/>
+</g>
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="9.5" fill="#5C6776">
+<text x="300" y="784">1 strand</text>
+<text x="690" y="744">3 strands</text>
+<text x="1080" y="742">6 strands — densest</text>
+<text x="1455" y="772">thins → 2</text>
+</g>
+
+<!-- ================= YEAR DETAIL PANELS ================= -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<!-- Y1 panel -->
+<rect x="120" y="868" width="372" height="232" rx="8" fill="#0E141C" stroke="#2C3A48" stroke-width="1"/>
+<rect x="120" y="868" width="372" height="30" rx="8" fill="#141C26"/>
+<text x="136" y="888" font-size="13" fill="#C7D2DE" letter-spacing="1" font-weight="600">Y1 · SIMPLEST MODE</text>
+<text x="478" y="888" font-size="10" fill="#5C6776" text-anchor="end">fewest threads</text>
+<text x="136" y="922" font-size="11" fill="#9FB0C0">● HCG TITRATION — 100→500 IU step-up</text>
+<text x="150" y="937" font-size="10" fill="#7B8593">gauge reserve before suppressing</text>
+<text x="136" y="962" font-size="11" fill="#9FB0C0">● ONE conservative cycle ~16 wk</text>
+<text x="150" y="977" font-size="10" fill="#7B8593">TEST ~250 + PROVIRON · most bioidentical</text>
+<text x="150" y="991" font-size="10" fill="#7B8593">NO aromatizing 2nd compound</text>
+<text x="136" y="1016" font-size="11" fill="#5FBE74">● PCT (HCG + SERM) — PROVE the axis</text>
+<text x="150" y="1031" font-size="10" fill="#7B8593">recovers before you commit to a cruise life</text>
+<line x1="136" y1="1048" x2="476" y2="1048" stroke="#222B35"/>
+<text x="136" y="1068" font-size="10" fill="#8C99A8">earn it, then test the water — a simple</text>
+<text x="136" y="1082" font-size="10" fill="#8C99A8">signal so Year 2 is legible.</text>
+
+<!-- Y2 panel -->
+<rect x="504" y="868" width="372" height="232" rx="8" fill="#0E141C" stroke="#2C3A48" stroke-width="1"/>
+<rect x="504" y="868" width="372" height="30" rx="8" fill="#141C26"/>
+<text x="520" y="888" font-size="13" fill="#C7D2DE" letter-spacing="1" font-weight="600">Y2 · THE REAL BUILD</text>
+<text x="862" y="888" font-size="10" fill="#5C6776" text-anchor="end">threads multiply</text>
+<text x="520" y="922" font-size="11" fill="#9FB0C0">● LEAN-BULK ON-BLOCK ~20 wk</text>
+<text x="534" y="937" font-size="10" fill="#7B8593">TEST 250–300 + EQ (long ester → long block)</text>
+<text x="534" y="951" font-size="10" fill="#7B8593">+ GH 1–2 IU</text>
+<text x="520" y="976" font-size="11" fill="#C8A23C">● INSULIN — optional · advanced · LAST</text>
+<text x="534" y="991" font-size="10" fill="#7B8593">removable strand — many should skip</text>
+<text x="520" y="1016" font-size="11" fill="#9FB0C0">● ANAVAR — swappable strand, two shapes</text>
+<text x="534" y="1031" font-size="10" fill="#7B8593">4-wk kickstart  OR  10 mg × ~12 wk microdose</text>
+<line x1="520" y1="1048" x2="860" y2="1048" stroke="#222B35"/>
+<text x="520" y="1068" font-size="10" fill="#5FBE74">Y2 valley: HCG + HMG — restore HPTA</text>
+<text x="520" y="1082" font-size="10" fill="#5FBE74">+ neurosteroids. the wide one.</text>
+
+<!-- Y3 panel -->
+<rect x="888" y="868" width="392" height="232" rx="8" fill="#0E141C" stroke="#2C3A48" stroke-width="1"/>
+<rect x="888" y="868" width="392" height="30" rx="8" fill="#141C26"/>
+<text x="904" y="888" font-size="13" fill="#C7D2DE" letter-spacing="1" font-weight="600">Y3 · THE SHARP TOOLS</text>
+<text x="1266" y="888" font-size="10" fill="#5C6776" text-anchor="end">densest · still capped</text>
+<text x="904" y="922" font-size="11" fill="#9FB0C0">● EXHAUST Golden Triangle (Test+GH)</text>
+<text x="918" y="937" font-size="10" fill="#7B8593">+ DHT-FAMILY (Masteron / Primo) FIRST</text>
+<text x="904" y="962" font-size="11" fill="#C8A23C">● TREN micro-dose — LAST RUNG only</text>
+<text x="918" y="977" font-size="10" fill="#7B8593">if a peak demands it · ≤8 wk · prolactin on panel</text>
+<text x="918" y="991" font-size="10" fill="#C8A23C">out the moment mood / sleep / BP turns</text>
+<text x="904" y="1016" font-size="11" fill="#9FB0C0">● CUT + REALM DRAWER (late)</text>
+<text x="918" y="1031" font-size="10" fill="#7B8593">cardarine · short clen + electrolytes · T3 if stalled</text>
+<line x1="904" y1="1048" x2="1264" y2="1048" stroke="#222B35"/>
+<text x="904" y="1068" font-size="10" fill="#8C99A8">the most loaded it ever gets — and still</text>
+<text x="904" y="1082" font-size="10" fill="#8C99A8">moderate by internet standards. in sequence.</text>
+
+<!-- Y4-5 panel -->
+<rect x="1292" y="868" width="372" height="232" rx="8" fill="#0E141C" stroke="#2C3A48" stroke-width="1"/>
+<rect x="1292" y="868" width="372" height="30" rx="8" fill="#141C26"/>
+<text x="1308" y="888" font-size="13" fill="#C7D2DE" letter-spacing="1" font-weight="600">Y4–5 · THE HORIZON</text>
+<text x="1650" y="888" font-size="10" fill="#5C6776" text-anchor="end">braid thins</text>
+<text x="1308" y="922" font-size="11" fill="#9FB0C0">● Golden Triangle on a calendar</text>
+<text x="1322" y="937" font-size="10" fill="#7B8593">refinement · maintenance · strands fall away</text>
+<text x="1308" y="962" font-size="11" fill="#9FB0C0">● gains crawl</text>
+<text x="1322" y="977" font-size="10" fill="#7B8593">protein synthesis goes to MAINTAINING mass</text>
+<text x="1308" y="1002" font-size="11" fill="#5FBE74">● "fluff" offseason</text>
+<text x="1322" y="1017" font-size="10" fill="#7B8593">permission to be soft = where long-term</text>
+<text x="1322" y="1031" font-size="10" fill="#7B8593">gains actually come from</text>
+<line x1="1308" y1="1048" x2="1648" y2="1048" stroke="#222B35"/>
+<text x="1308" y="1068" font-size="10" fill="#8C99A8">simple → complex → restrained.</text>
+<text x="1308" y="1082" font-size="10" fill="#8C99A8">the climb ends on purpose.</text>
+</g>
+
+<!-- braid legend chip far right -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="1676" y="868" width="204" height="232" rx="8" fill="#0E141C" stroke="#2C3A48" stroke-width="1"/>
+<text x="1692" y="892" font-size="11.5" fill="#8C99A8" font-weight="600">BRAID LEGEND</text>
+<line x1="1692" y1="902" x2="1864" y2="902" stroke="#222B35"/>
+<text x="1692" y="926" font-size="10.5" fill="#9FB0C0">ladder of complexity</text>
+<text x="1692" y="940" font-size="10.5" fill="#9FB0C0">over time:</text>
+<text x="1692" y="964" font-size="11" fill="#C7D2DE">TEST → DHT-FAMILY</text>
+<text x="1692" y="980" font-size="11" fill="#C7D2DE">→ 19-NOR</text>
+<text x="1692" y="1008" font-size="10" fill="#7B8593">exhaust the bioidentical</text>
+<text x="1692" y="1022" font-size="10" fill="#7B8593">before the exotic.</text>
+<text x="1692" y="1046" font-size="10" fill="#C8A23C">Tren = the last rung, an</text>
+<text x="1692" y="1060" font-size="10" fill="#C8A23C">optional micro-dose —</text>
+<text x="1692" y="1074" font-size="10" fill="#C8A23C">never a base.</text>
+</g>
+
+<!-- ================= TWO NEVER-OFF BASELINE RAILS ================= -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<text x="40" y="1148" font-size="13" fill="#8C99A8" letter-spacing="1.5" font-weight="600">TWO THINGS NEVER SWITCH OFF</text>
+<text x="320" y="1148" font-size="11" fill="#5C6776">blood-work + protection run 365 days — through every phase, on or off</text>
+
+<!-- Rail 1 : BLOOD-WORK CADENCE -->
+<text x="120" y="1188" font-size="12" fill="#9FB0C0" letter-spacing="1">RAIL 1 · BLOOD-WORK CADENCE</text>
+<line x1="120" y1="1206" x2="1760" y2="1206" stroke="#5FBE74" stroke-width="2.5"/>
+<!-- dense ticks under on-blocks, sparse in valleys -->
+<g stroke="#5FBE74" stroke-width="1.6">
+<line x1="150" y1="1198" x2="150" y2="1214"/><line x1="200" y1="1198" x2="200" y2="1214"/><line x1="250" y1="1198" x2="250" y2="1214"/><line x1="300" y1="1198" x2="300" y2="1214"/><line x1="350" y1="1198" x2="350" y2="1214"/>
+<line x1="470" y1="1200" x2="470" y2="1212" stroke-opacity="0.5"/><line x1="560" y1="1200" x2="560" y2="1212" stroke-opacity="0.5"/>
+<line x1="640" y1="1198" x2="640" y2="1214"/><line x1="690" y1="1198" x2="690" y2="1214"/><line x1="740" y1="1198" x2="740" y2="1214"/><line x1="790" y1="1198" x2="790" y2="1214"/>
+<line x1="850" y1="1200" x2="850" y2="1212" stroke-opacity="0.5"/><line x1="930" y1="1200" x2="930" y2="1212" stroke-opacity="0.5"/>
+<line x1="1010" y1="1198" x2="1010" y2="1214"/><line x1="1060" y1="1198" x2="1060" y2="1214"/><line x1="1110" y1="1198" x2="1110" y2="1214"/><line x1="1160" y1="1198" x2="1160" y2="1214"/><line x1="1210" y1="1198" x2="1210" y2="1214"/>
+<line x1="1300" y1="1200" x2="1300" y2="1212" stroke-opacity="0.5"/><line x1="1400" y1="1200" x2="1400" y2="1212" stroke-opacity="0.5"/>
+<line x1="1490" y1="1199" x2="1490" y2="1213"/><line x1="1580" y1="1199" x2="1580" y2="1213"/><line x1="1680" y1="1199" x2="1680" y2="1213"/>
+</g>
+<text x="150" y="1232" font-size="9.5" fill="#7B8593">baseline → 4-wk → 8-wk decision panel · MONTHLY liver+glucose on orals/GH · QUARTERLY floor year-round · change-points · end-of-cruise recovery panel</text>
+<text x="120" y="1252" font-size="10" fill="#5FBE74">tick density tightens on-block, relaxes in the valley — but the line never breaks. a symptom is a draw, not a guess. the number is the boss.</text>
+
+<!-- Rail 2 : PROTECTION SHIELD -->
+<text x="120" y="1290" font-size="12" fill="#9FB0C0" letter-spacing="1">RAIL 2 · THE PROTECTION SHIELD  (the 5.0 veto bus, stretched to 3 years)</text>
+<line x1="120" y1="1308" x2="1760" y2="1308" stroke="#8C99A8" stroke-width="2.5"/>
+<text x="120" y="1328" font-size="10.5" fill="#C7D2DE">365-DAY CORE — ARB + low-dose tadalafil + aspirin + rosuvastatin ± ezetimibe</text>
+<!-- situational strands lighting up under on-blocks -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="9.5">
+<rect x="150" y="1338" width="200" height="20" rx="4" fill="#141C26" stroke="#33414F"/><text x="160" y="1352" fill="#8C99A8">TUDCA / NAC on orals</text>
+<rect x="640" y="1338" width="180" height="20" rx="4" fill="#141C26" stroke="#33414F"/><text x="650" y="1352" fill="#8C99A8">P5P with any 19-nor</text>
+<rect x="1010" y="1338" width="160" height="20" rx="4" fill="#141C26" stroke="#33414F"/><text x="1020" y="1352" fill="#8C99A8">T4 with GH</text>
+<rect x="1190" y="1338" width="270" height="20" rx="4" fill="#141C26" stroke="#33414F"/><text x="1200" y="1352" fill="#8C99A8">glucose agent if GH nudges fasting glucose</text>
+</g>
+<text x="120" y="1378" font-size="10" fill="#8C99A8">situational strands light only under the relevant on-block — but the core runs every day.  buy the SHIELD before the gear: it runs 365 days; the gear is seasonal.</text>
+</g>
+
+<!-- ================= FOOTER : FOOD LAYER + STOCKING ORDER + DISCLAIMER ================= -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<line x1="40" y1="1402" x2="1880" y2="1402" stroke="#2C3A48" stroke-width="1"/>
+<!-- food layer band -->
+<rect x="120" y="1420" width="900" height="64" rx="6" fill="#0E141C" stroke="#33414F" stroke-width="1"/>
+<text x="136" y="1442" font-size="11.5" fill="#9FB0C0" font-weight="600">THE FOOD LAYER — the 90%</text>
+<rect x="380" y="1430" width="380" height="16" fill="#5FBE74" opacity="0.45"/><text x="384" y="1442" font-size="9.5" fill="#0C1118">LEAN BULK · most of the year</text>
+<rect x="760" y="1430" width="150" height="16" fill="#E3B23C" opacity="0.5"/><text x="766" y="1442" font-size="9.5" fill="#0C1118">CUT</text>
+<rect x="910" y="1430" width="90" height="16" fill="#8C99A8" opacity="0.4"/><text x="916" y="1442" font-size="9" fill="#0C1118">MAINT</text>
+<text x="136" y="1470" font-size="10" fill="#8C99A8">~90% food / training / sleep / monitoring  ·  ~10% pharmacology — the gear only reveals a physique the food built.</text>
+
+<!-- stocking order chip -->
+<rect x="1044" y="1420" width="620" height="64" rx="6" fill="#0E141C" stroke="#33414F" stroke-width="1"/>
+<text x="1060" y="1442" font-size="11.5" fill="#9FB0C0" font-weight="600">STOCKING ORDER → PART 5.2 · COST</text>
+<text x="1060" y="1465" font-size="11" fill="#C7D2DE">BUY:  ① SHIELD   →   ② GEAR   →   ③ MONITORING / CONSUMABLES</text>
+<text x="1060" y="1480" font-size="10" fill="#8C99A8">invert the common mistake — protect first, then build, then measure. money/units = the next axis.</text>
+
+<!-- right marker box -->
+<rect x="1676" y="1420" width="204" height="64" rx="6" fill="#0E141C" stroke="#33414F" stroke-width="1"/>
+<text x="1692" y="1442" font-size="10.5" fill="#8C99A8" font-weight="600">KNOW WHERE TO STOP</text>
+<text x="1692" y="1462" font-size="9.5" fill="#7B8593">the flattening at the top</text>
+<text x="1692" y="1475" font-size="9.5" fill="#7B8593">is the whole argument.</text>
+
+<!-- disclaimer -->
+<text x="120" y="1516" font-size="10" fill="#5C6776">One hypothetical, illustrative example — not a prescription or "the" protocol. Doses are lowest-effective and illustrative of harm-reduction, not instructions.</text>
+<text x="120" y="1532" font-size="10" fill="#5C6776">Compounds are prescription-only / illegal without a prescription in most jurisdictions including Malaysia; several are acutely dangerous. Let the bloodwork decide.</text>
+</g>
+
+<!-- footer rule + series mark -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<line x1="40" y1="1556" x2="1880" y2="1556" stroke="#46586A" stroke-width="1"/>
+<text x="40" y="1582" font-size="12" fill="#6A7585" letter-spacing="1.5">IF YOU'RE SO SMART, WHY ARE YOU NOT — FIT · PERFORMANCE ENHANCEMENT</text>
+<text x="1880" y="1582" font-size="12" fill="#6A7585" letter-spacing="1.5" text-anchor="end">PE-5.1 · THE LEAST THAT WORKS, ON A CALENDAR</text>
+</g>
+</svg>

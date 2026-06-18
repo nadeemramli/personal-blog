@@ -1,0 +1,68 @@
+---
+title: Agent Guide — Management
+draft: true
+type: agent_guide
+tags:
+  - operating-system
+  - agent-guide
+  - management
+date: 2026-06-11
+---
+> [!abstract] **Running the numbers.** Two subsystems: **Purchase Orders** (the immutable record of what was bought, where, for how much) and **`_Ledger`** (the agent↔Nadeem communication channel + computed roll-ups + standing SOPs). [[0. Agent Operating Checklist]] is the law of this folder — read it before any stock / forecast / catalog / ordering work.
+
+## Folder map
+
+| Path | What lives there |
+|---|---|
+| `0. Agent Operating Checklist.md` | **The six standing checks** — mandatory pre-work for stock/forecast/order tasks |
+| `QC & Gap Analysis.md` | Audit of what the OS doesn't capture yet (cost categories outside the system) |
+| `Purchase Orders/` | One note per order: `PO YYYY-MM-DD — Vendor.md` + `0. Purchase Orders.base` / `.md` index + [[0. Reconciliation — Gaps]] (bought-but-not-catalogued flags) |
+| `_Ledger/` | Agent↔Nadeem files, roll-ups, SOPs, price sheets, `product_burn.csv`, `scripts/` |
+
+## Purchase Orders
+
+- **Filename:** `PO YYYY-MM-DD — Vendor.md`. **Frontmatter** (`type: purchase_order`): `po_id` (`PO-YYYY-MM-DD-vendor`), `date`, `vendor`, `total_rm`, `item_count`, tags `operating-system, purchase-order`.
+- **Body:** items table `| Item | Qty | Unit (RM) | Total (RM) | Remark |` + TOTAL row; `→ Stock` deltas where given.
+- **Cardinal rule: a purchase isn't done until stock reflects it.** After logging a PO, post its deltas to each product's `stock_on_hand`, bump `stock_as_of`, verify the PO's spec matches the product note (a buy can change the spec), and dedupe Stock↔Wishlist (checks 1, 3, 4). Flow: [[Stock Reconciliation Policy]].
+- **Never delete a PO** — it's the audit trail. Source of truth for past spend alongside the Expenses Google Sheet ("Stock Management").
+
+## The `_Ledger` — how the loop works
+
+When the agent needs something only Nadeem can provide (physical stock count, a price, a decision), it **creates or updates a ledger file** stating exactly what's needed; Nadeem fills it in; the agent consumes it to move forward. Files are also where computed results are written back so they persist between sessions.
+
+| File | Purpose |
+|---|---|
+| [[Stock Forecast — Intake Protocol]] | **SOP:** the intake questions to ask BEFORE any stock forecast (horizon, current cycle, test-ester status, PED calendar, unlogged buys, …). Defaults: horizon = 31 Dec next year |
+| [[Stock Reconciliation Policy]] | **SOP:** PO → `stock_on_hand` posting rules |
+| [[Bi-Weekly Review]] | **SOP/cadence:** the recurring review ritual |
+| [[Schedule Audit]] | Audit of dosing-schedule assignments vs reality |
+| [[Monthly Nut]] | The unified E+F+X monthly ledger (Goal 1) |
+| [[Freedom Numbers]] | Emergency 6mo + Freedom 24mo targets (Goal 4; E+F only, ×1.06 inflation) |
+| [[Stock & Restock Plan]] | What to buy, when, at what cost (Goal 2) |
+| [[Price & Sourcing Optimization]] · [[International Vendor Price Sheet]] · [[Peptide Price Comparison]] · [[Cut Compound Price & Vendor Comparison]] | Price-watch / negotiation sheets (Goal 3) |
+| [[Cut Campaign Stock & Cost]] · [[Beligas Order — 2026 Q3 Cut]] · [[Equicare Order — 2026]] | Campaign/order working files for specific buys |
+| `product_burn.csv` | Computed per-product burn export |
+| `scripts/os_nut.py` | Recompute engine: Monthly Nut (E/F/X), stock run-out + restock, freedom buckets. Run: `python3 os_nut.py "<path to Operating System folder>"`. **Edit its CONFIG block (income / PED calendar / overhead classing) at each review** |
+| `scripts/os_qc_ids.py` | Catalog guard: duplicate `product_id`s, missing fields, id/filename drift. Run: `python os_qc_ids.py "2. Catalog"` after any product add/rename |
+
+## The six checks (summary — full text in [[0. Agent Operating Checklist]])
+
+1. **POs → stock** — sweep for buys newer than `stock_as_of`, post deltas.
+2. **Date + protocols → depletion** — project run-out; periodically ask Nadeem to eyeball real stock.
+3. **Catalog ↔ PO consistency** — a buy can change the spec; fix the note.
+4. **Stock ↔ Wishlist dedup** — bought → move to Stock, same id.
+5. **Sources current** — lead time, fees, trust; order slow vendors first.
+6. **Schema + Uses context** — correct dose/frequency/cycle-weeks; factor [[Training Rhythm]] (≈5.25 d/wk) and [[Pinning Schedule]].
+
+**When:** forecast/what-to-buy request → all six + intake SOP. New PO logged → 1, 3, 4. Before ordering → 5, 6.
+
+## Agent rules for this folder
+
+1. Run the checklist before computing anything; run the intake SOP before any forecast — **ask first, then forecast**.
+2. Leave a ledger trail: blocked on Nadeem? Create/update a ledger file with the exact ask. Computed something durable? Write it back to the relevant ledger file, don't leave it in chat only.
+3. Keep prices synced: a price seen in a PO or vendor sheet that differs from the product note → update the note.
+4. Dose/calendar numbers are **provisional until bloodwork confirms** — note it when costing PED forecasts.
+5. Check [[0. Reconciliation — Gaps]] and [[QC & Gap Analysis]] before claiming completeness — known holes: uncatalogued buys, food/protein premium, insurance, some software.
+
+## Cross-links
+- Catalog rules: [[0. Agent Guide — Catalog]] · Dose math: [[0. Agent Guide — Schema]] · Cycle/protocol context: [[0. Agent Guide — Uses]] · Index: [[0. Agent Guide — Operating System]]

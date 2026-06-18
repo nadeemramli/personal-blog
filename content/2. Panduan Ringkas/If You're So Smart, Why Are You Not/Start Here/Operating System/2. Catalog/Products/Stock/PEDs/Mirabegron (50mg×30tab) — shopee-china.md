@@ -7,7 +7,7 @@ name: "Mirabegron"
 aliases:
   - Betmiga
   - Myrbetriq
-brand: "generic"
+brand: "Betmiga (Astellas)"
 vendor: shopee-china
 source: shopee-china
 pillar: Fit
@@ -15,7 +15,7 @@ sub_series: Performance Enhancement
 category: Pharmacology
 importance: Slight
 status: active
-stack: PEDs
+stack: "Ancillaries & Supplement"
 restock: OK
 dosing: ED
 use: Cutting
@@ -28,17 +28,19 @@ package_size: 30
 size_unit: tabs
 base_dose: 50
 dose_unit: mg
-cost_per_bottle: 205
+cost_per_bottle: 207.62
 list_price:
 promo_price:
 current_phase: not_started
-stock_on_hand: 0
+stock_on_hand: 3000
+stock_as_of: 2026-06-08
 daily_dose: 50
+runout_forecast:
 product_tags:
   - Cut only
   - Fat-loss
 weeks_per_year: 12
-notes: "PURCHASED 2026-06-08 (shopee-china cart/checkout). Beta-3 adrenergic agonist — activates brown adipose tissue / lipolysis without the beta-1/2 stimulant load of clen. [[shopee-china]] RM205/box (30×50mg). Protocol: start 50mg (tolerance/RHR test) → 100mg ONLY if resting HR stays stable. CAUTION: raises BP; do NOT casually stack with [[Yohimbine (5mg×240tab) — iHerb|Yohimbine]]/[[Clenbuterol (40mcg×100tab) — kohohpharma|Clenbuterol]]; [[Nebivolol (2.5mg×100tab) — Jigar Healthcare|Nebivolol]] (β-blocker) blunts it. Tier-2/3 deployment ([[Mini-Cut & Accelerator Tiers]]). Part of [[2026 Q3 Cut to 15%]]."
+notes: "CONFIRMED PURCHASED 2026-06-08 ([[PO 2026-06-08 — shopee-china]]): **2 boxes Betmiga 50mg×30 = 3,000mg** on hand, RM207.62/box. PURCHASED 2026-06-08 (shopee-china cart/checkout). Beta-3 adrenergic agonist — activates brown adipose tissue / lipolysis without the beta-1/2 stimulant load of clen. [[shopee-china]] RM205/box (30×50mg). Protocol: start 50mg (tolerance/RHR test) → 100mg ONLY if resting HR stays stable. CAUTION: raises BP; do NOT casually stack with [[Yohimbine (5mg×240tab) — iHerb|Yohimbine]]/[[Clenbuterol (40mcg×100tab) — kohohpharma|Clenbuterol]]; [[Nebivolol (2.5mg×100tab) — Jigar Healthcare|Nebivolol]] (β-blocker) blunts it. Tier-2/3 deployment ([[Mini-Cut & Accelerator Tiers]]). Part of [[2026 Q3 Cut to 15%]]."
 ---
 # Mirabegron
 
@@ -51,6 +53,18 @@ notes: "PURCHASED 2026-06-08 (shopee-china cart/checkout). Beta-3 adrenergic ago
 
 > [!warning] BP/HR watch. Don't stack with other strong stims (Yohimbine/Clen) without monitoring. Nebivolol blunts the β3 fat-loss effect — they partly cancel.
 
+
+## Purchase Log
+
+> [!note] Stock is currently an aggregate balance, not a lot-level FIFO ledger. PO rows prove acquisition; exact surviving lots require a physical count or depletion entry.
+
+| Date | Event | PO / source | Change or balance | Usage at update | Note |
+|---|---|---|---|---|---|
+| 2026-06-08 | Stock update | Manual/model snapshot | 3000 mg on hand | 50 mg/ED | Latest recorded aggregate balance |
+| 2026-06-08 | Purchase | [[PO 2026-06-08 — shopee-china]] | +3,000 mg | - | Betmiga 50mg (Mirabegron); line total 415.24; +3,000mg |
+
+> Append future events newest-first: `Purchase`, `Stock check`, `Usage change`, or `Depletion`. Every stock check must also update `stock_on_hand` and `stock_as_of`.
+
 ## Links
-- Schedule: [[ED — Every Day]] · Source: [[shopee-china]] · Protocol: [[Mini-Cut & Accelerator Tiers]] · Campaign: [[2026 Q3 Cut to 15%]]
+- Schedule: [[ED — Every Day]] · Source: [[shopee-china]] · Protocol: [[Off-Season Mini-Cut & Accelerator Tiers]] · Campaign: [[2026 Q3 Cut to 15%]]
 - Operating system: [[The Operating System]] · [[Product List]] · [[Schema — Data Model]]

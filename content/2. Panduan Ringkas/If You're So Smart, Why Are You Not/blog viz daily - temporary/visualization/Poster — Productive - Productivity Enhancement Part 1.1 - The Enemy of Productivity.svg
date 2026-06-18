@@ -1,0 +1,310 @@
+<svg viewBox="0 0 1500 1200" xmlns="http://www.w3.org/2000/svg" font-family="Inter, system-ui, 'DejaVu Sans', sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#06090D"/>
+      <stop offset="0.55" stop-color="#0B0F14"/>
+      <stop offset="1" stop-color="#0E1419"/>
+    </linearGradient>
+    <radialGradient id="traceGlow" cx="0.5" cy="0.5" r="0.6">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="distGlow" cx="0.5" cy="0.5" r="0.6">
+      <stop offset="0" stop-color="#E8A23D" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#E8A23D" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="faultGlow" cx="0.5" cy="0.5" r="0.7">
+      <stop offset="0" stop-color="#FF5C5C" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#FF5C5C" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#161D25" stroke-width="0.6"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.0" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-90%" y="-90%" width="280%" height="280%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <marker id="arrCyan" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0 0L6.5 3L0 6Z" fill="#2DD4BF"/></marker>
+    <marker id="arrDim" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0 0L6.5 3L0 6Z" fill="#3B4552"/></marker>
+    <marker id="arrAmber" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0 0L6.5 3L0 6Z" fill="#E8A23D"/></marker>
+    <marker id="arrRed" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0 0L6.5 3L0 6Z" fill="#FF5C5C"/></marker>
+  </defs>
+
+  <rect width="1500" height="1200" fill="url(#bg)"/>
+  <rect width="1500" height="1200" fill="url(#grid)"/>
+  <rect x="180" y="300" width="780" height="340" fill="url(#traceGlow)"/>
+  <rect x="960" y="300" width="470" height="560" fill="url(#distGlow)"/>
+
+  <g id="header">
+    <text x="72" y="52" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="3.2" fill="#8A93A3">PRODUCTIVE  ·  PRODUCTIVITY ENHANCEMENT  ·  PART 1.1  ·  THE ENEMY OF PRODUCTIVITY</text>
+    <text x="70" y="104" font-size="38" font-weight="700" letter-spacing="0.6" fill="#E6E8EE">KNOW YOUR <tspan fill="#E8A23D">ENEMY.</tspan></text>
+    <text x="72" y="134" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="0.8" fill="#5FCBBC">Every layer of the stack kills a specific enemy — you don't buy a tool, you diagnose which enemy is winning.</text>
+    <text x="1430" y="48" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1.6" fill="#5A6470">SIGNAL-DEFENCE SCHEMATIC</text>
+    <text x="1430" y="66" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1.6" fill="#5A6470">THREAT-INTERCEPT BOARD</text>
+    <line x1="70" y1="152" x2="1430" y2="152" stroke="#222A33" stroke-width="1"/>
+  </g>
+
+  <g font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace">
+    <text x="118" y="206" font-size="14.5" letter-spacing="1.2" font-weight="600" fill="#E8A23D">NOISE</text>
+    <text x="118" y="224" font-size="10.5" letter-spacing="0.3" fill="#B5832F">low-value incoming drowns the signal</text>
+    <text x="452" y="206" font-size="14.5" letter-spacing="1.2" font-weight="600" fill="#E8A23D">MINDLESSNESS</text>
+    <text x="452" y="224" font-size="10.5" letter-spacing="0.3" fill="#B5832F">motion mistaken for progress</text>
+    <text x="724" y="206" font-size="14.5" letter-spacing="1.2" font-weight="600" fill="#E8A23D">FORGETFULNESS</text>
+    <text x="724" y="224" font-size="10.5" letter-spacing="0.3" fill="#B5832F">what's not written down disappears</text>
+    <text x="1010" y="206" font-size="16" letter-spacing="1.2" font-weight="700" fill="#F0B45A">DISTRACTION <tspan font-size="12" fill="#E8A23D">— THE MAIN THREAT</tspan></text>
+    <text x="1010" y="224" font-size="10.5" letter-spacing="0.3" fill="#B5832F">steals depth, not time</text>
+  </g>
+
+  <g stroke="#1B232C" stroke-width="1" stroke-dasharray="2 6">
+    <line x1="430" y1="180" x2="430" y2="690"/>
+    <line x1="702" y1="180" x2="702" y2="690"/>
+    <line x1="975" y1="180" x2="975" y2="690"/>
+  </g>
+
+  <g id="trace">
+    <g filter="url(#glow)">
+      <path d="M250 460 L975 460" fill="none" stroke="#2DD4BF" stroke-width="3.4"/>
+    </g>
+    <g stroke="#E8A23D" fill="none">
+      <path d="M975 460 L1006 460" stroke-width="3.2"/>
+      <path d="M1006 460 L1020 520" stroke-width="3.2"/>
+      <path d="M1038 520 L1132 462" stroke-width="2.4" stroke-dasharray="3 5"/>
+      <path d="M1132 462 L1158 460" stroke-width="3.2"/>
+      <path d="M1158 460 L1172 522" stroke-width="3.2"/>
+      <path d="M1190 522 L1284 462" stroke-width="2.4" stroke-dasharray="3 5"/>
+    </g>
+    <g filter="url(#glow)">
+      <path d="M1300 460 L1372 460" fill="none" stroke="#2DD4BF" stroke-width="3.4"/>
+    </g>
+    <text x="92" y="430" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11.5" letter-spacing="1" font-weight="600" fill="#9FE8DE">INPUT</text>
+    <text x="92" y="446" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#5FCBBC">the day's incoming</text>
+    <g filter="url(#softglow)"><circle cx="1390" cy="460" r="15" fill="#0A2521" stroke="#2DD4BF" stroke-width="2"/></g>
+    <circle cx="1390" cy="460" r="6" fill="#2DD4BF" filter="url(#glow)"/>
+    <text x="1390" y="412" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11.5" letter-spacing="0.8" font-weight="600" fill="#BFF6EE">OUTPUT</text>
+    <text x="1390" y="428" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#5FCBBC">finished work</text>
+  </g>
+
+  <g id="noise">
+    <g fill="#1A222B" stroke="#2C3742" stroke-width="0.8">
+      <rect x="86" y="252" width="20" height="11" rx="2"/><rect x="112" y="266" width="20" height="11" rx="2"/>
+      <rect x="90" y="282" width="20" height="11" rx="2"/><rect x="118" y="298" width="20" height="11" rx="2"/>
+      <rect x="86" y="316" width="20" height="11" rx="2"/><rect x="120" y="332" width="20" height="11" rx="2"/>
+      <rect x="92" y="350" width="20" height="11" rx="2"/><rect x="124" y="366" width="20" height="11" rx="2"/>
+      <rect x="88" y="384" width="20" height="11" rx="2"/><rect x="120" y="500" width="20" height="11" rx="2"/>
+      <rect x="92" y="516" width="20" height="11" rx="2"/><rect x="118" y="532" width="20" height="11" rx="2"/>
+      <rect x="88" y="548" width="20" height="11" rx="2"/><rect x="122" y="564" width="20" height="11" rx="2"/>
+    </g>
+    <text x="86" y="244" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#5A6470">4,000-item inbox · feeds · group chats</text>
+    <g fill="#0A2521" stroke="#2DD4BF" stroke-width="1.1">
+      <rect x="150" y="404" width="20" height="11" rx="2"/><rect x="150" y="446" width="20" height="11" rx="2"/>
+    </g>
+    <g filter="url(#glow)">
+      <path d="M206 356 L236 372 L236 548 L206 564 Z" fill="#0C1116" stroke="#2DD4BF" stroke-width="1.6"/>
+    </g>
+    <line x1="212" y1="392" x2="230" y2="392" stroke="#2DD4BF" stroke-width="1.4"/>
+    <line x1="212" y1="420" x2="230" y2="420" stroke="#2DD4BF" stroke-width="1.4"/>
+    <line x1="212" y1="448" x2="230" y2="448" stroke="#2DD4BF" stroke-width="1.4"/>
+    <text transform="translate(228,540) rotate(-90)" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="1.5" fill="#5FCBBC">BANDPASS FILTER</text>
+    <path d="M196 540 L150 596" fill="none" stroke="#3B4552" stroke-width="1.4" stroke-dasharray="3 4" marker-end="url(#arrDim)"/>
+    <rect x="84" y="600" width="120" height="20" rx="3" fill="#10161C" stroke="#2C3742" stroke-width="1"/>
+    <text x="144" y="614" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#5A6470">dumped — never seen</text>
+    <path d="M236 432 L262 446" fill="none" stroke="#2DD4BF" stroke-width="1.6" marker-end="url(#arrCyan)"/>
+    <text x="244" y="338" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#3E7C74">few pass · most dumped</text>
+  </g>
+
+  <g id="mindless">
+    <path d="M470 460 C470 360 520 320 580 320 C648 320 690 366 690 432" fill="none" stroke="#7C8694" stroke-width="2.2" opacity="0.65"/>
+    <path d="M500 348 q14 -16 28 0 q14 16 28 0 q14 -16 28 0 q14 16 28 0 q14 -16 28 0" fill="none" stroke="#3E7C74" stroke-width="1.6" opacity="0.8"/>
+    <text x="500" y="306" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#6B7686">busyness wearing the costume of the real signal</text>
+    <path d="M470 430 L470 400" fill="none" stroke="#7C8694" stroke-width="1.8" marker-end="url(#arrDim)" opacity="0.7"/>
+    <g filter="url(#glow)">
+      <rect x="676" y="430" width="16" height="60" rx="3" fill="#0C1116" stroke="#2DD4BF" stroke-width="1.6"/>
+    </g>
+    <circle cx="684" cy="448" r="3.4" fill="#2DD4BF" filter="url(#glow)"/>
+    <text x="700" y="338" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="0.4" fill="#5FCBBC">DELIBERATENESS GATE</text>
+    <text x="700" y="354" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#3E7C74">passes only current with intent</text>
+    <rect x="700" y="364" width="232" height="22" rx="4" fill="#0A1417" stroke="#1F3B38" stroke-width="1"/>
+    <text x="710" y="379" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" fill="#9FE8DE">does this even matter? → next action</text>
+  </g>
+
+  <g id="forget">
+    <path d="M712 470 q10 7 20 0 q10 -7 20 0 q10 7 20 0 q10 -7 20 0 q10 7 20 0 q10 -7 20 0 q10 7 20 0" fill="none" stroke="#3B4552" stroke-width="1.2" opacity="0.7"/>
+    <text x="712" y="500" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#5A6470">background anxiety hum (Zeigarnik) — flat once caught</text>
+    <g fill="#2C3742">
+      <rect x="760" y="478" width="13" height="8" rx="2" transform="rotate(18 766 482)"/>
+      <rect x="812" y="486" width="13" height="8" rx="2" transform="rotate(28 818 490)"/>
+      <rect x="868" y="482" width="13" height="8" rx="2" transform="rotate(22 874 486)"/>
+    </g>
+    <g stroke="#2C3742" stroke-width="1" stroke-dasharray="2 3" fill="none">
+      <path d="M766 466 L780 540"/><path d="M820 466 L836 540"/><path d="M874 466 L888 540"/>
+    </g>
+    <text x="760" y="556" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#4A5562">dropped commitment · shower idea · lost article ↓ gone</text>
+    <g filter="url(#glow)">
+      <rect x="744" y="582" width="170" height="44" rx="5" fill="#08201E" stroke="#2DD4BF" stroke-width="1.4"/>
+    </g>
+    <text x="829" y="601" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" letter-spacing="0.5" fill="#BFF6EE">CAPTURE LATCH</text>
+    <text x="829" y="616" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#5FCBBC">trusted external buffer · skills.md cell</text>
+    <g stroke="#2DD4BF" stroke-width="1.3" fill="none" opacity="0.85">
+      <path d="M782 540 L800 580" marker-end="url(#arrCyan)"/>
+      <path d="M838 540 L848 580" marker-end="url(#arrCyan)"/>
+      <path d="M890 540 L876 580" marker-end="url(#arrCyan)"/>
+    </g>
+  </g>
+
+  <g id="distraction">
+    <g stroke="#E8A23D" stroke-width="2" fill="none">
+      <path d="M1030 268 L1044 296 L1024 300 L1042 330"/>
+      <path d="M1150 262 L1166 292 L1144 296 L1164 328"/>
+    </g>
+    <text x="1010" y="252" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" letter-spacing="0.5" fill="#E8A23D">INTERRUPT · external interference line</text>
+    <g stroke="#E8A23D" stroke-width="1.5" fill="none" stroke-dasharray="2 3" opacity="0.85">
+      <path d="M1038 332 L1016 452" marker-end="url(#arrAmber)"/>
+      <path d="M1158 330 L1166 452" marker-end="url(#arrAmber)"/>
+    </g>
+    <text x="1040" y="556" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#B5832F">wide re-acquisition ramp = attention residue</text>
+    <text x="1040" y="572" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#B5832F">the cost is the long climb back to depth</text>
+    <text x="1006" y="486" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" font-weight="600" fill="#F0B45A">it doesn't steal time, it steals depth</text>
+    <g filter="url(#glow)">
+      <rect x="1290" y="420" width="14" height="80" rx="3" fill="#0C1116" stroke="#2DD4BF" stroke-width="1.6"/>
+    </g>
+    <g stroke="#2DD4BF" stroke-width="1.1" opacity="0.8">
+      <line x1="1293" y1="430" x2="1301" y2="430"/><line x1="1293" y1="444" x2="1301" y2="444"/>
+      <line x1="1293" y1="458" x2="1301" y2="458"/><line x1="1293" y1="472" x2="1301" y2="472"/><line x1="1293" y1="486" x2="1301" y2="486"/>
+    </g>
+    <text x="1284" y="406" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" letter-spacing="0.4" fill="#5FCBBC">SHIELD + BLOCKER</text>
+    <text x="1284" y="514" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#3E7C74">attenuates only</text>
+    <path d="M1297 500 L1297 700" fill="none" stroke="#E8A23D" stroke-width="2.4" marker-end="url(#arrAmber)"/>
+    <text x="1308" y="600" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="0.4" fill="#B5832F">kill-wire runs OFF the board</text>
+    <text x="1308" y="616" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="0.4" fill="#B5832F">shield attenuates · only training stops it</text>
+  </g>
+
+  <g id="countermeasures" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace">
+    <rect x="84" y="640" width="320" height="44" rx="5" fill="#0A0E12" stroke="#222A33" stroke-width="1"/>
+    <text x="98" y="660" font-size="10.5" letter-spacing="0.4" font-weight="600" fill="#C7CCD6">TACTICAL TOOLKIT (triage) + KNOWLEDGE SYSTEM</text>
+    <text x="98" y="676" font-size="9" fill="#7C8694">filter so you never see most of it</text>
+    <text x="394" y="660" text-anchor="end" font-size="11" fill="#9FE8DE">▢ BUY</text>
+    <text x="394" y="676" text-anchor="end" font-size="8" fill="#8A6A2E">★ AI multiplier</text>
+    <rect x="430" y="640" width="262" height="44" rx="5" fill="#0A0E12" stroke="#222A33" stroke-width="1"/>
+    <text x="444" y="660" font-size="10.5" letter-spacing="0.4" font-weight="600" fill="#C7CCD6">WORKFLOW ENGINE (Clarify / Reflect)</text>
+    <text x="444" y="676" font-size="9" fill="#7C8694">+ JIT PROJECT MANAGEMENT</text>
+    <text x="678" y="660" text-anchor="end" font-size="11" fill="#9FE8DE">▢ BUY</text>
+    <rect x="702" y="640" width="262" height="44" rx="5" fill="#0A0E12" stroke="#222A33" stroke-width="1"/>
+    <text x="716" y="660" font-size="10.5" letter-spacing="0.4" font-weight="600" fill="#C7CCD6">KNOWLEDGE SYSTEM + WORKFLOW (Capture)</text>
+    <text x="716" y="676" font-size="9" fill="#7C8694">+ AI persistent memory (Part 7.2)</text>
+    <text x="950" y="660" text-anchor="end" font-size="11" fill="#9FE8DE">▢ BUY</text>
+    <rect x="975" y="640" width="300" height="44" rx="5" fill="#0A0E12" stroke="#2B2418" stroke-width="1"/>
+    <text x="989" y="660" font-size="10.5" letter-spacing="0.4" font-weight="600" fill="#C7CCD6">PHYSICAL-LAYER SHIELD + TACTICAL BLOCKER</text>
+    <text x="989" y="676" font-size="9" fill="#B5832F">on-board shield is not enough on its own ↓</text>
+  </g>
+
+  <g id="damper">
+    <g filter="url(#softglow)">
+      <rect x="1110" y="700" width="320" height="86" rx="6" fill="#1A140A" stroke="#E8A23D" stroke-width="1.6"/>
+    </g>
+    <text x="1126" y="726" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="0.6" font-weight="600" fill="#F0B45A">TRAINED DAMPER</text>
+    <text x="1126" y="744" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" fill="#C99A52">Behavioral Change — dopamine environment</text>
+    <text x="1126" y="766" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="0.4" font-weight="600" fill="#E8A23D">▣ TRAIN · you can't tool your way out</text>
+    <g stroke="#E8A23D" stroke-width="2.2">
+      <line x1="1378" y1="724" x2="1414" y2="724"/>
+      <line x1="1384" y1="734" x2="1408" y2="734"/>
+      <line x1="1390" y1="744" x2="1402" y2="744"/>
+    </g>
+  </g>
+
+  <g id="asym">
+    <rect x="975" y="800" width="455" height="58" rx="6" fill="#0A0E12" stroke="#2B2418" stroke-width="1.1"/>
+    <text x="998" y="828" font-size="19" font-weight="600" fill="#E6E8EE">Buy your way out of <tspan fill="#2DD4BF">three.</tspan></text>
+    <text x="998" y="850" font-size="19" font-weight="700" fill="#F0B45A">Train your way out of distraction.</text>
+  </g>
+
+  <g id="companion" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace">
+    <rect x="84" y="702" width="858" height="180" rx="6" fill="#080C10" stroke="#1A222B" stroke-width="1"/>
+    <text x="104" y="728" font-size="11.5" letter-spacing="0.8" font-weight="600" fill="#8A93A3">COMPANION TO PART 1.0 — THE SAME SIX LAYERS, ROTATED</text>
+    <text x="104" y="745" font-size="9.5" letter-spacing="0.3" fill="#5A6470">1.0 stacked them to BUILD ↑ · 1.1 turns them sideways into the countermeasures that DEFEND the channel →</text>
+    <g>
+      <rect x="120" y="766" width="60" height="13" rx="2" fill="#10161C" stroke="#2C3742" stroke-width="0.9"/>
+      <rect x="116" y="781" width="68" height="13" rx="2" fill="#10161C" stroke="#2C3742" stroke-width="0.9"/>
+      <rect x="112" y="796" width="76" height="13" rx="2" fill="#10161C" stroke="#2C3742" stroke-width="0.9"/>
+      <rect x="108" y="811" width="84" height="13" rx="2" fill="#10161C" stroke="#2C3742" stroke-width="0.9"/>
+      <rect x="104" y="826" width="92" height="13" rx="2" fill="#10161C" stroke="#2C3742" stroke-width="0.9"/>
+      <rect x="100" y="841" width="100" height="13" rx="2" fill="#0F1A1E" stroke="#3E7C74" stroke-width="1"/>
+      <text x="150" y="872" text-anchor="middle" font-size="9" letter-spacing="0.6" fill="#6B7686">1.0 · BUILD ORDER ↑</text>
+    </g>
+    <text x="244" y="806" font-size="22" fill="#5FCBBC">↻</text>
+    <text x="232" y="828" font-size="9" letter-spacing="0.4" fill="#5A6470">rotate 90°</text>
+    <g>
+      <rect x="312" y="788" width="96" height="34" rx="4" fill="#0A1417" stroke="#1F3B38" stroke-width="1"/>
+      <rect x="416" y="788" width="96" height="34" rx="4" fill="#0A1417" stroke="#1F3B38" stroke-width="1"/>
+      <rect x="520" y="788" width="96" height="34" rx="4" fill="#0A1417" stroke="#1F3B38" stroke-width="1"/>
+      <rect x="624" y="788" width="96" height="34" rx="4" fill="#0A1417" stroke="#1F3B38" stroke-width="1"/>
+      <rect x="728" y="788" width="96" height="34" rx="4" fill="#0A1417" stroke="#1F3B38" stroke-width="1"/>
+      <rect x="832" y="788" width="96" height="34" rx="4" fill="#0A1417" stroke="#1F3B38" stroke-width="1"/>
+      <g font-size="10" letter-spacing="0.3" fill="#9FE8DE" text-anchor="middle">
+        <text x="360" y="803">1 · PHYSICAL</text><text x="360" y="816" font-size="8" fill="#3E7C74">substrate</text>
+        <text x="464" y="803">2 · TACTICAL</text><text x="464" y="816" font-size="8" fill="#3E7C74">filter noise</text>
+        <text x="568" y="803">3 · WORKFLOW</text><text x="568" y="816" font-size="8" fill="#3E7C74">gate · capture</text>
+        <text x="672" y="803">4 · KNOWLEDGE</text><text x="672" y="816" font-size="8" fill="#3E7C74">latch leaks</text>
+        <text x="776" y="803">5 · JIT PM</text><text x="776" y="816" font-size="8" fill="#3E7C74">intent only</text>
+        <text x="880" y="803">6 · AI</text><text x="880" y="816" font-size="8" fill="#3E7C74">multiplier</text>
+      </g>
+      <line x1="312" y1="838" x2="928" y2="838" stroke="#1F3B38" stroke-width="1.2"/>
+      <g fill="#2DD4BF" opacity="0.8"><circle cx="360" cy="838" r="2.4"/><circle cx="464" cy="838" r="2.4"/><circle cx="568" cy="838" r="2.4"/><circle cx="672" cy="838" r="2.4"/><circle cx="776" cy="838" r="2.4"/><circle cx="880" cy="838" r="2.4"/></g>
+      <text x="620" y="872" text-anchor="middle" font-size="9" letter-spacing="0.6" fill="#3E7C74">1.1 · DEFENDED CHANNEL → (what each layer is FOR)</text>
+    </g>
+  </g>
+
+  <line x1="70" y1="900" x2="1430" y2="900" stroke="#222A33" stroke-width="1"/>
+
+  <g id="mapstrip" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace">
+    <text x="72" y="932" font-size="12" letter-spacing="1.6" font-weight="600" fill="#8A93A3">EACH LAYER KILLS AN ENEMY <tspan font-size="9.5" letter-spacing="0.4" fill="#5A6470">— the table, now wired</tspan></text>
+    <text x="84" y="962" font-size="9.5" letter-spacing="0.8" fill="#6B7686">ENEMY</text>
+    <text x="300" y="962" font-size="9.5" letter-spacing="0.8" fill="#6B7686">WHAT IT ATTACKS</text>
+    <text x="600" y="962" font-size="9.5" letter-spacing="0.8" fill="#6B7686">LAYER THAT KILLS IT</text>
+    <text x="900" y="962" font-size="9.5" letter-spacing="0.8" fill="#6B7686">HOW</text>
+    <line x1="72" y1="970" x2="980" y2="970" stroke="#1B232C" stroke-width="1"/>
+    <g font-size="11">
+      <text x="84" y="992" fill="#E8A23D">NOISE</text>
+      <text x="300" y="992" fill="#9AA3B0">drowns the signal</text>
+      <text x="600" y="992" fill="#9FE8DE">Tactical Toolkit · Knowledge</text>
+      <text x="900" y="992" fill="#7C8694">filter ▢ BUY</text>
+      <text x="84" y="1014" fill="#E8A23D">MINDLESSNESS</text>
+      <text x="300" y="1014" fill="#9AA3B0">mis-routes the signal</text>
+      <text x="600" y="1014" fill="#9FE8DE">Workflow Engine · JIT PM</text>
+      <text x="900" y="1014" fill="#7C8694">gate ▢ BUY</text>
+      <text x="84" y="1036" fill="#E8A23D">FORGETFULNESS</text>
+      <text x="300" y="1036" fill="#9AA3B0">leaks bits off the signal</text>
+      <text x="600" y="1036" fill="#9FE8DE">Knowledge · Capture · AI memory</text>
+      <text x="900" y="1036" fill="#7C8694">latch ▢ BUY</text>
+      <line x1="72" y1="1046" x2="980" y2="1046" stroke="#1B232C" stroke-width="1"/>
+      <text x="84" y="1068" font-weight="700" fill="#F0B45A">DISTRACTION</text>
+      <text x="300" y="1068" fill="#C7CCD6">breaks the signal mid-run</text>
+      <text x="600" y="1068" fill="#C99A52">Shield + Behavioral Change</text>
+      <text x="900" y="1068" font-weight="600" fill="#E8A23D">damper ▣ TRAIN</text>
+    </g>
+    <line x1="980" y1="952" x2="980" y2="1078" stroke="#1B232C" stroke-width="1"/>
+  </g>
+
+  <g id="fault">
+    <rect x="1010" y="930" width="420" height="148" fill="url(#faultGlow)"/>
+    <rect x="1022" y="946" width="396" height="92" rx="6" fill="#1A0C0C" stroke="#FF5C5C" stroke-width="1.6" filter="url(#glow)"/>
+    <circle cx="1046" cy="972" r="5" fill="#FF5C5C" filter="url(#glow)"/>
+    <text x="1062" y="976" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11.5" letter-spacing="0.6" font-weight="600" fill="#FF9C9C">WRONG TOOL FOR THE ENEMY</text>
+    <text x="1038" y="1002" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#C77">focus app patched onto a memory leak —</text>
+    <text x="1038" y="1020" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#C77">it keeps leaking · output goes dead</text>
+    <g stroke="#FF5C5C" stroke-width="1.5" fill="none" opacity="0.9">
+      <path d="M1300 992 q22 -4 38 6 q-18 4 -4 14 q20 -2 34 8"/>
+    </g>
+    <text x="1418" y="1062" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="0.4" font-weight="600" fill="#FF8C8C">diagnose before you build</text>
+  </g>
+
+  <g id="foot">
+    <line x1="70" y1="1110" x2="1430" y2="1110" stroke="#222A33" stroke-width="1"/>
+    <text x="72" y="1140" font-size="14" font-weight="500" letter-spacing="0.2" fill="#C7CCD6">Name the enemy first, then build — <tspan fill="#2DD4BF">three you buy, distraction you train.</tspan></text>
+    <text x="72" y="1170" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1.2" fill="#8A93A3">COGNITIVE = hardware  ·  LEARNING = software  ·  <tspan fill="#5FCBBC">PRODUCTIVITY = the OS</tspan></text>
+    <text x="1430" y="1170" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" letter-spacing="0.8" fill="#5FCBBC">Part 1.1 of 7 · Productivity Enhancement · the Productive pillar</text>
+  </g>
+</svg>

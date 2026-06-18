@@ -1,0 +1,25 @@
+---
+type: purchase_order
+po_id: "PO-2026-05-19-lazada"
+date: 2026-05-19
+vendor: "Lazada"
+total_rm: 232.59
+item_count: 3
+tags:
+  - operating-system
+  - purchase-order
+---
+# PO 2026-05-19 — Lazada
+
+> [!info] PO · **Lazada** · 2026-05-19 · **3 item(s)** · **RM232.59**
+
+| Item | Qty | Unit (RM) | Total (RM) | Remark |
+|---|---|---|---|---|
+| 99% RU58841 Raw Powder | 1 | 184.00 | 184.00 |  |
+| Ethanol 99% 1L | 1 | 19.59 | 19.59 |  |
+| Propylene Glycol USP 1KG | 1 | 29.00 | 29.00 |  |
+| **TOTAL** | | | **RM232.59** | |
+
+## Links
+- All POs: [[0. Purchase Orders]] · Stock ledger: [[Stock & Restock Plan]] · Expenses source: Google Sheet "Stock Management"
+- Operating system: [[The Operating System]]

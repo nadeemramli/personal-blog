@@ -1,0 +1,344 @@
+<svg viewBox="0 0 1600 1180" xmlns="http://www.w3.org/2000/svg" font-family="Inter, system-ui, 'DejaVu Sans', sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#070A0E"/>
+      <stop offset="0.5" stop-color="#0B0F14"/>
+      <stop offset="1" stop-color="#0E141A"/>
+    </linearGradient>
+    <radialGradient id="bayGlow" cx="0.5" cy="0.5" r="0.7">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="railFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#10212270"/>
+      <stop offset="1" stop-color="#0B1518"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#121922" stroke-width="0.6"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-90%" y="-90%" width="280%" height="280%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <marker id="arrCyan" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0 0L6.5 3L0 6Z" fill="#2DD4BF"/></marker>
+    <marker id="arrGrey" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0 0L6.5 3L0 6Z" fill="#5A6470"/></marker>
+    <marker id="arrAmber" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0 0L6.5 3L0 6Z" fill="#E8A23D"/></marker>
+  </defs>
+
+  <!-- ===== BACKGROUND ===== -->
+  <rect width="1600" height="1180" fill="url(#bg)"/>
+  <rect width="1600" height="1180" fill="url(#grid)"/>
+  <ellipse cx="800" cy="430" rx="760" ry="240" fill="url(#bayGlow)"/>
+
+  <!-- ===== HEADER ===== -->
+  <g id="header">
+    <text x="60" y="52" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="3.5" fill="#8A93A3">COGNITIVE ENHANCEMENT  ·  PART 4.3  ·  THE HYBRID STACK  ·  SERIES CLOSE</text>
+    <text x="58" y="112" font-size="56" font-weight="700" letter-spacing="0.5" fill="#E6E8EE">SWAP, DON'T STACK.</text>
+    <text x="60" y="146" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="14" letter-spacing="1.2" fill="#9AA3B0">ONE PATHWAY.  ONE LEVER.  PULL THE REDUNDANT ONE OUT — replace the spark, not the fuel.</text>
+    <line x1="60" y1="164" x2="1540" y2="164" stroke="#2A323B" stroke-width="1"/>
+  </g>
+
+  <!-- ===== COLUMN HEADERS ===== -->
+  <g font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="2.2">
+    <text x="56" y="198" fill="#6E7785">THE 4.0 GATE</text>
+    <text x="188" y="198" fill="#2DD4BF">NATURAL HEAVY LAYER · seated</text>
+    <text x="470" y="198" fill="#C9D2DE">PATHWAY BUS RAILS · the swap happens here</text>
+    <text x="1300" y="198" fill="#8A93A3">ENHANCED LEVERS · one live</text>
+  </g>
+
+  <!-- ===== THE 4.0 GATE (far-left, dim) ===== -->
+  <g id="gate">
+    <rect x="52" y="212" width="96" height="470" rx="6" fill="#0C1217" stroke="#2A323B" stroke-width="1"/>
+    <text x="100" y="238" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="0.5" fill="#E8A23D">PASS</text>
+    <text x="100" y="252" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="0.5" fill="#E8A23D">FIRST</text>
+    <!-- three toggles -->
+    <g font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5" letter-spacing="0.3">
+      <rect x="62" y="282" width="76" height="26" rx="4" fill="#13201E" stroke="#2DD4BF" stroke-width="0.8"/>
+      <circle cx="72" cy="295" r="3.4" fill="#2DD4BF"/>
+      <text x="80" y="298" fill="#9FE9DD">BASE-MAXED</text>
+      <rect x="62" y="316" width="76" height="26" rx="4" fill="#13201E" stroke="#2DD4BF" stroke-width="0.8"/>
+      <circle cx="72" cy="329" r="3.4" fill="#2DD4BF"/>
+      <text x="80" y="332" fill="#9FE9DD">SLEEP-FIXED</text>
+      <rect x="62" y="350" width="76" height="26" rx="4" fill="#13201E" stroke="#2DD4BF" stroke-width="0.8"/>
+      <circle cx="72" cy="363" r="3.4" fill="#2DD4BF"/>
+      <text x="80" y="366" fill="#9FE9DD">MEASURED</text>
+    </g>
+    <!-- reward>risk latch -->
+    <rect x="62" y="392" width="76" height="24" rx="4" fill="#1C160B" stroke="#E8A23D" stroke-width="0.8"/>
+    <text x="100" y="408" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#E8A23D">REWARD &gt; RISK</text>
+    <!-- dead-end dimmed traces -->
+    <g stroke="#39424E" stroke-width="1.4" fill="none">
+      <path d="M30 446 H120"/><circle cx="124" cy="446" r="3" fill="#39424E"/>
+      <path d="M30 478 H110"/><circle cx="114" cy="478" r="3" fill="#39424E"/>
+      <path d="M30 510 H120"/><circle cx="124" cy="510" r="3" fill="#39424E"/>
+      <path d="M30 542 H104"/><circle cx="108" cy="542" r="3" fill="#39424E"/>
+      <path d="M30 606 H118"/><circle cx="122" cy="606" r="3" fill="#39424E"/>
+    </g>
+    <text x="100" y="660" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" fill="#5A6470">MOST DEAD-END</text>
+    <text x="100" y="672" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" fill="#5A6470">HERE</text>
+    <!-- the one lit trace that passes through -->
+    <path d="M30 264 H148" stroke="#2DD4BF" stroke-width="2.2" fill="none" filter="url(#glow)"/>
+  </g>
+
+  <!-- ===== NATURAL HEAVY LAYER (cyan, seated jacks) ===== -->
+  <g id="natural">
+    <rect x="164" y="212" width="218" height="470" rx="6" fill="#0A1316" stroke="#1C3A36" stroke-width="1"/>
+    <g font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5">
+      <rect x="176" y="248" width="11" height="11" rx="2" fill="#0B1518" stroke="#7A8693" stroke-width="1.2"/>
+      <text x="194" y="258" fill="#9AA3B0">caffeine</text>
+      <text x="372" y="258" text-anchor="end" fill="#5A6470" font-size="8">signal</text>
+      <rect x="176" y="288" width="11" height="11" rx="2" fill="#10302B" stroke="#2DD4BF" stroke-width="1.2"/>
+      <text x="194" y="298" fill="#9FE9DD">L-theanine</text>
+      <text x="372" y="298" text-anchor="end" fill="#3E7E76" font-size="8">signal · calm</text>
+      <rect x="174" y="326" width="15" height="15" rx="2" fill="#10302B" stroke="#2DD4BF" stroke-width="2"/>
+      <text x="194" y="338" fill="#9FE9DD">α-GPC / CDP-choline</text>
+      <text x="372" y="338" text-anchor="end" fill="#3E7E76" font-size="8">FUEL</text>
+      <rect x="174" y="364" width="15" height="15" rx="2" fill="#10302B" stroke="#2DD4BF" stroke-width="2"/>
+      <text x="194" y="376" fill="#9FE9DD">ALCAR</text>
+      <text x="372" y="376" text-anchor="end" fill="#3E7E76" font-size="8">FUEL</text>
+      <rect x="176" y="404" width="11" height="11" rx="2" fill="#0B1518" stroke="#7A8693" stroke-width="1.2"/>
+      <text x="194" y="414" fill="#9AA3B0">huperzine</text>
+      <text x="372" y="414" text-anchor="end" fill="#5A6470" font-size="8">signal</text>
+      <rect x="176" y="442" width="11" height="11" rx="2" fill="#0B1518" stroke="#7A8693" stroke-width="1.2"/>
+      <text x="194" y="452" fill="#9AA3B0">ginkgo</text>
+      <text x="372" y="452" text-anchor="end" fill="#5A6470" font-size="8">signal</text>
+    </g>
+    <rect x="176" y="500" width="194" height="40" rx="4" fill="#0D211C" stroke="#2DD4BF" stroke-width="1.6"/>
+    <text x="273" y="518" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#9FE9DD">omega-3 · creatine</text>
+    <text x="273" y="532" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" letter-spacing="1" fill="#3E7E76">STRUCTURAL FLOOR · never swapped</text>
+    <g font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5">
+      <line x1="180" y1="566" x2="206" y2="566" stroke="#7A8693" stroke-width="1.3"/>
+      <text x="212" y="569" fill="#7A8693">thin = signal patch cord (the spark)</text>
+      <line x1="180" y1="586" x2="206" y2="586" stroke="#2DD4BF" stroke-width="4"/>
+      <text x="212" y="589" fill="#7A8693">thick = fuel conduit (bolted, kept)</text>
+    </g>
+    <text x="180" y="618" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#5A6470">↑ the running baseline you never turn off</text>
+  </g>
+
+  <!-- ===== BUS RAILS (hero zone) ===== -->
+  <g id="rails">
+    <rect x="398" y="246" width="760" height="26" rx="5" fill="url(#railFill)" stroke="#2DD4BF" stroke-width="1.2" stroke-opacity="0.55"/>
+    <text x="412" y="263" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="1" fill="#2DD4BF">IGNITION / EXECUTIVE</text>
+    <rect x="398" y="356" width="760" height="26" rx="5" fill="url(#railFill)" stroke="#2DD4BF" stroke-width="1.2" stroke-opacity="0.55"/>
+    <text x="412" y="373" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="1" fill="#2DD4BF">MEMORY / ACETYLCHOLINE</text>
+    <rect x="398" y="466" width="760" height="26" rx="5" fill="url(#railFill)" stroke="#2DD4BF" stroke-width="1.2" stroke-opacity="0.55"/>
+    <text x="412" y="483" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="1" fill="#2DD4BF">NEUROGENESIS / PROTECTION</text>
+    <rect x="398" y="566" width="760" height="15" rx="4" fill="#0B1518" stroke="#2DD4BF" stroke-width="0.9" stroke-opacity="0.4"/>
+    <text x="412" y="577" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" letter-spacing="1" fill="#3E7E76">STATE / CALM  ·  theanine's home</text>
+  </g>
+
+  <!-- ===== PEAK METERS (right end of each main rail) ===== -->
+  <g id="peakmeters" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="7.5">
+    <g transform="translate(1168,236)">
+      <rect width="78" height="48" rx="4" fill="#0A1316" stroke="#2A323B"/>
+      <path d="M10 40 Q39 6 68 40" fill="none" stroke="#33414A" stroke-width="1.4"/>
+      <line x1="39" y1="41" x2="39" y2="13" stroke="#2DD4BF" stroke-width="1.8"/>
+      <circle cx="39" cy="13" r="3.2" fill="#2DD4BF" filter="url(#glow)"/>
+      <text x="39" y="46" text-anchor="middle" fill="#3E7E76">AT PEAK</text>
+    </g>
+    <g transform="translate(1168,346)">
+      <rect width="78" height="48" rx="4" fill="#0A1316" stroke="#2A323B"/>
+      <path d="M10 40 Q39 6 68 40" fill="none" stroke="#33414A" stroke-width="1.4"/>
+      <line x1="39" y1="41" x2="39" y2="13" stroke="#2DD4BF" stroke-width="1.8"/>
+      <circle cx="39" cy="13" r="3.2" fill="#2DD4BF" filter="url(#glow)"/>
+      <text x="39" y="46" text-anchor="middle" fill="#3E7E76">AT PEAK</text>
+    </g>
+    <g transform="translate(1168,456)">
+      <rect width="78" height="48" rx="4" fill="#0A1316" stroke="#2A323B"/>
+      <path d="M10 40 Q39 6 68 40" fill="none" stroke="#33414A" stroke-width="1.4"/>
+      <line x1="39" y1="41" x2="39" y2="13" stroke="#2DD4BF" stroke-width="1.8"/>
+      <circle cx="39" cy="13" r="3.2" fill="#2DD4BF" filter="url(#glow)"/>
+      <text x="39" y="46" text-anchor="middle" fill="#3E7E76">AT PEAK</text>
+    </g>
+  </g>
+
+  <!-- ===== THE WORKED HERO SWAP (on IGNITION rail) ===== -->
+  <g id="heroswap">
+    <!-- theanine KEEP cyan thin cord into ignition from natural side -->
+    <path d="M194 293 C 360 293, 380 259, 420 259" fill="none" stroke="#2DD4BF" stroke-width="1.6" marker-end="url(#arrCyan)"/>
+    <text x="430" y="232" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#2DD4BF">KEEP theanine — now smooths modafinil's edge</text>
+    <!-- choline KEEP thick conduit into memory -->
+    <path d="M190 333 C 360 333, 380 369, 420 369" fill="none" stroke="#2DD4BF" stroke-width="4" stroke-opacity="0.85"/>
+    <text x="430" y="410" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#9FE9DD">KEEP choline — the fuel (drop it = the headache)</text>
+    <!-- huperzine EASE/HALVE amber into memory -->
+    <path d="M194 409 C 350 409, 380 376, 420 376" fill="none" stroke="#E8A23D" stroke-width="1.4" stroke-dasharray="5 4" marker-end="url(#arrAmber)"/>
+    <text x="430" y="428" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#E8A23D">EASE / HALVE huperzine — heavy layer already raises ACh ×3</text>
+
+    <!-- caffeine EJECTED: spring ejector throws it out below ignition rail -->
+    <path d="M452 273 q6 8 12 0 q6 8 12 0 q6 8 12 0" fill="none" stroke="#6E7785" stroke-width="1.6"/>
+    <g transform="translate(470,300) rotate(-18)">
+      <rect x="0" y="0" width="13" height="13" rx="2" fill="#0B1518" stroke="#5A6470" stroke-width="1.3"/>
+      <text x="20" y="11" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" fill="#6E7785">caffeine ✕</text>
+    </g>
+    <path d="M462 290 L 478 322" stroke="#5A6470" stroke-width="1.4" stroke-dasharray="3 3" marker-end="url(#arrGrey)"/>
+    <text x="540" y="332" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#6E7785">– caffeine: redundant wakefulness, ejected</text>
+
+    <!-- Modafinil NEW PATCH lit cyan cable into ignition right end -->
+    <path d="M1300 259 C 1230 259, 1210 259, 1158 259" fill="none" stroke="#2DD4BF" stroke-width="2.6" filter="url(#glow)" marker-end="url(#arrCyan)"/>
+    <text x="880" y="300" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" letter-spacing="0.5" fill="#2DD4BF">NEW PATCH ▸ MODAFINIL — the one lever, seated into Ignition</text>
+  </g>
+
+  <!-- ===== ENHANCED LEVERS (right field; one live) ===== -->
+  <g id="enhanced">
+    <rect x="1296" y="212" width="244" height="470" rx="6" fill="#0A0E13" stroke="#222A33" stroke-width="1"/>
+    <rect x="1308" y="244" width="220" height="32" rx="5" fill="#10302B" stroke="#2DD4BF" stroke-width="1.4" filter="url(#glow)"/>
+    <circle cx="1322" cy="260" r="4" fill="#2DD4BF"/>
+    <text x="1334" y="264" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" fill="#9FE9DD">Modafinil</text>
+    <text x="1518" y="264" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="7.5" letter-spacing="0.5" fill="#E8A23D">CYCLE ↺</text>
+    <rect x="1308" y="320" width="220" height="30" rx="5" fill="#0C1217" stroke="#39424E" stroke-width="1"/>
+    <circle cx="1322" cy="335" r="3.6" fill="#39424E"/>
+    <text x="1334" y="339" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" fill="#7A8693">Noopept</text>
+    <text x="1518" y="339" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="7.5" letter-spacing="0.5" fill="#6E5A36">CYCLE ↺</text>
+    <rect x="1308" y="360" width="220" height="30" rx="5" fill="#0C1217" stroke="#39424E" stroke-width="1"/>
+    <circle cx="1322" cy="375" r="3.6" fill="#39424E"/>
+    <text x="1334" y="379" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" fill="#7A8693">Aniracetam</text>
+    <path d="M1452 370 c -4 5 -4 9 0 11 c 4 -2 4 -6 0 -11 z" fill="#E8A23D" opacity="0.85"/>
+    <text x="1518" y="379" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="7.5" fill="#6E5A36">fat-sol</text>
+    <rect x="1308" y="450" width="220" height="30" rx="5" fill="#0C1217" stroke="#39424E" stroke-width="1"/>
+    <circle cx="1322" cy="465" r="3.6" fill="#39424E"/>
+    <text x="1334" y="469" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" fill="#7A8693">Intranasal Semax</text>
+    <text x="1518" y="469" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="7.5" letter-spacing="0.5" fill="#3E7E76">DAILY ●</text>
+    <text x="1308" y="500" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" fill="#5A6470">↑ additive · NO ejector spring · remove nothing</text>
+
+    <rect x="1308" y="556" width="220" height="56" rx="5" fill="#160F06" stroke="#E8A23D" stroke-width="1.1"/>
+    <text x="1318" y="572" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#E8A23D">▣ WORK-CUE-ONLY gate</text>
+    <text x="1318" y="586" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#F0C07A">Context-gated nicotine</text>
+    <rect x="1318" y="595" width="120" height="6" rx="3" fill="#231a0c"/>
+    <rect x="1318" y="595" width="64" height="6" rx="3" fill="#E8A23D" opacity="0.8"/>
+    <text x="1446" y="601" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="7.5" fill="#B5853A">tol. creep</text>
+    <text x="1308" y="630" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" fill="#8A7340">managed dependence · the gate is the clever part</text>
+
+    <text x="1418" y="666" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5" letter-spacing="0.5" fill="#6E7785">ONE PATCH SLOT · the rest sit racked, unlit</text>
+  </g>
+
+  <!-- ===== INTERLOCK BAR (under the rails) ===== -->
+  <g id="interlock">
+    <rect x="398" y="610" width="760" height="30" rx="5" fill="#0C1217" stroke="#33414A" stroke-width="1"/>
+    <circle cx="420" cy="625" r="5" fill="none" stroke="#2DD4BF" stroke-width="1.6"/>
+    <line x1="420" y1="625" x2="426" y2="625" stroke="#2DD4BF" stroke-width="1.6"/>
+    <text x="440" y="629" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="2" fill="#E6E8EE">ONE LEVER AT A TIME</text>
+    <text x="700" y="629" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#8A93A3">— the rule that doesn't bend. A second cable on the same bus pushes you past the peak.</text>
+  </g>
+
+  <!-- ===== DIVIDER ===== -->
+  <line x1="60" y1="708" x2="1540" y2="708" stroke="#222A33" stroke-width="1"/>
+
+  <!-- ===== PRESET CARDS A / B / C ===== -->
+  <g id="presets" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace">
+    <text x="60" y="742" font-size="11" letter-spacing="2.2" fill="#C9D2DE">THE BUILDS · same bay, only the delta changes</text>
+
+    <rect x="60" y="756" width="300" height="178" rx="7" fill="#0A0E13" stroke="#243039" stroke-width="1"/>
+    <text x="76" y="782" font-size="13" fill="#2DD4BF">A · BLOWN-SLEEP DEADLINE</text>
+    <text x="76" y="798" font-size="9.5" fill="#9AA3B0">lever ▸ Modafinil</text>
+    <rect x="246" y="768" width="98" height="18" rx="9" fill="#1C160B" stroke="#E8A23D" stroke-width="0.8"/>
+    <text x="295" y="781" text-anchor="middle" font-size="8" fill="#E8A23D">CYCLICAL ↺</text>
+    <g font-size="9.5" fill="#B8C0CC">
+      <text x="76" y="822">– eject caffeine</text>
+      <text x="76" y="840">+ keep theanine (solo)</text>
+      <text x="76" y="858">+ keep choline + structural</text>
+      <text x="76" y="876">· skip huperzine</text>
+    </g>
+    <text x="76" y="906" font-size="8.5" fill="#8A7340">swing weapon · repay the sleep debt</text>
+    <text x="76" y="922" font-size="8.5" fill="#6E7785">rail touched: IGNITION</text>
+
+    <rect x="376" y="756" width="300" height="178" rx="7" fill="#0A0E13" stroke="#243039" stroke-width="1"/>
+    <text x="392" y="782" font-size="13" fill="#2DD4BF">B · LEARNING SPRINT</text>
+    <text x="392" y="798" font-size="9.5" fill="#9AA3B0">lever ▸ Noopept OR Aniracetam</text>
+    <rect x="562" y="768" width="98" height="18" rx="9" fill="#1C160B" stroke="#E8A23D" stroke-width="0.8"/>
+    <text x="611" y="781" text-anchor="middle" font-size="8" fill="#E8A23D">CYCLICAL ↺</text>
+    <g font-size="9.5" fill="#B8C0CC">
+      <text x="392" y="822">~ ease / halve huperzine</text>
+      <text x="392" y="840">+ lean on choline</text>
+      <text x="392" y="858">+ keep modest caffeine+theanine</text>
+      <text x="392" y="876">· Aniracetam → fatty breakfast</text>
+    </g>
+    <text x="392" y="906" font-size="8.5" fill="#E8A23D">PICK ONE, NOT BOTH</text>
+    <text x="392" y="922" font-size="8.5" fill="#6E7785">rail touched: MEMORY / ACh</text>
+
+    <rect x="692" y="756" width="300" height="178" rx="7" fill="#0A0E13" stroke="#243039" stroke-width="1"/>
+    <text x="708" y="782" font-size="13" fill="#2DD4BF">C · DAILY RITUAL</text>
+    <text x="708" y="798" font-size="9.5" fill="#9AA3B0">lever ▸ Semax ± gated nicotine</text>
+    <rect x="878" y="768" width="98" height="18" rx="9" fill="#13201E" stroke="#2DD4BF" stroke-width="0.8"/>
+    <text x="927" y="781" text-anchor="middle" font-size="8" fill="#2DD4BF">DAILY ●</text>
+    <g font-size="9.5" fill="#B8C0CC">
+      <text x="708" y="822">✕ eject NOTHING — additive</text>
+      <text x="708" y="840">+ Semax = "deep work starts now"</text>
+      <text x="708" y="858">· nicotine only behind the gate</text>
+      <text x="708" y="876">· half ritual, half pharmacology</text>
+    </g>
+    <text x="708" y="906" font-size="8.5" fill="#3E7E76">the only daily-capable lever</text>
+    <text x="708" y="922" font-size="8.5" fill="#6E7785">rail touched: NEUROGENESIS</text>
+  </g>
+
+  <!-- ===== THE ONE RED OBJECT — forbidden double-patch ===== -->
+  <g id="redinset" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace">
+    <rect x="1008" y="756" width="262" height="178" rx="7" fill="#160809" stroke="#FF5C5C" stroke-width="1.3"/>
+    <text x="1024" y="782" font-size="12" letter-spacing="0.5" fill="#FF5C5C">THE SILENT FAILURE</text>
+    <rect x="1024" y="800" width="160" height="20" rx="4" fill="#1a0c0d" stroke="#FF5C5C" stroke-width="1" stroke-opacity="0.7"/>
+    <text x="1030" y="814" font-size="8.5" fill="#CC7777">IGNITION bus</text>
+    <path d="M1108 800 C 1108 788, 1146 788, 1146 774" fill="none" stroke="#FF5C5C" stroke-width="1.6"/>
+    <path d="M1138 800 C 1138 788, 1176 788, 1176 774" fill="none" stroke="#FF5C5C" stroke-width="1.6"/>
+    <g transform="translate(1200,792)">
+      <rect width="60" height="40" rx="4" fill="#0A0709" stroke="#FF5C5C" stroke-width="0.9"/>
+      <path d="M8 33 Q30 6 52 33" fill="none" stroke="#5a2b2c" stroke-width="1.2"/>
+      <line x1="30" y1="34" x2="49" y2="22" stroke="#FF5C5C" stroke-width="1.8"/>
+      <circle cx="49" cy="22" r="3" fill="#FF5C5C" filter="url(#glow)"/>
+      <text x="30" y="47" text-anchor="middle" font-size="6.5" fill="#FF5C5C">CLIPPED</text>
+    </g>
+    <g font-size="9" fill="#E9B7B7">
+      <text x="1024" y="846">Modafinil AND caffeine — both</text>
+      <text x="1024" y="860">still seated on the same bus.</text>
+    </g>
+    <text x="1024" y="882" font-size="9" fill="#FF8A8A">Two on one pathway don't ADD —</text>
+    <text x="1024" y="896" font-size="9" fill="#FF8A8A">they shove you past the peak.</text>
+    <text x="1024" y="918" font-size="8.5" fill="#CC8888">You'll blame the new compound —</text>
+    <text x="1024" y="930" font-size="8.5" fill="#CC8888">but you forgot to pull a lever.</text>
+  </g>
+
+  <!-- ===== MEASUREMENT + LEGEND COLUMN ===== -->
+  <g id="measure" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace">
+    <rect x="1286" y="756" width="254" height="178" rx="7" fill="#0A0E13" stroke="#243039" stroke-width="1"/>
+    <text x="1302" y="782" font-size="12" letter-spacing="0.5" fill="#E6E8EE">THE MEASUREMENT LOOP</text>
+    <g transform="translate(1302,794)">
+      <rect width="120" height="42" rx="4" fill="#0A1316" stroke="#2A323B"/>
+      <path d="M12 34 A 48 48 0 0 1 108 34" fill="none" stroke="#33414A" stroke-width="1.4"/>
+      <line x1="60" y1="35" x2="86" y2="16" stroke="#2DD4BF" stroke-width="1.8"/>
+      <circle cx="60" cy="35" r="2.6" fill="#2DD4BF"/>
+    </g>
+    <text x="1432" y="812" font-size="9" fill="#9AA3B0">PR BATTERY</text>
+    <text x="1432" y="826" font-size="9" fill="#9AA3B0">DEEP-WORK LOG</text>
+    <text x="1302" y="860" font-size="10.5" fill="#2DD4BF">KEEP IT ONLY IF</text>
+    <text x="1302" y="876" font-size="10.5" fill="#2DD4BF">THE NUMBERS MOVE</text>
+    <text x="1302" y="900" font-size="8.5" fill="#7A8693">no movement = the risk bought nothing.</text>
+    <line x1="1302" y1="910" x2="1524" y2="910" stroke="#222A33"/>
+    <circle cx="1308" cy="924" r="3.4" fill="#2DD4BF"/>
+    <text x="1318" y="927" font-size="8.5" fill="#3E7E76">DAILY = additive · CYCLE ↺ = swing weapon</text>
+  </g>
+
+  <!-- ===== CABLE-STATE LEGEND ===== -->
+  <g id="cablelegend" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5">
+    <rect x="60" y="958" width="1480" height="34" rx="6" fill="#0A0E13" stroke="#1C2530" stroke-width="1"/>
+    <rect x="78" y="970" width="12" height="12" rx="2" fill="#10302B" stroke="#2DD4BF" stroke-width="1.2"/>
+    <text x="98" y="980" fill="#9FE9DD">SEATED = keep</text>
+    <rect x="288" y="970" width="12" height="12" rx="2" fill="#0B1518" stroke="#5A6470" stroke-width="1.2"/>
+    <text x="308" y="980" fill="#8A93A3">EJECTED = remove</text>
+    <line x1="540" y1="976" x2="566" y2="976" stroke="#2DD4BF" stroke-width="2.4" filter="url(#glow)"/>
+    <text x="576" y="980" fill="#9FE9DD">NEW PATCH = the one lever</text>
+    <line x1="840" y1="976" x2="866" y2="976" stroke="#2DD4BF" stroke-width="5"/>
+    <text x="876" y="980" fill="#9FE9DD">CONDUIT = fuel, never swapped</text>
+    <rect x="1200" y="970" width="12" height="12" rx="2" fill="#160F06" stroke="#E8A23D" stroke-width="1.2"/>
+    <text x="1220" y="980" fill="#E8A23D">AMBER = judgement call · one RED = past the peak</text>
+  </g>
+
+  <!-- ===== FOOT RIBBON ===== -->
+  <g id="foot">
+    <text x="60" y="1052" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="14" letter-spacing="0.3" fill="#E8A23D" font-style="italic">…and now the recipes. The brain, finally, run by the numbers — exactly like the body.</text>
+    <line x1="60" y1="1078" x2="1540" y2="1078" stroke="#222A33" stroke-width="1"/>
+    <text x="60" y="1106" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" letter-spacing="1.5" fill="#6E7785">IF YOU'RE SO SMART, WHY ARE YOU NOT  ·  PRODUCTIVE / COGNITIVE ENHANCEMENT  ·  PART 4.3 — THE HYBRID STACK  ·  SERIES CLOSE</text>
+    <text x="1540" y="1106" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" letter-spacing="1.5" fill="#6E7785">NEURAL SIGNAL SCHEMATIC · SWAP PATCH-BAY</text>
+  </g>
+</svg>

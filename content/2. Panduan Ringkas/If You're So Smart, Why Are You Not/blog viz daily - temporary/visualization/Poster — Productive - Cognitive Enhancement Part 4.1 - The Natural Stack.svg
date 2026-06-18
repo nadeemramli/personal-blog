@@ -1,0 +1,257 @@
+<svg viewBox="0 0 1200 1500" xmlns="http://www.w3.org/2000/svg" font-family="Inter, system-ui, 'DejaVu Sans', sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#06090D"/>
+      <stop offset="0.55" stop-color="#0B0F14"/>
+      <stop offset="1" stop-color="#0E1419"/>
+    </linearGradient>
+    <radialGradient id="baseGlow" cx="0.06" cy="0.5" r="0.6">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#161D25" stroke-width="0.6"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <marker id="arrCyan" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0 0L6.5 3L0 6Z" fill="#2DD4BF"/></marker>
+    <marker id="arrDim" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0 0L6.5 3L0 6Z" fill="#3B4552"/></marker>
+    <marker id="arrAmber" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0 0L6.5 3L0 6Z" fill="#E8A23D"/></marker>
+  </defs>
+
+  <rect width="1200" height="1500" fill="url(#bg)"/>
+  <rect width="1200" height="1500" fill="url(#grid)"/>
+  <rect x="0" y="150" width="420" height="990" fill="url(#baseGlow)"/>
+
+  <g id="header">
+    <text x="70" y="58" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="3.4" fill="#8A93A3">COGNITIVE ENHANCEMENT  &#183;  PART 4.1  &#183;  THE NATURAL STACK</text>
+    <text x="68" y="112" font-size="50" font-weight="600" letter-spacing="1.2" fill="#E6E8EE">IT'S AN ENGINE, NOT A PILE.</text>
+    <line x1="70" y1="132" x2="1130" y2="132" stroke="#2A323B" stroke-width="1"/>
+    <g>
+      <rect x="70" y="150" width="338" height="30" rx="15" fill="#0C1116" stroke="#3E7C74" stroke-width="1.1"/>
+      <circle cx="92" cy="165" r="6" fill="#2DD4BF" filter="url(#glow)"/>
+      <text x="106" y="169" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1" fill="#9FE8DE">PASSED:  SLEEP &#183; FOOD &#183; BEHAVIOUR</text>
+    </g>
+    <text x="1130" y="169" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" letter-spacing="0.6" fill="#8A93A3">you build this engine once the base is genuinely maxed</text>
+  </g>
+
+  <g id="structuralRail" filter="url(#softglow)">
+    <rect x="64" y="200" width="26" height="930" rx="6" fill="#0A2521" stroke="#2DD4BF" stroke-width="2"/>
+    <rect x="71" y="208" width="12" height="914" fill="#2DD4BF" opacity="0.22"/>
+  </g>
+  <g fill="#2DD4BF" filter="url(#glow)">
+    <circle cx="77" cy="250" r="4.5"/><circle cx="77" cy="340" r="4.5"/><circle cx="77" cy="430" r="4.5"/>
+    <circle cx="77" cy="520" r="4.5"/><circle cx="77" cy="610" r="4.5"/><circle cx="77" cy="700" r="4.5"/>
+    <circle cx="77" cy="790" r="4.5"/><circle cx="77" cy="880" r="4.5"/><circle cx="77" cy="970" r="4.5"/><circle cx="77" cy="1060" r="4.5"/>
+  </g>
+  <text transform="translate(52,1118) rotate(-90)" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12.5" letter-spacing="3.2" font-weight="600" fill="#5FCBBC">STRUCTURAL RAIL &#183; ALWAYS ON &#183; 7 DAYS</text>
+  <text transform="translate(36,1118) rotate(-90)" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="1.4" fill="#3E7C74">builds the hardware: membranes &#183; mood &#183; new wiring</text>
+  <text transform="translate(96,250) rotate(-90)" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" letter-spacing="1.5" fill="#3E7C74">NO SWITCH</text>
+
+  <rect x="1124" y="270" width="22" height="860" rx="5" fill="#10161C" stroke="#39424E" stroke-width="1.2"/>
+  <text transform="translate(1170,1120) rotate(-90)" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="1.4" fill="#5A6470">REST DAY &#8594; rail goes dark</text>
+  <g id="stimRail" filter="url(#softglow)">
+    <rect x="1110" y="270" width="26" height="860" rx="6" fill="#0A2521" stroke="#2DD4BF" stroke-width="2"/>
+    <rect x="1117" y="278" width="12" height="844" fill="#2DD4BF" opacity="0.22"/>
+  </g>
+  <g fill="#2DD4BF" filter="url(#glow)">
+    <circle cx="1123" cy="330" r="4.5"/><circle cx="1123" cy="430" r="4.5"/><circle cx="1123" cy="530" r="4.5"/>
+    <circle cx="1123" cy="630" r="4.5"/><circle cx="1123" cy="730" r="4.5"/><circle cx="1123" cy="830" r="4.5"/><circle cx="1123" cy="930" r="4.5"/>
+  </g>
+  <text transform="translate(1102,1118) rotate(-90)" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12.5" letter-spacing="3" font-weight="600" fill="#5FCBBC">STIMULANT RAIL &#183; SWITCHED &#183; 4&#8211;5 DAYS</text>
+
+  <g id="masterSwitch">
+    <rect x="1058" y="196" width="120" height="64" rx="7" fill="#0C1116" stroke="#4A5562" stroke-width="1.2"/>
+    <text x="1118" y="214" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="1" fill="#C7CCD6">HEAVY-DAY SWITCH</text>
+    <circle cx="1085" cy="238" r="5" fill="#2DD4BF" filter="url(#glow)"/>
+    <circle cx="1151" cy="238" r="5" fill="#39424E"/>
+    <line x1="1085" y1="238" x2="1151" y2="238" stroke="#2A323B" stroke-width="2"/>
+    <line x1="1118" y1="238" x2="1090" y2="228" stroke="#2DD4BF" stroke-width="3.4" stroke-linecap="round" filter="url(#glow)"/>
+    <circle cx="1118" cy="238" r="4" fill="#1A232B" stroke="#6B7686"/>
+    <text x="1085" y="256" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="7.5" fill="#5FCBBC">OUTPUT</text>
+    <text x="1151" y="256" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="7.5" fill="#5A6470">REST</text>
+  </g>
+  <g>
+    <rect x="930" y="196" width="118" height="64" rx="6" fill="#1A140A" stroke="#E8A23D" stroke-width="1.1"/>
+    <text x="989" y="216" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" letter-spacing="0.4" fill="#E8A23D">REST DAYS</text>
+    <text x="989" y="232" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" letter-spacing="0.2" fill="#E8C089">reset tolerance &#183;</text>
+    <text x="989" y="245" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" letter-spacing="0.2" fill="#E8C089">clear huperzine &#183;</text>
+    <text x="989" y="258" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" letter-spacing="0.2" fill="#E8C089">stretch the bottles</text>
+  </g>
+
+  <g id="actI">
+    <rect x="300" y="288" width="600" height="86" rx="7" fill="#090D12" stroke="#222A33" stroke-width="1"/>
+    <text x="318" y="312" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="1.2" font-weight="600" fill="#C7CCD6">I  &#183;  FUEL &amp; POWER</text>
+    <text x="318" y="330" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="0.5" fill="#8A93A3">resource allocation</text>
+    <circle cx="470" cy="352" r="5" fill="#2DD4BF"/><text x="482" y="356" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#9FE8DE">creatine</text>
+    <circle cx="590" cy="352" r="5" fill="#2DD4BF"/><text x="602" y="356" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#9FE8DE">ALCAR</text>
+    <circle cx="730" cy="352" r="5" fill="#2DD4BF"/><text x="742" y="356" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#9FE8DE">tyrosine</text>
+    <text x="742" y="338" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" letter-spacing="0.5" fill="#E8A23D">SWITCHED</text>
+    <line x1="90" y1="331" x2="300" y2="331" stroke="#2DD4BF" stroke-width="1.8" marker-end="url(#arrCyan)"/>
+    <line x1="1110" y1="352" x2="900" y2="352" stroke="#2DD4BF" stroke-width="1.8" marker-end="url(#arrCyan)"/>
+  </g>
+
+  <g id="actII">
+    <rect x="300" y="400" width="600" height="100" rx="7" fill="#090D12" stroke="#222A33" stroke-width="1"/>
+    <text x="318" y="424" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="1.2" font-weight="600" fill="#C7CCD6">II  &#183;  WIRING / THE KENNEDY TRINITY</text>
+    <text x="882" y="424" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" letter-spacing="1" fill="#2DD4BF">ALL THREE REQUIRED</text>
+    <g stroke="#2DD4BF" stroke-width="2" fill="none" opacity="0.9">
+      <path d="M360 448 L520 472"/>
+      <path d="M360 472 L520 472"/>
+      <path d="M360 496 L520 472"/>
+    </g>
+    <text x="338" y="452" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" fill="#9FE8DE">uridine</text>
+    <text x="318" y="476" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" fill="#9FE8DE">CDP-choline</text>
+    <text x="344" y="500" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" fill="#9FE8DE">DHA</text>
+    <circle cx="524" cy="472" r="7" fill="#2DD4BF" filter="url(#glow)"/>
+    <text x="540" y="468" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#BFF6EE">phosphatidylcholine</text>
+    <text x="540" y="483" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#5FCBBC">&#8594; membrane</text>
+    <rect x="730" y="452" width="150" height="38" rx="5" fill="#0A1417" stroke="#2DD4BF" stroke-width="1.2"/>
+    <rect x="736" y="458" width="60" height="26" fill="#2DD4BF" opacity="0.3"/>
+    <text x="805" y="475" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" fill="#9FE8DE">Bacopa &#183; slow charge</text>
+    <line x1="90" y1="450" x2="300" y2="450" stroke="#2DD4BF" stroke-width="1.8" marker-end="url(#arrCyan)"/>
+  </g>
+
+  <g id="actIII">
+    <rect x="300" y="526" width="600" height="80" rx="7" fill="#090D12" stroke="#222A33" stroke-width="1"/>
+    <text x="318" y="550" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="1.2" font-weight="600" fill="#C7CCD6">III  &#183;  LOGISTICS</text>
+    <text x="318" y="568" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="0.5" fill="#8A93A3">delivers everything else</text>
+    <path d="M470 582 L640 575 L640 591 Z" fill="#2DD4BF" opacity="0.5"/>
+    <rect x="450" y="578" width="22" height="10" fill="#2DD4BF" opacity="0.7"/>
+    <text x="470" y="558" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#9FE8DE">ginkgo &#183; vasodilator</text>
+    <text x="660" y="582" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="0.4" fill="#E8A23D">modest evidence &#8212; a low-risk aid, not a hero</text>
+    <line x1="1110" y1="566" x2="900" y2="566" stroke="#2DD4BF" stroke-width="1.8" marker-end="url(#arrCyan)"/>
+  </g>
+
+  <g id="actIV">
+    <rect x="300" y="632" width="600" height="100" rx="7" fill="#090D12" stroke="#222A33" stroke-width="1"/>
+    <text x="318" y="656" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="1.2" font-weight="600" fill="#C7CCD6">IV  &#183;  SPARK + REGULATOR</text>
+    <text x="330" y="692" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#9FE8DE">caffeine</text>
+    <path d="M330 712 L360 712 L364 678 L368 712 L420 712" fill="none" stroke="#E8A23D" stroke-width="2"/>
+    <text x="330" y="726" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" fill="#E8A23D">raw spike</text>
+    <g>
+      <rect x="438" y="668" width="60" height="44" rx="4" fill="#0A1417" stroke="#2DD4BF" stroke-width="1.3"/>
+      <text x="468" y="664" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#9FE8DE">L-theanine</text>
+      <path d="M444 700 q14 -26 28 0 t28 0" fill="none" stroke="#2DD4BF" stroke-width="1.6"/>
+      <text x="468" y="708" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="7" fill="#5FCBBC">snubber</text>
+    </g>
+    <line x1="498" y1="690" x2="540" y2="690" stroke="#2DD4BF" stroke-width="2" marker-end="url(#arrCyan)"/>
+    <path d="M548 700 q22 -30 44 0 t44 0" fill="none" stroke="#2DD4BF" stroke-width="2.4" filter="url(#glow)"/>
+    <text x="600" y="722" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" fill="#5FCBBC">smooth wave</text>
+    <g>
+      <rect x="678" y="660" width="200" height="56" rx="6" fill="#08201E" stroke="#2DD4BF" stroke-width="1.4"/>
+      <text x="778" y="684" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="14" font-weight="600" fill="#BFF6EE">2:1  THEANINE : CAFFEINE</text>
+      <text x="778" y="704" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" letter-spacing="1" fill="#5FCBBC">the whole trick</text>
+    </g>
+    <line x1="1110" y1="682" x2="900" y2="682" stroke="#2DD4BF" stroke-width="1.8" marker-end="url(#arrCyan)"/>
+  </g>
+
+  <g id="actV">
+    <rect x="300" y="758" width="600" height="104" rx="7" fill="#0E0B0C" stroke="#5A2E30" stroke-width="1.2"/>
+    <text x="318" y="782" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="1.2" font-weight="600" fill="#C7CCD6">V  &#183;  ACETYLCHOLINE GUARD</text>
+    <circle cx="350" cy="812" r="5" fill="#2DD4BF"/><text x="362" y="816" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" fill="#9FE8DE">alpha-GPC &#183; fuel</text>
+    <path d="M500 804 L520 812 L500 820 Z" fill="none" stroke="#2DD4BF" stroke-width="1.6"/>
+    <line x1="478" y1="812" x2="500" y2="812" stroke="#2DD4BF" stroke-width="1.8"/>
+    <text x="528" y="816" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" fill="#9FE8DE">huperzine &#183; holds ACh (one-way)</text>
+    <g filter="url(#glow)">
+      <rect x="650" y="792" width="232" height="58" rx="6" fill="#1A0C0E" stroke="#FF5C5C" stroke-width="1.6"/>
+      <path d="M666 836 l8 -8 m0 8 l-8 -8" stroke="#FF5C5C" stroke-width="2.4" stroke-linecap="round"/>
+      <circle cx="670" cy="832" r="11" fill="none" stroke="#FF5C5C" stroke-width="1.6"/>
+      <text x="694" y="812" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="600" fill="#FF8A8A">CHOLINERGIC OVERLOAD</text>
+      <text x="694" y="828" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#E8A0A0">fuel + brake + DMAE driven at once</text>
+      <text x="694" y="842" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#E8A0A0">&#8594; jaw clench &#183; fog &#183; depressive dip</text>
+    </g>
+    <text x="318" y="852" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" letter-spacing="0.3" fill="#FF8A8A">cycle huperzine &#8212; weekdays on, weekends off</text>
+    <line x1="1110" y1="812" x2="900" y2="812" stroke="#2DD4BF" stroke-width="1.8" marker-end="url(#arrCyan)"/>
+  </g>
+
+  <g id="actVI">
+    <rect x="300" y="888" width="600" height="86" rx="7" fill="#090D12" stroke="#222A33" stroke-width="1"/>
+    <text x="318" y="912" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="1.2" font-weight="600" fill="#C7CCD6">VI  &#183;  MOOD &amp; NEUROGENESIS</text>
+    <circle cx="360" cy="946" r="5" fill="#2DD4BF"/><text x="372" y="950" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" fill="#9FE8DE">saffron &#183; keeps monoamines in synapse</text>
+    <rect x="700" y="928" width="180" height="36" rx="5" fill="#0A1417" stroke="#2DD4BF" stroke-width="1.2"/>
+    <circle cx="722" cy="946" r="6" fill="#2DD4BF" filter="url(#glow)"/>
+    <text x="736" y="943" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#9FE8DE">Lion's Mane &#183; BDNF/NGF</text>
+    <text x="736" y="956" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" fill="#5FCBBC">real extract only &#8212; not biomass</text>
+    <line x1="90" y1="946" x2="300" y2="946" stroke="#2DD4BF" stroke-width="1.8" marker-end="url(#arrCyan)"/>
+  </g>
+
+  <g id="outputBus">
+    <line x1="600" y1="974" x2="600" y2="996" stroke="#2DD4BF" stroke-width="2.6" marker-end="url(#arrCyan)" filter="url(#glow)"/>
+    <rect x="430" y="996" width="340" height="34" rx="17" fill="#08201E" stroke="#2DD4BF" stroke-width="1.6"/>
+    <text x="600" y="1018" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12.5" letter-spacing="1" font-weight="600" fill="#BFF6EE">OUTPUT BUS &#8594; THE PRODUCE WINDOW</text>
+  </g>
+
+  <g id="costMeters">
+    <text x="600" y="1050" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="1" font-weight="600" fill="#2DD4BF">THE SMART-DRUG HALF IS THE CHEAP HALF.</text>
+    <text x="70" y="1082" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1" font-weight="600" fill="#E6E8EE">CURRENT DRAW</text>
+    <g opacity="0.8">
+      <rect x="70" y="1094" width="40" height="13" fill="#2A323B"/>
+      <rect x="70" y="1112" width="120" height="13" fill="#2A323B"/>
+      <text x="70" y="1140" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" letter-spacing="0.3" fill="#5A6470">WHAT YOU EXPECTED (now inverted)</text>
+    </g>
+    <g filter="url(#glow)">
+      <rect x="300" y="1072" width="300" height="26" rx="4" fill="#08201E" stroke="#2DD4BF" stroke-width="1.4"/>
+      <rect x="304" y="1076" width="268" height="18" fill="#2DD4BF" opacity="0.6"/>
+    </g>
+    <text x="610" y="1090" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="600" fill="#BFF6EE">STRUCTURAL &#8776; RM 200/mo &#183; the bulk</text>
+    <rect x="300" y="1106" width="300" height="26" rx="4" fill="#0E141A" stroke="#3E7C74" stroke-width="1.2"/>
+    <rect x="304" y="1110" width="86" height="18" fill="#2DD4BF" opacity="0.45"/>
+    <text x="610" y="1124" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12" fill="#9FE8DE">STIMULANT &#8776; RM 80/mo &#183; lasts ~a year</text>
+  </g>
+
+  <g id="premadeTrap">
+    <rect x="930" y="1052" width="200" height="80" rx="6" fill="#0C0F13" stroke="#E8A23D" stroke-width="1.1" stroke-dasharray="5 4"/>
+    <text x="944" y="1072" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="0.5" font-weight="600" fill="#E8A23D">REJECTED &#183; ONE-SCOOP PRE-BLEND</text>
+    <line x1="950" y1="1090" x2="1010" y2="1090" stroke="#39424E" stroke-width="2"/>
+    <circle cx="1000" cy="1090" r="5" fill="#9FE8DE"/>
+    <text x="950" y="1085" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="7.5" fill="#9AA3B0">herbs &#8593;</text>
+    <line x1="1050" y1="1090" x2="1110" y2="1090" stroke="#39424E" stroke-width="2"/>
+    <circle cx="1100" cy="1090" r="5" fill="#E8A23D"/>
+    <text x="1050" y="1085" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="7.5" fill="#E8A23D">caffeine ~300mg</text>
+    <path d="M1006 1090 q24 14 48 0" fill="none" stroke="#E8A23D" stroke-width="1.4" stroke-dasharray="3 2" marker-end="url(#arrAmber)"/>
+    <text x="944" y="1116" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" fill="#E8C089">LOCKED RATIO &#8594; over-caffeinated</text>
+    <text x="944" y="1127" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" fill="#E8C089">just to dose the herbs.</text>
+  </g>
+
+  <g id="goldenRule">
+    <line x1="70" y1="1156" x2="1130" y2="1156" stroke="#16322E" stroke-width="1"/>
+    <text x="70" y="1186" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="1.2" font-weight="600" fill="#C7CCD6">THE GOLDEN RULE</text>
+    <g transform="translate(70,1210)">
+      <g transform="translate(0,0)"><circle r="13" fill="#0A1417" stroke="#2DD4BF" stroke-width="1.3"/><line x1="0" y1="0" x2="-7" y2="10" stroke="#2DD4BF" stroke-width="2"/></g>
+      <g transform="translate(46,0)"><circle r="13" fill="#0A1417" stroke="#2DD4BF" stroke-width="1.3"/><line x1="0" y1="0" x2="-7" y2="10" stroke="#2DD4BF" stroke-width="2"/></g>
+      <g transform="translate(92,0)"><circle r="13" fill="#0A1417" stroke="#2DD4BF" stroke-width="1.3"/><line x1="0" y1="0" x2="-7" y2="10" stroke="#2DD4BF" stroke-width="2"/></g>
+      <g transform="translate(138,0)"><circle r="13" fill="#0A1417" stroke="#2DD4BF" stroke-width="1.3"/><line x1="0" y1="0" x2="-7" y2="10" stroke="#2DD4BF" stroke-width="2"/></g>
+      <g transform="translate(184,0)"><circle r="13" fill="#0A1417" stroke="#2DD4BF" stroke-width="1.3"/><line x1="0" y1="0" x2="-7" y2="10" stroke="#2DD4BF" stroke-width="2"/></g>
+      <g transform="translate(230,0)"><circle r="13" fill="#0A1417" stroke="#2DD4BF" stroke-width="1.3"/><line x1="0" y1="0" x2="-7" y2="10" stroke="#2DD4BF" stroke-width="2"/></g>
+      <g transform="translate(276,0)"><circle r="13" fill="#0A1417" stroke="#2DD4BF" stroke-width="1.3"/><line x1="0" y1="0" x2="-7" y2="10" stroke="#2DD4BF" stroke-width="2"/></g>
+      <g transform="translate(322,0)"><circle r="13" fill="#0A1417" stroke="#2DD4BF" stroke-width="1.3"/><line x1="0" y1="0" x2="-7" y2="10" stroke="#2DD4BF" stroke-width="2"/></g>
+      <g transform="translate(368,0)"><circle r="13" fill="#0A1417" stroke="#2DD4BF" stroke-width="1.3"/><line x1="0" y1="0" x2="-7" y2="10" stroke="#2DD4BF" stroke-width="2"/></g>
+      <g transform="translate(414,0)"><circle r="13" fill="#0A1417" stroke="#2DD4BF" stroke-width="1.3"/><line x1="0" y1="0" x2="-7" y2="10" stroke="#2DD4BF" stroke-width="2"/></g>
+      <g transform="translate(460,0)"><circle r="13" fill="#0A1417" stroke="#2DD4BF" stroke-width="1.3"/><line x1="0" y1="0" x2="-7" y2="10" stroke="#2DD4BF" stroke-width="2"/></g>
+      <g transform="translate(506,0)"><circle r="13" fill="#0A1417" stroke="#2DD4BF" stroke-width="1.3"/><line x1="0" y1="0" x2="-7" y2="10" stroke="#2DD4BF" stroke-width="2"/></g>
+    </g>
+    <text x="70" y="1244" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" letter-spacing="0.6" fill="#5FCBBC">twelve modest dials &#183; every one at a ~&#8531; detent</text>
+    <g transform="translate(700,1196)">
+      <rect x="0" y="0" width="38" height="50" rx="4" fill="#0E0B0C" stroke="#E8A23D" stroke-width="1.2"/>
+      <line x1="19" y1="6" x2="19" y2="44" stroke="#39424E" stroke-width="2"/>
+      <rect x="7" y="6" width="24" height="9" rx="2" fill="#E8A23D"/>
+      <path d="M48 16 l8 0 l0 -8 l6 16 l4 -20 l6 24 l4 -16 l8 0" fill="none" stroke="#E8A23D" stroke-width="1.6"/>
+      <text x="48" y="44" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#E8A23D">slammed &#8594; clipped, jittery</text>
+    </g>
+    <text x="600" y="1278" text-anchor="middle" font-family="Inter, 'DejaVu Sans', sans-serif" font-size="15" font-weight="600" letter-spacing="0.4" fill="#E6E8EE">A DOZEN MODEST DIALS BEAT ONE SLAMMED FADER.</text>
+  </g>
+
+  <g id="footer">
+    <line x1="70" y1="1296" x2="1130" y2="1296" stroke="#2A323B" stroke-width="1"/>
+    <text x="288" y="1356" text-anchor="start" font-size="23" font-weight="600" letter-spacing="0.5" fill="#E6E8EE">BUILD THE ENGINE.</text>
+    <text x="548" y="1356" text-anchor="start" font-size="23" font-weight="600" letter-spacing="0.5" fill="#2DD4BF">KEEP THE STRUCTURAL RAIL LIT.</text>
+    <text x="600" y="1400" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11.5" letter-spacing="1" fill="#8A93A3">Part 4.1 of 4  &#183;  Cognitive Enhancement  &#183;  the Productive pillar  &#183;  the complete natural engine  &#183;  most people never need Part 4.2</text>
+  </g>
+</svg>

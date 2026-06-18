@@ -1,0 +1,367 @@
+<svg viewBox="0 0 1920 1700" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace">
+<defs>
+<filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="3.0" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#1E2730"/></pattern>
+<pattern id="amh" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="10" stroke="#E8A23D" stroke-width="1.3" opacity="0.5"/></pattern>
+<pattern id="gh" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="10" stroke="#4A525C" stroke-width="1.2" opacity="0.5"/></pattern>
+</defs>
+<rect x="0" y="0" width="1920" height="1700" rx="0" fill="#0B0F14" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<rect x="0" y="0" width="1920" height="1700" rx="0" fill="url(#grid)" stroke="none" stroke-width="1.0" opacity="0.5"/>
+<rect x="20" y="20" width="1880" height="1660" rx="0" fill="none" stroke="#1E2730" stroke-width="1.5" opacity="1.0"/>
+<line x1="8" y1="20" x2="32" y2="20" stroke="#4A525C" stroke-width="1" stroke-linecap="butt" opacity="0.6"/>
+<line x1="20" y1="8" x2="20" y2="32" stroke="#4A525C" stroke-width="1" stroke-linecap="butt" opacity="0.6"/>
+<line x1="1888" y1="20" x2="1912" y2="20" stroke="#4A525C" stroke-width="1" stroke-linecap="butt" opacity="0.6"/>
+<line x1="1900" y1="8" x2="1900" y2="32" stroke="#4A525C" stroke-width="1" stroke-linecap="butt" opacity="0.6"/>
+<line x1="8" y1="1680" x2="32" y2="1680" stroke="#4A525C" stroke-width="1" stroke-linecap="butt" opacity="0.6"/>
+<line x1="20" y1="1668" x2="20" y2="1692" stroke="#4A525C" stroke-width="1" stroke-linecap="butt" opacity="0.6"/>
+<line x1="1888" y1="1680" x2="1912" y2="1680" stroke="#4A525C" stroke-width="1" stroke-linecap="butt" opacity="0.6"/>
+<line x1="1900" y1="1668" x2="1900" y2="1692" stroke="#4A525C" stroke-width="1" stroke-linecap="butt" opacity="0.6"/>
+<text x="55" y="70" font-size="15" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="3" opacity="1.0">COGNITIVE ENHANCEMENT · PART 2.0</text>
+<text x="55" y="116" font-size="40" fill="#E6E8EE" text-anchor="start" font-weight="700" font-family="'Inter','Segoe UI',system-ui,'DejaVu Sans',Arial,sans-serif" letter-spacing="1" opacity="1.0">YOU CAN'T AMPLIFY A PROCESS THAT ISN'T RUNNING.</text>
+<text x="55" y="146" font-size="16" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.3" opacity="1.0">— the article everyone wants to skip. build the base before you buy the margin.</text>
+<rect x="1360" y="40" width="512" height="74" rx="6" fill="#11161D" stroke="#1C8C80" stroke-width="1.4" opacity="1.0"/>
+<text x="1616" y="76" font-size="18" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="1" opacity="1.0">BEHAVIOUR MAKES THE</text>
+<text x="1616" y="100" font-size="18" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="1" opacity="1.0">PHARMACOLOGY WORK.</text>
+<text x="1872" y="150" font-size="11" fill="#4A525C" text-anchor="end" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="2" opacity="1.0">NEURAL SIGNAL SCHEMATIC · COMMISSIONING BOARD</text>
+<line x1="55" y1="162" x2="1872" y2="162" stroke="#1E2730" stroke-width="1.5" stroke-linecap="butt" opacity="1.0"/>
+<text x="55" y="200" font-size="12" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="2" opacity="1.0">POWER-ON SEQUENCE · INTERLOCKED · build runs in ONE order</text>
+<line x1="110" y1="245.0" x2="1226" y2="245.0" stroke="#1E2730" stroke-width="1.2" stroke-linecap="butt" opacity="1.0"/>
+<rect x="110" y="215" width="360" height="60" rx="6" fill="#11161D" stroke="#2DD4BF" stroke-width="1.4" opacity="1.0"/>
+<circle cx="140" cy="245.0" r="16" fill="#0E141B" stroke="#2DD4BF" stroke-width="1.6" opacity="1.0"/>
+<text x="140" y="251.0" font-size="15" fill="#2DD4BF" text-anchor="middle" font-weight="700" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">1</text>
+<text x="168" y="241" font-size="15" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.5" opacity="1.0">DRAIN THE BASELINE</text>
+<text x="168" y="261" font-size="10" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.3" opacity="1.0">≈ 1 week · the big lever · must complete first</text>
+<rect x="520" y="215" width="360" height="60" rx="6" fill="#11161D" stroke="#2DD4BF" stroke-width="1.4" opacity="1.0"/>
+<circle cx="550" cy="245.0" r="16" fill="#0E141B" stroke="#2DD4BF" stroke-width="1.6" opacity="1.0"/>
+<text x="550" y="251.0" font-size="15" fill="#2DD4BF" text-anchor="middle" font-weight="700" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">2</text>
+<text x="578" y="241" font-size="15" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.5" opacity="1.0">ATTACH REWARD ± STIM</text>
+<text x="578" y="261" font-size="10" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.3" opacity="1.0">amp gets its enable only here</text>
+<rect x="926" y="215" width="300" height="60" rx="6" fill="#11161D" stroke="#6B7480" stroke-width="1.4" opacity="1.0"/>
+<circle cx="956" cy="245.0" r="16" fill="#0E141B" stroke="#6B7480" stroke-width="1.6" opacity="1.0"/>
+<text x="956" y="251.0" font-size="15" fill="#6B7480" text-anchor="middle" font-weight="700" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">3</text>
+<text x="984" y="241" font-size="15" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.5" opacity="1.0">CONSOLIDATE</text>
+<text x="984" y="261" font-size="10" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.3" opacity="1.0">hardware · latched last · months</text>
+<line x1="470" y1="245.0" x2="504" y2="245.0" stroke="#2DD4BF" stroke-width="2" stroke-linecap="butt" opacity="1.0"/>
+<path d="M504,239.0 l8,6 l-8,6" fill="none" stroke="#2DD4BF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<text x="487" y="233.0" font-size="9" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="1" opacity="1.0">ENABLE ✓</text>
+<line x1="880" y1="245.0" x2="914" y2="245.0" stroke="#E8A23D" stroke-width="2" stroke-linecap="butt" opacity="1.0"/>
+<path d="M914,239.0 l8,6 l-8,6" fill="none" stroke="#E8A23D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<text x="897" y="233.0" font-size="9" fill="#E8A23D" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="1" opacity="1.0">ENABLE</text>
+<rect x="1250" y="215" width="622" height="60" rx="6" fill="#11161D" stroke="#1C8C80" stroke-width="1.2" opacity="1.0"/>
+<text x="1561" y="241" font-size="15" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.5" opacity="1.0">BEHAVIOUR FIRST · PERFORMANCE SECOND · HARDWARE THIRD</text>
+<text x="1561" y="261" font-size="11" fill="#E8A23D" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">run it in any other order and you're amplifying a problem.</text>
+<text x="55" y="320" font-size="12" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.5" opacity="1.0">[ STAGE 1 · DRAIN THE BASELINE ]  the hero — dopamine works on CONTRAST</text>
+<rect x="250" y="358" width="120" height="240" rx="3" fill="#0E141B" stroke="#4A525C" stroke-width="2" opacity="1.0"/>
+<rect x="252" y="398" width="116" height="200" rx="0" fill="#E8A23D" stroke="none" stroke-width="1.0" opacity="0.2"/>
+<line x1="252" y1="398" x2="368" y2="398" stroke="#E8A23D" stroke-width="2.4" stroke-linecap="butt" opacity="1.0"/>
+<line x1="250" y1="398.0" x2="257" y2="398.0" stroke="#4A525C" stroke-width="1" stroke-linecap="butt" opacity="0.6"/>
+<line x1="250" y1="438.0" x2="257" y2="438.0" stroke="#4A525C" stroke-width="1" stroke-linecap="butt" opacity="0.6"/>
+<line x1="250" y1="478.0" x2="257" y2="478.0" stroke="#4A525C" stroke-width="1" stroke-linecap="butt" opacity="0.6"/>
+<line x1="250" y1="518.0" x2="257" y2="518.0" stroke="#4A525C" stroke-width="1" stroke-linecap="butt" opacity="0.6"/>
+<line x1="250" y1="558.0" x2="257" y2="558.0" stroke="#4A525C" stroke-width="1" stroke-linecap="butt" opacity="0.6"/>
+<text x="310.0" y="620" font-size="11" fill="#E6E8EE" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">DOPAMINE BASELINE</text>
+<text x="310.0" y="638" font-size="10" fill="#E8A23D" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="1" opacity="1.0">FLOODED — charge too high</text>
+<text x="60" y="386" font-size="9" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.5" opacity="1.0">CHEAP-HIT LEAK INJECTORS ↓</text>
+<rect x="150" y="410.0" width="100" height="16" rx="0" fill="#E8A23D" stroke="none" stroke-width="1.0" opacity="0.55"/>
+<circle cx="168" cy="418" r="11.0" fill="#0E141B" stroke="#E8A23D" stroke-width="1.3" opacity="1.0"/>
+<text x="60" y="406.0" font-size="9" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">SHORT-FORM VIDEO</text>
+<rect x="150" y="446.5" width="100" height="11" rx="0" fill="#E8A23D" stroke="none" stroke-width="1.0" opacity="0.55"/>
+<circle cx="168" cy="452" r="8.5" fill="#0E141B" stroke="#E8A23D" stroke-width="1.3" opacity="1.0"/>
+<text x="60" y="442.5" font-size="9" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">PORN</text>
+<rect x="150" y="480.5" width="100" height="7" rx="0" fill="#E8A23D" stroke="none" stroke-width="1.0" opacity="0.55"/>
+<circle cx="168" cy="484" r="6.5" fill="#0E141B" stroke="#E8A23D" stroke-width="1.3" opacity="1.0"/>
+<text x="60" y="476.5" font-size="9" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">SUGAR / NOVELTY</text>
+<rect x="150" y="512.0" width="100" height="4" rx="0" fill="#E8A23D" stroke="none" stroke-width="1.0" opacity="0.55"/>
+<circle cx="168" cy="514" r="5.0" fill="#0E141B" stroke="#E8A23D" stroke-width="1.3" opacity="1.0"/>
+<text x="60" y="508.0" font-size="9" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">NOTIFICATIONS</text>
+<text x="60" y="548" font-size="8.5" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="0.85">greyscale the phone: strips the visual reward.</text>
+<line x1="370" y1="398" x2="602" y2="398" stroke="#E8A23D" stroke-width="1.4" stroke-linecap="butt" stroke-dasharray="5 4" opacity="1.0"/>
+<text x="380" y="392" font-size="9" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">COMPARATOR THRESHOLD = current level</text>
+<path d="M404,560 L470,500 L500,432 L520,470" fill="none" stroke="#1C8C80" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<circle cx="500" cy="432" r="4" fill="#1C8C80" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="458" y="576" font-size="9" fill="#1C8C80" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">REAL WORK</text>
+<text x="540" y="448" font-size="8.5" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">peak &lt; bar</text>
+<circle cx="602" cy="398" r="15" fill="#0E141B" stroke="#4A525C" stroke-width="1.6" opacity="1.0"/>
+<text x="602" y="403" font-size="13" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">✕</text>
+<text x="602" y="376" font-size="9" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">REWARD</text>
+<text x="602" y="468" font-size="8.6" fill="#E8A23D" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">hard tasks feel flat &amp; aversive —</text>
+<text x="602" y="480" font-size="8.6" fill="#E8A23D" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">not laziness; the bar is too high.</text>
+<path d="M310,610 L310,690" fill="none" stroke="#2DD4BF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<path d="M304,680 l6,10 l6,-10" fill="none" stroke="#2DD4BF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<text x="440" y="650" font-size="10" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.5" opacity="1.0">CLOSE THE VALVES → OPEN THE DRAIN</text>
+<text x="440" y="666" font-size="8.6" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">the fix is not willpower — it's draining the level</text>
+<rect x="250" y="712" width="120" height="240" rx="3" fill="#0E141B" stroke="#4A525C" stroke-width="2" opacity="1.0"/>
+<rect x="252" y="862" width="116" height="90" rx="0" fill="#2DD4BF" stroke="none" stroke-width="1.0" opacity="0.22"/>
+<line x1="252" y1="862" x2="368" y2="862" stroke="#2DD4BF" stroke-width="2.4" stroke-linecap="butt" filter="url(#glow)" opacity="1.0"/>
+<line x1="250" y1="752.0" x2="257" y2="752.0" stroke="#4A525C" stroke-width="1" stroke-linecap="butt" opacity="0.6"/>
+<line x1="250" y1="792.0" x2="257" y2="792.0" stroke="#4A525C" stroke-width="1" stroke-linecap="butt" opacity="0.6"/>
+<line x1="250" y1="832.0" x2="257" y2="832.0" stroke="#4A525C" stroke-width="1" stroke-linecap="butt" opacity="0.6"/>
+<line x1="250" y1="872.0" x2="257" y2="872.0" stroke="#4A525C" stroke-width="1" stroke-linecap="butt" opacity="0.6"/>
+<line x1="250" y1="912.0" x2="257" y2="912.0" stroke="#4A525C" stroke-width="1" stroke-linecap="butt" opacity="0.6"/>
+<text x="310.0" y="974" font-size="11" fill="#E6E8EE" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">DOPAMINE BASELINE</text>
+<text x="310.0" y="992" font-size="10" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="1" opacity="1.0">DRAINED — floor lowered</text>
+<rect x="150" y="764.0" width="40" height="16" rx="0" fill="#2A333D" stroke="none" stroke-width="1.0" opacity="0.7"/>
+<text x="196" y="775" font-size="10" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">✕</text>
+<rect x="150" y="800.5" width="40" height="11" rx="0" fill="#2A333D" stroke="none" stroke-width="1.0" opacity="0.7"/>
+<text x="196" y="809" font-size="10" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">✕</text>
+<rect x="150" y="834.5" width="40" height="7" rx="0" fill="#2A333D" stroke="none" stroke-width="1.0" opacity="0.7"/>
+<text x="196" y="841" font-size="10" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">✕</text>
+<rect x="150" y="866.0" width="40" height="4" rx="0" fill="#2A333D" stroke="none" stroke-width="1.0" opacity="0.7"/>
+<text x="196" y="871" font-size="10" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">✕</text>
+<text x="60" y="756" font-size="9" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.5" opacity="1.0">VALVES CLOSED →</text>
+<path d="M302.0,952 l8,16 l8,-16" fill="#0E141B" stroke="#1C8C80" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<circle cx="310.0" cy="976" r="2.4" fill="#1C8C80" stroke="none" stroke-width="1.0" opacity="0.8"/>
+<circle cx="310.0" cy="986" r="2.4" fill="#1C8C80" stroke="none" stroke-width="1.0" opacity="0.8"/>
+<text x="310.0" y="1010" font-size="8.5" fill="#1C8C80" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">DRAIN</text>
+<line x1="370" y1="862" x2="602" y2="862" stroke="#2DD4BF" stroke-width="1.4" stroke-linecap="butt" stroke-dasharray="5 4" opacity="1.0"/>
+<text x="380" y="856" font-size="9" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">LOWERED THRESHOLD</text>
+<path d="M404,930 L470,884 L500,822 L520,868" fill="none" stroke="#2DD4BF" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" opacity="1.0"/>
+<circle cx="500" cy="822" r="5" fill="#2DD4BF" stroke="none" stroke-width="1.0" filter="url(#glow)" opacity="1.0"/>
+<text x="458" y="946" font-size="9" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">REAL WORK</text>
+<text x="548" y="832" font-size="8.5" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">clears the line</text>
+<circle cx="602" cy="862" r="15" fill="#2DD4BF" stroke="#2DD4BF" stroke-width="1.6" filter="url(#glow)" opacity="0.9"/>
+<text x="602" y="867" font-size="13" fill="#0B0F14" text-anchor="middle" font-weight="700" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">✓</text>
+<text x="602" y="840" font-size="9" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">REWARD</text>
+<text x="602" y="896" font-size="8.6" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">earned reward</text>
+<text x="602" y="908" font-size="8.6" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">regains its punch.</text>
+<rect x="60" y="966" width="360" height="76" rx="4" fill="#11161D" stroke="#8A6526" stroke-width="1.1" opacity="1.0"/>
+<text x="74" y="986" font-size="9.5" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">days 2–4 feel flat &amp; restless —</text>
+<text x="74" y="1002" font-size="9.5" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">that flatness IS the baseline draining.</text>
+<text x="74" y="1024" font-size="9.5" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">boredom = sensitivity returning, not a failure state.</text>
+<rect x="438" y="966" width="262" height="76" rx="4" fill="#11161D" stroke="#1C8C80" stroke-width="1.3" opacity="1.0"/>
+<text x="569" y="992" font-size="13" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.5" opacity="1.0">DOPAMINE = CONTRAST,</text>
+<text x="569" y="1010" font-size="13" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.5" opacity="1.0">NOT ABSOLUTE LEVEL</text>
+<text x="569" y="1030" font-size="8.6" fill="#E8A23D" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">lower the floor so real work clears it.</text>
+<line x1="715" y1="310" x2="715" y2="1090" stroke="#1E2730" stroke-width="1.2" stroke-linecap="butt" opacity="1.0"/>
+<text x="730" y="320" font-size="12" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.3" opacity="1.0">[ STAGE 2 · ATTACH REWARD TO REAL WORK (± STIMULANT) ]</text>
+<text x="730" y="352" font-size="10" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="1" opacity="1.0">✓ IN ORDER</text>
+<path d="M740,392 C800,392 820,384 860,392 C900,400 920,392 1000,392" fill="none" stroke="#2DD4BF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" opacity="1.0"/>
+<line x1="1000" y1="392" x2="1078" y2="392" stroke="#2DD4BF" stroke-width="3" stroke-linecap="butt" opacity="1.0"/>
+<polygon points="912,372 912,412 950,392" fill="#0E141B" stroke="#2DD4BF" stroke-width="1.8"/>
+<line x1="931" y1="372" x2="931" y2="348" stroke="#2DD4BF" stroke-width="2" stroke-linecap="butt" opacity="1.0"/>
+<text x="931" y="342" font-size="9" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">ENABLE ✓ (Stage 1 green)</text>
+<text x="820" y="440" font-size="10" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">EUGEROIC / STIMULANT → Part 3.0</text>
+<text x="820" y="456" font-size="9" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">added here, it lifts real work on a system primed to receive it.</text>
+<rect x="1078" y="370" width="150" height="44" rx="4" fill="#11161D" stroke="#1C8C80" stroke-width="1.4" opacity="1.0"/>
+<text x="1153" y="388" font-size="10" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">REAL WORK</text>
+<text x="1153" y="404" font-size="10" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">→ TARGET</text>
+<line x1="730" y1="476" x2="1228" y2="476" stroke="#1E2730" stroke-width="1.1" stroke-linecap="butt" opacity="1.0"/>
+<text x="730" y="502" font-size="11" fill="#FF5C5C" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.5" opacity="1.0">✗ OUT OF ORDER — THE ONE FAULT</text>
+<rect x="752" y="520" width="66" height="118" rx="3" fill="#0E141B" stroke="#8A6526" stroke-width="1.6" opacity="1.0"/>
+<rect x="754" y="542" width="62" height="94" rx="0" fill="#E8A23D" stroke="none" stroke-width="1.0" opacity="0.22"/>
+<line x1="754" y1="542" x2="816" y2="542" stroke="#E8A23D" stroke-width="2" stroke-linecap="butt" opacity="1.0"/>
+<text x="785.0" y="654" font-size="8.6" fill="#E8A23D" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">STILL-FLOODED</text>
+<text x="785.0" y="666" font-size="8.6" fill="#E8A23D" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">BASELINE</text>
+<rect x="885" y="554" width="40" height="34" rx="4" fill="#0E141B" stroke="#4A525C" stroke-width="1.6" opacity="1.0"/>
+<path d="M893,554 a12,12 0 0 1 24,0" fill="none" stroke="#4A525C" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<text x="905" y="576" font-size="14" fill="#FF5C5C" text-anchor="middle" font-weight="700" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">✕</text>
+<text x="905" y="604" font-size="8.6" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">STAGE-1 INTERLOCK</text>
+<text x="905" y="616" font-size="8.6" fill="#FF5C5C" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="1" opacity="1.0">BYPASSED</text>
+<rect x="1090" y="540" width="140" height="50" rx="4" fill="#11161D" stroke="#FF5C5C" stroke-width="1.6" opacity="1.0"/>
+<text x="1160" y="562" font-size="11" fill="#FF5C5C" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="1" opacity="1.0">STIMULANT</text>
+<text x="1160" y="580" font-size="8.4" fill="#FF5C5C" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">jumpered past the lock</text>
+<path d="M1090,556 C980,500 900,500 818,548" fill="none" stroke="#FF5C5C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" opacity="1.0"/>
+<path d="M824,554 l-12,-2 l4,11" fill="none" stroke="#FF5C5C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<circle cx="785.0" cy="690" r="14" fill="#0E141B" stroke="#FF5C5C" stroke-width="1.8" filter="url(#glow)" opacity="1.0"/>
+<text x="785.0" y="695" font-size="14" fill="#FF5C5C" text-anchor="middle" font-weight="700" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">!</text>
+<rect x="730" y="700" width="498" height="52" rx="4" fill="#11161D" stroke="#FF5C5C" stroke-width="1.3" opacity="1.0"/>
+<text x="744" y="722" font-size="11" fill="#FF5C5C" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">JITTERS, NOT FOCUS — a stimulant on an un-drained baseline.</text>
+<text x="744" y="740" font-size="8.8" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">elevated heart rate, almost none of the focus — the receptors aren't there to receive it.</text>
+<line x1="730" y1="758" x2="1228" y2="758" stroke="#1E2730" stroke-width="1.1" stroke-linecap="butt" opacity="1.0"/>
+<text x="730" y="782" font-size="11" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.3" opacity="1.0">[ STAGE 3 · CONSOLIDATE — PRESERVATION / HARDWARE ]</text>
+<rect x="736" y="792" width="360" height="76" rx="5" fill="#0E141B" stroke="#4A525C" stroke-width="1.4" opacity="1.0"/>
+<text x="752" y="814" font-size="11" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">MEMORY / CONSOLIDATION</text>
+<text x="752" y="830" font-size="9.5" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">Lion's Mane &amp; friends → Part 3.1</text>
+<text x="900" y="846" font-size="8.6" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">MONTHS, not minutes</text>
+<path d="M752,858 C840,855 960,849 1082,841" fill="none" stroke="#6B7480" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 4" opacity="1.0"/>
+<text x="1086" y="812" font-size="9" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">LATCHED</text>
+<text x="1086" y="824" font-size="9" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">LAST</text>
+<circle cx="1086" cy="841" r="6" fill="#0E141B" stroke="#4A525C" stroke-width="1.4" opacity="1.0"/>
+<text x="736" y="888" font-size="9" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">does nothing acutely — that's why it comes last, on an already-running system.</text>
+<line x1="730" y1="902" x2="1228" y2="902" stroke="#1E2730" stroke-width="1.1" stroke-linecap="butt" opacity="1.0"/>
+<text x="730" y="926" font-size="12" fill="#E6E8EE" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.5" opacity="1.0">[ HABIT-STAMPING · LATCHED WRITE ]</text>
+<path d="M740,972 H832 V954 H958" fill="none" stroke="#2DD4BF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<path d="M832,954 l-7,-22 l14,0 z" fill="#2DD4BF" stroke="#2DD4BF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+<circle cx="832" cy="932" r="4" fill="#2DD4BF" stroke="none" stroke-width="1.0" filter="url(#glow)" opacity="1.0"/>
+<text x="742" y="988" font-size="8.6" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">the START (initiation = hardest)</text>
+<text x="852" y="944" font-size="8.8" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">reward pulse on the RISING EDGE</text>
+<text x="968" y="950" font-size="9.5" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">STAMP ON</text>
+<text x="968" y="962" font-size="9.5" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">THE START EDGE</text>
+<rect x="736" y="996" width="300" height="30" rx="4" fill="#11161D" stroke="#1C8C80" stroke-width="1.1" opacity="1.0"/>
+<text x="750" y="1015" font-size="8.6" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">coffee made ONLY when you sit to write → cue pulls you in</text>
+<rect x="1046" y="996" width="182" height="30" rx="4" fill="#11161D" stroke="#8A6526" stroke-width="1.0" opacity="1.0"/>
+<text x="1137" y="1009" font-size="8.8" fill="#E8A23D" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">nicotine → Part 3.0</text>
+<text x="1137" y="1021" font-size="7.8" fill="#E8A23D" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">clean spike · tolerance tag</text>
+<rect x="736" y="1034" width="300" height="30" rx="4" fill="#11161D" stroke="#8A6526" stroke-width="1.0" opacity="1.0"/>
+<text x="750" y="1053" font-size="8.5" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">PROTECT THE CONTRAST · needs a low baseline</text>
+<rect x="1046" y="1034" width="182" height="30" rx="4" fill="#11161D" stroke="#8A6526" stroke-width="1.0" opacity="1.0"/>
+<text x="1137" y="1047" font-size="8.6" fill="#E8A23D" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">DON'T STAMP</text>
+<text x="1137" y="1059" font-size="8.6" fill="#E8A23D" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">THE WRONG THING</text>
+<text x="750" y="1082" font-size="8.6" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">the same circuit already wrote  'dip → open IG → reward' — it strengthens whatever you pair reward with.</text>
+<line x1="1244" y1="310" x2="1244" y2="1090" stroke="#1E2730" stroke-width="1.2" stroke-linecap="butt" opacity="1.0"/>
+<text x="1262" y="320" font-size="13" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.5" opacity="1.0">[ READINESS GATE → PART 3 ]</text>
+<text x="1262" y="340" font-size="10" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">all five must read GREEN to energize the bus.</text>
+<rect x="1262" y="372" width="600" height="52" rx="6" fill="#0E141B" stroke="#1C8C80" stroke-width="1.2" opacity="1.0"/>
+<circle cx="1288" cy="398" r="8" fill="#2DD4BF" stroke="none" stroke-width="1.0" filter="url(#glow)" opacity="1.0"/>
+<text x="1308" y="396" font-size="13" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">SLEEP</text>
+<text x="1308" y="414" font-size="9.5" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">7–9h · fixed wake</text>
+<rect x="1772" y="381" width="76" height="34" rx="17" fill="#0E141B" stroke="#2DD4BF" stroke-width="1.4" opacity="1.0"/>
+<circle cx="1830" cy="398" r="12" fill="#2DD4BF" stroke="none" stroke-width="1.0" filter="url(#glow)" opacity="1.0"/>
+<text x="1792" y="403" font-size="13" fill="#2DD4BF" text-anchor="middle" font-weight="700" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">✓</text>
+<rect x="1262" y="436" width="600" height="52" rx="6" fill="#0E141B" stroke="#1C8C80" stroke-width="1.2" opacity="1.0"/>
+<circle cx="1288" cy="462" r="8" fill="#2DD4BF" stroke="none" stroke-width="1.0" filter="url(#glow)" opacity="1.0"/>
+<text x="1308" y="460" font-size="13" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">DOPAMINE BASELINE</text>
+<text x="1308" y="478" font-size="9.5" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">reset run complete</text>
+<rect x="1772" y="445" width="76" height="34" rx="17" fill="#0E141B" stroke="#2DD4BF" stroke-width="1.4" opacity="1.0"/>
+<circle cx="1830" cy="462" r="12" fill="#2DD4BF" stroke="none" stroke-width="1.0" filter="url(#glow)" opacity="1.0"/>
+<text x="1792" y="467" font-size="13" fill="#2DD4BF" text-anchor="middle" font-weight="700" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">✓</text>
+<rect x="1262" y="500" width="600" height="52" rx="6" fill="#0E141B" stroke="#1C8C80" stroke-width="1.2" opacity="1.0"/>
+<circle cx="1288" cy="526" r="8" fill="#2DD4BF" stroke="none" stroke-width="1.0" filter="url(#glow)" opacity="1.0"/>
+<text x="1308" y="524" font-size="13" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">MOVEMENT</text>
+<text x="1308" y="542" font-size="9.5" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">regular cardio</text>
+<rect x="1772" y="509" width="76" height="34" rx="17" fill="#0E141B" stroke="#2DD4BF" stroke-width="1.4" opacity="1.0"/>
+<circle cx="1830" cy="526" r="12" fill="#2DD4BF" stroke="none" stroke-width="1.0" filter="url(#glow)" opacity="1.0"/>
+<text x="1792" y="531" font-size="13" fill="#2DD4BF" text-anchor="middle" font-weight="700" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">✓</text>
+<rect x="1262" y="564" width="600" height="52" rx="6" fill="#0E141B" stroke="#1C8C80" stroke-width="1.2" opacity="1.0"/>
+<circle cx="1288" cy="590" r="8" fill="#2DD4BF" stroke="none" stroke-width="1.0" filter="url(#glow)" opacity="1.0"/>
+<text x="1308" y="588" font-size="13" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">MEASUREMENT</text>
+<text x="1308" y="606" font-size="9.5" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">2–3 wks leading-metric + PR base</text>
+<rect x="1772" y="573" width="76" height="34" rx="17" fill="#0E141B" stroke="#2DD4BF" stroke-width="1.4" opacity="1.0"/>
+<circle cx="1830" cy="590" r="12" fill="#2DD4BF" stroke="none" stroke-width="1.0" filter="url(#glow)" opacity="1.0"/>
+<text x="1792" y="595" font-size="13" fill="#2DD4BF" text-anchor="middle" font-weight="700" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">✓</text>
+<rect x="1262" y="628" width="600" height="52" rx="6" fill="#0E141B" stroke="#1C8C80" stroke-width="1.2" opacity="1.0"/>
+<circle cx="1288" cy="654" r="8" fill="#2DD4BF" stroke="none" stroke-width="1.0" filter="url(#glow)" opacity="1.0"/>
+<text x="1308" y="652" font-size="13" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">LOAD</text>
+<text x="1308" y="670" font-size="9.5" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">single-task + batch</text>
+<rect x="1772" y="637" width="76" height="34" rx="17" fill="#0E141B" stroke="#2DD4BF" stroke-width="1.4" opacity="1.0"/>
+<circle cx="1830" cy="654" r="12" fill="#2DD4BF" stroke="none" stroke-width="1.0" filter="url(#glow)" opacity="1.0"/>
+<text x="1792" y="659" font-size="13" fill="#2DD4BF" text-anchor="middle" font-weight="700" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">✓</text>
+<rect x="1262" y="700" width="600" height="52" rx="6" fill="#11161D" stroke="#2DD4BF" stroke-width="1.6" opacity="1.0"/>
+<line x1="1276" y1="726" x2="1700" y2="726" stroke="#2DD4BF" stroke-width="3" stroke-linecap="butt" filter="url(#glow)" opacity="1.0"/>
+<text x="1290" y="722" font-size="13" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.5" opacity="1.0">PHARMACOLOGY BUS</text>
+<text x="1290" y="740" font-size="9.5" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">ENERGIZED — gate open</text>
+<path d="M1706,726 l16,0 m-6,-7 l8,7 l-8,7" fill="none" stroke="#2DD4BF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<text x="1828" y="722" font-size="12" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">PART</text>
+<text x="1828" y="740" font-size="16" fill="#2DD4BF" text-anchor="middle" font-weight="700" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">3</text>
+<rect x="1262" y="766" width="600" height="72" rx="6" fill="#11161D" stroke="#8A6526" stroke-width="1.1" opacity="1.0"/>
+<text x="1278" y="788" font-size="10" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">any toggle amber/red → the bus stays LOCKED.</text>
+<text x="1278" y="808" font-size="9.4" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">a compound here is money spent masking a problem</text>
+<text x="1278" y="824" font-size="9.4" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">you could fix for free.</text>
+<rect x="1262" y="852" width="600" height="150" rx="6" fill="#0E141B" stroke="#1C8C80" stroke-width="1.2" opacity="1.0"/>
+<text x="1562" y="888" font-size="15" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.3" opacity="1.0">THE BASE IS NOT THE BORING</text>
+<text x="1562" y="908" font-size="15" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.3" opacity="1.0">PREREQUISITE. IT IS THE WIN.</text>
+<text x="1562" y="938" font-size="10.5" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">the module you keep reaching for</text>
+<text x="1562" y="954" font-size="10.5" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">is the last one that turns on.</text>
+<text x="1562" y="986" font-size="9.5" fill="#E8A23D" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">drain the floor · build the supply · then add the margin</text>
+<rect x="48" y="1100" width="1824" height="275" rx="6" fill="#0E141B" stroke="#1E2730" stroke-width="1.2" opacity="1.0"/>
+<text x="64" y="1128" font-size="14" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.5" opacity="1.0">THE POWER SUPPLY · FIVE FREE INPUTS · DELIBERATELY UNEQUAL GAUGE</text>
+<text x="64" y="1148" font-size="10" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">not accessories — the actual supply the whole board runs on. a starved supply browns out everything.</text>
+<line x1="96" y1="1174" x2="1820" y2="1174" stroke="#1C8C80" stroke-width="2" stroke-linecap="butt" opacity="1.0"/>
+<text x="1820" y="1166" font-size="9" fill="#6B7480" text-anchor="end" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="1" opacity="1.0">BUS → TO THE BOARD ABOVE</text>
+<rect x="173.0" y="1174" width="46" height="155" rx="0" fill="#2DD4BF" stroke="none" stroke-width="1.0" opacity="0.3"/>
+<rect x="173.0" y="1174" width="46" height="155" rx="0" fill="none" stroke="#2DD4BF" stroke-width="1.2" opacity="1.0"/>
+<path d="M196,1172 m-6,8 l6,-8 l6,8" fill="none" stroke="#2DD4BF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<rect x="547.0" y="1174" width="26" height="155" rx="0" fill="#2DD4BF" stroke="none" stroke-width="1.0" opacity="0.3"/>
+<rect x="547.0" y="1174" width="26" height="155" rx="0" fill="none" stroke="#2DD4BF" stroke-width="1.2" opacity="1.0"/>
+<path d="M560,1172 m-6,8 l6,-8 l6,8" fill="none" stroke="#2DD4BF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<rect x="948.0" y="1174" width="24" height="155" rx="0" fill="#2DD4BF" stroke="none" stroke-width="1.0" opacity="0.3"/>
+<rect x="948.0" y="1174" width="24" height="155" rx="0" fill="none" stroke="#2DD4BF" stroke-width="1.2" opacity="1.0"/>
+<path d="M960,1172 m-6,8 l6,-8 l6,8" fill="none" stroke="#2DD4BF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<rect x="1321.0" y="1174" width="18" height="155" rx="0" fill="#2DD4BF" stroke="none" stroke-width="1.0" opacity="0.3"/>
+<rect x="1321.0" y="1174" width="18" height="155" rx="0" fill="none" stroke="#2DD4BF" stroke-width="1.2" opacity="1.0"/>
+<path d="M1330,1172 m-6,8 l6,-8 l6,8" fill="none" stroke="#2DD4BF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<rect x="1672.5" y="1174" width="15" height="155" rx="0" fill="#2DD4BF" stroke="none" stroke-width="1.0" opacity="0.3"/>
+<rect x="1672.5" y="1174" width="15" height="155" rx="0" fill="none" stroke="#2DD4BF" stroke-width="1.2" opacity="1.0"/>
+<path d="M1680,1172 m-6,8 l6,-8 l6,8" fill="none" stroke="#2DD4BF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<text x="196" y="1351" font-size="11" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.3" opacity="1.0">SLEEP = THE MAINS</text>
+<text x="196" y="1367" font-size="8.6" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">thickest primary feed · upstream of all</text>
+<text x="262" y="1204" font-size="9" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">BROWN-OUT ↓ (under-slept)</text>
+<circle cx="276" cy="1222" r="5" fill="#E8A23D" stroke="#8A6526" stroke-width="1" opacity="0.5"/>
+<text x="290" y="1226" font-size="9" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">TASK LATENCY ↑</text>
+<circle cx="276" cy="1242" r="5" fill="#E8A23D" stroke="#8A6526" stroke-width="1" opacity="0.5"/>
+<text x="290" y="1246" font-size="9" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">ENDURANCE ↓</text>
+<circle cx="276" cy="1262" r="5" fill="#E8A23D" stroke="#8A6526" stroke-width="1" opacity="0.5"/>
+<text x="290" y="1266" font-size="9" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">FLEXIBILITY ↓</text>
+<text x="262" y="1290" font-size="8.6" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">three levers broken for free. the Sleep series is Part 0 of this one.</text>
+<text x="560" y="1351" font-size="11" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.3" opacity="1.0">CARDIO = BDNF</text>
+<text x="560" y="1367" font-size="8.6" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">a dynamo · neurogenesis you can't buy</text>
+<text x="600" y="1210" font-size="8.8" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">feeds the growth /</text>
+<text x="600" y="1224" font-size="8.8" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">preservation bucket.</text>
+<text x="600" y="1244" font-size="8.6" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">the Athletic series is</text>
+<text x="600" y="1258" font-size="8.6" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">quietly a cognitive one.</text>
+<text x="960" y="1351" font-size="11" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.3" opacity="1.0">OMEGA-3/DHA = STRUCTURE + KEY</text>
+<text x="960" y="1367" font-size="8.6" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">a dual-function component (two leads)</text>
+<text x="1000" y="1198" font-size="8.8" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">(a) STRUCTURAL — membrane brick:</text>
+<rect x="1000" y="1210" width="150" height="18" rx="0" fill="#0E141B" stroke="#2DD4BF" stroke-width="1.1" opacity="1.0"/>
+<text x="1008" y="1223" font-size="9" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">URIDINE</text>
+<rect x="1000" y="1232" width="150" height="18" rx="0" fill="#0E141B" stroke="#2DD4BF" stroke-width="1.1" opacity="1.0"/>
+<text x="1008" y="1245" font-size="9" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">CHOLINE</text>
+<rect x="1000" y="1254" width="150" height="18" rx="0" fill="url(#amh)" stroke="#E8A23D" stroke-width="1.1" stroke-dasharray="4 3" opacity="1.0"/>
+<text x="1008" y="1267" font-size="9" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">DHA ✕ missing</text>
+<text x="1000" y="1288" font-size="8.6" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">2 of 3 materials — the wall won't build.</text>
+<text x="1180" y="1198" font-size="8.8" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">(b) ABSORPTION-KEY GATE:</text>
+<rect x="1180" y="1208" width="116" height="40" rx="4" fill="#0E141B" stroke="#1C8C80" stroke-width="1.2" opacity="1.0"/>
+<text x="1238" y="1226" font-size="8.4" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">saffron · Bacopa</text>
+<text x="1238" y="1240" font-size="8.4" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">Ginkgo pass ✓</text>
+<text x="1180" y="1266" font-size="8.4" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">taken dry → under-absorbed</text>
+<path d="M1180,1274 h110" fill="none" stroke="#4A525C" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 4" opacity="1.0"/>
+<text x="1180" y="1294" font-size="8.4" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">treat fish oil like creatine; take</text>
+<text x="1180" y="1306" font-size="8.4" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">fat-soluble actives with fattiest meal.</text>
+<text x="1330" y="1351" font-size="11" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.3" opacity="1.0">HYDRATION/FUEL = SMOOTHING</text>
+<text x="1330" y="1367" font-size="8.6" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">the voltage regulator / smoothing caps</text>
+<path d="M1372,1218 h150" fill="none" stroke="#2DD4BF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<text x="1372" y="1210" font-size="8.4" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">stable fuel → clean line</text>
+<path d="M1372,1270 l20,-26 l4,30 l20,-26 l4,30 l20,-26 l4,30" fill="none" stroke="#E8A23D" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+<text x="1372" y="1292" font-size="8.4" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">spike→crash sawtooth (ghosted)</text>
+<text x="1372" y="1310" font-size="8.4" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">boring multipliers; move the</text>
+<text x="1372" y="1324" font-size="8.4" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">endurance line more than most.</text>
+<text x="1680" y="1351" font-size="11" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0.3" opacity="1.0">LOAD MGMT = SHIELDING</text>
+<text x="1680" y="1367" font-size="8.6" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">noise-isolation on the signal lines</text>
+<text x="1560" y="1218" font-size="8.7" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">· single-task by default</text>
+<text x="1560" y="1238" font-size="8.7" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">· phone OUT of the room</text>
+<text x="1560" y="1258" font-size="8.7" fill="#2DD4BF" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">· batch the shallow work</text>
+<text x="1560" y="1284" font-size="8.4" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">a notification you don't even</text>
+<text x="1560" y="1298" font-size="8.4" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">answer still taxes you.</text>
+<rect x="48" y="1390" width="1824" height="285" rx="6" fill="#0E141B" stroke="#1E2730" stroke-width="1" opacity="1.0"/>
+<text x="64" y="1416" font-size="12" fill="#6B7480" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="2" opacity="1.0">WHY BOTHER · THE SPIRAL</text>
+<text x="64" y="1434" font-size="9.5" fill="#E8A23D" text-anchor="start" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">the only floor worth raising is the one income + sleep + health lift UNDER you — not the one cheap hits inflate ABOVE you.</text>
+<circle cx="150" cy="1486" r="7" fill="#0E141B" stroke="#6B7480" stroke-width="1.6" opacity="1.0"/>
+<text x="150" y="1514" font-size="9" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">FITNESS</text>
+<line x1="160" y1="1486" x2="330" y2="1486" stroke="#4A525C" stroke-width="1.4" stroke-linecap="butt" opacity="1.0"/>
+<path d="M330,1486 m-6,-5 l6,5 l-6,5" fill="none" stroke="#4A525C" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<circle cx="340" cy="1486" r="7" fill="#0E141B" stroke="#6B7480" stroke-width="1.6" opacity="1.0"/>
+<text x="340" y="1514" font-size="9" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">ATHLETICISM</text>
+<line x1="350" y1="1486" x2="530" y2="1486" stroke="#4A525C" stroke-width="1.4" stroke-linecap="butt" opacity="1.0"/>
+<path d="M530,1486 m-6,-5 l6,5 l-6,5" fill="none" stroke="#4A525C" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<circle cx="540" cy="1486" r="7" fill="#0E141B" stroke="#6B7480" stroke-width="1.6" opacity="1.0"/>
+<text x="540" y="1514" font-size="9" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">HEALTH</text>
+<line x1="550" y1="1486" x2="750" y2="1486" stroke="#4A525C" stroke-width="1.4" stroke-linecap="butt" opacity="1.0"/>
+<path d="M750,1486 m-6,-5 l6,5 l-6,5" fill="none" stroke="#4A525C" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<circle cx="760" cy="1486" r="7" fill="#0E141B" stroke="#6B7480" stroke-width="1.6" opacity="1.0"/>
+<text x="760" y="1512" font-size="9" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">MENTAL</text>
+<text x="760" y="1524" font-size="9" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">WELLBEING</text>
+<line x1="770" y1="1486" x2="970" y2="1486" stroke="#4A525C" stroke-width="1.4" stroke-linecap="butt" opacity="1.0"/>
+<path d="M970,1486 m-6,-5 l6,5 l-6,5" fill="none" stroke="#4A525C" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<circle cx="980" cy="1486" r="7" fill="#0E141B" stroke="#6B7480" stroke-width="1.6" opacity="1.0"/>
+<text x="980" y="1514" font-size="9" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">LEARNING</text>
+<line x1="990" y1="1486" x2="1190" y2="1486" stroke="#4A525C" stroke-width="1.4" stroke-linecap="butt" opacity="1.0"/>
+<path d="M1190,1486 m-6,-5 l6,5 l-6,5" fill="none" stroke="#4A525C" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<circle cx="1200" cy="1486" r="10" fill="#2DD4BF" stroke="#2DD4BF" stroke-width="1.6" filter="url(#glow)" opacity="1.0"/>
+<text x="1200" y="1514" font-size="9" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">PRODUCTIVITY</text>
+<line x1="1210" y1="1486" x2="1420" y2="1486" stroke="#4A525C" stroke-width="1.4" stroke-linecap="butt" opacity="1.0"/>
+<path d="M1420,1486 m-6,-5 l6,5 l-6,5" fill="none" stroke="#4A525C" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<circle cx="1430" cy="1486" r="7" fill="#0E141B" stroke="#6B7480" stroke-width="1.6" opacity="1.0"/>
+<text x="1430" y="1514" font-size="9" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">INCOME</text>
+<text x="1200" y="1468" font-size="9" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">← COGNITION = the PRODUCTIVITY node</text>
+<path d="M1430,1500 C1430,1560 150,1560 150,1504" fill="none" stroke="#1C8C80" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 4" opacity="1.0"/>
+<path d="M150,1508 m-5,8 l5,-8 l5,8" fill="none" stroke="#1C8C80" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"/>
+<text x="790" y="1556" font-size="9" fill="#1C8C80" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">income → buys better sleep + food → feeds body &amp; brain → raises the floor it started UNDER you</text>
+<rect x="1560" y="1462" width="308" height="40" rx="4" fill="#11161D" stroke="#1C8C80" stroke-width="1.1" opacity="1.0"/>
+<text x="1714" y="1480" font-size="9.5" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">OPTIONALITY &amp; DESIGN,</text>
+<text x="1714" y="1494" font-size="9.5" fill="#2DD4BF" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">NOT OUTPUT</text>
+<rect x="1560" y="1510" width="308" height="40" rx="4" fill="#11161D" stroke="#8A6526" stroke-width="1.1" opacity="1.0"/>
+<text x="1714" y="1528" font-size="9.5" fill="#E8A23D" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">DON'T MIN-MAX YOUR BRAIN</text>
+<text x="1714" y="1542" font-size="8.2" fill="#E8A23D" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">diversified portfolio, protected baseline</text>
+<text x="700" y="1655" font-size="22" fill="#2DD4BF" text-anchor="middle" font-weight="700" font-family="'Inter','Segoe UI',system-ui,'DejaVu Sans',Arial,sans-serif" letter-spacing="1" opacity="0.92">YOU OUT-BUILD A DEFAULT.  YOU DON'T OUT-THINK IT.</text>
+<text x="700" y="1673" font-size="9.5" fill="#6B7480" text-anchor="middle" font-weight="600" font-family="'JetBrains Mono','SF Mono',ui-monospace,'DejaVu Sans Mono',Consolas,monospace" letter-spacing="0" opacity="1.0">a compound is a thought-substitute; a built default is the lever.</text>
+</svg>

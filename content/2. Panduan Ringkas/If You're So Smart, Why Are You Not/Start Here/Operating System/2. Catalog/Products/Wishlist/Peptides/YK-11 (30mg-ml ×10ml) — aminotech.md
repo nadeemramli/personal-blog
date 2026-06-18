@@ -52,5 +52,5 @@ notes: "Listing captured 2026-06-08 (aminotech.shop): YK11 Sterile Oil **USD59.9
 > [!note] Hepatotoxic. Adds to liver load — don't run alongside oral Anavar without TUDCA cover. Belongs in a lean-bulk, not the cut.
 
 ## Links
-- Phase: [[Lean Bulk Protocol]] · Source: [[aminotech]]
+- Phase: [[Recomposition & Lean Bulk Protocol|Lean Bulk]] · Source: [[aminotech]]
 - Operating system: [[The Operating System]] · [[Product List]] · [[Schema — Data Model]]

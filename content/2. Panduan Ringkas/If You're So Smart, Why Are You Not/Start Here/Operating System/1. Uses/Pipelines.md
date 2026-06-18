@@ -17,8 +17,8 @@ date: 2026-06-06
 | # | Pipeline | What it owns (the lever) | Primary metric | Action trigger | Lives in |
 |---|---|---|---|---|---|
 | **P1** | **Endocrine** (Base) | Test / EQ / HCG — the MPS engine | Hematocrit `<52%` + Sensitive E₂ | Week-8 blood work | [[Endocrine Design Rules]] + the live cycle |
-| **P2** | **Bio-Feedback** (Fuel) | Calories — bulk / cut / maintain | Gym logbook + Body Fat % | Stalled strength OR loss of abs | [[Cut Protocol]] / [[Bulk Protocol]] / [[Lean Bulk Protocol]] |
-| **P3** | **Deployment** (Accelerators) | Tiered orals / adjusters | Variable dosing (μg thyroid/clen) | Mini-cut tier trigger | [[Mini-Cut & Accelerator Tiers]] |
+| **P2** | **Bio-Feedback** (Fuel) | Calories — bulk / cut / maintain | Gym logbook + Body Fat % | Stalled strength OR loss of abs | [[Cut Protocol]] / [[Bulk Protocol]] / [[Recomposition & Lean Bulk Protocol|Lean Bulk]] |
+| **P3** | **Deployment** (Accelerators) | Tiered orals / adjusters | Variable dosing (μg thyroid/clen) | Mini-cut tier trigger | [[Off-Season Mini-Cut & Accelerator Tiers]] |
 | **P4** | **Year-Round** (Shield) | Cardio / renal / metabolic protection | BP `<120/80` + lipids | Daily morning anchor | [[Year-Round Shield]] |
 
 ## How they interact
@@ -41,8 +41,8 @@ date: 2026-06-06
 ## Pipeline → notes
 
 - **P1 Endocrine** → [[Endocrine Design Rules]] (3-tier Test: cruise 200 / mid 350 / blast 550, + EQ block, HCG) · current run: [[2026 Q3 Cut to 15%]] · history: [[2026 Q2 Cycle]]
-- **P2 Bio-Feedback** → [[Cut Protocol]] · [[Bulk Protocol]] · [[Lean Bulk Protocol]] (refeed/diet-break periodization documented in the active campaign)
-- **P3 Deployment** → [[Mini-Cut & Accelerator Tiers]] (Tier 1 → 2 → 3 ladder)
+- **P2 Bio-Feedback** → [[Cut Protocol]] · [[Bulk Protocol]] · [[Recomposition & Lean Bulk Protocol|Lean Bulk]] (refeed/diet-break periodization documented in the active campaign)
+- **P3 Deployment** → [[Off-Season Mini-Cut & Accelerator Tiers]] (Tier 1 → 2 → 3 ladder)
 - **P4 Year-Round** → [[Year-Round Shield]] (Rosuvastatin · ARB · Tadalafil · Retatrutide · L-Carnitine · Aspirin)
 - **Feedback loop** → [[Bloodwork & Calculated Biomarkers]] (the data that gates P1)
 

@@ -46,7 +46,7 @@ Target: **+17 kg lean** (69 → 86 kg, adjFFMI ~23 → ~28.5). Rates are *net* (
 | **Conservative** | ~0.4 kg | ~0.10 kg | **~3.5 yr** (42 mo) |
 | **Aggressive** | ~0.7 kg | ~0.16 kg | **~2.0 yr** (24 mo) |
 
-> During a **lean-bulk block** you'll gain faster than the net rate (~0.25–0.5%/wk bodyweight); the net rate is lower because cut/maintenance phases give some back. Judge a bulk block by **~0.5%/wk** — if faster, it's fat → [[Mini-Cut & Accelerator Tiers|mini-cut]].
+> During a **lean-bulk block** you'll gain faster than the net rate (~0.25–0.5%/wk bodyweight); the net rate is lower because cut/maintenance phases give some back. Judge a bulk block by **~0.5%/wk** — if faster, it's fat → [[Off-Season Mini-Cut & Accelerator Tiers|mini-cut]].
 
 ### Cumulative trajectory (lean kg → adjFFMI)
 | Month | Conservative | Aggressive |
@@ -99,7 +99,7 @@ Using your ratio (~26.9 kcal/kg) and an active-enhanced check (~31–33 kcal/kg)
 
 ## The loop (how to actually run it)
 1. **Cut** to the maintenance BF floor (12–15%) — current [[2026 Q3 Cut to 15%]].
-2. **Lean bulk** at +200–500 (~0.25–0.5%/wk bodyweight); per [[Lean Bulk Protocol]], continue while gain holds ~0.5%/wk, trigger a [[Mini-Cut & Accelerator Tiers|mini-cut]] if faster (fat, not muscle).
+2. **Lean bulk** at +200–500 (~0.25–0.5%/wk bodyweight); per [[Recomposition & Lean Bulk Protocol|Lean Bulk]], continue while gain holds ~0.5%/wk, trigger a [[Off-Season Mini-Cut & Accelerator Tiers|mini-cut]] if faster (fat, not muscle).
 3. **Reassess BF every 8 wks**; never surplus above 15% (the [[Cut Protocol|P2]] rule).
 4. Repeat bulk→mini-cut→bulk, drifting lean mass up each cycle until adjFFMI 28–29 holds at 12–15%.
 
@@ -108,5 +108,5 @@ Using your ratio (~26.9 kcal/kg) and an active-enhanced check (~31–33 kcal/kg)
 - Track the *trend* (monthly lean mass via DEXA/InBody), not weekly scale noise.
 
 ## Links
-- Current cut: [[2026 Q3 Cut to 15%]] · Phases: [[Cut Protocol]] · [[Lean Bulk Protocol]] · [[Bulk Protocol]]
+- Current cut: [[2026 Q3 Cut to 15%]] · Phases: [[Cut Protocol]] · [[Recomposition & Lean Bulk Protocol|Lean Bulk]] · [[Bulk Protocol]]
 - Diagnostics: [[Bloodwork & Calculated Biomarkers]] · System: [[The Operating System]]

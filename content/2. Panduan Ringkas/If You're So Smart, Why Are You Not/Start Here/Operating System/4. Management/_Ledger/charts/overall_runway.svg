@@ -1,0 +1,379 @@
+<svg viewBox="0 0 900 1720" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system,Segoe UI,Roboto,sans-serif" role="img">
+<title>Stock runway by functional stack</title><desc>Days of supply per product grouped into functional stacks, ordered by dosing frequency, with cut-aligned seasonal depletion.</desc>
+<rect x="0" y="0" width="900" height="1720" rx="10" fill="#FCFCFB"/>
+<text x="20" y="32" font-size="18" font-weight="600" fill="#2F2D2A">Stock runway — by functional stack</text>
+<text x="20" y="51" font-size="12" fill="#6B6862">Colour = stack · grey shaded columns = cut windows · seasonal bars burn only inside cuts · date red=buy now, amber=this year, green=covered · 2026-06-14 → 2027-12-31</text>
+<rect x="330.4" y="92" width="85.0" height="1578" fill="#D6493F" fill-opacity="0.06"/>
+<text x="372.9" y="82" font-size="9.5" text-anchor="middle" fill="#CC0066" fill-opacity="0.85">2026 cut</text>
+<rect x="656.4" y="92" width="85.0" height="1578" fill="#D6493F" fill-opacity="0.06"/>
+<text x="698.9" y="82" font-size="9.5" text-anchor="middle" fill="#CC0066" fill-opacity="0.85">2027 cut</text>
+<line x1="317.2" y1="94" x2="317.2" y2="1672" stroke="#ECEAE6" stroke-width="1"/>
+<text x="317.2" y="92" font-size="9" text-anchor="middle" fill="#9A968F">Jul</text>
+<line x1="380.0" y1="94" x2="380.0" y2="1672" stroke="#ECEAE6" stroke-width="1"/>
+<text x="380.0" y="92" font-size="9" text-anchor="middle" fill="#9A968F">Sep</text>
+<line x1="441.7" y1="94" x2="441.7" y2="1672" stroke="#ECEAE6" stroke-width="1"/>
+<text x="441.7" y="92" font-size="9" text-anchor="middle" fill="#9A968F">Nov</text>
+<line x1="503.5" y1="94" x2="503.5" y2="1672" stroke="#ECEAE6" stroke-width="1"/>
+<text x="503.5" y="92" font-size="9" text-anchor="middle" fill="#9A968F">Jan ’27</text>
+<line x1="563.2" y1="94" x2="563.2" y2="1672" stroke="#ECEAE6" stroke-width="1"/>
+<text x="563.2" y="92" font-size="9" text-anchor="middle" fill="#9A968F">Mar</text>
+<line x1="625.0" y1="94" x2="625.0" y2="1672" stroke="#ECEAE6" stroke-width="1"/>
+<text x="625.0" y="92" font-size="9" text-anchor="middle" fill="#9A968F">May</text>
+<line x1="686.7" y1="94" x2="686.7" y2="1672" stroke="#ECEAE6" stroke-width="1"/>
+<text x="686.7" y="92" font-size="9" text-anchor="middle" fill="#9A968F">Jul</text>
+<line x1="749.5" y1="94" x2="749.5" y2="1672" stroke="#ECEAE6" stroke-width="1"/>
+<text x="749.5" y="92" font-size="9" text-anchor="middle" fill="#9A968F">Sep</text>
+<line x1="811.3" y1="94" x2="811.3" y2="1672" stroke="#ECEAE6" stroke-width="1"/>
+<text x="811.3" y="92" font-size="9" text-anchor="middle" fill="#9A968F">Nov</text>
+<text x="20" y="109" font-size="11" font-weight="600" fill="#8A8782" letter-spacing="0.5">CONTINUOUS — year-round</text>
+<rect x="20" y="112" width="860" height="18" rx="4" fill="#3E7BC2" fill-opacity="0.12"/>
+<circle cx="29" cy="121" r="4" fill="#3E7BC2"/>
+<text x="40" y="125" font-size="11.5" font-weight="600" fill="#2F2D2A">Daily Cognitive</text>
+<text x="244" y="148" font-size="10.5" text-anchor="end" fill="#2F2D2A">Uridine</text>
+<text x="250" y="148" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="140" width="60.7" height="10" rx="2" fill="#3E7BC2" fill-opacity="0.9"/>
+<text x="365.7" y="148" font-size="9" fill="#2F2D2A">13 Aug 26 · 18000mg</text>
+<text x="244" y="166" font-size="10.5" text-anchor="end" fill="#2F2D2A">Bacopa Monnieri</text>
+<text x="250" y="166" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="158" width="243.0" height="10" rx="2" fill="#3E7BC2" fill-opacity="0.9"/>
+<text x="548.0" y="166" font-size="9" fill="#2F2D2A">09 Feb 27 · 120000mg</text>
+<text x="244" y="184" font-size="10.5" text-anchor="end" fill="#2F2D2A">CDP-Choline</text>
+<text x="250" y="184" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="176" width="243.0" height="10" rx="2" fill="#3E7BC2" fill-opacity="0.9"/>
+<text x="548.0" y="184" font-size="9" fill="#2F2D2A">09 Feb 27 · 72000mg</text>
+<text x="244" y="202" font-size="10.5" text-anchor="end" fill="#2F2D2A">Saffron</text>
+<text x="250" y="202" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="194" width="243.0" height="10" rx="2" fill="#3E7BC2" fill-opacity="0.9"/>
+<text x="548.0" y="202" font-size="9" fill="#2F2D2A">09 Feb 27 · 21240mg</text>
+<text x="244" y="220" font-size="10.5" text-anchor="end" fill="#2F2D2A">Fish Oil (Omega-3)</text>
+<text x="250" y="220" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="212" width="328.0" height="10" rx="2" fill="#3E7BC2" fill-opacity="0.9"/>
+<text x="633.0" y="220" font-size="9" fill="#2F2D2A">04 May 27 · 712800mg</text>
+<rect x="20" y="228" width="860" height="18" rx="4" fill="#1D9E75" fill-opacity="0.12"/>
+<circle cx="29" cy="237" r="4" fill="#1D9E75"/>
+<text x="40" y="241" font-size="11.5" font-weight="600" fill="#2F2D2A">Daily Antioxidant / CV</text>
+<text x="244" y="264" font-size="10.5" text-anchor="end" fill="#2F2D2A">NAC</text>
+<text x="250" y="264" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="256" width="182.2" height="10" rx="2" fill="#1D9E75" fill-opacity="0.9"/>
+<text x="487.2" y="264" font-size="9" fill="#2F2D2A">11 Dec 26 · 108000mg</text>
+<text x="244" y="282" font-size="10.5" text-anchor="end" fill="#2F2D2A">Aged Garlic Extract</text>
+<text x="250" y="282" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="274" width="227.8" height="10" rx="2" fill="#1D9E75" fill-opacity="0.9"/>
+<text x="532.8" y="282" font-size="9" fill="#2F2D2A">25 Jan 27 · 135000mg</text>
+<text x="244" y="300" font-size="10.5" text-anchor="end" fill="#2F2D2A">Vitamin C</text>
+<text x="250" y="300" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="292" width="243.0" height="10" rx="2" fill="#1D9E75" fill-opacity="0.9"/>
+<text x="548.0" y="300" font-size="9" fill="#2F2D2A">09 Feb 27 · 240000mg</text>
+<text x="244" y="318" font-size="10.5" text-anchor="end" fill="#2F2D2A">Methyl B Complex</text>
+<text x="250" y="318" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="310" width="340.2" height="10" rx="2" fill="#1D9E75" fill-opacity="0.9"/>
+<text x="645.2" y="318" font-size="9" fill="#2F2D2A">16 May 27 · 42000mg</text>
+<text x="244" y="336" font-size="10.5" text-anchor="end" fill="#2F2D2A">TMG (Betaine)</text>
+<text x="250" y="336" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="328" width="340.2" height="10" rx="2" fill="#1D9E75" fill-opacity="0.9"/>
+<text x="645.2" y="336" font-size="9" fill="#2F2D2A">16 May 27 · 252000mg</text>
+<text x="244" y="354" font-size="10.5" text-anchor="end" fill="#2F2D2A">Taurine</text>
+<text x="250" y="354" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="346" width="354.3" height="10" rx="2" fill="#1D9E75" fill-opacity="0.9"/>
+<text x="659.3" y="354" font-size="9" fill="#2F2D2A">30 May 27 · 350000mg</text>
+<rect x="20" y="362" width="860" height="18" rx="4" fill="#7F77DD" fill-opacity="0.12"/>
+<circle cx="29" cy="371" r="4" fill="#7F77DD"/>
+<text x="40" y="375" font-size="11.5" font-weight="600" fill="#2F2D2A">Daily Protection / Ancillary</text>
+<text x="244" y="398" font-size="10.5" text-anchor="end" fill="#2F2D2A">Oral Minoxidil</text>
+<text x="250" y="398" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="390" width="172.1" height="10" rx="2" fill="#7F77DD" fill-opacity="0.9"/>
+<text x="477.1" y="398" font-size="9" fill="#2F2D2A">01 Dec 26 · 850mg</text>
+<text x="244" y="416" font-size="10.5" text-anchor="end" fill="#2F2D2A">Irbesartan</text>
+<text x="250" y="416" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="408" width="243.0" height="10" rx="2" fill="#7F77DD" fill-opacity="0.9"/>
+<text x="548.0" y="416" font-size="9" fill="#2F2D2A">09 Feb 27 · 18000mg</text>
+<text x="244" y="434" font-size="10.5" text-anchor="end" fill="#2F2D2A">Nebivolol</text>
+<text x="250" y="434" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="426" width="405.0" height="10" rx="2" fill="#7F77DD" fill-opacity="0.9"/>
+<text x="710.0" y="434" font-size="9" fill="#2F2D2A">19 Jul 27 · 1000mg</text>
+<text x="244" y="452" font-size="10.5" text-anchor="end" fill="#2F2D2A">Tadalafil</text>
+<text x="250" y="452" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="444" width="445.5" height="10" rx="2" fill="#7F77DD" fill-opacity="0.9"/>
+<text x="750.5" y="452" font-size="9" fill="#2F2D2A">28 Aug 27 · 2200mg</text>
+<text x="244" y="470" font-size="10.5" text-anchor="end" fill="#2F2D2A">Rosuvastatin</text>
+<text x="250" y="470" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="462" width="566.9" height="10" rx="2" fill="#7F77DD" fill-opacity="0.9"/>
+<text x="862.9" y="470" font-size="9" text-anchor="end" fill="#FFFFFF">26 Dec 27 · 5600mg</text>
+<text x="244" y="488" font-size="10.5" text-anchor="end" fill="#2F2D2A">Ezetimibe</text>
+<text x="250" y="488" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="480" width="572.0" height="10" rx="2" fill="#7F77DD" fill-opacity="0.9"/>
+<text x="868.0" y="488" font-size="9" text-anchor="end" fill="#FFFFFF">covered &gt; horizon · 5800mg</text>
+<text x="244" y="506" font-size="10.5" text-anchor="end" fill="#2F2D2A">Aspirin</text>
+<text x="250" y="506" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="498" width="572.0" height="10" rx="2" fill="#7F77DD" fill-opacity="0.9"/>
+<text x="868.0" y="506" font-size="9" text-anchor="end" fill="#FFFFFF">covered &gt; horizon · 60000mg</text>
+<text x="244" y="524" font-size="10.5" text-anchor="end" fill="#2F2D2A">GHK-Cu</text>
+<text x="250" y="524" font-size="9" fill="#A8A49C">EOD</text>
+<circle cx="305" cy="521" r="5" fill="#D6493F"/>
+<text x="314" y="524" font-size="9.5" fill="#D6493F">at zero — buy now · 0mg</text>
+<text x="244" y="542" font-size="10.5" text-anchor="end" fill="#2F2D2A">KPV</text>
+<text x="250" y="542" font-size="9" fill="#A8A49C">EOD</text>
+<circle cx="305" cy="539" r="5" fill="#D6493F"/>
+<text x="314" y="542" font-size="9.5" fill="#D6493F">at zero — buy now · 0mg</text>
+<rect x="20" y="550" width="860" height="18" rx="4" fill="#639922" fill-opacity="0.12"/>
+<circle cx="29" cy="559" r="4" fill="#639922"/>
+<text x="40" y="563" font-size="11.5" font-weight="600" fill="#2F2D2A">Nutrient Partitioning</text>
+<text x="244" y="586" font-size="10.5" text-anchor="end" fill="#2F2D2A">Metformin+Empagliflozin</text>
+<text x="250" y="586" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="578" width="303.7" height="10" rx="2" fill="#639922" fill-opacity="0.9"/>
+<text x="608.7" y="586" font-size="9" fill="#2F2D2A">10 Apr 27 · 300tab</text>
+<text x="244" y="604" font-size="10.5" text-anchor="end" fill="#2F2D2A">Retatrutide</text>
+<text x="250" y="604" font-size="9" fill="#A8A49C">e4d</text>
+<rect x="300" y="596" width="121.5" height="10" rx="2" fill="#639922" fill-opacity="0.9"/>
+<text x="426.5" y="604" font-size="9" fill="#2F2D2A">12 Oct 26 · 120mg</text>
+<rect x="20" y="612" width="860" height="18" rx="4" fill="#6FA3D6" fill-opacity="0.12"/>
+<circle cx="29" cy="621" r="4" fill="#6FA3D6"/>
+<text x="40" y="625" font-size="11.5" font-weight="600" fill="#2F2D2A">Every-Other-Day Cognitive</text>
+<text x="244" y="648" font-size="10.5" text-anchor="end" fill="#2F2D2A">L-Theanine</text>
+<text x="250" y="648" font-size="9" fill="#A8A49C">EOD</text>
+<rect x="300" y="640" width="72.9" height="10" rx="2" fill="#6FA3D6" fill-opacity="0.9"/>
+<text x="377.9" y="648" font-size="9" fill="#2F2D2A">25 Aug 26 · 14400mg</text>
+<text x="244" y="666" font-size="10.5" text-anchor="end" fill="#2F2D2A">Nicorette Gum</text>
+<text x="250" y="666" font-size="9" fill="#A8A49C">EOD</text>
+<rect x="300" y="658" width="318.9" height="10" rx="2" fill="#6FA3D6" fill-opacity="0.9"/>
+<text x="623.9" y="666" font-size="9" fill="#2F2D2A">25 Apr 27 · 630mg</text>
+<text x="244" y="684" font-size="10.5" text-anchor="end" fill="#2F2D2A">Acetyl L-Carnitine</text>
+<text x="250" y="684" font-size="9" fill="#A8A49C">EOD</text>
+<rect x="300" y="676" width="364.5" height="10" rx="2" fill="#6FA3D6" fill-opacity="0.9"/>
+<text x="669.5" y="684" font-size="9" fill="#2F2D2A">09 Jun 27 · 90000mg</text>
+<text x="244" y="702" font-size="10.5" text-anchor="end" fill="#2F2D2A">Ginkgo Biloba</text>
+<text x="250" y="702" font-size="9" fill="#A8A49C">EOD</text>
+<rect x="300" y="694" width="485.9" height="10" rx="2" fill="#6FA3D6" fill-opacity="0.9"/>
+<text x="781.9" y="702" font-size="9" text-anchor="end" fill="#FFFFFF">07 Oct 27 · 28800mg</text>
+<text x="244" y="720" font-size="10.5" text-anchor="end" fill="#2F2D2A">Huperzine-A</text>
+<text x="250" y="720" font-size="9" fill="#A8A49C">EOD</text>
+<rect x="300" y="712" width="485.9" height="10" rx="2" fill="#6FA3D6" fill-opacity="0.9"/>
+<text x="781.9" y="720" font-size="9" text-anchor="end" fill="#FFFFFF">07 Oct 27 · 48000mcg</text>
+<text x="244" y="738" font-size="10.5" text-anchor="end" fill="#2F2D2A">Caffeine</text>
+<text x="250" y="738" font-size="9" fill="#A8A49C">EOD</text>
+<rect x="300" y="730" width="506.2" height="10" rx="2" fill="#6FA3D6" fill-opacity="0.9"/>
+<text x="802.2" y="738" font-size="9" text-anchor="end" fill="#FFFFFF">27 Oct 27 · 50000mg</text>
+<text x="244" y="756" font-size="10.5" text-anchor="end" fill="#2F2D2A">L-Tyrosine</text>
+<text x="250" y="756" font-size="9" fill="#A8A49C">EOD</text>
+<rect x="300" y="748" width="572.0" height="10" rx="2" fill="#6FA3D6" fill-opacity="0.9"/>
+<text x="868.0" y="756" font-size="9" text-anchor="end" fill="#FFFFFF">covered &gt; horizon · 450g</text>
+<rect x="20" y="764" width="860" height="18" rx="4" fill="#D69A3A" fill-opacity="0.12"/>
+<circle cx="29" cy="773" r="4" fill="#D69A3A"/>
+<text x="40" y="777" font-size="11.5" font-weight="600" fill="#2F2D2A">Every-Other-Day Androgen Support</text>
+<text x="244" y="800" font-size="10.5" text-anchor="end" fill="#2F2D2A">DIM</text>
+<text x="250" y="800" font-size="9" fill="#A8A49C">EOD</text>
+<rect x="300" y="792" width="170.1" height="10" rx="2" fill="#D69A3A" fill-opacity="0.9"/>
+<text x="475.1" y="800" font-size="9" fill="#2F2D2A">29 Nov 26 · 25200mg</text>
+<text x="244" y="818" font-size="10.5" text-anchor="end" fill="#2F2D2A">Copper (Bisglycinate)</text>
+<text x="250" y="818" font-size="9" fill="#A8A49C">EOD</text>
+<rect x="300" y="810" width="202.5" height="10" rx="2" fill="#D69A3A" fill-opacity="0.9"/>
+<text x="507.5" y="818" font-size="9" fill="#2F2D2A">31 Dec 26 · 200mg</text>
+<text x="244" y="836" font-size="10.5" text-anchor="end" fill="#2F2D2A">Zinc</text>
+<text x="250" y="836" font-size="9" fill="#A8A49C">EOD</text>
+<rect x="300" y="828" width="206.5" height="10" rx="2" fill="#D69A3A" fill-opacity="0.9"/>
+<text x="511.5" y="836" font-size="9" fill="#2F2D2A">04 Jan 27 · 10200mg</text>
+<text x="244" y="854" font-size="10.5" text-anchor="end" fill="#2F2D2A">Boron</text>
+<text x="250" y="854" font-size="9" fill="#A8A49C">EOD</text>
+<rect x="300" y="846" width="243.0" height="10" rx="2" fill="#D69A3A" fill-opacity="0.9"/>
+<text x="548.0" y="854" font-size="9" fill="#2F2D2A">09 Feb 27 · 600mg</text>
+<text x="244" y="872" font-size="10.5" text-anchor="end" fill="#2F2D2A">Selenium</text>
+<text x="250" y="872" font-size="9" fill="#A8A49C">EOD</text>
+<rect x="300" y="864" width="485.9" height="10" rx="2" fill="#D69A3A" fill-opacity="0.9"/>
+<text x="781.9" y="872" font-size="9" text-anchor="end" fill="#FFFFFF">07 Oct 27 · 24000mcg</text>
+<rect x="20" y="880" width="860" height="18" rx="4" fill="#0F6E56" fill-opacity="0.12"/>
+<circle cx="29" cy="889" r="4" fill="#0F6E56"/>
+<text x="40" y="893" font-size="11.5" font-weight="600" fill="#2F2D2A">Every-Other-Day Mitochondria Support</text>
+<text x="244" y="916" font-size="10.5" text-anchor="end" fill="#2F2D2A">CoQ10</text>
+<text x="250" y="916" font-size="9" fill="#A8A49C">EOD</text>
+<rect x="300" y="908" width="182.2" height="10" rx="2" fill="#0F6E56" fill-opacity="0.9"/>
+<text x="487.2" y="916" font-size="9" fill="#2F2D2A">11 Dec 26 · 36000mg</text>
+<text x="244" y="934" font-size="10.5" text-anchor="end" fill="#2F2D2A">Nicotinamide Riboside</text>
+<text x="250" y="934" font-size="9" fill="#A8A49C">EOD</text>
+<rect x="300" y="926" width="303.7" height="10" rx="2" fill="#0F6E56" fill-opacity="0.9"/>
+<text x="608.7" y="934" font-size="9" fill="#2F2D2A">10 Apr 27 · 37500mg</text>
+<text x="244" y="952" font-size="10.5" text-anchor="end" fill="#2F2D2A">Vitamin D3/K2</text>
+<text x="250" y="952" font-size="9" fill="#A8A49C">EOD</text>
+<rect x="300" y="944" width="572.0" height="10" rx="2" fill="#0F6E56" fill-opacity="0.9"/>
+<text x="868.0" y="952" font-size="9" text-anchor="end" fill="#FFFFFF">covered &gt; horizon · 67500mcg</text>
+<rect x="20" y="960" width="860" height="18" rx="4" fill="#D4537E" fill-opacity="0.12"/>
+<circle cx="29" cy="969" r="4" fill="#D4537E"/>
+<text x="40" y="973" font-size="11.5" font-weight="600" fill="#2F2D2A">Sleep / Recovery</text>
+<text x="244" y="996" font-size="10.5" text-anchor="end" fill="#2F2D2A">Apigenin</text>
+<text x="250" y="996" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="988" width="164.0" height="10" rx="2" fill="#D4537E" fill-opacity="0.9"/>
+<text x="469.0" y="996" font-size="9" fill="#2F2D2A">23 Nov 26 · 8100mg</text>
+<text x="244" y="1014" font-size="10.5" text-anchor="end" fill="#2F2D2A">Magnesium Glycinate</text>
+<text x="250" y="1014" font-size="9" fill="#A8A49C">EOD</text>
+<rect x="300" y="1006" width="170.1" height="10" rx="2" fill="#D4537E" fill-opacity="0.9"/>
+<text x="475.1" y="1014" font-size="9" fill="#2F2D2A">29 Nov 26 · 35280mg</text>
+<text x="244" y="1032" font-size="10.5" text-anchor="end" fill="#2F2D2A">Melatonin</text>
+<text x="250" y="1032" font-size="9" fill="#A8A49C">EOD</text>
+<rect x="300" y="1024" width="437.4" height="10" rx="2" fill="#D4537E" fill-opacity="0.9"/>
+<text x="742.4" y="1032" font-size="9" fill="#2F2D2A">20 Aug 27 · 4320mg</text>
+<rect x="20" y="1040" width="860" height="18" rx="4" fill="#D85A30" fill-opacity="0.12"/>
+<circle cx="29" cy="1049" r="4" fill="#D85A30"/>
+<text x="40" y="1053" font-size="11.5" font-weight="600" fill="#2F2D2A">Training-Day Performance</text>
+<text x="244" y="1076" font-size="10.5" text-anchor="end" fill="#2F2D2A">Creatine Monohydrate</text>
+<text x="250" y="1076" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="1068" width="202.5" height="10" rx="2" fill="#D85A30" fill-opacity="0.9"/>
+<text x="507.5" y="1076" font-size="9" fill="#2F2D2A">31 Dec 26 · 1000g</text>
+<text x="244" y="1094" font-size="10.5" text-anchor="end" fill="#2F2D2A">Intra-Workout</text>
+<text x="250" y="1094" font-size="9" fill="#A8A49C">intra-WO</text>
+<rect x="300" y="1086" width="173.1" height="10" rx="2" fill="#D85A30" fill-opacity="0.9"/>
+<text x="478.1" y="1094" font-size="9" fill="#2F2D2A">02 Dec 26 · 976g</text>
+<text x="244" y="1112" font-size="10.5" text-anchor="end" fill="#2F2D2A">Alpha-GPC</text>
+<text x="250" y="1112" font-size="9" fill="#A8A49C">training</text>
+<rect x="300" y="1104" width="170.1" height="10" rx="2" fill="#D85A30" fill-opacity="0.9"/>
+<text x="475.1" y="1112" font-size="9" fill="#2F2D2A">29 Nov 26 · 86400mg</text>
+<text x="244" y="1130" font-size="10.5" text-anchor="end" fill="#2F2D2A">Pre-Workout</text>
+<text x="250" y="1130" font-size="9" fill="#A8A49C">training</text>
+<rect x="300" y="1122" width="374.6" height="10" rx="2" fill="#D85A30" fill-opacity="0.9"/>
+<text x="679.6" y="1130" font-size="9" fill="#2F2D2A">19 Jun 27 · 2535g</text>
+<rect x="20" y="1138" width="860" height="18" rx="4" fill="#5F5E5A" fill-opacity="0.12"/>
+<circle cx="29" cy="1147" r="4" fill="#5F5E5A"/>
+<text x="40" y="1151" font-size="11.5" font-weight="600" fill="#2F2D2A">TRT Base</text>
+<text x="244" y="1174" font-size="10.5" text-anchor="end" fill="#2F2D2A">Test Enanthate 450</text>
+<text x="250" y="1174" font-size="9" fill="#A8A49C">EOD</text>
+<rect x="300" y="1166" width="182.2" height="10" rx="2" fill="#5F5E5A" fill-opacity="0.9"/>
+<text x="487.2" y="1174" font-size="9" fill="#2F2D2A">11 Dec 26 · 9000mg</text>
+<text x="20" y="1194" font-size="11" font-weight="600" fill="#8A8782" letter-spacing="0.5">SEASONAL — cut-gated (depletes only in cuts)</text>
+<rect x="20" y="1197" width="860" height="18" rx="4" fill="#D6493F" fill-opacity="0.12"/>
+<circle cx="29" cy="1206" r="4" fill="#D6493F"/>
+<text x="40" y="1210" font-size="11.5" font-weight="600" fill="#2F2D2A">Cut / Seasonal (Cycle-Gated)</text>
+<text x="244" y="1233" font-size="10.5" text-anchor="end" fill="#2F2D2A">Trenbolone Acetate</text>
+<text x="250" y="1233" font-size="9" fill="#A8A49C">EOD</text>
+<line x1="300" y1="1229.5" x2="672.6" y2="1229.5" stroke="#D6493F" stroke-width="1.4" stroke-opacity="0.30"/>
+<rect x="330.4" y="1225" width="85.0" height="10" rx="2" fill="#D6493F" fill-opacity="0.55"/>
+<rect x="656.4" y="1225" width="16.2" height="10" rx="2" fill="#D6493F" fill-opacity="0.9"/>
+<line x1="672.6" y1="1230" x2="741.4" y2="1230" stroke="#D6493F" stroke-width="3" stroke-opacity="0.4" stroke-dasharray="2 2"/>
+<text x="677.6" y="1233" font-size="9" fill="#2F2D2A">out 17 Jun 27 · 1000mg</text>
+<text x="244" y="1251" font-size="10.5" text-anchor="end" fill="#2F2D2A">Oxandrolone (Anavar)</text>
+<text x="250" y="1251" font-size="9" fill="#A8A49C">training</text>
+<line x1="300" y1="1247.5" x2="365.8" y2="1247.5" stroke="#D6493F" stroke-width="1.4" stroke-opacity="0.30"/>
+<rect x="330.4" y="1243" width="35.4" height="10" rx="2" fill="#D6493F" fill-opacity="0.9"/>
+<line x1="365.8" y1="1248" x2="415.4" y2="1248" stroke="#D6493F" stroke-width="3" stroke-opacity="0.4" stroke-dasharray="2 2"/>
+<text x="370.8" y="1251" font-size="9" fill="#2F2D2A">out 18 Aug 26 · 1200mg</text>
+<text x="244" y="1269" font-size="10.5" text-anchor="end" fill="#2F2D2A">Proviron</text>
+<text x="250" y="1269" font-size="9" fill="#A8A49C">daily</text>
+<line x1="300" y1="1265.5" x2="406.3" y2="1265.5" stroke="#D6493F" stroke-width="1.4" stroke-opacity="0.30"/>
+<rect x="330.4" y="1261" width="75.9" height="10" rx="2" fill="#D6493F" fill-opacity="0.9"/>
+<line x1="406.3" y1="1266" x2="415.4" y2="1266" stroke="#D6493F" stroke-width="3" stroke-opacity="0.4" stroke-dasharray="2 2"/>
+<text x="411.3" y="1269" font-size="9" fill="#2F2D2A">out 27 Sep 26 · 1875mg</text>
+<text x="244" y="1287" font-size="10.5" text-anchor="end" fill="#2F2D2A">P5P</text>
+<text x="250" y="1287" font-size="9" fill="#A8A49C">daily</text>
+<line x1="300" y1="1283.5" x2="872.0" y2="1283.5" stroke="#D6493F" stroke-width="1.4" stroke-opacity="0.30"/>
+<rect x="330.4" y="1279" width="85.0" height="10" rx="2" fill="#D6493F" fill-opacity="0.55"/>
+<rect x="656.4" y="1279" width="85.0" height="10" rx="2" fill="#D6493F" fill-opacity="0.55"/>
+<text x="868.0" y="1287" font-size="9" text-anchor="end" fill="#FFFFFF">covered ≥2 cuts · 12000mg</text>
+<text x="244" y="1305" font-size="10.5" text-anchor="end" fill="#2F2D2A">Memantine</text>
+<text x="250" y="1305" font-size="9" fill="#A8A49C">EOD</text>
+<line x1="300" y1="1301.5" x2="872.0" y2="1301.5" stroke="#D6493F" stroke-width="1.4" stroke-opacity="0.30"/>
+<rect x="330.4" y="1297" width="85.0" height="10" rx="2" fill="#D6493F" fill-opacity="0.55"/>
+<rect x="656.4" y="1297" width="85.0" height="10" rx="2" fill="#D6493F" fill-opacity="0.55"/>
+<text x="868.0" y="1305" font-size="9" text-anchor="end" fill="#FFFFFF">covered ≥2 cuts · 500mg</text>
+<text x="244" y="1323" font-size="10.5" text-anchor="end" fill="#2F2D2A">MK-677</text>
+<text x="250" y="1323" font-size="9" fill="#A8A49C">daily</text>
+<line x1="300" y1="1319.5" x2="360.7" y2="1319.5" stroke="#D6493F" stroke-width="1.4" stroke-opacity="0.30"/>
+<rect x="330.4" y="1315" width="30.4" height="10" rx="2" fill="#D6493F" fill-opacity="0.9"/>
+<line x1="360.7" y1="1320" x2="415.4" y2="1320" stroke="#D6493F" stroke-width="3" stroke-opacity="0.4" stroke-dasharray="2 2"/>
+<text x="365.7" y="1323" font-size="9" fill="#2F2D2A">out 13 Aug 26 · 600mg</text>
+<text x="244" y="1341" font-size="10.5" text-anchor="end" fill="#2F2D2A">Levothyroxine (T4)</text>
+<text x="250" y="1341" font-size="9" fill="#A8A49C">daily</text>
+<line x1="300" y1="1337.5" x2="672.6" y2="1337.5" stroke="#D6493F" stroke-width="1.4" stroke-opacity="0.30"/>
+<rect x="330.4" y="1333" width="85.0" height="10" rx="2" fill="#D6493F" fill-opacity="0.55"/>
+<rect x="656.4" y="1333" width="16.2" height="10" rx="2" fill="#D6493F" fill-opacity="0.9"/>
+<line x1="672.6" y1="1338" x2="741.4" y2="1338" stroke="#D6493F" stroke-width="3" stroke-opacity="0.4" stroke-dasharray="2 2"/>
+<text x="677.6" y="1341" font-size="9" fill="#2F2D2A">out 17 Jun 27 · 10000mcg</text>
+<text x="244" y="1359" font-size="10.5" text-anchor="end" fill="#2F2D2A">Cytolin (T3)</text>
+<text x="250" y="1359" font-size="9" fill="#A8A49C">daily</text>
+<line x1="300" y1="1355.5" x2="391.1" y2="1355.5" stroke="#D6493F" stroke-width="1.4" stroke-opacity="0.30"/>
+<rect x="330.4" y="1351" width="60.7" height="10" rx="2" fill="#D6493F" fill-opacity="0.9"/>
+<line x1="391.1" y1="1356" x2="415.4" y2="1356" stroke="#D6493F" stroke-width="3" stroke-opacity="0.4" stroke-dasharray="2 2"/>
+<text x="396.1" y="1359" font-size="9" fill="#2F2D2A">out 12 Sep 26 · 1500mcg</text>
+<text x="244" y="1377" font-size="10.5" text-anchor="end" fill="#2F2D2A">Mirabegron</text>
+<text x="250" y="1377" font-size="9" fill="#A8A49C">daily</text>
+<line x1="300" y1="1373.5" x2="391.1" y2="1373.5" stroke="#D6493F" stroke-width="1.4" stroke-opacity="0.30"/>
+<rect x="330.4" y="1369" width="60.7" height="10" rx="2" fill="#D6493F" fill-opacity="0.9"/>
+<line x1="391.1" y1="1374" x2="415.4" y2="1374" stroke="#D6493F" stroke-width="3" stroke-opacity="0.4" stroke-dasharray="2 2"/>
+<text x="396.1" y="1377" font-size="9" fill="#2F2D2A">out 12 Sep 26 · 3000mg</text>
+<text x="244" y="1395" font-size="10.5" text-anchor="end" fill="#2F2D2A">Clenbuterol</text>
+<text x="250" y="1395" font-size="9" fill="#A8A49C">daily</text>
+<line x1="300" y1="1391.5" x2="381.0" y2="1391.5" stroke="#D6493F" stroke-width="1.4" stroke-opacity="0.30"/>
+<rect x="330.4" y="1387" width="50.6" height="10" rx="2" fill="#D6493F" fill-opacity="0.9"/>
+<line x1="381.0" y1="1392" x2="415.4" y2="1392" stroke="#D6493F" stroke-width="3" stroke-opacity="0.4" stroke-dasharray="2 2"/>
+<text x="386.0" y="1395" font-size="9" fill="#2F2D2A">out 02 Sep 26 · 2000mcg</text>
+<text x="244" y="1413" font-size="10.5" text-anchor="end" fill="#2F2D2A">Ketotifen</text>
+<text x="250" y="1413" font-size="9" fill="#A8A49C">daily</text>
+<line x1="300" y1="1409.5" x2="391.1" y2="1409.5" stroke="#D6493F" stroke-width="1.4" stroke-opacity="0.30"/>
+<rect x="330.4" y="1405" width="60.7" height="10" rx="2" fill="#D6493F" fill-opacity="0.9"/>
+<line x1="391.1" y1="1410" x2="415.4" y2="1410" stroke="#D6493F" stroke-width="3" stroke-opacity="0.4" stroke-dasharray="2 2"/>
+<text x="396.1" y="1413" font-size="9" fill="#2F2D2A">out 12 Sep 26 · 120mg</text>
+<text x="244" y="1431" font-size="10.5" text-anchor="end" fill="#2F2D2A">Methylene Blue</text>
+<text x="250" y="1431" font-size="9" fill="#A8A49C">daily</text>
+<line x1="300" y1="1427.5" x2="872.0" y2="1427.5" stroke="#D6493F" stroke-width="1.4" stroke-opacity="0.30"/>
+<rect x="330.4" y="1423" width="85.0" height="10" rx="2" fill="#D6493F" fill-opacity="0.55"/>
+<rect x="656.4" y="1423" width="85.0" height="10" rx="2" fill="#D6493F" fill-opacity="0.55"/>
+<text x="868.0" y="1431" font-size="9" text-anchor="end" fill="#FFFFFF">covered ≥2 cuts · 25000mg</text>
+<text x="244" y="1449" font-size="10.5" text-anchor="end" fill="#2F2D2A">Cardarine</text>
+<text x="250" y="1449" font-size="9" fill="#A8A49C">daily</text>
+<line x1="300" y1="1445.5" x2="706.0" y2="1445.5" stroke="#D6493F" stroke-width="1.4" stroke-opacity="0.30"/>
+<rect x="330.4" y="1441" width="85.0" height="10" rx="2" fill="#D6493F" fill-opacity="0.55"/>
+<rect x="656.4" y="1441" width="49.6" height="10" rx="2" fill="#D6493F" fill-opacity="0.9"/>
+<line x1="706.0" y1="1446" x2="741.4" y2="1446" stroke="#D6493F" stroke-width="3" stroke-opacity="0.4" stroke-dasharray="2 2"/>
+<text x="711.0" y="1449" font-size="9" fill="#2F2D2A">out 20 Jul 27 · 2000mg</text>
+<text x="244" y="1467" font-size="10.5" text-anchor="end" fill="#2F2D2A">C8 MCT Powder</text>
+<text x="250" y="1467" font-size="9" fill="#A8A49C">intra-WO</text>
+<line x1="300" y1="1463.5" x2="732.3" y2="1463.5" stroke="#D6493F" stroke-width="1.4" stroke-opacity="0.30"/>
+<rect x="330.4" y="1459" width="85.0" height="10" rx="2" fill="#D6493F" fill-opacity="0.55"/>
+<rect x="656.4" y="1459" width="75.9" height="10" rx="2" fill="#D6493F" fill-opacity="0.9"/>
+<line x1="732.3" y1="1464" x2="741.4" y2="1464" stroke="#D6493F" stroke-width="3" stroke-opacity="0.4" stroke-dasharray="2 2"/>
+<text x="737.3" y="1467" font-size="9" fill="#2F2D2A">out 15 Aug 27 · 907g</text>
+<text x="244" y="1485" font-size="10.5" text-anchor="end" fill="#2F2D2A">BHB Salts</text>
+<text x="250" y="1485" font-size="9" fill="#A8A49C">intra-WO</text>
+<line x1="300" y1="1481.5" x2="714.1" y2="1481.5" stroke="#D6493F" stroke-width="1.4" stroke-opacity="0.30"/>
+<rect x="330.4" y="1477" width="85.0" height="10" rx="2" fill="#D6493F" fill-opacity="0.55"/>
+<rect x="656.4" y="1477" width="57.7" height="10" rx="2" fill="#D6493F" fill-opacity="0.9"/>
+<line x1="714.1" y1="1482" x2="741.4" y2="1482" stroke="#D6493F" stroke-width="3" stroke-opacity="0.4" stroke-dasharray="2 2"/>
+<text x="719.1" y="1485" font-size="9" fill="#2F2D2A">out 28 Jul 27 · 442g</text>
+<text x="20" y="1505" font-size="11" font-weight="600" fill="#8A8782" letter-spacing="0.5">SITUATIONAL — as-needed</text>
+<rect x="20" y="1508" width="860" height="18" rx="4" fill="#9A968F" fill-opacity="0.12"/>
+<circle cx="29" cy="1517" r="4" fill="#9A968F"/>
+<text x="40" y="1521" font-size="11.5" font-weight="600" fill="#2F2D2A">Situational (As-Needed)</text>
+<text x="244" y="1544" font-size="10.5" text-anchor="end" fill="#2F2D2A">Astragalus Root</text>
+<text x="250" y="1544" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="1536" width="60.7" height="10" rx="2" fill="#9A968F" fill-opacity="0.30"/>
+<text x="365.7" y="1544" font-size="9" fill="#7A766E">~13 Aug 26 · 66000mg</text>
+<text x="244" y="1562" font-size="10.5" text-anchor="end" fill="#2F2D2A">TUDCA</text>
+<text x="250" y="1562" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="1554" width="98.2" height="10" rx="2" fill="#9A968F" fill-opacity="0.30"/>
+<text x="403.2" y="1562" font-size="9" fill="#7A766E">~19 Sep 26 · 7500mg</text>
+<text x="244" y="1580" font-size="10.5" text-anchor="end" fill="#2F2D2A">Calcium D-Glucarate</text>
+<text x="250" y="1580" font-size="9" fill="#A8A49C">daily</text>
+<rect x="300" y="1572" width="112.4" height="10" rx="2" fill="#9A968F" fill-opacity="0.30"/>
+<text x="417.4" y="1580" font-size="9" fill="#7A766E">~03 Oct 26 · 30000mg</text>
+<text x="244" y="1598" font-size="10.5" text-anchor="end" fill="#2F2D2A">BPC-157</text>
+<text x="250" y="1598" font-size="9" fill="#A8A49C">EOD</text>
+<rect x="300" y="1590" width="30.4" height="10" rx="2" fill="#9A968F" fill-opacity="0.30"/>
+<text x="335.4" y="1598" font-size="9" fill="#7A766E">~14 Jul 26 · 30mg</text>
+<text x="244" y="1616" font-size="10.5" text-anchor="end" fill="#2F2D2A">TB-500</text>
+<text x="250" y="1616" font-size="9" fill="#A8A49C">EOD</text>
+<rect x="300" y="1608" width="30.4" height="10" rx="2" fill="#9A968F" fill-opacity="0.30"/>
+<text x="335.4" y="1616" font-size="9" fill="#7A766E">~14 Jul 26 · 15mg</text>
+<text x="244" y="1634" font-size="10.5" text-anchor="end" fill="#2F2D2A">Trazodone</text>
+<text x="250" y="1634" font-size="9" fill="#A8A49C">occ</text>
+<rect x="300" y="1626" width="99.2" height="10" rx="2" fill="#9A968F" fill-opacity="0.30"/>
+<text x="404.2" y="1634" font-size="9" fill="#7A766E">~20 Sep 26 · 2800mg</text>
+<text x="244" y="1652" font-size="10.5" text-anchor="end" fill="#2F2D2A">Ashwagandha</text>
+<text x="250" y="1652" font-size="9" fill="#A8A49C">occ</text>
+<rect x="300" y="1644" width="160.0" height="10" rx="2" fill="#9A968F" fill-opacity="0.30"/>
+<text x="465.0" y="1652" font-size="9" fill="#7A766E">~19 Nov 26 · 36000mg</text>
+<text x="244" y="1670" font-size="10.5" text-anchor="end" fill="#2F2D2A">Modaheal 200mg</text>
+<text x="250" y="1670" font-size="9" fill="#A8A49C">1–2×/wk</text>
+<rect x="300" y="1662" width="409.0" height="10" rx="2" fill="#9A968F" fill-opacity="0.30"/>
+<text x="714.0" y="1670" font-size="9" fill="#7A766E">~23 Jul 27 · 10000mg</text>
+<text x="244" y="1688" font-size="10.5" text-anchor="end" fill="#2F2D2A">Acarbose</text>
+<text x="250" y="1688" font-size="9" fill="#A8A49C">occ</text>
+<rect x="300" y="1680" width="572.0" height="10" rx="2" fill="#9A968F" fill-opacity="0.30"/>
+<text x="868.0" y="1688" font-size="9" text-anchor="end" fill="#5F5E5A">~30 Mar 31 · 25000mg</text>
+<text x="20" y="1706" font-size="9.5" fill="#9A968F">Groups ordered daily → every-other-day → training. Seasonal = in-cut rate, depletes only in shaded cut columns. Source: os_runway.py</text>
+</svg>

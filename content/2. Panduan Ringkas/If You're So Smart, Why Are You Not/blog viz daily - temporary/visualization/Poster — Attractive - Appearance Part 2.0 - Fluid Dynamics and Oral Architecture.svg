@@ -1,0 +1,251 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" font-family="'Inter','DejaVu Sans',system-ui,-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif">
+<defs>
+<pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse">
+  <circle cx="0" cy="0" r="1.1" fill="#1E2024" opacity="0.05"/></pattern>
+<pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+  <path d="M48,0 L0,0 L0,48" fill="none" stroke="#5E7585" stroke-width="0.5" opacity="0.07"/></pattern>
+<pattern id="hatchT" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+  <rect width="9" height="9" fill="#EBD6C4"/>
+  <line x1="0" y1="0" x2="0" y2="9" stroke="#C2703D" stroke-width="1.1" opacity="0.55"/></pattern>
+<pattern id="hatchTd" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+  <rect width="6" height="6" fill="#E9D2BD"/>
+  <line x1="0" y1="0" x2="0" y2="6" stroke="#C2703D" stroke-width="1.2" opacity="0.7"/></pattern>
+<pattern id="hatchS" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+  <rect width="8" height="8" fill="#DBE2E7"/>
+  <line x1="0" y1="0" x2="0" y2="8" stroke="#5E7585" stroke-width="1" opacity="0.5"/></pattern>
+<marker id="aT" markerWidth="11" markerHeight="11" refX="7.5" refY="5" orient="auto"><path d="M1,1 L9.5,5 L1,9 z" fill="#C2703D"/></marker>
+<marker id="aG" markerWidth="11" markerHeight="11" refX="7.5" refY="5" orient="auto"><path d="M1,1 L9.5,5 L1,9 z" fill="#1E2024"/></marker>
+<marker id="aS" markerWidth="11" markerHeight="11" refX="7.5" refY="5" orient="auto"><path d="M1,1 L9.5,5 L1,9 z" fill="#5E7585"/></marker>
+</defs>
+
+<rect width="1200" height="1500" fill="#F4F1EA"/>
+<rect width="1200" height="1500" fill="url(#grid)"/>
+<rect width="1200" height="1500" fill="url(#dots)"/>
+<rect x="28" y="28" width="1144" height="1444" fill="none" stroke="#1E2024" stroke-width="1" opacity="0.35"/>
+<line x1="14" y1="28" x2="42" y2="28" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="28" y1="14" x2="28" y2="42" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="1158" y1="28" x2="1186" y2="28" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="1172" y1="14" x2="1172" y2="42" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="14" y1="1472" x2="42" y2="1472" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="28" y1="1458" x2="28" y2="1486" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="1158" y1="1472" x2="1186" y2="1472" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="1172" y1="1458" x2="1172" y2="1486" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+
+<text x="60" y="92" font-size="13" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="3">APPEARANCE / DRAWDOWN SCHEMATIC — SHEET A2.0</text>
+<text x="60" y="150" font-size="42" font-weight="700" fill="#1E2024" letter-spacing="1.5">SHARPEN IN 48 HOURS — NOT 48 DAYS.</text>
+<line x1="60" y1="172" x2="1140" y2="172" stroke="#1E2024" stroke-width="1.4"/>
+<text x="60" y="196" font-size="12.5" fill="#1E2024" opacity="0.75" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="1">Part 2 of 7 · Appearance · the acute layer</text>
+<text x="1140" y="196" text-anchor="end" font-size="12.5" fill="#1E2024" opacity="0.6" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">the face has a drain — and the drain has a timer</text>
+
+<text x="804" y="252" font-size="11" fill="#1E2024" opacity="0.6" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="2">DIAGNOSE THE TIMESCALE FIRST</text>
+<rect x="804" y="262" width="344" height="40" fill="url(#hatchTd)" stroke="#C2703D" stroke-width="1.8"/>
+<text x="818" y="287" font-size="14" font-weight="700" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">ACUTE · hours–days</text>
+<text x="1136" y="287" text-anchor="end" font-size="10.5" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700">&#9668; THIS SHEET</text>
+<rect x="804" y="306" width="344" height="40" fill="#E4E0D8" stroke="#9A958C" stroke-width="1.4"/>
+<text x="818" y="331" font-size="14" font-weight="700" fill="#9A958C" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">CHRONIC · months–years</text>
+<text x="1136" y="331" text-anchor="end" font-size="10" fill="#9A958C" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">built elsewhere · Pt 1.1</text>
+<text x="976" y="366" text-anchor="middle" font-size="11" fill="#1E2024" opacity="0.8" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">puffy + lean = ACUTE   ·   soft + not-lean = chronic</text>
+
+<text x="150" y="280" text-anchor="middle" font-size="12.5" fill="#C2703D" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="2">48-HOUR DRAWDOWN</text>
+<text x="150" y="298" text-anchor="middle" font-size="10" fill="#1E2024" opacity="0.6" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">the clock that drives the system</text>
+<line x1="100" y1="312" x2="100" y2="1066" stroke="#1E2024" stroke-width="2"/>
+<polygon points="92,1062 108,1062 100,1082" fill="#C2703D"/>
+<g font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">
+<circle cx="100" cy="312" r="6" fill="#F4F1EA" stroke="#C2703D" stroke-width="1.8"/>
+<text x="92" y="305" text-anchor="end" font-size="10" fill="#C2703D" font-weight="700">T-48h</text>
+<text x="116" y="316" font-size="10.5" fill="#1E2024">last salty meal</text>
+<circle cx="100" cy="420" r="6" fill="#F4F1EA" stroke="#C2703D" stroke-width="1.8"/>
+<text x="92" y="413" text-anchor="end" font-size="10" fill="#C2703D" font-weight="700">T-36h</text>
+<text x="116" y="424" font-size="10.5" fill="#1E2024">coconut load · K⁺</text>
+<circle cx="100" cy="528" r="6" fill="#F4F1EA" stroke="#C2703D" stroke-width="1.8"/>
+<text x="92" y="521" text-anchor="end" font-size="10" fill="#C2703D" font-weight="700">T-30h</text>
+<text x="116" y="532" font-size="10.5" fill="#1E2024">magnesium</text>
+<circle cx="100" cy="636" r="6" fill="#F4F1EA" stroke="#C2703D" stroke-width="1.8"/>
+<text x="92" y="629" text-anchor="end" font-size="10" fill="#C2703D" font-weight="700">T-24h</text>
+<text x="116" y="640" font-size="10.5" fill="#1E2024">sleep · kidneys work</text>
+<circle cx="100" cy="744" r="6" fill="#F4F1EA" stroke="#C2703D" stroke-width="1.8"/>
+<text x="92" y="737" text-anchor="end" font-size="10" fill="#C2703D" font-weight="700">T-12h</text>
+<text x="116" y="748" font-size="10.5" fill="#1E2024">stop fluids</text>
+<circle cx="100" cy="852" r="6" fill="#F4F1EA" stroke="#C2703D" stroke-width="1.8"/>
+<text x="92" y="845" text-anchor="end" font-size="10" fill="#C2703D" font-weight="700">T-6h</text>
+<text x="116" y="856" font-size="10.5" fill="#1E2024">sauna → cold</text>
+<circle cx="100" cy="960" r="6" fill="#F4F1EA" stroke="#C2703D" stroke-width="1.8"/>
+<text x="92" y="953" text-anchor="end" font-size="10" fill="#C2703D" font-weight="700">T-1h</text>
+<text x="116" y="964" font-size="10.5" fill="#1E2024">5-min lymph sweep</text>
+<circle cx="100" cy="1066" r="8" fill="#C2703D"/>
+<text x="92" y="1052" text-anchor="end" font-size="10.5" fill="#C2703D" font-weight="700">T-0</text>
+<text x="116" y="1062" font-size="11" fill="#1E2024" font-weight="700">walk in.</text>
+<text x="116" y="1078" font-size="9.5" fill="#C2703D">sharpest in 48h</text>
+</g>
+<text x="60" y="1132" font-size="10.5" fill="#1E2024" opacity="0.7" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">run the full stack for</text>
+<text x="60" y="1148" font-size="10.5" fill="#1E2024" opacity="0.7" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">events that justify it —</text>
+<text x="60" y="1164" font-size="10.5" fill="#C2703D" opacity="0.95" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700">not on a Tuesday.</text>
+
+<text x="430" y="246" font-size="11" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="2">SECTION A–A · HEAD &amp; NECK · acute fluid control</text>
+
+<path d="M548,300 C636,302 700,332 718,392 L713,414 L774,448 L732,474 L746,489 L726,508 L744,524 L726,543 C730,566 726,584 712,596 C680,614 642,616 612,610 C648,622 672,628 688,640 C700,720 672,900 666,1004 L664,1058 L476,1058 C474,940 478,800 488,668 C470,560 432,512 432,470 C430,392 470,330 548,300 Z" fill="#EFEAE0" stroke="#1E2024" stroke-width="2.4"/>
+
+<ellipse cx="690" cy="418" rx="15" ry="6.5" fill="none" stroke="#1E2024" stroke-width="1.3"/>
+<circle cx="690" cy="418" r="2.6" fill="#1E2024"/>
+
+<path d="M652,446 C702,442 726,458 722,506 C718,552 690,584 648,592 C616,588 600,562 602,520 C604,480 624,452 652,446 Z" fill="url(#hatchTd)" stroke="#C2703D" stroke-width="1.5" stroke-dasharray="5 3"/>
+<line x1="722" y1="470" x2="792" y2="438" stroke="#C2703D" stroke-width="1"/>
+<circle cx="722" cy="470" r="2.6" fill="#C2703D"/>
+<text x="796" y="430" font-size="11.5" fill="#1E2024" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">INTERSTITIAL</text>
+<text x="796" y="445" font-size="11.5" fill="#1E2024" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">RESERVOIR</text>
+<text x="796" y="460" font-size="10" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">= the puff (acute)</text>
+
+<g stroke="#C2703D" stroke-width="3.4" fill="none" marker-end="url(#aT)">
+<path d="M690,486 C660,520 636,548 622,572"/>
+<path d="M704,512 C676,548 652,580 636,604"/>
+<path d="M712,544 C682,584 652,606 624,624"/>
+</g>
+<g>
+<line x1="648" y1="566" x2="668" y2="506" stroke="#1E2024" stroke-width="2.4" marker-end="url(#aG)" opacity="0.85"/>
+<line x1="640" y1="540" x2="680" y2="524" stroke="#1E2024" stroke-width="3"/>
+<text x="690" y="556" font-size="11" fill="#1E2024" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">NEVER UP.</text>
+</g>
+
+<g fill="none" stroke="#C2703D" stroke-width="3.2">
+<path d="M626,588 C600,706 580,860 560,1012 L552,1044"/>
+<path d="M664,604 C648,748 626,902 600,1018 L592,1044"/>
+</g>
+<g stroke="#C2703D" stroke-width="2.6" fill="none">
+<polyline points="585,720 595,734 605,720"/>
+<polyline points="571,880 581,894 591,880"/>
+<polyline points="618,760 628,774 638,760"/>
+<polyline points="604,920 614,934 624,920"/>
+</g>
+
+<text x="522" y="884" text-anchor="middle" font-size="13" fill="#C2703D" opacity="0.6" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="2" transform="rotate(-90 522 884)">DOWN THE NECK · NEVER UP</text>
+
+<rect x="470" y="1044" width="220" height="46" fill="url(#hatchT)" stroke="#C2703D" stroke-width="2.2"/>
+<text x="580" y="1063" text-anchor="middle" font-size="12" fill="#1E2024" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">SUPRACLAVICULAR DOCK</text>
+<text x="580" y="1080" text-anchor="middle" font-size="9.5" fill="#1E2024" opacity="0.8" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">open first · close last  →  subclavian vein</text>
+<polygon points="566,1092 594,1092 580,1112" fill="#C2703D"/>
+<text x="600" y="1108" font-size="10" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700">OUT</text>
+
+<g>
+<rect x="262" y="388" width="158" height="228" fill="#FBF8F1" stroke="#C2703D" stroke-width="1.8"/>
+<text x="272" y="408" font-size="12.5" fill="#1E2024" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">A · ELECTROLYTE</text>
+<text x="272" y="423" font-size="12.5" fill="#1E2024" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">    FLUSH</text>
+<text x="272" y="439" font-size="9.5" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700">MASTER VALVE · 70–80%</text>
+<g font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-size="10.5" fill="#1E2024">
+<text x="272" y="466">Na⁺</text><line x1="300" y1="462" x2="392" y2="462" stroke="#C2703D" stroke-width="1.4"/><circle cx="312" cy="462" r="4.5" fill="#C2703D"/><text x="400" y="466" text-anchor="end" fill="#C2703D" font-weight="700">↓</text>
+<text x="272" y="490">K⁺</text><line x1="300" y1="486" x2="392" y2="486" stroke="#C2703D" stroke-width="1.4"/><circle cx="382" cy="486" r="4.5" fill="#C2703D"/><text x="400" y="490" text-anchor="end" fill="#C2703D" font-weight="700">↑</text>
+<text x="272" y="514">Mg²⁺</text><line x1="300" y1="510" x2="392" y2="510" stroke="#C2703D" stroke-width="1.4"/><circle cx="378" cy="510" r="4.5" fill="#C2703D"/><text x="400" y="514" text-anchor="end" fill="#C2703D" font-weight="700">↑</text>
+</g>
+<text x="272" y="531" font-size="9" fill="#1E2024" opacity="0.7" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">pull water OUT of the reservoir</text>
+<line x1="272" y1="542" x2="410" y2="542" stroke="#C2703D" stroke-width="0.7" opacity="0.4"/>
+<circle cx="294" cy="578" r="20" fill="#FBF8F1" stroke="#C2703D" stroke-width="1.8"/>
+<path d="M276,573 A20,20 0 0 0 312,573 Z" fill="url(#hatchTd)" opacity="0.9"/>
+<line x1="274" y1="573" x2="314" y2="573" stroke="#C2703D" stroke-width="1.2"/>
+<text x="324" y="566" font-size="10" fill="#1E2024" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">air kelapa muda</text>
+<text x="324" y="580" font-size="9" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">~600 mg K⁺ / 330 ml</text>
+<text x="324" y="594" font-size="8.5" fill="#1E2024" opacity="0.6" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">the Malaysian advantage</text>
+</g>
+<line x1="420" y1="476" x2="600" y2="500" stroke="#C2703D" stroke-width="1.6" marker-end="url(#aT)"/>
+
+<g>
+<rect x="262" y="632" width="158" height="116" fill="#FBF8F1" stroke="#C2703D" stroke-width="1.8"/>
+<text x="272" y="652" font-size="12.5" fill="#1E2024" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">B · DIURETIC +</text>
+<text x="272" y="667" font-size="12.5" fill="#1E2024" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">    THERMAL</text>
+<text x="272" y="683" font-size="9.5" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700">RELIEF VALVE · 20–30%</text>
+<path d="M274,704 q6,-9 12,0 q6,9 12,0 q6,-9 12,0" fill="none" stroke="#C2703D" stroke-width="1.8"/>
+<line x1="310" y1="700" x2="326" y2="700" stroke="#1E2024" stroke-width="1.4" marker-end="url(#aG)"/>
+<text x="332" y="704" font-size="9.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">cold</text>
+<text x="274" y="722" font-size="9" fill="#1E2024" opacity="0.75" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">sauna → cold = tighten envelope</text>
+<text x="274" y="740" font-size="9.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">dropper: dandelion · hibiscus</text>
+</g>
+<line x1="420" y1="660" x2="600" y2="556" stroke="#C2703D" stroke-width="1.6" marker-end="url(#aT)"/>
+
+<g>
+<rect x="262" y="764" width="158" height="92" fill="#FBF1EF" stroke="#D9483B" stroke-width="2.2"/>
+<circle cx="290" cy="800" r="14" fill="none" stroke="#D9483B" stroke-width="2.2"/>
+<line x1="280" y1="790" x2="300" y2="810" stroke="#D9483B" stroke-width="2.2"/>
+<rect x="283" y="810" width="14" height="11" rx="2" fill="none" stroke="#D9483B" stroke-width="2"/>
+<path d="M286,810 v-4 a4,4 0 0 1 8,0 v4" fill="none" stroke="#D9483B" stroke-width="1.6"/>
+<text x="314" y="791" font-size="11" fill="#D9483B" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">PHARMA</text>
+<text x="314" y="805" font-size="11" fill="#D9483B" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">DIURETICS</text>
+<text x="314" y="819" font-size="11" fill="#D9483B" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">— SEALED.</text>
+<text x="272" y="840" font-size="8.6" fill="#D9483B" opacity="0.95" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">the cosmetic upside is never worth</text>
+<text x="272" y="851" font-size="8.6" fill="#D9483B" opacity="0.95" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">the cardiac downside · where lifters die</text>
+</g>
+
+<g>
+<text x="262" y="896" font-size="12.5" fill="#1E2024" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">C · LYMPHATIC SWEEP</text>
+<text x="262" y="912" font-size="9.5" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700">THE MANUAL PUMP</text>
+<text x="262" y="950" font-size="20" fill="#1E2024" font-weight="700">LYMPH HAS NO PUMP —</text>
+<text x="262" y="976" font-size="20" fill="#C2703D" font-weight="700">YOU ARE THE PUMP.</text>
+<text x="262" y="1002" font-size="10.5" fill="#1E2024" opacity="0.8" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">centre → out → down · 5 min · light pressure</text>
+<text x="262" y="1018" font-size="10.5" fill="#1E2024" opacity="0.8" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">always toward the collarbone dock</text>
+<line x1="448" y1="952" x2="616" y2="602" stroke="#C2703D" stroke-width="1.2" stroke-dasharray="3 4" opacity="0.7" marker-end="url(#aT)"/>
+</g>
+
+<g>
+<rect x="808" y="490" width="156" height="214" fill="url(#hatchS)" stroke="#5E7585" stroke-width="2"/>
+<rect x="808" y="490" width="156" height="34" fill="#5E7585"/>
+<text x="886" y="512" text-anchor="middle" font-size="12.5" fill="#F4F1EA" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">D · ORAL</text>
+<text x="886" y="540" text-anchor="middle" font-size="9.5" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700">THE SERVICE PANEL</text>
+<text x="886" y="556" text-anchor="middle" font-size="8.5" fill="#1E2024" opacity="0.7" font-style="italic">closest part of your face to anyone</text>
+<line x1="820" y1="568" x2="952" y2="568" stroke="#5E7585" stroke-width="0.8" opacity="0.5"/>
+<text x="820" y="586" font-size="10.5" fill="#1E2024" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">BASELINE</text>
+<text x="820" y="600" font-size="9" fill="#1E2024" opacity="0.85" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">scale every 6 mo · highest-ROI</text>
+<line x1="820" y1="610" x2="952" y2="610" stroke="#5E7585" stroke-width="0.8" opacity="0.5"/>
+<text x="820" y="628" font-size="10.5" fill="#1E2024" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">DAILY</text>
+<text x="820" y="642" font-size="9" fill="#1E2024" opacity="0.85" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">electric brush · water flosser</text>
+<text x="820" y="654" font-size="9" fill="#1E2024" opacity="0.85" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">tongue scraper</text>
+<line x1="820" y1="664" x2="952" y2="664" stroke="#5E7585" stroke-width="0.8" opacity="0.5"/>
+<text x="820" y="682" font-size="10.5" fill="#1E2024" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">STRUCTURAL</text>
+<text x="820" y="696" font-size="9" fill="#1E2024" opacity="0.85" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">scale → whiten → align</text>
+</g>
+<line x1="808" y1="560" x2="752" y2="514" stroke="#5E7585" stroke-width="1.6" marker-end="url(#aS)"/>
+<circle cx="744" cy="510" r="3" fill="#5E7585"/>
+
+<text x="1058" y="412" text-anchor="middle" font-size="12.5" fill="#C2703D" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="2">READOUTS</text>
+<line x1="980" y1="424" x2="1136" y2="424" stroke="#1E2024" stroke-width="1" opacity="0.4"/>
+
+<g>
+<path d="M1018,520 A46,46 0 1 1 1098,520" fill="none" stroke="#1E2024" stroke-width="2"/>
+<line x1="1058" y1="466" x2="1058" y2="478" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="1058" y1="512" x2="1086" y2="486" stroke="#C2703D" stroke-width="3"/>
+<circle cx="1058" cy="512" r="4.5" fill="#C2703D"/>
+<text x="1058" y="548" text-anchor="middle" font-size="11.5" fill="#1E2024" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">AM / PM FACE Δ</text>
+<text x="1058" y="563" text-anchor="middle" font-size="9" fill="#1E2024" opacity="0.7" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">morning puff vs night</text>
+</g>
+
+<g>
+<path d="M1018,710 A46,46 0 1 1 1098,710" fill="none" stroke="#1E2024" stroke-width="2"/>
+<line x1="1058" y1="656" x2="1058" y2="668" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="1058" y1="702" x2="1030" y2="678" stroke="#C2703D" stroke-width="3"/>
+<circle cx="1058" cy="702" r="4.5" fill="#C2703D"/>
+<text x="1058" y="738" text-anchor="middle" font-size="11.5" fill="#1E2024" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">WAKING WEIGHT Δ</text>
+<text x="1058" y="753" text-anchor="middle" font-size="9" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">2+ kg overnight = Na⁺ event</text>
+</g>
+
+<g>
+<path d="M1018,900 A46,46 0 1 1 1098,900" fill="none" stroke="#1E2024" stroke-width="2"/>
+<line x1="1058" y1="846" x2="1058" y2="858" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="1058" y1="892" x2="1084" y2="876" stroke="#5E7585" stroke-width="3"/>
+<circle cx="1058" cy="892" r="4.5" fill="#5E7585"/>
+<text x="1058" y="928" text-anchor="middle" font-size="11.5" fill="#1E2024" font-weight="700" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">BLEEDING ON PROBE</text>
+<text x="1058" y="943" text-anchor="middle" font-size="9" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">BOP &lt;10% = healthy gum</text>
+</g>
+<line x1="980" y1="980" x2="1136" y2="980" stroke="#1E2024" stroke-width="1" opacity="0.3"/>
+<text x="1058" y="1004" text-anchor="middle" font-size="9.5" fill="#1E2024" opacity="0.65" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">measure it · or you're guessing</text>
+
+<text x="600" y="1168" text-anchor="middle" font-size="11" fill="#1E2024" opacity="0.6" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="2">THE COLOUR IS THE ARGUMENT</text>
+<g font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-size="11">
+<rect x="318" y="1192" width="16" height="16" fill="url(#hatchTd)" stroke="#C2703D" stroke-width="1.3"/>
+<text x="342" y="1205" fill="#1E2024">warm = fast reversible fluid work</text>
+<rect x="640" y="1192" width="16" height="16" fill="url(#hatchS)" stroke="#5E7585" stroke-width="1.3"/>
+<text x="664" y="1205" fill="#1E2024">cool = slow structural oral work</text>
+<rect x="318" y="1222" width="16" height="16" fill="#FBF1EF" stroke="#D9483B" stroke-width="1.6"/>
+<text x="342" y="1235" fill="#1E2024">red (used once) = the one thing that can kill you — sealed</text>
+</g>
+
+<line x1="60" y1="1300" x2="1140" y2="1300" stroke="#1E2024" stroke-width="1.4"/>
+<text x="600" y="1372" text-anchor="middle" font-size="46" font-weight="700" fill="#1E2024" letter-spacing="2">DRAIN THE FACE — DON’T DRENCH IT.</text>
+<text x="600" y="1410" text-anchor="middle" font-size="13.5" fill="#1E2024" opacity="0.78" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace">sodium down · potassium &amp; magnesium up · lymph down-and-out · mouth serviced · run it sparingly.</text>
+<text x="600" y="1444" text-anchor="middle" font-size="11.5" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="1">a puffy face on a lean person is plumbing — solved in hours, not seasons.</text>
+</svg>

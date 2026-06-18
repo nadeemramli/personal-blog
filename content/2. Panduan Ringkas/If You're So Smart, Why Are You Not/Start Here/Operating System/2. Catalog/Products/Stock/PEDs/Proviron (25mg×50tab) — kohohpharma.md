@@ -5,6 +5,7 @@ product_id: "proviron-25mgx50tab-kohohpharma"
 compound: "Proviron"
 aliases:
   - "Proviron"
+  - "Provilin"
 name: "Proviron"
 brand: "kohohpharma"
 vendor: "kohohpharma"
@@ -21,7 +22,7 @@ use: "Cycling"
 protocols:
   - "[[Endocrine Design Rules]]"
   - "[[Bulk Protocol]]"
-  - "[[Lean Bulk Protocol]]"
+  - "[[Recomposition & Lean Bulk Protocol|Lean Bulk]]"
 active: true
 count_in_total: true
 cycle_weeks: 20
@@ -34,7 +35,9 @@ list_price:
 promo_price: 
 current_phase: "early"
 stock_on_hand: 1875
+stock_as_of: 2026-06-08
 daily_dose: 25
+runout_forecast: 2026-08-22
 product_tags:
   - On-cycle only
   - Hormonal support
@@ -60,6 +63,18 @@ notes: "Vendor options: current [[kohohpharma]] RM168/50×25mg (~RM0.134/mg, che
 |---|---|---|---|
 | early | 7 | RM3.36 | RM470.40 |
 | medium | 14 | RM6.72 | RM1,881.60 |
+
+
+## Purchase Log
+
+> [!note] Stock is currently an aggregate balance, not a lot-level FIFO ledger. PO rows prove acquisition; exact surviving lots require a physical count or depletion entry.
+
+| Date | Event | PO / source | Change or balance | Usage at update | Note |
+|---|---|---|---|---|---|
+| 2026-06-08 | Stock update | Manual/model snapshot | 1875 mg on hand | 25 mg/ED | Latest recorded aggregate balance; forecast empty 2026-08-22 |
+| 2026-04-22 | Purchase | [[PO 2026-04-22 — kohohpharma]] | +1250 mg purchased | - | Provilin; line total 168.00 |
+
+> Append future events newest-first: `Purchase`, `Stock check`, `Usage change`, or `Depletion`. Every stock check must also update `stock_on_hand` and `stock_as_of`.
 
 ## Links
 - Schedule: [[ED — Every Day]]

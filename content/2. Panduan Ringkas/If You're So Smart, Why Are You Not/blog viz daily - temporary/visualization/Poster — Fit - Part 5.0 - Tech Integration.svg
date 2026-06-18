@@ -1,0 +1,291 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1320" viewBox="0 0 1920 1320" font-family="Inter,'Helvetica Neue','DejaVu Sans',Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0C1118"/><stop offset="1" stop-color="#0A0D12"/></linearGradient>
+<pattern id="vgrid" width="80" height="80" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="80" stroke="#10161E" stroke-width="1" opacity="0.55"/></pattern>
+<pattern id="hgrid" width="80" height="80" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="80" y2="0" stroke="#10161E" stroke-width="1" opacity="0.35"/></pattern>
+<pattern id="amhatch" width="11" height="11" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="11" stroke="#E3B23C" stroke-width="2" opacity="0.5"/></pattern>
+<pattern id="enhatch" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="10" stroke="#5C7488" stroke-width="2" opacity="0.55"/></pattern>
+<radialGradient id="grGlow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#5FBE74" stop-opacity="0.5"/><stop offset="1" stop-color="#5FBE74" stop-opacity="0"/></radialGradient>
+<marker id="arrSlate" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#6A7585"/></marker>
+<marker id="arrLite" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7.5" markerHeight="7.5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#AEB9C6"/></marker>
+<marker id="arrGr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5FBE74"/></marker>
+<marker id="arrAm" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#E3B23C"/></marker>
+</defs>
+
+<rect x="0" y="0" width="1920" height="1320" fill="url(#bg)"/>
+<rect x="0" y="0" width="1920" height="1320" fill="url(#vgrid)"/>
+<rect x="0" y="0" width="1920" height="1320" fill="url(#hgrid)"/>
+
+<!-- ================= HEADER ================= -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<line x1="40" y1="42" x2="1880" y2="42" stroke="#46586A" stroke-width="1"/>
+<line x1="40" y1="42" x2="40" y2="54" stroke="#46586A"/>
+<line x1="1880" y1="42" x2="1880" y2="54" stroke="#46586A"/>
+<text x="40" y="74" font-size="13" fill="#8C99A8" letter-spacing="2">FIT · AESTHETIC &amp; STRENGTH · PART 5.0 — TECH INTEGRATION · CLOSING THE LOOP</text>
+<text x="1880" y="74" font-size="13" fill="#6A7585" letter-spacing="2" text-anchor="end">INSTRUMENT № F-5.0 · CALIBRATION &amp; BENCHMARKING BENCH</text>
+
+<text x="40" y="142" font-family="Inter,'Helvetica Neue','DejaVu Sans',Arial,sans-serif" font-size="60" font-weight="600" fill="#E6ECF2" letter-spacing="0.5">CLOSE THE LOOP.</text>
+<text x="40" y="176" font-size="15" fill="#8C99A8">your phone already logs every set — turn the raw log into a closed diagnostic instrument. AI runs the read; you act on the output.</text>
+
+<text x="1880" y="110" font-size="12.5" fill="#5FBE74" text-anchor="end" letter-spacing="1">● WoW Δ — gap closing</text>
+<text x="1880" y="132" font-size="12.5" fill="#9AA7B5" text-anchor="end" letter-spacing="1">NAT-ELITE · ENH-ELITE — two reference lines</text>
+<text x="1880" y="154" font-size="12.5" fill="#E3B23C" text-anchor="end" letter-spacing="1">✕ rejected at QC — dirty data never benchmarked</text>
+<line x1="40" y1="196" x2="1880" y2="196" stroke="#46586A" stroke-width="1"/>
+</g>
+
+<!-- ================= THESIS CHIP ================= -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="40" y="210" width="1840" height="46" rx="8" fill="#0E141C" stroke="#2C3A48" stroke-width="1"/>
+<text x="60" y="239" font-size="14.5" letter-spacing="0.5"><tspan fill="#E6ECF2" font-weight="600">RAW LOG</tspan><tspan fill="#6A7585">  →  </tspan><tspan fill="#E6ECF2" font-weight="600">QC</tspan><tspan fill="#6A7585">  →  </tspan><tspan fill="#E6ECF2" font-weight="600">BENCHMARK</tspan><tspan fill="#6A7585">  →  </tspan><tspan fill="#E6ECF2" font-weight="600">GAP</tspan><tspan fill="#6A7585">  →  </tspan><tspan fill="#E6ECF2" font-weight="600">BACK INTO THE PROGRAM</tspan></text>
+<text x="1860" y="239" font-size="13" fill="#8C99A8" text-anchor="end">Clean the data before you trust it.  Read the GAP, not the number.</text>
+</g>
+
+<!-- ================= STAGE BAND LABELS ================= -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="12" letter-spacing="1.4">
+<text x="190" y="286" fill="#6A7585" text-anchor="middle">SIGNAL IN</text>
+<text x="558" y="286" fill="#E3B23C" text-anchor="middle">CALIBRATION GATE</text>
+<text x="926" y="286" fill="#9AA7B5" text-anchor="middle">MEASUREMENT CORE</text>
+<text x="1494" y="286" fill="#E6ECF2" text-anchor="middle">THE READING — HERO OUTPUT</text>
+</g>
+
+<!-- ================= STAGE 1 · RAW INPUT ================= -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="40" y="298" width="300" height="558" rx="8" fill="#0E141C" stroke="#2C3A48" stroke-width="1"/>
+<text x="58" y="330" font-size="14" fill="#9AA7B5" font-weight="600" letter-spacing="0.8">STAGE 1 · RAW INPUT</text>
+<text x="58" y="350" font-size="11" fill="#5C6776">YOUR LOG — Hevy export (raw signal)</text>
+<line x1="58" y1="362" x2="322" y2="362" stroke="#222B35"/>
+<rect x="58" y="378" width="264" height="280" rx="6" fill="#11171F" stroke="#222B35" stroke-width="1"/>
+<text x="72" y="404" font-size="10.5" fill="#7B8593">2026-06-02 · HACK SQUAT · 140×8</text>
+<text x="72" y="436" font-size="10.5" fill="#AEB9C6">06-04 · BENCH · 100×5 <tspan fill="#E3B23C">(half-rep?)</tspan></text>
+<text x="72" y="468" font-size="10.5" fill="#AEB9C6">06-06 · LEG PRESS · 400×10 <tspan fill="#E3B23C">(sled?)</tspan></text>
+<text x="72" y="500" font-size="10.5" fill="#7B8593">06-07 · OHP · 50×8</text>
+<text x="72" y="532" font-size="10.5" fill="#7B8593">06-08 · ROW · 80×10</text>
+<text x="72" y="564" font-size="10.5" fill="#7B8593">06-09 · CURL · 22×12</text>
+<text x="72" y="596" font-size="10.5" fill="#AEB9C6">06-09 · BENCH · 102×5 <tspan fill="#E3B23C">(BW?)</tspan></text>
+<text x="72" y="628" font-size="10.5" fill="#7B8593">06-11 · PULLDOWN · 70×10</text>
+<text x="58" y="690" font-size="11.5" fill="#8C99A8">Unverified signal.</text>
+<text x="58" y="710" font-size="11.5" fill="#6A7585">Do NOT benchmark yet.</text>
+</g>
+
+<!-- connector 1 -> 2 -->
+<line x1="344" y1="560" x2="368" y2="560" stroke="#6A7585" stroke-width="2" marker-end="url(#arrSlate)"/>
+
+<!-- ================= STAGE 2 · QC GATE ================= -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="376" y="298" width="364" height="558" rx="8" fill="#0E141C" stroke="#2C3A48" stroke-width="1"/>
+<text x="394" y="330" font-size="14" fill="#E3B23C" font-weight="600" letter-spacing="0.8">STAGE 2 · QC GATE</text>
+<text x="394" y="350" font-size="11" fill="#5C6776">STEP 1 — quality-control the numbers first</text>
+<line x1="394" y1="362" x2="722" y2="362" stroke="#222B35"/>
+
+<!-- gate / sieve -->
+<rect x="394" y="384" width="328" height="92" rx="6" fill="#11171F" stroke="#33414F" stroke-width="1"/>
+<text x="408" y="408" font-size="11" fill="#9AA7B5" letter-spacing="1">⊟ FILTER · CALIBRATION SIEVE</text>
+<line x1="408" y1="438" x2="708" y2="438" stroke="#3A4654" stroke-width="1" stroke-dasharray="3 6"/>
+<line x1="430" y1="430" x2="430" y2="446" stroke="#46586A"/>
+<line x1="478" y1="430" x2="478" y2="446" stroke="#46586A"/>
+<line x1="526" y1="430" x2="526" y2="446" stroke="#46586A"/>
+<line x1="574" y1="430" x2="574" y2="446" stroke="#46586A"/>
+<line x1="622" y1="430" x2="622" y2="446" stroke="#46586A"/>
+<line x1="670" y1="430" x2="670" y2="446" stroke="#46586A"/>
+<text x="408" y="464" font-size="10" fill="#5C6776">clean samples pass through  →  measurement core</text>
+
+<!-- divert arrow down to rejected bin -->
+<path d="M558 476 L558 506" stroke="#E3B23C" stroke-width="2" marker-end="url(#arrAm)" fill="none"/>
+<text x="572" y="498" font-size="10" fill="#E3B23C">divert</text>
+
+<!-- rejected bin -->
+<rect x="394" y="512" width="328" height="248" rx="6" fill="#16130C" stroke="#5A4A22" stroke-width="1"/>
+<text x="408" y="536" font-size="11.5" fill="#E3B23C" letter-spacing="1" font-weight="600">REJECTED — do not trust</text>
+<g font-size="11" fill="#E3B23C">
+<text x="408" y="566">✕ EGO SET — 0 RIR / form broke</text>
+<text x="408" y="594">✕ HALF-REP ROM</text>
+<text x="408" y="622">✕ UNIT / TYPO ERROR</text>
+<text x="408" y="650">✕ MISSING BODYWEIGHT</text>
+<text x="408" y="678">✕ LOADED-SLED CONFUSION</text>
+</g>
+<line x1="408" y1="698" x2="708" y2="698" stroke="#3A3320"/>
+<text x="408" y="720" font-size="10.5" fill="#B79248">Dirty data → confident nonsense.</text>
+<text x="408" y="738" font-size="10.5" fill="#8A7038">The instrument calibrates before it reads. Step one, always.</text>
+</g>
+
+<!-- connector 2 -> 3 (clean stream) -->
+<line x1="744" y1="438" x2="772" y2="438" stroke="#6A7585" stroke-width="2" marker-end="url(#arrSlate)"/>
+<text x="758" y="428" font-size="9.5" fill="#6A7585" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">clean</text>
+
+<!-- ================= STAGE 3 · BENCHMARK ENGINE ================= -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="780" y="298" width="296" height="558" rx="8" fill="#0E141C" stroke="#2C3A48" stroke-width="1"/>
+<text x="798" y="330" font-size="14" fill="#9AA7B5" font-weight="600" letter-spacing="0.8">STAGE 3 · BENCHMARK ENGINE</text>
+<text x="798" y="350" font-size="11" fill="#5C6776">STEP 2 — read vs TWO reference lines</text>
+<line x1="798" y1="362" x2="1058" y2="362" stroke="#222B35"/>
+
+<rect x="798" y="378" width="260" height="34" rx="5" fill="#11171F" stroke="#33414F"/>
+<circle cx="816" cy="395" r="4" fill="#9AA7B5"/>
+<text x="830" y="399" font-size="11" fill="#AEB9C6" letter-spacing="1">AI · DIAGNOSTIC ENGINE</text>
+
+<!-- reference ruler -->
+<text x="798" y="442" font-size="10.5" fill="#6A7585">CALIBRATED REFERENCE SCALE</text>
+<line x1="816" y1="458" x2="816" y2="586" stroke="#3A4654" stroke-width="1.5"/>
+<text x="800" y="586" font-size="9" fill="#5C6776" text-anchor="end" transform="rotate(-90 800 586)"></text>
+<!-- ENH tick (top) -->
+<line x1="808" y1="470" x2="1040" y2="470" stroke="#7E93A6" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="1040" y="466" font-size="10.5" fill="#AEB9C6" text-anchor="end">ENH-ELITE</text>
+<!-- NAT tick -->
+<line x1="808" y1="520" x2="1040" y2="520" stroke="#7E93A6" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="1040" y="516" font-size="10.5" fill="#AEB9C6" text-anchor="end">NAT-ELITE</text>
+<!-- you marker -->
+<circle cx="816" cy="566" r="5" fill="#E6ECF2"/>
+<text x="828" y="570" font-size="10.5" fill="#E6ECF2">YOU — current</text>
+<text x="836" y="498" font-size="9.5" fill="#7E93A6">gap → ENH</text>
+<text x="836" y="546" font-size="9.5" fill="#7E93A6">gap → NAT</text>
+
+<!-- WoW trend register -->
+<rect x="798" y="604" width="260" height="44" rx="5" fill="#0F1A12" stroke="#2C4A33"/>
+<text x="812" y="624" font-size="10.5" fill="#5FBE74">WoW Δ ▲ gap closing</text>
+<text x="812" y="640" font-size="9.5" fill="#3F7E50">is the gap closing week over week?</text>
+
+<text x="798" y="678" font-size="10" fill="#7B8593">Strength = a proxy for room</text>
+<text x="798" y="694" font-size="10" fill="#7B8593">to grow. Two lines, two</text>
+<text x="798" y="710" font-size="10" fill="#7B8593">questions: room left naturally</text>
+<text x="798" y="726" font-size="10" fill="#7B8593">(→NAT), and the ceiling if the</text>
+<text x="798" y="742" font-size="10" fill="#7B8593">constraint changes (→ENH).</text>
+</g>
+
+<!-- connector 3 -> 4 -->
+<line x1="1076" y1="560" x2="1104" y2="560" stroke="#AEB9C6" stroke-width="2.5" marker-end="url(#arrLite)"/>
+
+<!-- ================= STAGE 4 · OUTPUT READOUT (HERO) ================= -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="1112" y="298" width="768" height="558" rx="8" fill="#0D141D" stroke="#3A4F63" stroke-width="1.5"/>
+<text x="1132" y="330" font-size="15" fill="#E6ECF2" font-weight="600" letter-spacing="0.8">STAGE 4 · OUTPUT READOUT</text>
+<text x="1132" y="350" font-size="11" fill="#6A7585">STEP 3 — per-body-part ranking + rating · the GAP is the output</text>
+<line x1="1132" y1="362" x2="1860" y2="362" stroke="#2A3848"/>
+
+<!-- column headers -->
+<g font-size="10" fill="#5C6776" letter-spacing="0.6">
+<text x="1132" y="386">RANK</text>
+<text x="1182" y="386">LIFT / BODY-PART</text>
+<text x="1378" y="386">NAT-ELITE</text>
+<text x="1748" y="386" text-anchor="end">ENH-ELITE</text>
+<text x="1858" y="386" text-anchor="end">RATE</text>
+</g>
+<!-- reference tick guide lines spanning all rows -->
+<line x1="1610" y1="396" x2="1610" y2="790" stroke="#56697C" stroke-width="1" stroke-dasharray="4 5"/>
+<line x1="1727" y1="396" x2="1727" y2="790" stroke="#56697C" stroke-width="1" stroke-dasharray="4 5"/>
+
+<!-- ROWS: track 1340..1790 (W450); NAT=1610 (0.60); ENH=1727 (0.86) -->
+<!-- Row 1 OHP cur=0.30 x=1475  loudest -->
+<g>
+<text x="1132" y="426" font-size="15" fill="#E6ECF2" font-weight="700">1</text>
+<text x="1182" y="426" font-size="12.5" fill="#E6ECF2" font-weight="600">OHP / SHOULDERS</text>
+<line x1="1340" y1="420" x2="1790" y2="420" stroke="#2A3848" stroke-width="1"/>
+<rect x="1475" y="412" width="135" height="16" fill="#7C8DA0" opacity="0.95"/>
+<rect x="1610" y="412" width="117" height="16" fill="url(#enhatch)"/>
+<circle cx="1475" cy="420" r="6.5" fill="#E6ECF2"/>
+<text x="1858" y="426" font-size="13" fill="#C9D3DE" text-anchor="end" font-weight="700">D</text>
+<text x="1182" y="440" font-size="9" fill="#6A7585">widest gap — your weakest link</text>
+</g>
+<!-- Row 2 CURL cur=0.38 x=1511 -->
+<g>
+<text x="1132" y="494" font-size="15" fill="#C9D3DE" font-weight="700">2</text>
+<text x="1182" y="494" font-size="12.5" fill="#C9D3DE" font-weight="600">CURL / ARMS</text>
+<line x1="1340" y1="488" x2="1790" y2="488" stroke="#2A3848" stroke-width="1"/>
+<rect x="1511" y="481" width="99" height="14" fill="#6E7E90" opacity="0.85"/>
+<rect x="1610" y="481" width="117" height="14" fill="url(#enhatch)"/>
+<circle cx="1511" cy="488" r="5.5" fill="#D8E0E8"/>
+<text x="1858" y="494" font-size="13" fill="#AEB9C6" text-anchor="end" font-weight="600">C-</text>
+</g>
+<!-- Row 3 ROW cur=0.45 x=1542.5 -->
+<g>
+<text x="1132" y="562" font-size="15" fill="#AEB9C6" font-weight="700">3</text>
+<text x="1182" y="562" font-size="12.5" fill="#AEB9C6" font-weight="600">ROW·PULLDOWN / BACK</text>
+<line x1="1340" y1="556" x2="1790" y2="556" stroke="#2A3848" stroke-width="1"/>
+<rect x="1542" y="549" width="68" height="14" fill="#62717F" opacity="0.85"/>
+<rect x="1610" y="549" width="117" height="14" fill="url(#enhatch)"/>
+<circle cx="1542" cy="556" r="5.5" fill="#CDD6DF"/>
+<text x="1858" y="562" font-size="13" fill="#AEB9C6" text-anchor="end" font-weight="600">C</text>
+</g>
+<!-- Row 4 BENCH cur=0.52 x=1574 -->
+<g>
+<text x="1132" y="630" font-size="15" fill="#9AA7B5" font-weight="700">4</text>
+<text x="1182" y="630" font-size="12.5" fill="#9AA7B5" font-weight="600">BENCH / CHEST</text>
+<line x1="1340" y1="624" x2="1790" y2="624" stroke="#2A3848" stroke-width="1"/>
+<rect x="1574" y="617" width="36" height="14" fill="#5A6975" opacity="0.85"/>
+<rect x="1610" y="617" width="117" height="14" fill="url(#enhatch)"/>
+<circle cx="1574" cy="624" r="5.5" fill="#C2CCD6"/>
+<text x="1858" y="630" font-size="13" fill="#9AA7B5" text-anchor="end" font-weight="600">C+</text>
+</g>
+<!-- Row 5 HINGE cur=0.58 x=1601 -->
+<g>
+<text x="1132" y="698" font-size="15" fill="#8C99A8" font-weight="700">5</text>
+<text x="1182" y="698" font-size="12.5" fill="#8C99A8" font-weight="600">HINGE / HAMSTRINGS</text>
+<line x1="1340" y1="692" x2="1790" y2="692" stroke="#2A3848" stroke-width="1"/>
+<rect x="1601" y="685" width="9" height="14" fill="#566470" opacity="0.85"/>
+<rect x="1610" y="685" width="117" height="14" fill="url(#enhatch)"/>
+<circle cx="1601" cy="692" r="5.5" fill="#B8C2CC"/>
+<text x="1858" y="698" font-size="13" fill="#8C99A8" text-anchor="end" font-weight="600">B-</text>
+</g>
+<!-- Row 6 SQUAT cur=0.66 x=1637 past NAT -->
+<g>
+<text x="1132" y="766" font-size="15" fill="#7E8B98" font-weight="700">6</text>
+<text x="1182" y="766" font-size="12.5" fill="#7E8B98" font-weight="600">SQUAT / QUADS</text>
+<line x1="1340" y1="760" x2="1790" y2="760" stroke="#2A3848" stroke-width="1"/>
+<rect x="1637" y="753" width="90" height="14" fill="url(#enhatch)"/>
+<circle cx="1637" cy="760" r="5.5" fill="#B8C2CC"/>
+<text x="1660" y="748" font-size="8.5" fill="#5FBE74">past NAT-ELITE</text>
+<text x="1858" y="766" font-size="13" fill="#7E8B98" text-anchor="end" font-weight="600">B</text>
+</g>
+
+<line x1="1132" y1="792" x2="1860" y2="792" stroke="#2A3848"/>
+<text x="1132" y="816" font-size="10.5" fill="#8C99A8">Ranked worst-gap-first.  Top row = the weakest link holding the physique back — the one worth biasing next.</text>
+<text x="1132" y="836" font-size="10" fill="#5C6776">█ gap to NAT-ELITE (solid)    ▨ extra gap to ENH-ELITE (hatched)    ● = you</text>
+</g>
+
+<!-- ================= FEEDBACK RETURN RAIL ================= -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="40" y="878" width="1840" height="80" rx="8" fill="#0E1812" stroke="#2C4A33" stroke-width="1"/>
+<!-- path from worst row (stage4 left of row1) wrap to stage1 input -->
+<path d="M1475 856 L1475 918 L150 918 L150 856" fill="none" stroke="#5FBE74" stroke-width="2.5" marker-end="url(#arrGr)"/>
+<circle cx="1475" cy="856" r="4" fill="#5FBE74"/>
+<text x="200" y="908" font-size="14" fill="#5FBE74" font-weight="600" letter-spacing="0.5">FEEDBACK → bias your weakest link next mesocycle</text>
+<text x="690" y="908" font-size="11.5" fill="#8FA89A">Input to Part 3.3's adaptation strip: pick ONE lagging muscle, bias it 4–8 weeks, then re-measure.</text>
+<text x="690" y="934" font-size="11.5" fill="#5C7868">A report you read once changes nothing — a loop you close every mesocycle compounds.  This wrap-around is what makes it a system, not a card.</text>
+<text x="1860" y="908" font-size="11" fill="#3F7E50" text-anchor="end">LOOP CLOSED</text>
+</g>
+
+<!-- ================= OPERATOR PROMPT CARDS ================= -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<text x="40" y="998" font-size="12.5" fill="#9AA7B5" letter-spacing="1">THE OPERATOR DRIVES THE INSTRUMENT — two prompts: one to read, one to act.</text>
+
+<rect x="40" y="1012" width="910" height="150" rx="8" fill="#0E141C" stroke="#2C3A48"/>
+<text x="62" y="1040" font-size="12.5" fill="#E6ECF2" font-weight="600">PROMPT · ENTRY — Full-Body Assessment</text>
+<text x="62" y="1058" font-size="10" fill="#5C6776">builds the baseline before you change anything</text>
+<line x1="62" y1="1068" x2="930" y2="1068" stroke="#222B35"/>
+<g font-size="10.5" fill="#9AA7B5">
+<text x="62" y="1090">IN:  age/sex · stats · body-fat estimate · training history · goal · timeline</text>
+<text x="62" y="1112" fill="#AEB9C6">OUT: realistic 90-day goal (honest, not motivational) · biggest limiting factor ·</text>
+<text x="62" y="1130" fill="#AEB9C6">     where to focus first · the 3 metrics to track weekly · vanity goals to ignore</text>
+</g>
+<text x="62" y="1152" font-size="9.5" fill="#5C6776">→ this is what seeds Stage 1 and sets the reference reading</text>
+
+<rect x="970" y="1012" width="910" height="150" rx="8" fill="#0E141C" stroke="#2C3A48"/>
+<text x="992" y="1040" font-size="12.5" fill="#E6ECF2" font-weight="600">PROMPT · EXIT — Program Design</text>
+<text x="992" y="1058" font-size="10" fill="#5C6776">turns the diagnosis into a runnable 12-week program</text>
+<line x1="992" y1="1068" x2="1860" y2="1068" stroke="#222B35"/>
+<g font-size="10.5" fill="#9AA7B5">
+<text x="992" y="1090">IN:  days/week · time · equipment · level · goal</text>
+<text x="992" y="1112" fill="#AEB9C6">OUT: 12-wk program — split that fits your schedule · exact exercises (sets·reps·rest) ·</text>
+<text x="992" y="1130" fill="#AEB9C6">     progression model · equipment swaps · deload week · the 3 mistakes that sabotage results</text>
+</g>
+<text x="992" y="1152" font-size="9.5" fill="#5C6776">→ this is where the feedback rail's bias-target becomes the next block</text>
+</g>
+
+<!-- ================= FOOTER ================= -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<line x1="40" y1="1188" x2="1880" y2="1188" stroke="#2C3A48"/>
+<text x="40" y="1212" font-size="11" fill="#8C99A8" letter-spacing="0.3"><tspan fill="#AEB9C6" font-weight="600">THE ORDER IS NON-NEGOTIABLE →</tspan>  1 LOG every set · 2 QC before you trust it · 3 BENCHMARK vs NAT-ELITE + ENH-ELITE · 4 read the GAP, not the number · 5 RANK, find the weakest link · 6 FEED it back · 7 RE-MEASURE next mesocycle</text>
+<text x="40" y="1238" font-size="11" fill="#7B8593">The app and the AI are instruments, not coaches — they read the data; you act.  <tspan fill="#E3B23C">Garbage in, confident garbage out</tspan> — which is why QC is step one.</text>
+<text x="40" y="1264" font-size="10" fill="#5C6776">Sources: strengthlevel.com · symmetricstrength.com · Hevy (logging + CSV export) · progression / volume framework carried from Parts 3.1–3.3 (Renaissance Periodization).</text>
+<text x="1880" y="1264" font-size="11" fill="#6A7585" text-anchor="end" letter-spacing="1">Fit — Aesthetic &amp; Strength</text>
+</g>
+</svg>

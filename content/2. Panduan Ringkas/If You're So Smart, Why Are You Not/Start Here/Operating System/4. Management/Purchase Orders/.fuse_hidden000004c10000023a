@@ -1,0 +1,23 @@
+---
+type: purchase_order
+po_id: "PO-2026-03-25-shopee"
+date: 2026-03-25
+vendor: "Shopee"
+total_rm: 91.16
+item_count: 1
+tags:
+  - operating-system
+  - purchase-order
+---
+# PO 2026-03-25 — Shopee
+
+> [!info] PO · **Shopee** · 2026-03-25 · **1 item(s)** · **RM91.16**
+
+| Item | Qty | Unit (RM) | Total (RM) | Remark |
+|---|---|---|---|---|
+| Coca-Cola 1.5 x 12 | 2 | 45.58 | 91.16 |  |
+| **TOTAL** | | | **RM91.16** | |
+
+## Links
+- All POs: [[0. Purchase Orders]] · Stock ledger: [[Stock & Restock Plan]] · Expenses source: Google Sheet "Stock Management"
+- Operating system: [[The Operating System]]

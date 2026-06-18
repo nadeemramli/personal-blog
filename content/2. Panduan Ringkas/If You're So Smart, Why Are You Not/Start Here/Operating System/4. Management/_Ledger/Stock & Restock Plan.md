@@ -21,7 +21,7 @@ date: 2026-05-31
 | **Total to cover next 12 months** | **~RM 13,324** | |
 
 > [!important] The read for your save-for-next-year goal
-> Front-load **~RM5,647 once** on the bulk dose items and they cost **RM0 until next year**; after that your recurring spend is just bucket B (~RM640/mo of things that genuinely deplete or you buy as-needed). That predictability is the precondition for routing surplus into [[Freedom Numbers|Emergency → Optionality → Freedom]] instead of lumpy re-orders. **11 items are already covered past 12 months.**
+> Front-load **~RM5,647 once** on the bulk dose items and they cost **RM0 until next year**; after that your recurring spend is just bucket B (~RM640/mo of things that genuinely deplete or you buy as-needed). That predictability is the precondition for routing surplus into [[Freedom Numbers|Emergency → Optionality → Freedom]] instead of lumpy re-orders. **10 items are already covered past 12 months.**
 
 ---
 
@@ -36,10 +36,13 @@ date: 2026-05-31
 | Uridine | Cognitive | 317 |
 | CDP-Choline | Cognitive | 256 |
 | Aged Garlic Extract | Ancillaries | 244 |
+| NAC ⚠ corrected (was overcounted) | Ancillaries | 140 |
 | Rhodiola, Cardarine, Tren, CoQ10, Astragalus, TUDCA | various | 130–200 each |
 | Bacopa, CaDG, L-Theanine, Creatine, Irbesartan, Magnesium, DIM, Vit C… | various | < 120 each |
 
-**Already covered >12 months (RM0):** EQ, Proviron, T4, Aspirin, Melatonin, NAC, Rosuvastatin, Tadalafil, Vitamin D3/K2, Caffeine, L-Tyrosine.
+**Already covered >12 months (RM0):** EQ, Proviron, T4, Aspirin, Melatonin, Rosuvastatin, Tadalafil, Vitamin D3/K2, Caffeine, L-Tyrosine.
+
+> [!note] NAC corrected 2026-06-18: physical count = **1 bottle (108,000 mg)**, down from a 270,000 mg overcount. It is **no longer covered >12 months** — runway now ~**5 Dec 2026**, so it moves into the near-term top-up list above (≈RM140 for ~2 boxes to reach a 12-month supply). See [[Supplement Restock — by Depletion Group]] (Group B).
 
 > [!note] PEDs use the [[Endocrine Design Rules]] calendar (Test 16,200mg/yr, Anavar 3,840mg…) minus current vials.
 

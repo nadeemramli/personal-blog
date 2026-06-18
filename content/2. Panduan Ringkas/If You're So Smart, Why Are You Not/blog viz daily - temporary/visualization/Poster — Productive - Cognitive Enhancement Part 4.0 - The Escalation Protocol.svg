@@ -1,0 +1,267 @@
+<svg viewBox="0 0 1200 1500" xmlns="http://www.w3.org/2000/svg" font-family="Inter, system-ui, 'DejaVu Sans', sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#06090D"/>
+      <stop offset="0.55" stop-color="#0B0F14"/>
+      <stop offset="1" stop-color="#0E1419"/>
+    </linearGradient>
+    <radialGradient id="baseGlow" cx="0.42" cy="1" r="0.9">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#161D25" stroke-width="0.6"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <marker id="arrCyan" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0 0L6.5 3L0 6Z" fill="#2DD4BF"/></marker>
+    <marker id="arrDim" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0 0L6.5 3L0 6Z" fill="#3B4552"/></marker>
+    <marker id="arrSlate" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0 0L6.5 3L0 6Z" fill="#8A93A3"/></marker>
+  </defs>
+
+  <!-- ===== BACKGROUND ===== -->
+  <rect width="1200" height="1500" fill="url(#bg)"/>
+  <rect width="1200" height="1500" fill="url(#grid)"/>
+  <rect x="0" y="900" width="1200" height="600" fill="url(#baseGlow)"/>
+
+  <!-- ===== ALWAYS-ON BASE RAIL (left edge, behind every level) ===== -->
+  <g id="leftrail">
+    <rect x="84" y="150" width="26" height="1190" rx="5" fill="#0A1417" stroke="#2DD4BF" stroke-width="1.4" opacity="0.9"/>
+    <rect x="90" y="158" width="14" height="1174" fill="#2DD4BF" opacity="0.16"/>
+    <g fill="#2DD4BF" filter="url(#glow)">
+      <circle cx="97" cy="210" r="4"/><circle cx="97" cy="330" r="4"/><circle cx="97" cy="450" r="4"/>
+      <circle cx="97" cy="570" r="4"/><circle cx="97" cy="690" r="4"/><circle cx="97" cy="810" r="4"/>
+      <circle cx="97" cy="930" r="4"/><circle cx="97" cy="1050" r="4"/><circle cx="97" cy="1170" r="4"/><circle cx="97" cy="1290" r="4"/>
+    </g>
+    <text transform="translate(72,1320) rotate(-90)" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="4" fill="#3E7C74">BASE RAIL · ALWAYS ON · LEVEL 1 BEHIND EVERY LEVEL</text>
+  </g>
+
+  <!-- ===== HEADER ===== -->
+  <g id="header">
+    <text x="150" y="60" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="3.5" fill="#8A93A3">COGNITIVE ENHANCEMENT  ·  PART 4.0  ·  THE ESCALATION PROTOCOL</text>
+    <text x="148" y="112" font-size="47" font-weight="600" letter-spacing="1.2" fill="#E6E8EE">IT'S A PROTOCOL, NOT A LADDER.</text>
+    <line x1="150" y1="132" x2="1050" y2="132" stroke="#2A323B" stroke-width="1"/>
+  </g>
+
+  <!-- ===== LEVEL 3 — THE URGENT OVERRIDE (top, smallest, most locked) ===== -->
+  <g id="level3">
+    <rect x="372" y="158" width="456" height="150" rx="7" fill="#0C1116" stroke="#3B4552" stroke-width="1"/>
+    <text x="392" y="186" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12.5" letter-spacing="1.5" font-weight="600" fill="#C7CCD6">LEVEL 3 — THE URGENT OVERRIDE</text>
+    <text x="392" y="204" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" letter-spacing="1" fill="#8A93A3">situational, rare</text>
+    <!-- guarded momentary switch -->
+    <g>
+      <rect x="402" y="222" width="58" height="46" rx="4" fill="#10171D" stroke="#4A5562" stroke-width="1"/>
+      <rect x="416" y="236" width="30" height="18" rx="3" fill="#1A232B" stroke="#6B7686" stroke-width="1"/>
+      <!-- flip-up safety guard -->
+      <path d="M404 224 L470 196" stroke="#FF5C5C" stroke-width="2.4" stroke-linecap="round" opacity="0.85"/>
+      <circle cx="404" cy="224" r="3" fill="#FF5C5C"/>
+      <text x="408" y="284" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5" letter-spacing="0.5" fill="#6B7686">SPRING-RETURN</text>
+    </g>
+    <text x="486" y="240" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="0.4" fill="#C7CCD6">WORKED CASE</text>
+    <text x="486" y="258" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11.5" letter-spacing="0.2" fill="#E6E8EE">BLOWN-SLEEP DEADLINE → modafinil</text>
+    <text x="486" y="276" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" letter-spacing="0.2" fill="#8A93A3">(drop the caffeine)</text>
+    <!-- reset rule (red, scarce) -->
+    <line x1="392" y1="288" x2="808" y2="288" stroke="#2A323B" stroke-width="0.8"/>
+    <text x="392" y="302" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" letter-spacing="0.3" fill="#FF5C5C">RESET RULE · low · fixed · cue-bound — a swing weapon, not a daily driver.</text>
+  </g>
+
+  <!-- connector: level 2 single passing trace up into level 3 -->
+  <path d="M430 360 L430 332 L600 332 L600 308" fill="none" stroke="#2DD4BF" stroke-width="2" opacity="0.8" marker-end="url(#arrCyan)"/>
+
+  <!-- ===== LEVEL 2 — THE DIAGNOSTIC ROUTER ===== -->
+  <g id="level2">
+    <rect x="150" y="360" width="900" height="356" rx="8" fill="#090D12" stroke="#222A33" stroke-width="1"/>
+    <text x="172" y="392" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13.5" letter-spacing="1.4" font-weight="600" fill="#C7CCD6">LEVEL 2 — THE HEAVY DAY</text>
+    <text x="172" y="410" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="0.8" fill="#8A93A3">diagnose, then add ONE</text>
+    <text x="1030" y="392" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="2" fill="#E8A23D">ROUTE — DON'T DUMP.</text>
+    <text x="1030" y="410" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" letter-spacing="0.4" fill="#8A93A3">add one lever · measure · keep or drop</text>
+
+    <!-- internal router bus (vertical) -->
+    <line x1="430" y1="690" x2="430" y2="452" stroke="#39424E" stroke-width="2"/>
+    <circle cx="430" cy="690" r="5" fill="#2DD4BF" filter="url(#glow)"/>
+
+    <!-- ROW 1: CAN'T START (dim) -->
+    <g>
+      <rect x="180" y="452" width="170" height="34" rx="4" fill="#10161C" stroke="#39424E" stroke-width="1"/>
+      <text x="265" y="474" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12.5" letter-spacing="0.5" fill="#7C8694">CAN'T START</text>
+      <line x1="350" y1="469" x2="430" y2="469" stroke="#39424E" stroke-width="1.5" marker-end="url(#arrDim)"/>
+      <text x="450" y="465" font-family="Inter, 'DejaVu Sans', sans-serif" font-size="11" font-style="italic" fill="#7C8694">drive / dopamine</text>
+      <line x1="430" y1="469" x2="690" y2="469" stroke="#2A323B" stroke-width="1"/>
+      <line x1="690" y1="469" x2="720" y2="469" stroke="#39424E" stroke-width="1.5" marker-end="url(#arrDim)"/>
+      <rect x="722" y="452" width="300" height="34" rx="4" fill="#0E141A" stroke="#39424E" stroke-width="1"/>
+      <circle cx="742" cy="469" r="5" fill="#222A33" stroke="#4A5562"/>
+      <text x="762" y="474" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12" fill="#9AA3B0">tyrosine + caffeine</text>
+    </g>
+
+    <!-- ROW 2: CAN'T FOCUS (LIVE / cyan) -->
+    <g filter="url(#glow)">
+      <rect x="180" y="510" width="170" height="34" rx="4" fill="#08201E" stroke="#2DD4BF" stroke-width="1.4"/>
+      <text x="265" y="532" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12.5" letter-spacing="0.5" font-weight="600" fill="#7CF0E2">CAN'T FOCUS</text>
+      <line x1="350" y1="527" x2="430" y2="527" stroke="#2DD4BF" stroke-width="2" marker-end="url(#arrCyan)"/>
+      <text x="450" y="523" font-family="Inter, 'DejaVu Sans', sans-serif" font-size="11" font-style="italic" fill="#9FE8DE">calm-focus · too much gas</text>
+      <line x1="430" y1="527" x2="690" y2="527" stroke="#2DD4BF" stroke-width="2"/>
+      <line x1="690" y1="527" x2="720" y2="527" stroke="#2DD4BF" stroke-width="2" marker-end="url(#arrCyan)"/>
+      <rect x="722" y="510" width="300" height="34" rx="4" fill="#08201E" stroke="#2DD4BF" stroke-width="1.4"/>
+      <circle cx="742" cy="527" r="5" fill="#2DD4BF"/>
+      <text x="762" y="532" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="600" fill="#BFF6EE">2:1 theanine : caffeine ↓</text>
+    </g>
+    <!-- the bus segment that taps row 2 is the lit one -->
+    <line x1="430" y1="690" x2="430" y2="527" stroke="#2DD4BF" stroke-width="2.4" opacity="0.9"/>
+
+    <!-- ROW 3: CAN'T DECIDE (dim) -->
+    <g>
+      <rect x="180" y="568" width="170" height="34" rx="4" fill="#10161C" stroke="#39424E" stroke-width="1"/>
+      <text x="265" y="590" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12.5" letter-spacing="0.5" fill="#7C8694">CAN'T DECIDE</text>
+      <line x1="350" y1="585" x2="430" y2="585" stroke="#39424E" stroke-width="1.5" marker-end="url(#arrDim)"/>
+      <text x="450" y="581" font-family="Inter, 'DejaVu Sans', sans-serif" font-size="11" font-style="italic" fill="#7C8694">too much signal</text>
+      <line x1="430" y1="585" x2="690" y2="585" stroke="#2A323B" stroke-width="1"/>
+      <line x1="690" y1="585" x2="720" y2="585" stroke="#39424E" stroke-width="1.5" marker-end="url(#arrDim)"/>
+      <rect x="722" y="568" width="300" height="34" rx="4" fill="#0E141A" stroke="#39424E" stroke-width="1"/>
+      <circle cx="742" cy="585" r="5" fill="#222A33" stroke="#4A5562"/>
+      <text x="762" y="590" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12" fill="#9AA3B0">GABA / serotonin · detach</text>
+    </g>
+
+    <!-- ROW 4: CAN'T LEARN (dim) + racetam fault inset -->
+    <g>
+      <rect x="180" y="626" width="170" height="34" rx="4" fill="#10161C" stroke="#39424E" stroke-width="1"/>
+      <text x="265" y="648" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12.5" letter-spacing="0.5" fill="#7C8694">CAN'T LEARN</text>
+      <line x1="350" y1="643" x2="430" y2="643" stroke="#39424E" stroke-width="1.5" marker-end="url(#arrDim)"/>
+      <text x="450" y="639" font-family="Inter, 'DejaVu Sans', sans-serif" font-size="11" font-style="italic" fill="#7C8694">acetylcholine</text>
+      <line x1="430" y1="643" x2="690" y2="643" stroke="#2A323B" stroke-width="1"/>
+      <line x1="690" y1="643" x2="720" y2="643" stroke="#39424E" stroke-width="1.5" marker-end="url(#arrDim)"/>
+      <rect x="722" y="626" width="300" height="34" rx="4" fill="#0E141A" stroke="#39424E" stroke-width="1"/>
+      <circle cx="742" cy="643" r="5" fill="#222A33" stroke="#4A5562"/>
+      <text x="762" y="648" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12" fill="#9AA3B0">choline pathway</text>
+    </g>
+
+    <!-- FAULT INSET: overlay on a bare base -> racetam headache (scarce red, small) -->
+    <g>
+      <!-- dead / dark stretch of base rail being tapped -->
+      <line x1="392" y1="690" x2="430" y2="690" stroke="#39424E" stroke-width="2" stroke-dasharray="3 4"/>
+      <path d="M392 643 L392 690" stroke="#39424E" stroke-width="1.5" stroke-dasharray="3 4"/>
+      <path d="M392 643 L350 643" stroke="#39424E" stroke-width="1.5" stroke-dasharray="3 4"/>
+      <!-- red fault burst -->
+      <g filter="url(#glow)">
+        <path d="M386 684 l6 -6 m0 6 l-6 -6" stroke="#FF5C5C" stroke-width="2.2" stroke-linecap="round"/>
+        <circle cx="389" cy="687" r="9" fill="none" stroke="#FF5C5C" stroke-width="1.6"/>
+      </g>
+      <text x="172" y="700" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" letter-spacing="0.2" fill="#FF5C5C">FAULT · OVERLAY ON A BARE BASE → racetam headache</text>
+    </g>
+  </g>
+
+  <!-- ===== THE GATE — "DO YOU EVEN NEED THIS?" ===== -->
+  <g id="gate">
+    <text x="150" y="752" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="1.6" font-weight="600" fill="#E8A23D">THE "DO YOU EVEN NEED THIS?" GATE</text>
+    <text x="1050" y="752" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" letter-spacing="0.5" fill="#8A93A3">most signal stops here · only the gated few pass up</text>
+
+    <!-- barrier bar (amber) -->
+    <rect x="150" y="764" width="900" height="14" rx="3" fill="#1A140A" stroke="#E8A23D" stroke-width="1.4"/>
+    <g fill="#E8A23D" opacity="0.5">
+      <rect x="160" y="767" width="880" height="3"/>
+    </g>
+
+    <!-- four pass-toggles, all green to let signal through -->
+    <g font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="0.4">
+      <g>
+        <rect x="196" y="800" width="180" height="40" rx="20" fill="#0C1116" stroke="#E8A23D" stroke-width="1.1"/>
+        <circle cx="222" cy="820" r="7" fill="#2DD4BF" filter="url(#glow)"/>
+        <text x="240" y="824" fill="#C7CCD6">BASE MAXED</text>
+      </g>
+      <g>
+        <rect x="392" y="800" width="180" height="40" rx="20" fill="#0C1116" stroke="#E8A23D" stroke-width="1.1"/>
+        <circle cx="418" cy="820" r="7" fill="#2DD4BF" filter="url(#glow)"/>
+        <text x="436" y="824" fill="#C7CCD6">SLEEP FIXED</text>
+      </g>
+      <g>
+        <rect x="588" y="800" width="208" height="40" rx="20" fill="#0C1116" stroke="#E8A23D" stroke-width="1.1"/>
+        <circle cx="614" cy="820" r="7" fill="#2DD4BF" filter="url(#glow)"/>
+        <text x="632" y="824" fill="#C7CCD6">MEASURED CEILING</text>
+      </g>
+      <g>
+        <rect x="812" y="800" width="180" height="40" rx="20" fill="#0C1116" stroke="#E8A23D" stroke-width="1.1"/>
+        <circle cx="838" cy="820" r="7" fill="#2DD4BF" filter="url(#glow)"/>
+        <text x="856" y="824" fill="#C7CCD6">REWARD &gt; RISK</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- ===== traces rising from BASE to the GATE — most dead-end, one passes ===== -->
+  <g id="traces">
+    <!-- dead-ended (dim) -->
+    <g stroke="#39424E" stroke-width="1.6" fill="none">
+      <path d="M250 906 L250 786"/>
+      <path d="M610 906 L610 786"/>
+      <path d="M790 906 L790 786"/>
+      <path d="M930 906 L930 786"/>
+    </g>
+    <g fill="#39424E">
+      <path d="M244 786 l12 0 l-6 -8 z"/>
+      <path d="M604 786 l12 0 l-6 -8 z"/>
+      <path d="M784 786 l12 0 l-6 -8 z"/>
+      <path d="M924 786 l12 0 l-6 -8 z"/>
+    </g>
+    <!-- the one that passes (cyan), through a gap in the barrier, up to router node -->
+    <rect x="416" y="764" width="28" height="14" fill="#0B0F14"/>
+    <path d="M430 906 L430 690" fill="none" stroke="#2DD4BF" stroke-width="2.6" filter="url(#glow)" marker-end="url(#arrCyan)"/>
+  </g>
+
+  <!-- ===== LEVEL 1 — THE CONSTANT BASE (dominant) ===== -->
+  <g id="level1">
+    <text x="150" y="888" font-size="19" font-weight="600" letter-spacing="1" fill="#BFF6EE">LEVEL 1 — THE CONSTANT BASE <tspan font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="400" fill="#5FCBBC"> · run year-round</tspan></text>
+    <text x="150" y="908" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11.5" letter-spacing="0.6" fill="#8A93A3">the realistic ceiling for almost everyone — not a consolation prize</text>
+
+    <!-- the wide always-on bus -->
+    <g filter="url(#softglow)">
+      <rect x="150" y="918" width="900" height="52" rx="6" fill="#0A2521" stroke="#2DD4BF" stroke-width="2"/>
+      <rect x="150" y="934" width="900" height="20" fill="#2DD4BF" opacity="0.22"/>
+    </g>
+    <!-- steady indicator LEDs along the bus -->
+    <g fill="#2DD4BF" filter="url(#glow)">
+      <circle cx="210" cy="944" r="5"/><circle cx="290" cy="944" r="5"/><circle cx="370" cy="944" r="5"/>
+      <circle cx="450" cy="944" r="5"/><circle cx="530" cy="944" r="5"/><circle cx="610" cy="944" r="5"/>
+      <circle cx="690" cy="944" r="5"/><circle cx="770" cy="944" r="5"/><circle cx="850" cy="944" r="5"/>
+      <circle cx="930" cy="944" r="5"/><circle cx="1010" cy="944" r="5"/>
+    </g>
+    <text x="1030" y="949" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="2" fill="#0B0F14" font-weight="600">L I V E   ·   N E V E R   O F F</text>
+
+    <!-- feed lines coming in from below -->
+    <g font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12.5" letter-spacing="0.6">
+      <g stroke="#2DD4BF" stroke-width="1.8" fill="none" opacity="0.75">
+        <path d="M300 1180 L300 970"/>
+        <path d="M520 1180 L520 970"/>
+        <path d="M700 1180 L700 970"/>
+        <path d="M900 1180 L900 970"/>
+      </g>
+      <g fill="#3E7C74">
+        <circle cx="300" cy="1180" r="4"/><circle cx="520" cy="1180" r="4"/><circle cx="700" cy="1180" r="4"/><circle cx="900" cy="1180" r="4"/>
+      </g>
+      <g fill="#9FE8DE">
+        <text x="300" y="1208" text-anchor="middle">SLEEP</text>
+        <text x="520" y="1208" text-anchor="middle">FOOD</text>
+        <text x="700" y="1208" text-anchor="middle">BEHAVIOUR</text>
+        <text x="900" y="1208" text-anchor="middle">STRUCTURAL STACK</text>
+      </g>
+      <text x="600" y="1262" text-anchor="middle" font-size="11" letter-spacing="3" fill="#5A6470">THE NON-STIMULATING STRUCTURAL STACK + BEHAVIOUR + SLEEP — RUN UNBROKEN, ALL YEAR</text>
+    </g>
+
+    <!-- area emphasis underline: the base owns the page -->
+    <line x1="150" y1="1300" x2="1050" y2="1300" stroke="#16322E" stroke-width="1"/>
+    <text x="150" y="1290" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" letter-spacing="1.5" fill="#3E7C74">YOU LIVE HERE.  THE LEVELS ABOVE ARE RARE, GATED DETOURS — THE BASE IS THE SYSTEM.</text>
+  </g>
+
+  <!-- ===== RIGHT-MARGIN SPINE QUESTION (read bottom-up) ===== -->
+  <text transform="translate(1092,1300) rotate(-90)" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="14.5" letter-spacing="4" fill="#6B7686">WHAT'S THE SMALLEST INPUT THAT FIXES TODAY?</text>
+
+  <!-- ===== FOOTER — thesis lockup ===== -->
+  <g id="footer">
+    <line x1="150" y1="1356" x2="1050" y2="1356" stroke="#2A323B" stroke-width="1"/>
+    <text x="600" y="1412" text-anchor="middle" font-size="22" font-weight="600" letter-spacing="0.6" fill="#E6E8EE">ENHANCE THE PATHWAY.  <tspan fill="#2DD4BF">DON'T REPLACE THE BASE.</tspan></text>
+    <text x="600" y="1452" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11.5" letter-spacing="1.2" fill="#8A93A3">Part 4.0 of 4  ·  Cognitive Enhancement  ·  the Productive pillar  ·  the framework before the stacks</text>
+  </g>
+</svg>

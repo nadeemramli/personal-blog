@@ -25,16 +25,4 @@ views:
     order:
       - file.name
       - stack
-      - restock
-      - stock_on_hand
-      - vendor
-  - type: table
-    name: All stock
-    order:
-      - file.name
-      - stack
-      - status
-      - stock_on_hand
-      - current_phase
-      - daily_dose
-      - restock
+      - re

@@ -51,5 +51,5 @@ notes: "Wishlist. USD69.99 (≈RM329, FX confirm). 20ml injectable blend per ml:
 Lower-stim sibling of [[Super Helios (20ml) — aminotech|Super Helios]] (MIC instead of yohimbine) — better for daily/AM use.
 
 ## Links
-- Protocol: [[Mini-Cut & Accelerator Tiers]] · Source: [[aminotech]] · Sister blend: [[Super Helios (20ml) — aminotech|Super Helios]]
+- Protocol: [[Off-Season Mini-Cut & Accelerator Tiers]] · Source: [[aminotech]] · Sister blend: [[Super Helios (20ml) — aminotech|Super Helios]]
 - Operating system: [[The Operating System]] · [[Product List]] · [[Schema — Data Model]]

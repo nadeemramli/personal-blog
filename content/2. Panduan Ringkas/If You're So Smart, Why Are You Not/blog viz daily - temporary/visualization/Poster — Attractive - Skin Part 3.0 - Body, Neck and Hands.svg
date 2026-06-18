@@ -1,0 +1,298 @@
+<svg viewBox="0 0 1200 1500" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1E2024" stroke-width="0.4" opacity="0.06"/>
+    </pattern>
+    <pattern id="gridFine" width="10" height="10" patternUnits="userSpaceOnUse">
+      <path d="M10 0H0V10" fill="none" stroke="#1E2024" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+    <!-- finished façade cladding (warm, dense) -->
+    <pattern id="cladding" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="9" stroke="#C2703D" stroke-width="1.4" opacity="0.6"/>
+    </pattern>
+    <!-- bare / weathered body (graphite, sparse) -->
+    <pattern id="weather" width="13" height="13" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="13" stroke="#1E2024" stroke-width="0.7" opacity="0.16"/>
+    </pattern>
+    <!-- zoning hatch (slate, light) -->
+    <pattern id="zone" width="11" height="11" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
+      <line x1="0" y1="0" x2="0" y2="11" stroke="#5E7585" stroke-width="0.9" opacity="0.4"/>
+    </pattern>
+    <!-- scaffold lattice (finite substrate) -->
+    <pattern id="lattice" width="34" height="30" patternUnits="userSpaceOnUse">
+      <path d="M0 15 L17 0 L34 15 L17 30 Z" fill="none" stroke="#1E2024" stroke-width="1" opacity="0.35"/>
+    </pattern>
+    <marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto">
+      <path d="M0 0 L9 4.5 L0 9 Z" fill="#1E2024"/>
+    </marker>
+    <marker id="arrowSlate" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto">
+      <path d="M0 0 L9 4.5 L0 9 Z" fill="#5E7585"/>
+    </marker>
+    <marker id="arrowRed" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#D9483B"/>
+    </marker>
+    <marker id="arrowTerra" markerWidth="11" markerHeight="11" refX="8" refY="5.5" orient="auto">
+      <path d="M0 0 L11 5.5 L0 11 Z" fill="#C2703D"/>
+    </marker>
+  </defs>
+
+  <!-- ===== BASE SURFACE ===== -->
+  <rect x="0" y="0" width="1200" height="1500" fill="#F4F1EA"/>
+  <!-- protected register: faint warm band ABOVE the jaw line -->
+  <rect x="0" y="180" width="1200" height="150" fill="#EFE4D6" opacity="0.55"/>
+  <!-- exposure register: faint cool wash BELOW the jaw line -->
+  <rect x="0" y="330" width="1200" height="690" fill="#EAE7E0" opacity="0.5"/>
+  <rect x="0" y="0" width="1200" height="1500" fill="url(#grid)"/>
+  <rect x="0" y="0" width="1200" height="1500" fill="url(#gridFine)"/>
+  <rect x="22" y="22" width="1156" height="1456" fill="none" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+
+  <!-- ===== HEADER (0–175) ===== -->
+  <g id="header">
+    <text x="48" y="92" font-size="40" font-weight="700" letter-spacing="0.5" fill="#1E2024">YOUR ROUTINE STOPS AT THE JAW.</text>
+    <text x="48" y="138" font-size="40" font-weight="700" letter-spacing="0.5" fill="#D9483B">THE SUN DOESN'T.</text>
+
+    <text x="852" y="86" font-family="ui-monospace, Consolas, monospace" font-size="12" font-weight="600" fill="#5E7585" letter-spacing="0.5">If You're So Smart, Why Are You Not</text>
+    <text x="852" y="106" font-family="ui-monospace, Consolas, monospace" font-size="12" font-weight="600" fill="#1E2024" letter-spacing="0.5">ATTRACTIVE · SKIN</text>
+    <text x="852" y="126" font-family="ui-monospace, Consolas, monospace" font-size="12" fill="#1E2024" letter-spacing="0.5">Part 3.0 of 4 — Below the Jaw</text>
+    <text x="852" y="144" font-family="ui-monospace, Consolas, monospace" font-size="12" fill="#1E2024" letter-spacing="0.5">Body · Neck · Hands  (the capstone)</text>
+
+    <line x1="48" y1="160" x2="1152" y2="160" stroke="#1E2024" stroke-width="1.2"/>
+    <text x="48" y="176" font-family="ui-monospace, Consolas, monospace" font-size="11.5" fill="#C2703D" letter-spacing="1">THE CAMERA PULLS BACK · FROM THE WALL SECTION (1.1) TO THE WHOLE SITE</text>
+    <text x="1152" y="176" text-anchor="end" font-family="ui-monospace, Consolas, monospace" font-size="11.5" fill="#1E2024" letter-spacing="1">SITE ELEVATION / ZONING PLAN — THE FACE IS ONLY THE TOP FLOOR ↓</text>
+  </g>
+
+  <!-- ===== THE WEATHER — UV field raking the WHOLE elevation ===== -->
+  <g id="weatherfield" opacity="0.5">
+    <line x1="150" y1="196" x2="240" y2="900" stroke="#D9483B" stroke-width="1.8" marker-end="url(#arrowRed)"/>
+    <line x1="270" y1="196" x2="360" y2="900" stroke="#D9483B" stroke-width="1.8" marker-end="url(#arrowRed)"/>
+    <line x1="390" y1="196" x2="480" y2="900" stroke="#D9483B" stroke-width="1.8" marker-end="url(#arrowRed)"/>
+    <line x1="510" y1="196" x2="600" y2="900" stroke="#D9483B" stroke-width="1.8" marker-end="url(#arrowRed)"/>
+    <line x1="630" y1="196" x2="720" y2="900" stroke="#D9483B" stroke-width="1.8" marker-end="url(#arrowRed)"/>
+    <line x1="750" y1="196" x2="840" y2="900" stroke="#D9483B" stroke-width="1.8" marker-end="url(#arrowRed)"/>
+    <line x1="870" y1="196" x2="960" y2="900" stroke="#D9483B" stroke-width="1.8" marker-end="url(#arrowRed)"/>
+    <line x1="990" y1="196" x2="1056" y2="780" stroke="#D9483B" stroke-width="1.8" marker-end="url(#arrowRed)"/>
+  </g>
+  <g id="uvlabel">
+    <rect x="940" y="206" width="208" height="40" fill="#F4F1EA" opacity="0.82"/>
+    <text x="1148" y="224" text-anchor="end" font-family="ui-monospace, Consolas, monospace" font-size="12.5" font-weight="700" fill="#D9483B">PHOTOAGING · UV · ~80%</text>
+    <text x="1148" y="240" text-anchor="end" font-family="ui-monospace, Consolas, monospace" font-size="11" fill="#D9483B">does not stop at the jaw.</text>
+  </g>
+
+  <!-- ===== THE STANDING ELEVATION (the hero structure — a drawing, not a body) ===== -->
+  <g id="elevation">
+
+    <!-- BARE BODY below the jaw: weathered, washed-out, zoned -->
+    <!-- arms -->
+    <rect x="412" y="430" width="44" height="300" fill="url(#weather)" stroke="#1E2024" stroke-width="1.1"/>
+    <rect x="744" y="430" width="44" height="300" fill="url(#weather)" stroke="#1E2024" stroke-width="1.1"/>
+    <!-- back of hands (tell zones) -->
+    <rect x="404" y="730" width="56" height="64" fill="url(#weather)" stroke="#1E2024" stroke-width="1.1"/>
+    <rect x="740" y="730" width="56" height="64" fill="url(#weather)" stroke="#1E2024" stroke-width="1.1"/>
+    <!-- décolletage / shoulders trapezoid -->
+    <path d="M572 376 L628 376 L760 432 L440 432 Z" fill="url(#weather)" stroke="#1E2024" stroke-width="1.1"/>
+    <!-- torso -->
+    <rect x="470" y="432" width="260" height="278" fill="url(#weather)" stroke="#1E2024" stroke-width="1.1"/>
+    <!-- legs -->
+    <rect x="506" y="710" width="82" height="205" fill="url(#weather)" stroke="#1E2024" stroke-width="1.1"/>
+    <rect x="612" y="710" width="82" height="205" fill="url(#weather)" stroke="#1E2024" stroke-width="1.1"/>
+    <!-- neck -->
+    <rect x="572" y="330" width="56" height="46" fill="url(#weather)" stroke="#1E2024" stroke-width="1.1"/>
+
+    <!-- CLAD FACE above the jaw: finished façade, warm, crisp, dimensioned -->
+    <rect x="540" y="212" width="120" height="118" rx="14" fill="url(#cladding)"/>
+    <rect x="540" y="212" width="120" height="118" rx="14" fill="none" stroke="#C2703D" stroke-width="2"/>
+    <text x="600" y="266" text-anchor="middle" font-family="ui-monospace, Consolas, monospace" font-size="10.5" font-weight="700" fill="#1E2024">FINISHED</text>
+    <text x="600" y="282" text-anchor="middle" font-family="ui-monospace, Consolas, monospace" font-size="10.5" font-weight="700" fill="#1E2024">FAÇADE</text>
+    <text x="600" y="300" text-anchor="middle" font-family="ui-monospace, Consolas, monospace" font-size="8.5" fill="#1E2024" opacity="0.75">clad to spec · 1.1 / 2.0 / 2.1</text>
+    <!-- dimension ticks on the clad face -->
+    <line x1="524" y1="212" x2="524" y2="330" stroke="#C2703D" stroke-width="1"/>
+    <line x1="520" y1="212" x2="528" y2="212" stroke="#C2703D" stroke-width="1"/>
+    <line x1="520" y1="330" x2="528" y2="330" stroke="#C2703D" stroke-width="1"/>
+  </g>
+
+  <!-- ===== THE COVERAGE LINE — hero datum across the jaw ===== -->
+  <g id="coverline">
+    <line x1="120" y1="330" x2="1080" y2="330" stroke="#1E2024" stroke-width="3.2"/>
+    <!-- datum flags -->
+    <path d="M120 330 l-10 -7 v14 z" fill="#1E2024"/>
+    <path d="M1080 330 l10 -7 v14 z" fill="#1E2024"/>
+    <rect x="150" y="296" width="356" height="28" fill="#F4F1EA" opacity="0.9"/>
+    <text x="150" y="316" font-family="ui-monospace, Consolas, monospace" font-size="13" font-weight="700" fill="#1E2024" letter-spacing="0.5">FACE ROUTINE TERMINATES HERE</text>
+    <rect x="694" y="296" width="386" height="28" fill="#F4F1EA" opacity="0.9"/>
+    <text x="1080" y="316" text-anchor="end" font-family="ui-monospace, Consolas, monospace" font-size="11" fill="#5E7585">most people stop the SPF + retinoid + moisturizer at the jaw</text>
+  </g>
+
+  <!-- ===== THE THREE RED AGE-TELL CORNERS ===== -->
+  <g id="tells" font-family="ui-monospace, Consolas, monospace">
+    <!-- NECK -->
+    <circle cx="628" cy="353" r="7" fill="#D9483B"/>
+    <line x1="635" y1="353" x2="830" y2="372" stroke="#D9483B" stroke-width="1.4"/>
+    <rect x="834" y="356" width="316" height="40" fill="#D9483B" opacity="0.1" stroke="#D9483B" stroke-width="1.2"/>
+    <text x="846" y="374" font-size="12" font-weight="700" fill="#D9483B">NECK · crepes + bands first</text>
+    <text x="846" y="390" font-size="10" fill="#1E2024">chronically sun-raked, never treated</text>
+
+    <!-- DÉCOLLETAGE -->
+    <circle cx="600" cy="418" r="7" fill="#D9483B"/>
+    <line x1="593" y1="418" x2="200" y2="470" stroke="#D9483B" stroke-width="1.4"/>
+    <rect x="60" y="454" width="296" height="40" fill="#D9483B" opacity="0.1" stroke="#D9483B" stroke-width="1.2"/>
+    <text x="72" y="472" font-size="12" font-weight="700" fill="#D9483B">DÉCOLLETAGE · upper chest</text>
+    <text x="72" y="488" font-size="10" fill="#1E2024">vertical sleep + sun lines</text>
+
+    <!-- BACK OF HANDS -->
+    <circle cx="768" cy="762" r="7" fill="#D9483B"/>
+    <line x1="775" y1="762" x2="852" y2="734" stroke="#D9483B" stroke-width="1.4"/>
+    <rect x="856" y="712" width="294" height="56" fill="#D9483B" opacity="0.1" stroke="#D9483B" stroke-width="1.2"/>
+    <text x="868" y="730" font-size="12" font-weight="700" fill="#D9483B">BACK OF HANDS</text>
+    <text x="868" y="746" font-size="10" fill="#1E2024">the proof of the ~80% thesis —</text>
+    <text x="868" y="760" font-size="10" fill="#1E2024">spots + thinning give away the age</text>
+  </g>
+
+  <!-- ===== EXTEND THE LINE DOWN — the warm, near-free repair arrow ===== -->
+  <g id="repair">
+    <path d="M470 330 C 430 470, 430 640, 432 760" fill="none" stroke="#C2703D" stroke-width="3" stroke-dasharray="2 5" marker-end="url(#arrowTerra)"/>
+    <!-- dragging cladding past the jaw: warm bracket over neck + décolletage -->
+    <rect x="572" y="330" width="56" height="46" fill="url(#cladding)" opacity="0.55"/>
+    <path d="M572 376 L628 376 L760 432 L440 432 Z" fill="url(#cladding)" opacity="0.3"/>
+    <rect x="404" y="730" width="56" height="64" fill="url(#cladding)" opacity="0.4"/>
+    <rect x="60" y="556" width="300" height="64" fill="#C2703D" opacity="0.08" stroke="#C2703D" stroke-width="1.4"/>
+    <text x="72" y="578" font-family="ui-monospace, Consolas, monospace" font-size="13" font-weight="700" fill="#C2703D">EXTEND THE LINE DOWN</text>
+    <text x="72" y="596" font-family="ui-monospace, Consolas, monospace" font-size="10.5" fill="#1E2024">same SPF + retinoid you already own —</text>
+    <text x="72" y="611" font-family="ui-monospace, Consolas, monospace" font-size="10.5" fill="#1E2024">just don't stop at the jaw. Almost free.</text>
+  </g>
+
+  <!-- ===== MATERIAL-ZONING OVERLAY — one building, many materials ===== -->
+  <g id="zoning" font-family="ui-monospace, Consolas, monospace" font-size="10">
+    <!-- OILY zone: upper back / chest / shoulders -->
+    <rect x="472" y="434" width="256" height="60" fill="url(#zone)"/>
+    <rect x="490" y="448" width="220" height="30" fill="#F4F1EA" opacity="0.78"/>
+    <text x="600" y="462" text-anchor="middle" font-weight="700" fill="#5E7585">OILY · back / chest / shoulders</text>
+    <text x="600" y="476" text-anchor="middle" fill="#1E2024">→ ACNE  (the bacne fork — see spec)</text>
+
+    <!-- STRETCH zone: lower torso / flanks -->
+    <rect x="472" y="620" width="256" height="86" fill="url(#zone)" opacity="0.7"/>
+    <rect x="494" y="646" width="212" height="30" fill="#F4F1EA" opacity="0.78"/>
+    <text x="600" y="660" text-anchor="middle" font-weight="700" fill="#5E7585">STRETCH ZONES · dermal tears</text>
+    <text x="600" y="674" text-anchor="middle" fill="#1E2024">→ manage, don't promise</text>
+
+    <!-- TEXTURE zone: upper arms + thighs -->
+    <rect x="744" y="434" width="44" height="120" fill="url(#zone)" opacity="0.7"/>
+    <rect x="506" y="710" width="188" height="70" fill="url(#zone)" opacity="0.5"/>
+    <rect x="510" y="726" width="180" height="30" fill="#F4F1EA" opacity="0.78"/>
+    <text x="600" y="740" text-anchor="middle" font-weight="700" fill="#5E7585">TEXTURE · upper arms / thighs</text>
+    <text x="600" y="754" text-anchor="middle" fill="#1E2024">→ keratosis pilaris (KP)</text>
+
+    <!-- DRY zone: shins / forearms -->
+    <rect x="506" y="840" width="188" height="74" fill="url(#zone)" opacity="0.6"/>
+    <rect x="510" y="856" width="180" height="44" fill="#F4F1EA" opacity="0.78"/>
+    <text x="600" y="872" text-anchor="middle" font-weight="700" fill="#5E7585">DRY · shins / forearms</text>
+    <text x="600" y="886" text-anchor="middle" fill="#1E2024">→ flaking / eczema</text>
+    <text x="600" y="900" text-anchor="middle" fill="#1E2024">→ urea + moisturize</text>
+
+    <text x="816" y="828" font-size="10.5" fill="#5E7585" font-weight="700">ONE BUILDING · MANY MATERIALS</text>
+    <text x="816" y="844" font-size="10" fill="#1E2024">you zone it — you do not run one</text>
+    <text x="816" y="858" font-size="10" fill="#1E2024">protocol over the whole structure.</text>
+    <text x="816" y="872" font-size="10" fill="#1E2024" opacity="0.7">this is what makes the body a</text>
+    <text x="816" y="886" font-size="10" fill="#1E2024" opacity="0.7">different organ — not a bigger face.</text>
+  </g>
+
+  <!-- ===== FINITE SUBSTRATE — below grade (reused device) ===== -->
+  <g id="substrate">
+    <line x1="150" y1="920" x2="1050" y2="920" stroke="#1E2024" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.8"/>
+    <text x="154" y="936" font-family="ui-monospace, Consolas, monospace" font-size="10.5" fill="#1E2024" opacity="0.8">GROUND LINE — below grade · the finite substrate (1.1 callback)</text>
+    <rect x="150" y="944" width="900" height="58" fill="url(#lattice)"/>
+    <rect x="150" y="944" width="900" height="58" fill="none" stroke="#1E2024" stroke-width="1.2" opacity="0.6"/>
+    <text x="600" y="978" text-anchor="middle" font-family="ui-monospace, Consolas, monospace" font-size="11.5" font-weight="700" fill="#1E2024">BODY SKIN: thicker · slower turnover · slower healing · built, not bought.</text>
+  </g>
+
+  <!-- ===== SPEC SHEET — slate instrument docks (1030–1300) ===== -->
+  <g id="spec">
+    <text x="48" y="1030" font-family="ui-monospace, Consolas, monospace" font-size="11" font-weight="700" fill="#5E7585" letter-spacing="2">ZONING SPEC SHEET — PER-ZONE MOVES</text>
+
+    <!-- card 1: THE BACNE FORK (must-not-get-wrong) -->
+    <g>
+      <rect x="48" y="1044" width="430" height="184" rx="6" fill="#5E7585" opacity="0.07"/>
+      <rect x="48" y="1044" width="430" height="184" rx="6" fill="none" stroke="#5E7585" stroke-width="1.4"/>
+      <text x="66" y="1072" font-size="14" font-weight="700" fill="#5E7585">THE BACNE FORK</text>
+      <text x="462" y="1072" text-anchor="end" font-family="ui-monospace, Consolas, monospace" font-size="9.5" fill="#D9483B" font-weight="700">get this one right</text>
+      <line x1="66" y1="1082" x2="460" y2="1082" stroke="#5E7585" stroke-width="0.8" opacity="0.5"/>
+      <!-- two-way split -->
+      <line x1="263" y1="1090" x2="263" y2="1188" stroke="#5E7585" stroke-width="0.8" opacity="0.5" stroke-dasharray="2 3"/>
+      <g font-family="ui-monospace, Consolas, monospace">
+        <text x="66" y="1106" font-size="11" font-weight="700" fill="#1E2024">BACTERIAL / HORMONAL</text>
+        <text x="66" y="1124" font-size="10" fill="#1E2024">benzoyl-peroxide wash</text>
+        <text x="66" y="1140" font-size="10" fill="#1E2024">+ salicylic</text>
+        <text x="66" y="1156" font-size="10" fill="#1E2024" opacity="0.85">(systemic → see 2.1)</text>
+
+        <text x="278" y="1106" font-size="11" font-weight="700" fill="#1E2024">FUNGAL · Malassezia</text>
+        <text x="278" y="1124" font-size="10" fill="#D9483B" font-weight="700">→ ANTIFUNGAL</text>
+        <text x="278" y="1140" font-size="10" fill="#1E2024">does NOT respond to</text>
+        <text x="278" y="1156" font-size="10" fill="#1E2024">acne tx · rampant in</text>
+        <text x="278" y="1172" font-size="10" fill="#1E2024">tropical sweat/humidity</text>
+      </g>
+      <rect x="66" y="1196" width="394" height="22" fill="#C2703D" opacity="0.1"/>
+      <text x="263" y="1211" text-anchor="middle" font-family="ui-monospace, Consolas, monospace" font-size="10.5" font-weight="700" fill="#1E2024">the 90% = sweat hygiene · shower post-gym · breathable fabric</text>
+    </g>
+
+    <!-- card 2: KP + STRETCH (stacked) -->
+    <g>
+      <rect x="494" y="1044" width="320" height="184" rx="6" fill="#5E7585" opacity="0.07"/>
+      <rect x="494" y="1044" width="320" height="184" rx="6" fill="none" stroke="#5E7585" stroke-width="1.4"/>
+      <text x="512" y="1072" font-size="13" font-weight="700" fill="#5E7585">KERATOSIS PILARIS</text>
+      <line x1="512" y1="1082" x2="796" y2="1082" stroke="#5E7585" stroke-width="0.8" opacity="0.5"/>
+      <g font-family="ui-monospace, Consolas, monospace" font-size="10" fill="#1E2024">
+        <text x="512" y="1102">"chicken skin" — benign keratin plug</text>
+        <text x="512" y="1118">urea 10–20% / lactic / salicylic · gentle</text>
+        <text x="512" y="1134" font-weight="700" fill="#5E7585">manage, not cure · don't scrub raw</text>
+      </g>
+      <!-- stretch-mark honesty gauge -->
+      <text x="512" y="1162" font-size="13" font-weight="700" fill="#5E7585">STRETCH-MARK HONESTY</text>
+      <rect x="512" y="1172" width="284" height="18" rx="9" fill="url(#zone)"/>
+      <rect x="512" y="1172" width="120" height="18" rx="9" fill="#C2703D" opacity="0.45"/>
+      <rect x="660" y="1172" width="136" height="18" rx="9" fill="#1E2024" opacity="0.22"/>
+      <text x="516" y="1185" font-family="ui-monospace, Consolas, monospace" font-size="9" font-weight="700" fill="#1E2024">RUBRAE → some</text>
+      <text x="792" y="1185" text-anchor="end" font-family="ui-monospace, Consolas, monospace" font-size="9" font-weight="700" fill="#1E2024">ALBAE → permanent</text>
+      <text x="512" y="1208" font-family="ui-monospace, Consolas, monospace" font-size="9.5" fill="#1E2024">red/early: retinoid · 2.1 procedures</text>
+      <text x="512" y="1222" font-family="ui-monospace, Consolas, monospace" font-size="9.5" fill="#1E2024" opacity="0.8">white/mature: grey, not alarm — manage, don't promise</text>
+    </g>
+
+    <!-- card 3: MINIMUM BODY ROUTINE -->
+    <g>
+      <rect x="830" y="1044" width="322" height="184" rx="6" fill="#5E7585" opacity="0.07"/>
+      <rect x="830" y="1044" width="322" height="184" rx="6" fill="none" stroke="#5E7585" stroke-width="1.4"/>
+      <text x="848" y="1072" font-size="13" font-weight="700" fill="#5E7585">MINIMUM BODY ROUTINE</text>
+      <line x1="848" y1="1082" x2="1134" y2="1082" stroke="#5E7585" stroke-width="0.8" opacity="0.5"/>
+      <g font-family="ui-monospace, Consolas, monospace" font-size="10.5" fill="#1E2024">
+        <text x="848" y="1104"><tspan font-weight="700" fill="#C2703D">1 </tspan>gentle wash</text>
+        <text x="848" y="1126"><tspan font-weight="700" fill="#C2703D">2 </tspan>urea / body moisturizer</text>
+        <text x="848" y="1148"><tspan font-weight="700" fill="#C2703D">3 </tspan>SPF on exposed skin</text>
+        <text x="848" y="1170"><tspan font-weight="700" fill="#C2703D">4 </tspan>BP / antifungal wash as needed</text>
+        <text x="848" y="1192"><tspan font-weight="700" fill="#C2703D">5 </tspan>(optional) body retinoid PM</text>
+      </g>
+      <rect x="848" y="1202" width="286" height="18" fill="#C2703D" opacity="0.1"/>
+      <text x="991" y="1215" text-anchor="middle" font-family="ui-monospace, Consolas, monospace" font-size="9.5" font-weight="700" fill="#1E2024">90% = sun + sweat hygiene + moisturize · don't over-build</text>
+    </g>
+  </g>
+
+  <!-- ===== BOTTOM BAND: thesis + leverage punch (1255–1490) ===== -->
+  <g id="bottom">
+    <line x1="48" y1="1268" x2="1152" y2="1268" stroke="#1E2024" stroke-width="1.2"/>
+    <text x="48" y="1320" font-size="28" font-weight="700" fill="#1E2024" letter-spacing="0.5">THE WEATHER NEVER STOPPED</text>
+    <text x="48" y="1358" font-size="28" font-weight="700" fill="#D9483B" letter-spacing="0.5">AT YOUR JAW.</text>
+
+    <!-- leverage strip -->
+    <g font-family="ui-monospace, Consolas, monospace">
+      <rect x="612" y="1288" width="540" height="62" rx="6" fill="#C2703D" opacity="0.09" stroke="#C2703D" stroke-width="1.4"/>
+      <text x="630" y="1312" font-size="13" font-weight="700" fill="#C2703D">NECK + BACK OF HANDS = HIGHEST LEVERAGE</text>
+      <text x="630" y="1332" font-size="11" fill="#1E2024">near-zero cost · the same SPF + retinoid you own —</text>
+      <text x="630" y="1347" font-size="11" font-weight="700" fill="#1E2024">just don't stop at the jaw.</text>
+    </g>
+
+    <text x="48" y="1402" font-family="ui-monospace, Consolas, monospace" font-size="11.5" fill="#1E2024">Below the jaw is a different organ: oily back, dry shins,</text>
+    <text x="48" y="1420" font-family="ui-monospace, Consolas, monospace" font-size="11.5" fill="#1E2024">chicken-skin arms — each its own cheap fix. But the single</text>
+    <text x="48" y="1438" font-family="ui-monospace, Consolas, monospace" font-size="11.5" font-weight="700" fill="#C2703D">highest-leverage move costs almost nothing: extend the line down.</text>
+
+    <text x="630" y="1402" font-family="ui-monospace, Consolas, monospace" font-size="10.5" fill="#D9483B" font-weight="700">⚠ red = photodamage only — UV + the three exposed corners.</text>
+    <text x="630" y="1420" font-family="ui-monospace, Consolas, monospace" font-size="10" fill="#1E2024" opacity="0.75">stretch marks · KP · acne are warm/grey conditions, not the force.</text>
+    <text x="630" y="1438" font-family="ui-monospace, Consolas, monospace" font-size="10" fill="#1E2024" opacity="0.6">Architect's Elevation / Spec Sheet — Site Elevation / Zoning Plan pull-back · the locked Attractive style</text>
+  </g>
+</svg>

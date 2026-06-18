@@ -1,0 +1,387 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1450" viewBox="0 0 1920 1450" font-family="Inter,'Helvetica Neue','DejaVu Sans',Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0C1118"/><stop offset="1" stop-color="#090C11"/></linearGradient>
+<pattern id="vgrid" width="80" height="80" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="80" stroke="#10161E" stroke-width="1" opacity="0.55"/></pattern>
+<pattern id="hgrid" width="80" height="80" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="80" y2="0" stroke="#10161E" stroke-width="1" opacity="0.35"/></pattern>
+<pattern id="ghosthatch" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="14" stroke="#3A4654" stroke-width="2" opacity="0.5"/></pattern>
+<pattern id="redhatch" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="12" stroke="#7A2327" stroke-width="2.5" opacity="0.55"/></pattern>
+<pattern id="amberhatch" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="12" stroke="#6E5526" stroke-width="2.5" opacity="0.5"/></pattern>
+<linearGradient id="grfill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5FBE74" stop-opacity="0.55"/><stop offset="1" stop-color="#5FBE74" stop-opacity="0.18"/></linearGradient>
+<linearGradient id="grfillStrong" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5FBE74" stop-opacity="0.85"/><stop offset="1" stop-color="#3E8F52" stop-opacity="0.55"/></linearGradient>
+<linearGradient id="tankfaint" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2A3340" stop-opacity="0.25"/><stop offset="1" stop-color="#5FBE74" stop-opacity="0.10"/></linearGradient>
+<radialGradient id="grGlow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#5FBE74" stop-opacity="0.6"/><stop offset="1" stop-color="#5FBE74" stop-opacity="0"/></radialGradient>
+<radialGradient id="rdGlow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#C0392B" stop-opacity="0.6"/><stop offset="1" stop-color="#C0392B" stop-opacity="0"/></radialGradient>
+<marker id="arrSlate" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#6A7585"/></marker>
+<marker id="arrRd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#C0392B"/></marker>
+</defs>
+
+<rect x="0" y="0" width="1920" height="1450" fill="url(#bg)"/>
+<rect x="0" y="0" width="1920" height="1450" fill="url(#vgrid)"/>
+<rect x="0" y="0" width="1920" height="1450" fill="url(#hgrid)"/>
+
+<!-- ================= HEADER ================= -->
+<g id="header" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<line x1="40" y1="42" x2="1880" y2="42" stroke="#46586A" stroke-width="1"/>
+<line x1="40" y1="42" x2="40" y2="54" stroke="#46586A" stroke-width="1"/>
+<line x1="1880" y1="42" x2="1880" y2="54" stroke="#46586A" stroke-width="1"/>
+<text x="40" y="74" font-size="13" fill="#8C99A8" letter-spacing="2">FIT · PERFORMANCE ENHANCEMENT · PART 5.2 — COST · CLOSE OF ARC 5.0 › 5.1 › 5.2 · CAPSTONE OF THE 15-ARTICLE TRACK</text>
+<text x="1880" y="74" font-size="13" fill="#6A7585" letter-spacing="2" text-anchor="end">INSTRUMENT № PE-5.2 · PROVISIONING DEPOT / BURN-RATE METERING LEDGER</text>
+<text x="40" y="146" font-family="Inter,'Helvetica Neue','DejaVu Sans',Arial,sans-serif" font-size="62" font-weight="600" fill="#E6ECF2" letter-spacing="0.5">BUDGET THE BURN RATE, NOT THE RECEIPT</text>
+<text x="40" y="180" font-size="15" fill="#8C99A8">cost is not an affordability problem — it's an uncertainty problem. plan the year, meter the monthly burn, and the gear turns out to be the cheap part. food is the bill.</text>
+<text x="1880" y="116" font-size="13" fill="#C7D2DE" text-anchor="end" letter-spacing="1">AXIS = MONEY / UNITS  (not time — time is only the run-out flags)</text>
+<text x="1880" y="138" font-size="13" fill="#5FBE74" text-anchor="end" letter-spacing="1">GREEN = MONEY THAT ACTUALLY FLOWS EACH MONTH</text>
+<text x="1880" y="160" font-size="13" fill="#E3B23C" text-anchor="end" letter-spacing="1">AMBER = FORESEEABLE SURPRISE / CONTINGENCY (NOT HARM)</text>
+<text x="1880" y="182" font-size="13" fill="#C0392B" text-anchor="end" letter-spacing="1">RED = THE ONE GO / NO-GO: THE FOOD-READINESS GATE</text>
+<line x1="40" y1="200" x2="1880" y2="200" stroke="#46586A" stroke-width="1"/>
+</g>
+
+<!-- thesis lockup strip -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" letter-spacing="1.5" text-anchor="middle">
+<text x="960" y="230" fill="#9FB0C0">TWO DOCUMENTS KILL THE PANIC &#160;·&#160; A BUDGETING PLAN &#160;+&#160; A STOCK PLAN &#160;·&#160; THEN SPENDING IS PREDICTABLE, NOT SCARY</text>
+</g>
+
+<!-- ================= STEP BANNER STRIP ================= -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="12" letter-spacing="0.5">
+<rect x="40" y="252" width="430" height="34" rx="5" fill="#0E141C" stroke="#2C3A48"/>
+<text x="58" y="274" fill="#9FB0C0">① PLAN THE CYCLE, LIST EVERY VARIABLE</text>
+<rect x="482" y="252" width="806" height="34" rx="5" fill="#0E141C" stroke="#2C3A48"/>
+<text x="500" y="274" fill="#9FB0C0">② PREDICT THE STOCK, THEN THE COST &#160;&#160;·&#160;&#160; ③ HOLD A STOCK PLAN TO YEAR-END</text>
+<rect x="1300" y="252" width="580" height="34" rx="5" fill="#0E141C" stroke="#2C3A48"/>
+<text x="1318" y="274" fill="#9FB0C0">④ BUDGET THE PART THAT ACTUALLY COSTS MORE</text>
+</g>
+
+<!-- ================= COLUMN A : PLANNING MANIFEST ================= -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="40" y="306" width="430" height="800" rx="8" fill="#0E141C" stroke="#33414F" stroke-width="1"/>
+<rect x="40" y="306" width="430" height="58" rx="8" fill="#141C26"/>
+<text x="58" y="332" font-size="13.5" fill="#C7D2DE" font-weight="600" letter-spacing="0.5">THE PLANNING MANIFEST</text>
+<text x="58" y="352" font-size="10.5" fill="#7B8593">YOU CAN'T BUDGET WHAT YOU HAVEN'T PLANNED</text>
+<text x="452" y="332" font-size="10" fill="#5C6776" text-anchor="end">STEP ①</text>
+<text x="58" y="384" font-size="10" fill="#7B8593">&#8592; from 3.2 cycle design &#160;&#160; &#8592; from 5.1 year map</text>
+
+<text x="58" y="412" font-size="11.5" fill="#9FB0C0" font-weight="600">COMPOUNDS &#160;<tspan fill="#5C6776">dose × weeks = total</tspan></text>
+<text x="70" y="430" font-size="10" fill="#7B8593">Test base · maybe EQ · the occasional oral</text>
+<text x="70" y="444" font-size="10" fill="#7B8593">HCG / HMG for the down-period</text>
+
+<text x="58" y="472" font-size="11.5" fill="#9FB0C0" font-weight="600">ANCILLARY TIERS</text>
+<text x="70" y="490" font-size="10" fill="#7B8593">all-year baby-dose CORE — ARB · tadalafil ·</text>
+<text x="70" y="504" font-size="10" fill="#7B8593">aspirin · rosuvastatin ± ezetimibe</text>
+<text x="70" y="518" font-size="10" fill="#7B8593">SITUATIONAL — TUDCA/NAC on orals · P5P with</text>
+<text x="70" y="532" font-size="10" fill="#7B8593">19-nors · T4 with GH · glucose agent with GH</text>
+
+<text x="58" y="560" font-size="11.5" fill="#9FB0C0" font-weight="600">BLOODWORK &#160;<tspan fill="#5C6776">a real recurring line</tspan></text>
+<text x="70" y="578" font-size="10" fill="#7B8593">baseline + quarterly + change-points</text>
+
+<text x="58" y="606" font-size="11.5" fill="#9FB0C0" font-weight="600">MONITORING GEAR &#160;<tspan fill="#5C6776">one-off</tspan></text>
+<text x="70" y="624" font-size="10" fill="#7B8593">BP cuff · glucometer · wearable</text>
+
+<text x="58" y="652" font-size="11.5" fill="#9FB0C0" font-weight="600">DAILY CONSUMABLES</text>
+<text x="70" y="670" font-size="10" fill="#7B8593">electrolytes · creatine · omega-3 ·</text>
+<text x="70" y="684" font-size="10" fill="#7B8593">liver / antioxidant support</text>
+
+<line x1="58" y1="704" x2="452" y2="704" stroke="#222B35"/>
+<text x="58" y="726" font-size="11" fill="#E3B23C" font-weight="600">FOLD-OUT CONTINGENCY TABS &#160; IF X &#8594; +RM Y</text>
+</g>
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="10">
+<rect x="58" y="736" width="394" height="22" rx="4" fill="#1A1606" stroke="#6E5526"/><text x="68" y="751" fill="#C8A23C">dose escalation &#8594; +vials</text>
+<rect x="58" y="762" width="394" height="22" rx="4" fill="#1A1606" stroke="#6E5526"/><text x="68" y="777" fill="#C8A23C">add a compound &#8594; +line + more bloods</text>
+<rect x="58" y="788" width="394" height="22" rx="4" fill="#1A1606" stroke="#6E5526"/><text x="68" y="803" fill="#C8A23C">cut phase &#8594; +fat-burners + electrolytes</text>
+<rect x="58" y="814" width="394" height="22" rx="4" fill="#1A1606" stroke="#6E5526"/><text x="68" y="829" fill="#C8A23C">hot season &#8594; +water / salt / potassium</text>
+<rect x="58" y="840" width="394" height="22" rx="4" fill="#1A1606" stroke="#6E5526"/><text x="68" y="855" fill="#C8A23C">change anything &#8594; +bloodwork</text>
+</g>
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<line x1="58" y1="882" x2="452" y2="882" stroke="#222B35"/>
+<text x="58" y="906" font-size="10.5" fill="#8C99A8">name the variables that move the bill</text>
+<text x="58" y="922" font-size="10.5" fill="#8C99A8">BEFORE they move it — then a dose hike or</text>
+<text x="58" y="938" font-size="10.5" fill="#8C99A8">a hot month is a <tspan fill="#C7D2DE">known cost, not a panic.</tspan></text>
+<rect x="58" y="958" width="394" height="130" rx="6" fill="#0B1017" stroke="#2C3A48"/>
+<text x="74" y="982" font-size="11" fill="#9FB0C0" font-weight="600">THE TWO DOCUMENTS</text>
+<text x="74" y="1006" font-size="10.5" fill="#C7D2DE">▣ BUDGETING PLAN — what leaves the account</text>
+<text x="88" y="1020" font-size="10" fill="#7B8593">each month, by category.</text>
+<text x="74" y="1044" font-size="10.5" fill="#C7D2DE">▣ STOCK PLAN — what to buy, in what bulk,</text>
+<text x="88" y="1058" font-size="10" fill="#7B8593">and when each item runs out.</text>
+<text x="74" y="1080" font-size="10" fill="#5FBE74">together they turn a scary receipt into a drip.</text>
+</g>
+
+<!-- ================= COLUMN B : BULK RESERVOIR BANK ================= -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<text x="490" y="332" font-size="13.5" fill="#C7D2DE" font-weight="600" letter-spacing="0.5">THE BULK RESERVOIR BANK</text>
+<text x="490" y="352" font-size="10.5" fill="#7B8593">fill height = the bulk CART you bought once &#160;·&#160; spout width = the true MONTHLY BURN &#160;·&#160; flag = run-out date</text>
+<!-- governing law plate (brass), top-right of bank -->
+<rect x="848" y="308" width="416" height="46" rx="6" fill="#16130A" stroke="#7E6A2E" stroke-width="1.5"/>
+<text x="1056" y="331" font-size="14" fill="#E3D08A" text-anchor="middle" font-weight="600" letter-spacing="0.5">MONTHLY = (CART ÷ SUPPLY-DAYS) × 30</text>
+<text x="1056" y="347" font-size="10" fill="#B59B53" text-anchor="middle">a RM100 box that lasts 600 days is RM5 / MONTH — not RM100</text>
+</g>
+
+<!-- tank baseline + money axis -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<line x1="488" y1="838" x2="1280" y2="838" stroke="#46586A" stroke-width="1.5"/>
+<text x="490" y="856" font-size="10" fill="#6A7585">↑ tall tank = big one-time cart &#160;|&#160; thin spout = cheap per month — the protective core is exactly this shape</text>
+</g>
+
+<!-- 1 IRBESARTAN — medium tank, moderate spout -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="500" y="600" width="64" height="238" rx="3" fill="url(#grfill)" stroke="#5FBE74" stroke-width="1.3" opacity="0.9"/>
+<rect x="525" y="838" width="14" height="32" fill="#5FBE74" opacity="0.8"/>
+<polygon points="500,592 522,592 518,600 504,600" fill="#E3B23C" opacity="0.85"/>
+<text x="500" y="586" font-size="9" fill="#C8A23C">~4 mo</text>
+<text x="532" y="502" font-size="10.5" fill="#C7D2DE" text-anchor="middle" font-weight="600">IRBESARTAN</text>
+<text x="532" y="516" font-size="8.5" fill="#7B8593" text-anchor="middle">ARB · 75–150 mg</text>
+<text x="532" y="892" font-size="10.5" fill="#5FBE74" text-anchor="middle" font-weight="600">~RM35/mo</text>
+</g>
+
+<!-- 2 ROSUVASTATIN — tall tank, hair spout, SPLITTER -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="600" y="470" width="64" height="368" rx="3" fill="url(#grfill)" stroke="#5FBE74" stroke-width="1.3" opacity="0.55"/>
+<rect x="629" y="838" width="5" height="32" fill="#5FBE74" opacity="0.8"/>
+<polygon points="600,462 622,462 618,470 604,470" fill="#E3B23C" opacity="0.85"/>
+<text x="600" y="456" font-size="9" fill="#C8A23C">~1.5 yr</text>
+<text x="632" y="502" font-size="10" fill="#C7D2DE" text-anchor="middle" font-weight="600">ROSUVASTATIN</text>
+<text x="632" y="516" font-size="8.5" fill="#7B8593" text-anchor="middle">5–10 mg · SPLIT</text>
+<text x="632" y="892" font-size="10" fill="#5FBE74" text-anchor="middle" font-weight="600">~RM6–12/mo</text>
+<text x="632" y="660" font-size="8.5" fill="#9FB0C0" text-anchor="middle">tall tank,</text>
+<text x="632" y="671" font-size="8.5" fill="#9FB0C0" text-anchor="middle">hair spout</text>
+</g>
+
+<!-- 3 ASPIRIN — tall tank, hair spout -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="700" y="478" width="64" height="360" rx="3" fill="url(#grfill)" stroke="#5FBE74" stroke-width="1.3" opacity="0.5"/>
+<rect x="730" y="838" width="4" height="32" fill="#5FBE74" opacity="0.8"/>
+<polygon points="700,470 722,470 718,478 704,478" fill="#E3B23C" opacity="0.85"/>
+<text x="700" y="464" font-size="9" fill="#C8A23C">~1.5 yr</text>
+<text x="732" y="502" font-size="10.5" fill="#C7D2DE" text-anchor="middle" font-weight="600">ASPIRIN</text>
+<text x="732" y="516" font-size="8.5" fill="#7B8593" text-anchor="middle">100 mg ED</text>
+<text x="732" y="892" font-size="10.5" fill="#5FBE74" text-anchor="middle" font-weight="600">~RM5/mo</text>
+<text x="732" y="660" font-size="8.5" fill="#9FB0C0" text-anchor="middle">cheapest</text>
+</g>
+
+<!-- 4 TADALAFIL — medium-tall tank -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="800" y="560" width="64" height="278" rx="3" fill="url(#grfill)" stroke="#5FBE74" stroke-width="1.3" opacity="0.85"/>
+<rect x="824" y="838" width="16" height="32" fill="#5FBE74" opacity="0.8"/>
+<polygon points="800,552 822,552 818,560 804,560" fill="#E3B23C" opacity="0.85"/>
+<text x="800" y="546" font-size="9" fill="#C8A23C">~6 mo</text>
+<text x="832" y="502" font-size="10.5" fill="#C7D2DE" text-anchor="middle" font-weight="600">TADALAFIL</text>
+<text x="832" y="516" font-size="8.5" fill="#7B8593" text-anchor="middle">5 mg ED</text>
+<text x="832" y="892" font-size="9.5" fill="#5FBE74" text-anchor="middle" font-weight="600">~RM15–25/mo</text>
+</g>
+
+<!-- 5 TRAZODONE — medium tank, wider spout, SPLITTER -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="900" y="620" width="64" height="218" rx="3" fill="url(#grfill)" stroke="#5FBE74" stroke-width="1.3" opacity="0.9"/>
+<rect x="921" y="838" width="22" height="32" fill="#5FBE74" opacity="0.85"/>
+<polygon points="900,612 922,612 918,620 904,620" fill="#E3B23C" opacity="0.85"/>
+<text x="900" y="606" font-size="9" fill="#C8A23C">2 boxes</text>
+<text x="932" y="502" font-size="10.5" fill="#C7D2DE" text-anchor="middle" font-weight="600">TRAZODONE</text>
+<text x="932" y="516" font-size="8.5" fill="#7B8593" text-anchor="middle">25–50 · SPLIT</text>
+<text x="932" y="892" font-size="9.5" fill="#5FBE74" text-anchor="middle" font-weight="600">~RM37–73/mo</text>
+</g>
+
+<!-- 6 TUDCA + NAC — SITUATIONAL, valve CLOSED -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="1000" y="650" width="64" height="188" rx="3" fill="url(#tankfaint)" stroke="#C8A23C" stroke-width="1.3" stroke-dasharray="5 4" opacity="0.85"/>
+<rect x="1023" y="838" width="18" height="14" fill="none" stroke="#C8A23C" stroke-width="1.3"/>
+<line x1="1023" y1="852" x2="1041" y2="852" stroke="#C8A23C" stroke-width="2"/>
+<polygon points="1000,642 1022,642 1018,650 1004,650" fill="#C8A23C" opacity="0.7"/>
+<text x="1032" y="502" font-size="10" fill="#C8A23C" text-anchor="middle" font-weight="600">TUDCA+NAC</text>
+<text x="1032" y="516" font-size="8.5" fill="#7B8593" text-anchor="middle">oral phases ONLY</text>
+<text x="1032" y="888" font-size="8.5" fill="#C8A23C" text-anchor="middle">VALVE CLOSED — opens</text>
+<text x="1032" y="899" font-size="8.5" fill="#C8A23C" text-anchor="middle">only on an oral block</text>
+</g>
+
+<!-- 7 TEST (base) — SEASONAL tank -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="1100" y="520" width="64" height="318" rx="3" fill="url(#tankfaint)" stroke="#9FB0C0" stroke-width="1.3" stroke-dasharray="7 5" opacity="0.8"/>
+<rect x="1124" y="838" width="16" height="32" fill="#9FB0C0" opacity="0.55"/>
+<polygon points="1100,512 1122,512 1118,520 1104,520" fill="#9FB0C0" opacity="0.7"/>
+<text x="1100" y="506" font-size="9" fill="#9FB0C0">seasonal</text>
+<text x="1132" y="502" font-size="10.5" fill="#C7D2DE" text-anchor="middle" font-weight="600">TEST (base)</text>
+<text x="1132" y="516" font-size="8.5" fill="#7B8593" text-anchor="middle">~250/wk · per blast</text>
+<text x="1132" y="888" font-size="8.5" fill="#9FB0C0" text-anchor="middle">a SEASONAL tank,</text>
+<text x="1132" y="899" font-size="8.5" fill="#9FB0C0" text-anchor="middle">not a monthly one</text>
+</g>
+
+<!-- 8 BLOODWORK — metered SERVICE -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="1200" y="560" width="64" height="278" rx="3" fill="none" stroke="#5FBE74" stroke-width="1.3" stroke-dasharray="2 4" opacity="0.7"/>
+<g stroke="#5FBE74" stroke-width="1.2" opacity="0.7">
+<line x1="1200" y1="600" x2="1214" y2="600"/><line x1="1200" y1="650" x2="1214" y2="650"/><line x1="1200" y1="700" x2="1214" y2="700"/><line x1="1200" y1="750" x2="1214" y2="750"/><line x1="1200" y1="800" x2="1214" y2="800"/>
+</g>
+<rect x="1224" y="838" width="16" height="32" fill="#5FBE74" opacity="0.7"/>
+<text x="1232" y="502" font-size="10.5" fill="#C7D2DE" text-anchor="middle" font-weight="600">BLOODWORK</text>
+<text x="1232" y="516" font-size="8.5" fill="#7B8593" text-anchor="middle">baseline+quarterly</text>
+<text x="1232" y="888" font-size="9.5" fill="#5FBE74" text-anchor="middle" font-weight="600">~RM50–130/mo</text>
+<text x="1232" y="899" font-size="8" fill="#7B8593" text-anchor="middle">amortised service</text>
+</g>
+
+<!-- TABLET-SPLITTER clamps -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="606" y="744" width="52" height="20" rx="3" fill="#12202A" stroke="#5FBE74" stroke-width="1"/>
+<line x1="632" y1="744" x2="632" y2="764" stroke="#5FBE74" stroke-width="1.4"/>
+<text x="632" y="758" font-size="8" fill="#9FE3AE" text-anchor="middle">10→5 mg</text>
+<rect x="906" y="744" width="52" height="20" rx="3" fill="#12202A" stroke="#5FBE74" stroke-width="1"/>
+<line x1="932" y1="744" x2="932" y2="764" stroke="#5FBE74" stroke-width="1.4"/>
+<text x="932" y="758" font-size="8" fill="#9FE3AE" text-anchor="middle">50→25</text>
+</g>
+
+<!-- READING THE PLAN + SPLITTER caption, below tanks -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<rect x="490" y="936" width="494" height="86" rx="6" fill="#0B1017" stroke="#33414F"/>
+<text x="506" y="958" font-size="11.5" fill="#9FB0C0" font-weight="600">READING THE PLAN</text>
+<text x="506" y="982" font-size="11" fill="#C7D2DE">upfront cart <tspan fill="#E3B23C">RM500–600</tspan> (paid ONCE) &#8594;</text>
+<text x="506" y="998" font-size="11" fill="#C7D2DE">protective monthly burn <tspan fill="#5FBE74">~RM60–80/mo</tspan> (what recurs).</text>
+<text x="506" y="1014" font-size="10" fill="#8C99A8">prep once, then re-buy ONLY the fast movers.</text>
+
+<rect x="994" y="936" width="286" height="86" rx="6" fill="#0B1017" stroke="#2C3A48"/>
+<text x="1010" y="958" font-size="11" fill="#5FBE74" font-weight="600">TABLET-SPLITTER — the bonus saving</text>
+<text x="1010" y="978" font-size="10" fill="#9FB0C0">halves the spout, DOUBLES the run-out.</text>
+<text x="1010" y="994" font-size="9.5" fill="#7B8593">lowers the dose (good — lowest effective)</text>
+<text x="1010" y="1008" font-size="9.5" fill="#7B8593">AND stretches the box — often the single</text>
+<text x="1010" y="1020" font-size="9.5" fill="#C7D2DE">biggest saving.</text>
+</g>
+
+<!-- burn collection rail (thin green flow, light) -->
+<g>
+<path d="M532,870 L532,1052 L1270,1052" fill="none" stroke="#3E8F52" stroke-width="1.5" opacity="0.55"/>
+<path d="M632,870 L632,1052" stroke="#3E8F52" stroke-width="1" opacity="0.45"/>
+<path d="M732,870 L732,1052" stroke="#3E8F52" stroke-width="1" opacity="0.45"/>
+<path d="M832,870 L832,1052" stroke="#3E8F52" stroke-width="1" opacity="0.45"/>
+<path d="M932,870 L932,1052" stroke="#3E8F52" stroke-width="1" opacity="0.45"/>
+<path d="M1232,870 L1232,1052" stroke="#3E8F52" stroke-width="1" opacity="0.45"/>
+<text x="1060" y="1046" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="9.5" fill="#5FBE74">monthly burn converges into the ledger &#8594;</text>
+</g>
+
+<!-- divider between bank and right column -->
+<line x1="1290" y1="306" x2="1290" y2="1088" stroke="#222B35" stroke-width="1"/>
+
+<!-- ================= RIGHT COLUMN TOP : RECEIPT-VS-METER PARADOX ================= -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<text x="1310" y="334" font-size="13.5" fill="#C7D2DE" font-weight="600" letter-spacing="0.5">THE RECEIPT-VS-METER PARADOX</text>
+<text x="1310" y="352" font-size="10" fill="#7B8593">the myth-buster — the receipt is paid once; the meter is the bill</text>
+
+<!-- RECEIPT column : tall, amber, paid once -->
+<rect x="1330" y="406" width="74" height="226" rx="3" fill="url(#amberhatch)" opacity="0.5"/>
+<rect x="1330" y="406" width="74" height="226" rx="3" fill="none" stroke="#E3B23C" stroke-width="1.4"/>
+<path d="M1367,406 q14,-20 -2,-36 q-14,-16 4,-32" fill="none" stroke="#C8A23C" stroke-width="1.3"/>
+<text x="1367" y="394" font-size="9" fill="#C8A23C" text-anchor="middle">▤ ▤ ▤</text>
+<text x="1367" y="524" font-size="17" fill="#E3D08A" text-anchor="middle" font-weight="600" transform="rotate(-90 1367 524)">RM500–600</text>
+<text x="1367" y="652" font-size="9.5" fill="#C8A23C" text-anchor="middle">WHAT YOU</text>
+<text x="1367" y="664" font-size="9.5" fill="#C8A23C" text-anchor="middle">BRACE FOR</text>
+
+<!-- conversion arrow w/ formula -->
+<line x1="1414" y1="500" x2="1474" y2="500" stroke="#9FB0C0" stroke-width="1.4" marker-end="url(#arrSlate)"/>
+<text x="1444" y="490" font-size="9" fill="#9FB0C0" text-anchor="middle">÷ supply-days</text>
+<text x="1444" y="516" font-size="9" fill="#9FB0C0" text-anchor="middle">× 30</text>
+
+<!-- METER drip : thin, green, recurring -->
+<rect x="1486" y="500" width="12" height="132" rx="2" fill="url(#grfillStrong)"/>
+<rect x="1486" y="500" width="12" height="132" rx="2" fill="none" stroke="#5FBE74" stroke-width="1.2"/>
+<circle cx="1492" cy="646" r="3.5" fill="#5FBE74"/>
+<text x="1520" y="520" font-size="14" fill="#5FBE74" font-weight="600">~RM60–80</text>
+<text x="1520" y="537" font-size="10.5" fill="#5FBE74">/ month</text>
+<text x="1520" y="562" font-size="10" fill="#9FB0C0">WHAT ACTUALLY RECURS</text>
+<text x="1520" y="586" font-size="9.5" fill="#7B8593">a hair-thin drip,</text>
+<text x="1520" y="599" font-size="9.5" fill="#7B8593">paid every month.</text>
+
+<!-- stamp -->
+<rect x="1520" y="612" width="360" height="20" rx="4" fill="#16130A" stroke="#7E6A2E"/>
+<text x="1700" y="626" font-size="11" fill="#E3D08A" text-anchor="middle" font-weight="600">THE RECEIPT IS PAID ONCE. THE METER IS THE BILL.</text>
+</g>
+
+<!-- ================= RIGHT COLUMN BOTTOM : INVERTED LEDGER ================= -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<line x1="1310" y1="664" x2="1880" y2="664" stroke="#222B35"/>
+<text x="1310" y="690" font-size="13.5" fill="#C7D2DE" font-weight="600" letter-spacing="0.5">THE INVERTED MONTHLY-OUTFLOW LEDGER</text>
+<text x="1310" y="708" font-size="10" fill="#7B8593">bars sized by what actually LEAVES your account each month &#160;·&#160; STEP ④</text>
+
+<!-- FOOD — dominant gushing bar -->
+<rect x="1340" y="724" width="540" height="34" rx="3" fill="url(#grfillStrong)"/>
+<rect x="1340" y="724" width="540" height="34" rx="3" fill="none" stroke="#5FBE74" stroke-width="1.2"/>
+<text x="1352" y="746" font-size="12" fill="#0C1118" font-weight="600">FOOD — surplus / maintenance</text>
+<text x="1870" y="746" font-size="10" fill="#0C1118" text-anchor="end" font-weight="600">DOMINANT · scales w/ bodyweight</text>
+
+<!-- GYM + CONSUMABLES -->
+<rect x="1340" y="766" width="320" height="30" rx="3" fill="#5FBE74" opacity="0.55"/>
+<rect x="1340" y="766" width="320" height="30" rx="3" fill="none" stroke="#5FBE74" stroke-width="1" opacity="0.8"/>
+<text x="1352" y="786" font-size="11" fill="#0C1118" font-weight="600">GYM + DAILY CONSUMABLES</text>
+<text x="1672" y="786" font-size="9" fill="#9FB0C0">electrolytes·creatine·omega-3·liver</text>
+
+<!-- BLOODWORK -->
+<rect x="1340" y="804" width="170" height="26" rx="3" fill="#5FBE74" opacity="0.38"/>
+<rect x="1340" y="804" width="170" height="26" rx="3" fill="none" stroke="#5FBE74" stroke-width="1" opacity="0.6"/>
+<text x="1352" y="822" font-size="11" fill="#C7D2DE">BLOODWORK</text>
+
+<!-- PHARMA CORE — thinnest trickle, with ghost "expected huge" behind -->
+<rect x="1340" y="838" width="540" height="22" rx="3" fill="url(#ghosthatch)" opacity="0.45"/>
+<rect x="1340" y="838" width="540" height="22" rx="3" fill="none" stroke="#3A4654" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="1870" y="853" font-size="9" fill="#5C6776" text-anchor="end">← "what you EXPECTED": gear huge</text>
+<rect x="1340" y="838" width="64" height="22" rx="3" fill="#5FBE74" opacity="0.28"/>
+<rect x="1340" y="838" width="64" height="22" rx="3" fill="none" stroke="#5FBE74" stroke-width="1" opacity="0.6"/>
+<text x="1412" y="853" font-size="10.5" fill="#C7D2DE">PHARMA CORE <tspan fill="#7B8593">— ARB·statin·aspirin·tadalafil = the thinnest trickle</tspan></text>
+
+<!-- law plate -->
+<rect x="1340" y="876" width="540" height="60" rx="6" fill="#0B1017" stroke="#33414F"/>
+<text x="1356" y="898" font-size="11.5" fill="#C7D2DE" font-weight="600">FOOD &#8811; GYM + CONSUMABLES &gt; BLOODWORK &gt; PHARMA CORE</text>
+<text x="1356" y="918" font-size="9.5" fill="#8C99A8">people brace for the gear to bankrupt them; in a moderate, longevity-</text>
+<text x="1356" y="930" font-size="9.5" fill="#8C99A8">minded protocol it's the cheapest recurring line.</text>
+</g>
+
+<!-- THE ONE RED OBJECT : FOOD-READINESS INTERLOCK -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<circle cx="1327" cy="741" r="18" fill="url(#rdGlow)"/>
+<rect x="1318" y="720" width="18" height="42" rx="2" fill="#1A0E0D" stroke="#C0392B" stroke-width="1.6"/>
+<line x1="1327" y1="720" x2="1327" y2="762" stroke="#E0584A" stroke-width="2"/>
+<text x="1327" y="712" font-size="9.5" fill="#E0584A" text-anchor="middle" font-weight="600">STOP</text>
+<rect x="1340" y="948" width="540" height="92" rx="6" fill="#1A0E0D" stroke="#7A2327" stroke-width="1.2"/>
+<rect x="1340" y="948" width="540" height="92" rx="6" fill="url(#redhatch)" opacity="0.22"/>
+<text x="1356" y="970" font-size="11" fill="#E0584A" font-weight="600">THE FOOD-READINESS INTERLOCK — the one go/no-go</text>
+<text x="1356" y="990" font-size="10.5" fill="#E58A80">IF THE FOOD BUDGET SCARES YOU, YOU'RE NOT READY FOR THE GEAR.</text>
+<text x="1356" y="1006" font-size="10" fill="#E58A80">an under-fed cycle wastes the (cheap) drugs anyway. feeding the</text>
+<text x="1356" y="1020" font-size="10" fill="#E58A80">physique is the prerequisite, not an afterthought.</text>
+<text x="1356" y="1034" font-size="9.5" fill="#C8A23C">red appears nowhere else &#8594; the readiness signal of Part 1.</text>
+</g>
+
+<!-- ================= CAPSTONE RIBBON ================= -->
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<line x1="40" y1="1120" x2="1880" y2="1120" stroke="#2C3A48" stroke-width="1"/>
+<text x="40" y="1146" font-size="13" fill="#8C99A8" letter-spacing="1.5" font-weight="600">THE TRACK CLOSES HERE — 15 ARTICLES, ONE SPINE</text>
+<text x="470" y="1146" font-size="11" fill="#5C6776">the final node lights up; the point was never a protocol to copy — it's the reasoning to run your own</text>
+
+<g font-size="12" letter-spacing="0.5">
+<rect x="40" y="1166" width="150" height="40" rx="6" fill="#0E141C" stroke="#33414F"/><text x="115" y="1191" fill="#9FB0C0" text-anchor="middle">DECIDE</text>
+<text x="198" y="1191" fill="#46586A" text-anchor="middle">&#8594;</text>
+<rect x="216" y="1166" width="150" height="40" rx="6" fill="#0E141C" stroke="#33414F"/><text x="291" y="1191" fill="#9FB0C0" text-anchor="middle">SCREEN</text>
+<text x="374" y="1191" fill="#46586A" text-anchor="middle">&#8594;</text>
+<rect x="392" y="1166" width="150" height="40" rx="6" fill="#0E141C" stroke="#33414F"/><text x="467" y="1191" fill="#9FB0C0" text-anchor="middle">MONITOR</text>
+<text x="550" y="1191" fill="#46586A" text-anchor="middle">&#8594;</text>
+<rect x="568" y="1166" width="150" height="40" rx="6" fill="#0E141C" stroke="#33414F"/><text x="643" y="1191" fill="#9FB0C0" text-anchor="middle">OPTIMIZE</text>
+<text x="726" y="1191" fill="#46586A" text-anchor="middle">&#8594;</text>
+<rect x="744" y="1166" width="150" height="40" rx="6" fill="#0E141C" stroke="#33414F"/><text x="819" y="1191" fill="#9FB0C0" text-anchor="middle">PROTECT</text>
+<text x="902" y="1191" fill="#46586A" text-anchor="middle">&#8594;</text>
+<rect x="920" y="1166" width="150" height="40" rx="6" fill="#0E141C" stroke="#33414F"/><text x="995" y="1191" fill="#9FB0C0" text-anchor="middle">ASSEMBLE</text>
+<text x="1078" y="1191" fill="#46586A" text-anchor="middle">&#8594;</text>
+<rect x="1096" y="1164" width="168" height="44" rx="6" fill="#12251A" stroke="#5FBE74" stroke-width="1.6"/><text x="1180" y="1191" fill="#9FE3AE" text-anchor="middle" font-weight="600">▣ BUDGET</text>
+</g>
+
+<rect x="1290" y="1162" width="590" height="48" rx="6" fill="#0E141C" stroke="#33414F"/>
+<text x="1306" y="1182" font-size="11.5" fill="#9FB0C0" font-weight="600">STOCKING ORDER — invert the common mistake</text>
+<text x="1306" y="1201" font-size="11" fill="#C7D2DE">BUY: ① SHIELD &#160;&#8594;&#160; ② GEAR &#160;&#8594;&#160; ③ MONITORING / CONSUMABLES</text>
+</g>
+
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<text x="40" y="1238" font-size="11.5" fill="#C7D2DE">SPLIT THE SPLITTABLE — lowers the dose AND doubles the box · the pharmaceutical core costs less per month than two restaurant dinners.</text>
+<text x="40" y="1258" font-size="11.5" fill="#5FBE74">measured, intact, and affordable enough to sustain for YEARS — that was always the point.</text>
+</g>
+
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<line x1="40" y1="1280" x2="1880" y2="1280" stroke="#222B35"/>
+<text x="40" y="1302" font-size="10" fill="#5C6776">Budgeting &amp; planning only — NOT sourcing, vendors, or acquisition. All ringgit figures (RM5 / RM35 / RM60–80 / RM500–600) are illustrative reference points to demonstrate the burn-rate METHOD, not a price list.</text>
+<text x="40" y="1318" font-size="10" fill="#5C6776">Compounds referenced are prescription-only / illegal without a prescription in most jurisdictions including Malaysia. Nothing here is medical or financial advice.</text>
+</g>
+
+<g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<line x1="40" y1="1346" x2="1880" y2="1346" stroke="#46586A" stroke-width="1"/>
+<text x="40" y="1374" font-size="12" fill="#6A7585" letter-spacing="1.5">IF YOU'RE SO SMART, WHY ARE YOU NOT — FIT · PERFORMANCE ENHANCEMENT</text>
+<text x="1880" y="1374" font-size="12" fill="#6A7585" letter-spacing="1.5" text-anchor="end">PE-5.2 · THE GEAR IS THE CHEAP PART. FOOD IS THE BILL.</text>
+</g>
+</svg>

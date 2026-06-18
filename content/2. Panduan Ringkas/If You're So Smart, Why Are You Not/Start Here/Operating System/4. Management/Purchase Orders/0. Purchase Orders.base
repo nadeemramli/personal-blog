@@ -1,0 +1,26 @@
+filters:
+  and:
+    - type == "purchase_order"
+properties:
+  note.vendor:
+    displayName: Vendor
+  note.date:
+    displayName: Date
+  note.total_rm:
+    displayName: Total (RM)
+  note.item_count:
+    displayName: Items
+views:
+  - type: table
+    name: All POs
+    order:
+      - date
+      - vendor
+      - total_rm
+      - item_count
+  - type: table
+    name: By vendor
+    group_by: vendor
+    order:
+      - date
+      - total_rm

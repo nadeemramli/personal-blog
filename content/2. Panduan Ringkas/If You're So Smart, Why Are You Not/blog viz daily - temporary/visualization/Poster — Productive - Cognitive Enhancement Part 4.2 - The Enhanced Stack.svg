@@ -1,0 +1,361 @@
+<svg viewBox="0 0 1200 1500" xmlns="http://www.w3.org/2000/svg" font-family="Inter, system-ui, 'DejaVu Sans', sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#05080B"/>
+      <stop offset="0.5" stop-color="#0A0E13"/>
+      <stop offset="1" stop-color="#0E1419"/>
+    </linearGradient>
+    <radialGradient id="ceilGlow" cx="0.5" cy="0.5" r="0.7">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="overdrive" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#B8431F" stop-opacity="0.40"/>
+      <stop offset="0.45" stop-color="#E8A23D" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0.08"/>
+    </linearGradient>
+    <linearGradient id="floorFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0.06"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#141B22" stroke-width="0.6"/>
+    </pattern>
+    <pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="8" stroke="#8A93A3" stroke-width="1.3" stroke-opacity="0.45"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-90%" y="-90%" width="280%" height="280%">
+      <feGaussianBlur stdDeviation="6.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <marker id="arrDim" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0 0L6.5 3L0 6Z" fill="#39424E"/></marker>
+  </defs>
+
+  <!-- ===== BACKGROUND ===== -->
+  <rect width="1200" height="1500" fill="url(#bg)"/>
+  <rect width="1200" height="1500" fill="url(#grid)"/>
+  <ellipse cx="560" cy="715" rx="640" ry="150" fill="url(#ceilGlow)"/>
+
+  <!-- ===== HEADER ===== -->
+  <g id="header">
+    <text x="100" y="58" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="3.5" fill="#8A93A3">COGNITIVE ENHANCEMENT  ·  PART 4.2  ·  THE ENHANCED STACK</text>
+    <text x="98" y="116" font-size="54" font-weight="600" letter-spacing="1.2" fill="#E6E8EE">THE EDGE OF THE MAP</text>
+    <text x="100" y="146" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13.5" letter-spacing="0.6" fill="#9AA3B0">The enhanced bio-circuit · what each dial does and what it costs you</text>
+    <line x1="100" y1="166" x2="1095" y2="166" stroke="#2A323B" stroke-width="1"/>
+  </g>
+
+  <!-- ===== CONSOLE FRAME ===== -->
+  <!-- overdrive band (above ceiling): warms/darkens toward top -->
+  <rect x="100" y="200" width="900" height="515" fill="url(#overdrive)"/>
+  <!-- safe lit floor (below ceiling) -->
+  <rect x="100" y="715" width="900" height="180" fill="url(#floorFill)"/>
+
+  <!-- band caption (top = edge of map) -->
+  <text x="110" y="222" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="2.5" fill="#D77A4A">THE OVERDRIVE BAND  ·  RISK ↑   RETURN ↓</text>
+
+  <!-- ===== SIX CHANNEL STRIPS ===== -->
+  <!-- channels x: 100,255,410,565,720,875 ; width 125 ; centers 162.5 ... 937.5 -->
+  <g id="strips">
+    <!-- generic groove + frame for each strip -->
+    <g fill="#0B1015" stroke="#222A33" stroke-width="1">
+      <rect x="100" y="200" width="125" height="695" rx="6"/>
+      <rect x="255" y="200" width="125" height="695" rx="6"/>
+      <rect x="410" y="200" width="125" height="695" rx="6"/>
+      <rect x="565" y="200" width="125" height="695" rx="6"/>
+      <rect x="720" y="200" width="125" height="695" rx="6"/>
+      <rect x="875" y="200" width="125" height="695" rx="6"/>
+    </g>
+    <!-- grooves (center lines) -->
+    <g stroke="#283038" stroke-width="2">
+      <line x1="162.5" y1="222" x2="162.5" y2="873"/>
+      <line x1="317.5" y1="222" x2="317.5" y2="873"/>
+      <line x1="472.5" y1="222" x2="472.5" y2="873"/>
+      <line x1="627.5" y1="222" x2="627.5" y2="873"/>
+      <line x1="782.5" y1="222" x2="782.5" y2="873"/>
+      <line x1="937.5" y1="222" x2="937.5" y2="873"/>
+    </g>
+    <!-- lit base segment of each groove (below ceiling = live cyan) -->
+    <g stroke="#2DD4BF" stroke-width="2.6" filter="url(#glow)" opacity="0.9">
+      <line x1="162.5" y1="715" x2="162.5" y2="873"/>
+      <line x1="317.5" y1="715" x2="317.5" y2="873"/>
+      <line x1="472.5" y1="715" x2="472.5" y2="873"/>
+      <line x1="627.5" y1="715" x2="627.5" y2="873"/>
+      <line x1="782.5" y1="715" x2="782.5" y2="873"/>
+      <line x1="937.5" y1="715" x2="937.5" y2="873"/>
+    </g>
+    <!-- base LED at foot of each lit groove -->
+    <g fill="#2DD4BF" filter="url(#glow)">
+      <circle cx="162.5" cy="868" r="4.5"/><circle cx="317.5" cy="868" r="4.5"/><circle cx="472.5" cy="868" r="4.5"/>
+      <circle cx="627.5" cy="868" r="4.5"/><circle cx="782.5" cy="868" r="4.5"/><circle cx="937.5" cy="868" r="4.5"/>
+    </g>
+  </g>
+
+  <!-- ===== SHIELD TIE-BAR (couples ch4 to ch1-3: shield rises with the performance dials) ===== -->
+  <g id="tiebar">
+    <path d="M162.5 325 L317.5 540 L472.5 600 L627.5 690" fill="none" stroke="#5FCBBC" stroke-width="1.4" stroke-dasharray="2 5" opacity="0.55"/>
+    <text x="500" y="668" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" letter-spacing="0.5" fill="#5FCBBC" opacity="0.8">coupled ↗</text>
+  </g>
+
+  <!-- ===== FADERS (knob = where the dial sits) ===== -->
+  <!-- helper styling repeated inline -->
+  <g id="faders">
+    <!-- CH1 IGNITION: pushed HIGH into hot zone -->
+    <g>
+      <rect x="135.5" y="316" width="54" height="18" rx="3" fill="#1C232B" stroke="#E8A23D" stroke-width="1.4"/>
+      <line x1="143" y1="325" x2="182" y2="325" stroke="#E8A23D" stroke-width="1"/>
+      <circle cx="162.5" cy="325" r="3.4" fill="#E8A23D"/>
+    </g>
+    <!-- CH2 ACETYLCHOLINE: moderate over ceiling -->
+    <g>
+      <rect x="290.5" y="531" width="54" height="18" rx="3" fill="#1C232B" stroke="#E8A23D" stroke-width="1.3"/>
+      <line x1="298" y1="540" x2="337" y2="540" stroke="#E8A23D" stroke-width="1"/>
+      <circle cx="317.5" cy="540" r="3.4" fill="#E8A23D"/>
+    </g>
+    <!-- CH3 NEUROGENESIS: mid (peptide overlay) -->
+    <g>
+      <rect x="445.5" y="591" width="54" height="18" rx="3" fill="#1C232B" stroke="#E8A23D" stroke-width="1.3"/>
+      <line x1="453" y1="600" x2="492" y2="600" stroke="#E8A23D" stroke-width="1"/>
+      <circle cx="472.5" cy="600" r="3.4" fill="#E8A23D"/>
+    </g>
+    <!-- CH4 SHIELD: just above ceiling, performance reading LOW (it blunts the edge) -->
+    <g>
+      <rect x="600.5" y="681" width="54" height="18" rx="3" fill="#10211E" stroke="#2DD4BF" stroke-width="1.4"/>
+      <line x1="608" y1="690" x2="647" y2="690" stroke="#2DD4BF" stroke-width="1"/>
+      <circle cx="627.5" cy="690" r="3.4" fill="#2DD4BF"/>
+      <!-- protection meter rising (small up-bar to the side) -->
+      <rect x="660" y="650" width="6" height="48" rx="2" fill="#2DD4BF" opacity="0.35"/>
+      <rect x="660" y="650" width="6" height="20" rx="2" fill="#2DD4BF"/>
+      <text x="671" y="660" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" fill="#5FCBBC">PROT ↑</text>
+    </g>
+    <!-- CH5 NEUROSTEROIDS: near ceiling, flagged test-don't-guess -->
+    <g>
+      <rect x="755.5" y="696" width="54" height="18" rx="3" fill="#1C232B" stroke="#E8A23D" stroke-width="1.3"/>
+      <line x1="763" y1="705" x2="802" y2="705" stroke="#E8A23D" stroke-width="1"/>
+      <circle cx="782.5" cy="705" r="3.4" fill="#E8A23D"/>
+    </g>
+    <!-- CH6 STATE: calm base near ceiling -->
+    <g>
+      <rect x="910.5" y="699" width="54" height="18" rx="3" fill="#10211E" stroke="#2DD4BF" stroke-width="1.3"/>
+      <line x1="918" y1="708" x2="957" y2="708" stroke="#2DD4BF" stroke-width="1"/>
+      <circle cx="937.5" cy="708" r="3.4" fill="#2DD4BF"/>
+    </g>
+  </g>
+
+  <!-- ===== TIER-CODED OVERDRIVE MODULES (spec cards) ===== -->
+  <g id="modules" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace">
+    <!-- CH1 IGNITION: MODAFINIL (Tier1 GATED/locked) + amphetamine amber cost -->
+    <g>
+      <rect x="108" y="352" width="109" height="64" rx="5" fill="#0E141A" stroke="#4A5562" stroke-width="1"/>
+      <!-- padlock glyph -->
+      <g stroke="#E8A23D" stroke-width="1.4" fill="none">
+        <rect x="116" y="367" width="13" height="10" rx="1.5" fill="#1C140A"/>
+        <path d="M118.5 367 v-3 a4 4 0 0 1 8 0 v3"/>
+      </g>
+      <text x="134" y="364" font-size="8.5" letter-spacing="0.5" fill="#E8A23D">TIER 1 · GATED</text>
+      <text x="116" y="392" font-size="11.5" fill="#E6E8EE">MODAFINIL</text>
+      <text x="116" y="406" font-size="8.3" fill="#9AA3B0">controlled in MY · tolerance</text>
+    </g>
+    <text x="110" y="438" font-size="8.6" fill="#E8A23D">+ AMPHETAMINE · cardiovascular tax</text>
+
+    <!-- CH2 ACETYLCHOLINE: RACETAMS, amber headache cost -->
+    <g>
+      <rect x="263" y="436" width="109" height="64" rx="5" fill="#0E141A" stroke="#3B4552" stroke-width="1"/>
+      <text x="271" y="453" font-size="8.5" letter-spacing="0.5" fill="#9AA3B0">TIER 2 · OTC-ish</text>
+      <text x="271" y="476" font-size="11.5" fill="#E6E8EE">RACETAMS</text>
+      <text x="271" y="490" font-size="8.3" fill="#E8A23D">headache without choline</text>
+    </g>
+
+    <!-- CH3 NEUROGENESIS: PEPTIDES (Tier3 hatched) + DIHEXA red kill-switch above -->
+    <g>
+      <rect x="418" y="496" width="109" height="64" rx="5" fill="#0E141A" stroke="#3B4552" stroke-width="1"/>
+      <rect x="418" y="496" width="109" height="64" rx="5" fill="url(#hatch)"/>
+      <text x="426" y="513" font-size="8.5" letter-spacing="0.5" fill="#8A93A3">TIER 3 · UNVERIFIED</text>
+      <text x="426" y="536" font-size="11.5" fill="#C7CCD6">PEPTIDES</text>
+      <text x="426" y="550" font-size="8.3" fill="#9AA3B0">Semax/Cerebrolysin · little data</text>
+    </g>
+    <!-- DIHEXA kill-switch: barbed module that won't seat (RED #1) -->
+    <g>
+      <rect x="418" y="286" width="109" height="58" rx="5" fill="#1A0C0C" stroke="#FF5C5C" stroke-width="1.5"/>
+      <!-- barbed reverse flange -->
+      <path d="M427 286 l10 8 l-10 8 M527 286 l-10 8 l10 8" stroke="#FF5C5C" stroke-width="1.6" fill="none"/>
+      <text x="430" y="307" font-size="11.5" fill="#FF8A8A" font-weight="600">DIHEXA</text>
+      <text x="430" y="322" font-size="7.8" fill="#FF9A9A">c-Met oncogene · no human data</text>
+      <text x="430" y="335" font-size="8.6" letter-spacing="1" fill="#FF5C5C">▢ WON'T SEAT · AVOID</text>
+    </g>
+    <path d="M472.5 344 L472.5 372" stroke="#FF5C5C" stroke-width="1.4" stroke-dasharray="3 4" opacity="0.7"/>
+
+    <!-- CH4 SHIELD: MEMANTINE (Tier1 gated) protective -->
+    <g>
+      <rect x="573" y="586" width="109" height="64" rx="5" fill="#0E1A18" stroke="#2DD4BF" stroke-width="1.1"/>
+      <g stroke="#2DD4BF" stroke-width="1.3" fill="none">
+        <rect x="581" y="601" width="13" height="10" rx="1.5" fill="#0A1417"/>
+        <path d="M583.5 601 v-3 a4 4 0 0 1 8 0 v3"/>
+      </g>
+      <text x="599" y="598" font-size="8.5" letter-spacing="0.5" fill="#5FCBBC">TIER 1 · GATED</text>
+      <text x="581" y="626" font-size="11.5" fill="#E6E8EE">MEMANTINE</text>
+      <text x="581" y="640" font-size="8.3" fill="#9AA3B0">buffers glutamate · blunts edge</text>
+    </g>
+
+    <!-- CH5 NEUROSTEROIDS: on-cycle hidden variable -->
+    <g>
+      <rect x="728" y="592" width="109" height="64" rx="5" fill="#0E141A" stroke="#3B4552" stroke-width="1"/>
+      <text x="736" y="609" font-size="8.5" letter-spacing="0.5" fill="#E8A23D">HIDDEN VARIABLE</text>
+      <text x="736" y="632" font-size="11" fill="#E6E8EE">ON-CYCLE SHIFT</text>
+      <text x="736" y="646" font-size="8.3" fill="#E8A23D">test, don't guess</text>
+    </g>
+
+    <!-- CH6 STATE: calm base + PHENIBUT red lockout (RED #2) -->
+    <g>
+      <rect x="883" y="600" width="109" height="60" rx="5" fill="#0E1A18" stroke="#2DD4BF" stroke-width="1.0"/>
+      <text x="891" y="617" font-size="8.5" letter-spacing="0.5" fill="#5FCBBC">BASE · LIVE</text>
+      <text x="891" y="639" font-size="11" fill="#E6E8EE">THEANINE/GLYCINE</text>
+      <text x="891" y="652" font-size="8.3" fill="#9AA3B0">the calm layer, kept low</text>
+    </g>
+    <!-- PHENIBUT lockout bar across the channel (RED) -->
+    <g>
+      <rect x="883" y="424" width="109" height="52" rx="5" fill="#1A0C0C" stroke="#FF5C5C" stroke-width="1.5"/>
+      <line x1="889" y1="468" x2="986" y2="432" stroke="#FF5C5C" stroke-width="2.4" stroke-linecap="round"/>
+      <text x="891" y="444" font-size="11.5" fill="#FF8A8A" font-weight="600">PHENIBUT</text>
+      <text x="891" y="460" font-size="8.2" fill="#FF9A9A">dependence · withdrawal trap</text>
+      <text x="891" y="472" font-size="8.6" letter-spacing="1" fill="#FF5C5C">LOCKED OUT · AVOID</text>
+    </g>
+    <path d="M937.5 476 L937.5 690" stroke="#FF5C5C" stroke-width="1.2" stroke-dasharray="3 5" opacity="0.55"/>
+  </g>
+
+  <!-- ===== NATURAL CEILING DATUM (bright cyan, across all six) ===== -->
+  <g id="ceiling">
+    <line x1="100" y1="715" x2="1000" y2="715" stroke="#2DD4BF" stroke-width="2.6" filter="url(#softglow)"/>
+    <g fill="#2DD4BF" filter="url(#glow)">
+      <circle cx="100" cy="715" r="4"/><circle cx="1000" cy="715" r="4"/>
+    </g>
+    <rect x="300" y="722" width="404" height="22" rx="4" fill="#06100E" stroke="#16322E" stroke-width="1"/>
+    <text x="502" y="737" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" letter-spacing="0.8" fill="#7CF0E2">NATURAL CEILING · Part 4.1 gets you here · most never cross this</text>
+  </g>
+
+  <!-- ===== THE GATE (checkpoint where ceiling meets the band) ===== -->
+  <g id="gate">
+    <g transform="translate(118,696)">
+      <rect x="-10" y="-2" width="20" height="20" rx="3" fill="#1A140A" stroke="#E8A23D" stroke-width="1.4"/>
+      <path d="M-4 8 L0 12 L7 1" fill="none" stroke="#E8A23D" stroke-width="1.6"/>
+    </g>
+    <text x="100" y="690" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="1" fill="#E8A23D">PASS THE 4.0 GATE FIRST</text>
+  </g>
+
+  <!-- dead-ended traces arriving at the ceiling and stopping (almost nobody crosses) -->
+  <g id="deadends" stroke="#39424E" stroke-width="1.5" fill="none">
+    <path d="M230 873 L230 728" marker-end="url(#arrDim)"/>
+    <path d="M560 873 L560 728" marker-end="url(#arrDim)"/>
+    <path d="M845 873 L845 728" marker-end="url(#arrDim)"/>
+  </g>
+
+  <!-- ===== CHANNEL LABELS (foot of console) ===== -->
+  <g id="chlabels" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="0.5" fill="#C7CCD6" text-anchor="middle">
+    <text x="162.5" y="888">IGNITION</text>
+    <text x="317.5" y="888">ACETYLCHOLINE</text>
+    <text x="472.5" y="888">NEUROGENESIS</text>
+    <text x="627.5" y="888" fill="#7CF0E2">SHIELD</text>
+    <text x="782.5" y="888">NEUROSTEROIDS</text>
+    <text x="937.5" y="888">STATE</text>
+  </g>
+  <text x="627.5" y="908" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.6" letter-spacing="0.4" fill="#5FCBBC">the shield you add because you're enhancing</text>
+
+  <!-- ===== RIGHT-MARGIN RISK / RETURN AXIS ===== -->
+  <g id="axis">
+    <line x1="1035" y1="235" x2="1035" y2="895" stroke="#3B4552" stroke-width="1.2"/>
+    <!-- marginal-return curve: steep low, flattens high -->
+    <path d="M1035 715 C 1060 620, 1078 470, 1082 250" fill="none" stroke="#E8A23D" stroke-width="1.4" opacity="0.7"/>
+    <text transform="translate(1098,500) rotate(-90)" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" letter-spacing="1" fill="#D77A4A" opacity="0.85">marginal return flattens</text>
+    <!-- ticks -->
+    <g font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#8A93A3">
+      <circle cx="1035" cy="715" r="3" fill="#2DD4BF"/>
+      <text x="1048" y="718" fill="#7CF0E2">NATURAL CEILING · you live here</text>
+      <circle cx="1035" cy="560" r="2.5" fill="#8A93A3"/>
+      <text x="1048" y="563">TIER 3 · experimental</text>
+      <circle cx="1035" cy="400" r="2.5" fill="#E8A23D"/>
+      <text x="1048" y="403" fill="#E8A23D">TIER 1 · gated Rx</text>
+      <circle cx="1035" cy="250" r="2.5" fill="#D77A4A"/>
+      <text x="1048" y="253" fill="#D77A4A">THE EDGE · most never need this</text>
+    </g>
+  </g>
+
+  <!-- ===== MIDDLE ROW: GOLDEN RULE (left) + TIER LEGEND (right) ===== -->
+  <line x1="100" y1="938" x2="1095" y2="938" stroke="#2A323B" stroke-width="1"/>
+  <g id="goldenrule">
+    <text x="100" y="970" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="1.4" font-weight="600" fill="#C7CCD6">THE GOLDEN RULE</text>
+    <text x="100" y="988" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="0.4" fill="#8A93A3">low-dose synergy beats max-dosing</text>
+    <!-- smooth combined waveform (good) -->
+    <g>
+      <path d="M100 1052 q 20 -26 40 0 t 40 0 t 40 0 t 40 0 t 40 0" fill="none" stroke="#2DD4BF" stroke-width="2.2" filter="url(#glow)"/>
+      <text x="100" y="1078" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.6" fill="#5FCBBC">layered low doses → smooth, near the peak</text>
+    </g>
+    <!-- clipped jagged waveform (bad) -->
+    <g>
+      <path d="M340 1052 q 14 -30 28 0 l 0 -30 l 14 30 q 14 30 28 0 l 0 -30 l 14 30 q 14 -30 28 0" fill="none" stroke="#E8A23D" stroke-width="2.2"/>
+      <line x1="340" y1="1022" x2="480" y2="1022" stroke="#E8A23D" stroke-width="0.8" stroke-dasharray="2 3" opacity="0.7"/>
+      <text x="340" y="1078" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.6" fill="#E8A23D">one fader slammed → clipped, past the peak</text>
+    </g>
+  </g>
+
+  <g id="legend">
+    <text x="640" y="970" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="1.4" font-weight="600" fill="#C7CCD6">READING THE TIERS</text>
+    <!-- tier1 gated -->
+    <g transform="translate(640,992)">
+      <rect x="0" y="0" width="22" height="22" rx="3" fill="#0E141A" stroke="#E8A23D" stroke-width="1.1"/>
+      <g stroke="#E8A23D" stroke-width="1.2" fill="none"><rect x="6" y="9" width="10" height="8" rx="1.2" fill="#1C140A"/><path d="M8 9 v-2 a3 3 0 0 1 6 0 v2"/></g>
+      <text x="32" y="11" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#E6E8EE">TIER 1 — prescription, GATED</text>
+      <text x="32" y="22" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.4" fill="#9AA3B0">controlled in MY — fenced, not safer</text>
+    </g>
+    <!-- tier3 hatched -->
+    <g transform="translate(640,1028)">
+      <rect x="0" y="0" width="22" height="22" rx="3" fill="#0E141A" stroke="#3B4552" stroke-width="1.1"/>
+      <rect x="0" y="0" width="22" height="22" rx="3" fill="url(#hatch)"/>
+      <text x="32" y="11" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#E6E8EE">TIER 3 — experimental, HATCHED</text>
+      <text x="32" y="22" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.4" fill="#9AA3B0">little/no human data — unproven, not gentler</text>
+    </g>
+    <!-- red kill switch -->
+    <g transform="translate(640,1064)">
+      <rect x="0" y="0" width="22" height="22" rx="3" fill="#1A0C0C" stroke="#FF5C5C" stroke-width="1.3"/>
+      <line x1="4" y1="18" x2="18" y2="4" stroke="#FF5C5C" stroke-width="2"/>
+      <text x="32" y="11" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#FF8A8A">KILL-SWITCH — never seat</text>
+      <text x="32" y="22" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.4" fill="#FF9A9A">Dihexa · Phenibut — the only red here</text>
+    </g>
+  </g>
+
+  <!-- ===== FOOT RIBBON: A MAXIMAL DAY (subordinate filmstrip) ===== -->
+  <g id="ribbon">
+    <rect x="100" y="1116" width="995" height="184" rx="7" fill="#080C10" stroke="#1C242C" stroke-width="1"/>
+    <text x="118" y="1142" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="1.6" font-weight="600" fill="#C7CCD6">A MAXIMAL DAY <tspan fill="#E8A23D">· A MAP, NOT A MENU</tspan></text>
+    <text x="1077" y="1142" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" letter-spacing="0.5" fill="#6B7686">thought experiment — nobody builds to this. you run a fraction.</text>
+
+    <!-- gas-and-brakes wave: rises into the tunnel, falls back into recovery + sleep -->
+    <path d="M120 1250 L240 1250 C300 1250 300 1182 380 1182 L560 1182 C640 1182 640 1230 720 1240 C800 1250 820 1262 900 1270 L1075 1278"
+          fill="none" stroke="#2DD4BF" stroke-width="2.4" filter="url(#glow)" opacity="0.9"/>
+    <!-- act markers -->
+    <g font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.6" fill="#9AA3B0" text-anchor="middle">
+      <g stroke="#39424E" stroke-width="0.8" stroke-dasharray="2 3">
+        <line x1="180" y1="1158" x2="180" y2="1284"/>
+        <line x1="380" y1="1158" x2="380" y2="1284"/>
+        <line x1="600" y1="1158" x2="600" y2="1284"/>
+        <line x1="800" y1="1158" x2="800" y2="1284"/>
+        <line x1="980" y1="1158" x2="980" y2="1284"/>
+      </g>
+      <text x="180" y="1296" fill="#5FCBBC">BEDROCK · 06:00</text>
+      <text x="380" y="1296" fill="#E8A23D">EXCITATORY · 08–13</text>
+      <text x="600" y="1296" fill="#E8A23D">NEURAL REPAIR · 14–19</text>
+      <text x="800" y="1296" fill="#5FCBBC">INHIB RE-FEED · 20–22</text>
+      <text x="980" y="1296" fill="#5FCBBC">DEEP-SLEEP RESET</text>
+    </g>
+  </g>
+
+  <!-- ===== FOOTER THESIS LOCKUP ===== -->
+  <g id="footer">
+    <line x1="100" y1="1336" x2="1095" y2="1336" stroke="#2A323B" stroke-width="1"/>
+    <text x="600" y="1384" text-anchor="middle" font-size="27" font-weight="600" letter-spacing="0.4" fill="#E6E8EE">SAME CIRCUIT — TURNED UP.</text>
+    <text x="600" y="1418" text-anchor="middle" font-size="27" font-weight="600" letter-spacing="0.4" fill="#2DD4BF">THE DESTINATION IS BACK AT THE BASE.</text>
+    <text x="600" y="1458" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11.5" letter-spacing="1.2" fill="#8A93A3">Part 4.2  ·  Cognitive Enhancement  ·  the Productive pillar  ·  six dials you can push, most you shouldn't touch</text>
+  </g>
+</svg>

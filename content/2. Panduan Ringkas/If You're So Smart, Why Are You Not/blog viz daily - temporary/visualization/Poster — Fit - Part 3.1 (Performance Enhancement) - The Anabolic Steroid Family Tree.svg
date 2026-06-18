@@ -1,0 +1,315 @@
+<svg viewBox="0 0 1280 1648" xmlns="http://www.w3.org/2000/svg" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+<rect width="1280" height="1648" fill="#0A0A0C"/>
+<g opacity="0.05">
+<line x1="0" y1="0" x2="0" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="64" y1="0" x2="64" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="128" y1="0" x2="128" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="192" y1="0" x2="192" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="256" y1="0" x2="256" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="320" y1="0" x2="320" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="384" y1="0" x2="384" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="448" y1="0" x2="448" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="512" y1="0" x2="512" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="576" y1="0" x2="576" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="640" y1="0" x2="640" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="704" y1="0" x2="704" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="768" y1="0" x2="768" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="832" y1="0" x2="832" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="896" y1="0" x2="896" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="960" y1="0" x2="960" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="1024" y1="0" x2="1024" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="1088" y1="0" x2="1088" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="1152" y1="0" x2="1152" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="1216" y1="0" x2="1216" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="1280" y1="0" x2="1280" y2="1648" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="0" x2="1280" y2="0" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="64" x2="1280" y2="64" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="128" x2="1280" y2="128" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="192" x2="1280" y2="192" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="256" x2="1280" y2="256" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="320" x2="1280" y2="320" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="384" x2="1280" y2="384" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="448" x2="1280" y2="448" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="512" x2="1280" y2="512" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="576" x2="1280" y2="576" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="640" x2="1280" y2="640" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="704" x2="1280" y2="704" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="768" x2="1280" y2="768" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="832" x2="1280" y2="832" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="896" x2="1280" y2="896" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="960" x2="1280" y2="960" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="1024" x2="1280" y2="1024" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="1088" x2="1280" y2="1088" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="1152" x2="1280" y2="1152" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="1216" x2="1280" y2="1216" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="1280" x2="1280" y2="1280" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="1344" x2="1280" y2="1344" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="1408" x2="1280" y2="1408" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="1472" x2="1280" y2="1472" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="1536" x2="1280" y2="1536" stroke="#71717A" stroke-width="1"/>
+<line x1="0" y1="1600" x2="1280" y2="1600" stroke="#71717A" stroke-width="1"/>
+</g>
+<line x1="48" y1="52" x2="68" y2="52" stroke="#34D399" stroke-width="2"/>
+<text x="78" y="57" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="14" font-weight="600" fill="#FFFFFF" letter-spacing="2">FIT · PE · PART 3.1 — THE ANABOLIC STEROID FAMILY TREE</text>
+<text x="1232" y="57" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="500" fill="#A1A1AA" text-anchor="end" letter-spacing="1">TIER 3 · article 5 of 15 · THE “OPTIMIZE” SUB-ARC</text>
+<text x="48" y="138" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="600" fill="#FFFFFF" letter-spacing="-1">Same muscle. Wildly different rent.</text>
+<text x="48" y="172" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="400" fill="#A1A1AA">Every family retains roughly the same nitrogen, so you build comparable muscle from all of them.</text>
+<text x="48" y="195" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="400" fill="#A1A1AA">What differs is the bill: water, estrogen, progestogen, suppression.</text>
+<text x="48" y="218" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="400" fill="#A1A1AA">You never ask “which is strongest?” You ask “which cost, and have I earned the climb?”</text>
+<rect x="48" y="252" width="1184" height="44" fill="#141417" stroke="#3F3F46" stroke-width="1" rx="8"/>
+<text x="66" y="279" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#A1A1AA" letter-spacing="1">3.0 = WHAT IT DOES (pathways)</text>
+<text x="360" y="279" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="15" font-weight="700" fill="#6B6B73">·</text>
+<text x="384" y="279" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#FFFFFF" letter-spacing="1">3.1 = WHAT TO EXPECT (family)</text>
+<text x="1214" y="279" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#34D399" text-anchor="end" letter-spacing="1">THE FAMILY PREDICTS · THE PATHWAY EXPLAINS</text>
+<rect x="48" y="320" width="1184" height="1292" fill="#0F0F11" stroke="#3F3F46" stroke-width="1.5" rx="12"/>
+<rect x="48" y="320" width="1184" height="1292" fill="none" stroke="#52525B" stroke-width="1" rx="12" opacity="0.4"/>
+<text x="72" y="350" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#FFFFFF" letter-spacing="2">DERIVATION TREE · THREE FAMILIES → ONE SHARED MUSCLE-OUTPUT DATUM</text>
+<text x="1208" y="350" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11.5" font-weight="500" fill="#A1A1AA" text-anchor="end" letter-spacing="0.5">plume above the line = side-effect cost  ·  every chip meets the line = equal muscle</text>
+<line x1="48" y1="366" x2="1232" y2="366" stroke="#3F3F46" stroke-width="1" opacity="0.6"/>
+<g opacity="0.9">
+<line x1="96.0" y1="656" x2="96.0" y2="618.2" stroke="#34D399" stroke-width="2.6" opacity="0.58"/>
+<line x1="125.6" y1="656" x2="125.6" y2="604.2" stroke="#34D399" stroke-width="2.6" opacity="0.64"/>
+<line x1="155.2" y1="656" x2="155.2" y2="590.1" stroke="#34D399" stroke-width="2.6" opacity="0.69"/>
+<line x1="184.8" y1="656" x2="184.8" y2="576.1" stroke="#34D399" stroke-width="2.6" opacity="0.75"/>
+<line x1="214.4" y1="656" x2="214.4" y2="562.0" stroke="#34D399" stroke-width="2.6" opacity="0.81"/>
+<line x1="244.0" y1="656" x2="244.0" y2="548.0" stroke="#34D399" stroke-width="2.6" opacity="0.87"/>
+<line x1="273.6" y1="656" x2="273.6" y2="562.0" stroke="#34D399" stroke-width="2.6" opacity="0.81"/>
+<line x1="303.2" y1="656" x2="303.2" y2="576.1" stroke="#34D399" stroke-width="2.6" opacity="0.75"/>
+<line x1="332.8" y1="656" x2="332.8" y2="590.1" stroke="#34D399" stroke-width="2.6" opacity="0.69"/>
+<line x1="362.4" y1="656" x2="362.4" y2="604.2" stroke="#34D399" stroke-width="2.6" opacity="0.64"/>
+<line x1="392.0" y1="656" x2="392.0" y2="618.2" stroke="#34D399" stroke-width="2.6" opacity="0.58"/>
+</g>
+<text x="244.0" y="552" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="600" fill="#34D399" text-anchor="middle" opacity="0.92">water · aromatizes</text>
+<text x="244.0" y="565" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="600" fill="#34D399" text-anchor="middle" opacity="0.92">RBC + energy</text>
+<g opacity="0.9">
+<line x1="450.0" y1="656" x2="450.0" y2="636.4" stroke="#60A5FA" stroke-width="2.6" opacity="0.58"/>
+<line x1="499.3" y1="656" x2="499.3" y2="624.3" stroke="#60A5FA" stroke-width="2.6" opacity="0.68"/>
+<line x1="548.7" y1="656" x2="548.7" y2="612.1" stroke="#60A5FA" stroke-width="2.6" opacity="0.77"/>
+<line x1="598.0" y1="656" x2="598.0" y2="600.0" stroke="#60A5FA" stroke-width="2.6" opacity="0.87"/>
+<line x1="647.3" y1="656" x2="647.3" y2="612.1" stroke="#60A5FA" stroke-width="2.6" opacity="0.77"/>
+<line x1="696.7" y1="656" x2="696.7" y2="624.3" stroke="#60A5FA" stroke-width="2.6" opacity="0.68"/>
+<line x1="746.0" y1="656" x2="746.0" y2="636.4" stroke="#60A5FA" stroke-width="2.6" opacity="0.58"/>
+</g>
+<text x="598.0" y="604" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="600" fill="#60A5FA" text-anchor="middle" opacity="0.92">dry · tissue-selective</text>
+<text x="598.0" y="617" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="600" fill="#60A5FA" text-anchor="middle" opacity="0.92">NO aromatization</text>
+<g opacity="0.9">
+<line x1="804.0" y1="656" x2="804.0" y2="604.2" stroke="#F59E0B" stroke-width="2.6" opacity="0.58"/>
+<circle cx="804.0" cy="598.2" r="2.2" fill="#F59E0B" opacity="0.7"/>
+<line x1="822.5" y1="656" x2="822.5" y2="592.2" stroke="#F59E0B" stroke-width="2.6" opacity="0.61"/>
+<line x1="841.0" y1="656" x2="841.0" y2="580.1" stroke="#F59E0B" stroke-width="2.6" opacity="0.65"/>
+<circle cx="841.0" cy="574.1" r="2.2" fill="#F59E0B" opacity="0.7"/>
+<line x1="859.5" y1="656" x2="859.5" y2="568.1" stroke="#F59E0B" stroke-width="2.6" opacity="0.69"/>
+<line x1="878.0" y1="656" x2="878.0" y2="556.1" stroke="#F59E0B" stroke-width="2.6" opacity="0.72"/>
+<circle cx="878.0" cy="550.1" r="2.2" fill="#F59E0B" opacity="0.7"/>
+<line x1="896.5" y1="656" x2="896.5" y2="544.1" stroke="#F59E0B" stroke-width="2.6" opacity="0.76"/>
+<line x1="915.0" y1="656" x2="915.0" y2="532.0" stroke="#F59E0B" stroke-width="2.6" opacity="0.8"/>
+<circle cx="915.0" cy="526.0" r="2.2" fill="#F59E0B" opacity="0.7"/>
+<line x1="933.5" y1="656" x2="933.5" y2="520.0" stroke="#F59E0B" stroke-width="2.6" opacity="0.83"/>
+<line x1="952.0" y1="656" x2="952.0" y2="508.0" stroke="#F59E0B" stroke-width="2.6" opacity="0.87"/>
+<circle cx="952.0" cy="502.0" r="2.2" fill="#F59E0B" opacity="0.7"/>
+<line x1="970.5" y1="656" x2="970.5" y2="520.0" stroke="#F59E0B" stroke-width="2.6" opacity="0.83"/>
+<line x1="989.0" y1="656" x2="989.0" y2="532.0" stroke="#F59E0B" stroke-width="2.6" opacity="0.8"/>
+<circle cx="989.0" cy="526.0" r="2.2" fill="#F59E0B" opacity="0.7"/>
+<line x1="1007.5" y1="656" x2="1007.5" y2="544.1" stroke="#F59E0B" stroke-width="2.6" opacity="0.76"/>
+<line x1="1026.0" y1="656" x2="1026.0" y2="556.1" stroke="#F59E0B" stroke-width="2.6" opacity="0.72"/>
+<circle cx="1026.0" cy="550.1" r="2.2" fill="#F59E0B" opacity="0.7"/>
+<line x1="1044.5" y1="656" x2="1044.5" y2="568.1" stroke="#F59E0B" stroke-width="2.6" opacity="0.69"/>
+<line x1="1063.0" y1="656" x2="1063.0" y2="580.1" stroke="#F59E0B" stroke-width="2.6" opacity="0.65"/>
+<circle cx="1063.0" cy="574.1" r="2.2" fill="#F59E0B" opacity="0.7"/>
+<line x1="1081.5" y1="656" x2="1081.5" y2="592.2" stroke="#F59E0B" stroke-width="2.6" opacity="0.61"/>
+<line x1="1100.0" y1="656" x2="1100.0" y2="604.2" stroke="#F59E0B" stroke-width="2.6" opacity="0.58"/>
+<circle cx="1100.0" cy="598.2" r="2.2" fill="#F59E0B" opacity="0.7"/>
+</g>
+<text x="952.0" y="512" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="600" fill="#F59E0B" text-anchor="middle" opacity="0.92">progestogenic → prolactin</text>
+<text x="952.0" y="525" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="600" fill="#F59E0B" text-anchor="middle" opacity="0.92">GH/IGF-1 · high water</text>
+<rect x="782" y="452" width="340" height="48" fill="#1A0E0E" stroke="#EF4444" stroke-width="2" rx="8"/>
+<rect x="782" y="452" width="340" height="48" fill="none" stroke="#EF4444" stroke-width="1" rx="8" opacity="0.35" stroke-dasharray="3 4"/>
+<text x="796" y="470" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="700" fill="#EF4444" letter-spacing="0.5">⚠ SUPPRESSION INTERLOCK</text>
+<text x="796" y="486" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10" font-weight="700" fill="#FFFFFF">MOST SUPPRESSIVE FAMILY OF THE TREE</text>
+<text x="952.0" y="524" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="700" fill="#EF4444" text-anchor="middle">ONE NANDROLONE SHOT = MONTHS OF HPTA SHUTDOWN</text>
+<text x="952.0" y="542" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="500" fill="#F59E0B" text-anchor="middle">Reserve 19-nors until you’ve accepted</text>
+<text x="952.0" y="555" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="500" fill="#F59E0B" text-anchor="middle">blast-and-cruise (→ Part 1, The Decision).</text>
+<rect x="78" y="660" width="332" height="606" fill="#141417" stroke="#34D399" stroke-width="1.4" rx="10"/>
+<rect x="78" y="660" width="332" height="606" fill="none" stroke="#34D399" stroke-width="1" rx="10" opacity="0.25"/>
+<rect x="78" y="660" width="332" height="64" fill="#34D399" opacity="0.12"/>
+<line x1="78" y1="724" x2="410" y2="724" stroke="#34D399" stroke-width="1" opacity="0.4"/>
+<text x="92" y="684" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="700" fill="#34D399">TESTOSTERONE FAMILY</text>
+<text x="92" y="702" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="500" fill="#A1A1AA">broad-spectrum base · aromatizes</text>
+<text x="92" y="715" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="500" fill="#A1A1AA">moderate–high water · RBC + energy</text>
+<rect x="88" y="740" width="312" height="95.2" fill="#1A1A20" stroke="#3F3F46" stroke-width="1" rx="7" opacity="1"/>
+<rect x="88" y="740" width="5" height="95.2" fill="#34D399" rx="2"/>
+<text x="104" y="762" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Testosterone</text>
+<rect x="338" y="750" width="54" height="16" fill="#0E1A14" stroke="#34D399" stroke-width="1.2" rx="4"/>
+<path d="M 347 754 L 351 758 L 347 762 Z" fill="#34D399"/>
+<text x="356" y="761.5" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9" font-weight="700" fill="#34D399">BASE</text>
+<text x="104" y="778" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.6" font-weight="500" fill="#A1A1AA">the reference — all else</text>
+<text x="104" y="791" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.6" font-weight="500" fill="#A1A1AA">is measured against it</text>
+<rect x="88" y="843.2" width="312" height="95.2" fill="#1A1A20" stroke="#3F3F46" stroke-width="1" rx="7" opacity="1"/>
+<rect x="88" y="843.2" width="5" height="95.2" fill="#34D399" rx="2"/>
+<text x="104" y="865.2" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="600" fill="#FFFFFF">Boldenone (EQ)</text>
+<rect x="338" y="853.2" width="54" height="16" fill="#0E1A14" stroke="#34D399" stroke-width="1.2" rx="4"/>
+<path d="M 347 857.2 L 351 861.2 L 347 865.2 Z" fill="#34D399"/>
+<text x="356" y="864.7" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9" font-weight="700" fill="#34D399">BASE</text>
+<text x="104" y="881.2" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.6" font-weight="500" fill="#A1A1AA">slow lean gains · ↑RBC, appetite</text>
+<rect x="88" y="946.4000000000001" width="312" height="95.2" fill="#1A1A20" stroke="#3F3F46" stroke-width="1" rx="7" opacity="1"/>
+<rect x="88" y="946.4000000000001" width="5" height="95.2" fill="#34D399" rx="2"/>
+<text x="104" y="968.4000000000001" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="600" fill="#FFFFFF">Dianabol</text>
+<rect x="338" y="956.4000000000001" width="54" height="16" fill="#0E1A14" stroke="#34D399" stroke-width="1.2" rx="4"/>
+<path d="M 347 960.4000000000001 L 351 964.4000000000001 L 347 968.4000000000001 Z" fill="#34D399"/>
+<text x="356" y="967.9000000000001" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9" font-weight="700" fill="#34D399">BASE</text>
+<text x="104" y="984.4000000000001" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.6" font-weight="500" fill="#A1A1AA">wet oral kick-start</text>
+<rect x="88" y="1049.6000000000001" width="312" height="95.2" fill="#1A1A20" stroke="#3F3F46" stroke-width="1" rx="7" opacity="1"/>
+<rect x="88" y="1049.6000000000001" width="5" height="95.2" fill="#60A5FA" rx="2"/>
+<text x="104" y="1071.6000000000001" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="600" fill="#FFFFFF">Halotestin*</text>
+<text x="104" y="1087.6000000000001" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="700" fill="#60A5FA">DHT-LIKE → no aromatize</text>
+<text x="104" y="1100.6000000000001" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.3" font-weight="500" fill="#A1A1AA">pure strength, no mass/water</text>
+<rect x="88" y="1152.8000000000002" width="312" height="95.2" fill="#1A1A20" stroke="#3F3F46" stroke-width="1" rx="7" opacity="1"/>
+<rect x="88" y="1152.8000000000002" width="5" height="95.2" fill="#60A5FA" rx="2"/>
+<text x="104" y="1174.8000000000002" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="600" fill="#FFFFFF">Turinabol*</text>
+<text x="104" y="1190.8000000000002" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="700" fill="#60A5FA">DHT-LIKE → dry, no water</text>
+<text x="104" y="1203.8000000000002" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.3" font-weight="500" fill="#A1A1AA">mild, controllable</text>
+<line x1="244.0" y1="1266" x2="244.0" y2="1280" stroke="#34D399" stroke-width="2.5" opacity="0.85"/>
+<circle cx="244.0" cy="1280" r="5" fill="#34D399"/>
+<circle cx="244.0" cy="1280" r="9" fill="none" stroke="#34D399" stroke-width="1" opacity="0.4"/>
+<rect x="432" y="660" width="332" height="606" fill="#141417" stroke="#60A5FA" stroke-width="1.4" rx="10"/>
+<rect x="432" y="660" width="332" height="606" fill="none" stroke="#60A5FA" stroke-width="1" rx="10" opacity="0.25"/>
+<rect x="432" y="660" width="332" height="64" fill="#60A5FA" opacity="0.12"/>
+<line x1="432" y1="724" x2="764" y2="724" stroke="#60A5FA" stroke-width="1" opacity="0.4"/>
+<text x="446" y="684" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="700" fill="#60A5FA">DHT FAMILY</text>
+<text x="446" y="702" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="500" fill="#A1A1AA">dry · tissue-selective · NO aromatization</text>
+<text x="446" y="715" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="500" fill="#A1A1AA">NO progestogenic · “weak” = few sides</text>
+<rect x="442" y="740" width="312" height="65.71428571428571" fill="#1A1A20" stroke="#3F3F46" stroke-width="1" rx="7" opacity="1"/>
+<rect x="442" y="740" width="5" height="65.71428571428571" fill="#60A5FA" rx="2"/>
+<text x="458" y="762" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Masteron</text>
+<text x="458" y="778" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.6" font-weight="500" fill="#A1A1AA">dry cosmetic hardener; mild anti-E</text>
+<rect x="442" y="813.7142857142857" width="312" height="65.71428571428571" fill="#1A1A20" stroke="#3F3F46" stroke-width="1" rx="7" opacity="1"/>
+<rect x="442" y="813.7142857142857" width="5" height="65.71428571428571" fill="#60A5FA" rx="2"/>
+<text x="458" y="835.7142857142857" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Primobolan</text>
+<text x="458" y="851.7142857142857" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.6" font-weight="500" fill="#A1A1AA">lean, gentle, well-tolerated</text>
+<rect x="442" y="887.4285714285713" width="312" height="65.71428571428571" fill="#1A1A20" stroke="#3F3F46" stroke-width="1" rx="7" opacity="1"/>
+<rect x="442" y="887.4285714285713" width="5" height="65.71428571428571" fill="#60A5FA" rx="2"/>
+<text x="458" y="909.4285714285713" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Anavar</text>
+<text x="458" y="925.4285714285713" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.6" font-weight="500" fill="#A1A1AA">strength + pumps, low sides</text>
+<rect x="442" y="961.142857142857" width="312" height="65.71428571428571" fill="#1A1A20" stroke="#3F3F46" stroke-width="1" rx="7" opacity="1"/>
+<rect x="442" y="961.142857142857" width="5" height="65.71428571428571" fill="#60A5FA" rx="2"/>
+<text x="458" y="983.142857142857" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Winstrol</text>
+<text x="458" y="999.142857142857" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.6" font-weight="500" fill="#A1A1AA">dry &amp; hard; taxes lipids/joints</text>
+<rect x="442" y="1034.8571428571427" width="312" height="65.71428571428571" fill="#1A1A20" stroke="#3F3F46" stroke-width="1" rx="7" opacity="1"/>
+<rect x="442" y="1034.8571428571427" width="5" height="65.71428571428571" fill="#60A5FA" rx="2"/>
+<text x="458" y="1056.8571428571427" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="600" fill="#FFFFFF">Proviron</text>
+<text x="458" y="1072.8571428571427" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.6" font-weight="500" fill="#A1A1AA">SHBG / androgen-support outlier</text>
+<text x="458" y="1085.8571428571427" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.6" font-weight="500" fill="#A1A1AA">→ see 3.0 SHBG lever</text>
+<rect x="442" y="1108.5714285714284" width="312" height="65.71428571428571" fill="#121215" stroke="#3F3F46" stroke-width="1" rx="7" opacity="0.78"/>
+<rect x="442" y="1108.5714285714284" width="5" height="65.71428571428571" fill="#60A5FA" rx="2"/>
+<text x="458" y="1130.5714285714284" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="600" fill="#A1A1AA">Superdrol · DHB</text>
+<text x="458" y="1146.5714285714284" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.6" font-weight="500" fill="#A1A1AA">potent — not beginner tools</text>
+<rect x="442" y="1182.2857142857142" width="312" height="65.71428571428571" fill="#1A1A20" stroke="#3F3F46" stroke-width="1" rx="7" opacity="1"/>
+<rect x="442" y="1182.2857142857142" width="5" height="65.71428571428571" fill="#F59E0B" rx="2"/>
+<text x="458" y="1204.2857142857142" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="600" fill="#FFFFFF">Anadrol*</text>
+<text x="458" y="1220.2857142857142" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="700" fill="#F59E0B">19-NOR-LIKE → watery mass</text>
+<text x="458" y="1233.2857142857142" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.3" font-weight="500" fill="#A1A1AA">estrogen-receptor agonist</text>
+<line x1="598.0" y1="1266" x2="598.0" y2="1280" stroke="#60A5FA" stroke-width="2.5" opacity="0.85"/>
+<circle cx="598.0" cy="1280" r="5" fill="#60A5FA"/>
+<circle cx="598.0" cy="1280" r="9" fill="none" stroke="#60A5FA" stroke-width="1" opacity="0.4"/>
+<rect x="786" y="660" width="332" height="606" fill="#141417" stroke="#F59E0B" stroke-width="1.4" rx="10"/>
+<rect x="786" y="660" width="332" height="606" fill="none" stroke="#F59E0B" stroke-width="1" rx="10" opacity="0.25"/>
+<rect x="786" y="660" width="332" height="64" fill="#F59E0B" opacity="0.12"/>
+<line x1="786" y1="724" x2="1118" y2="724" stroke="#F59E0B" stroke-width="1" opacity="0.4"/>
+<text x="800" y="684" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="700" fill="#F59E0B">19-NOR / NANDROLONE FAMILY</text>
+<text x="800" y="702" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="500" fill="#A1A1AA">maximum anabolism + cortisol-blocking</text>
+<text x="800" y="715" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="500" fill="#A1A1AA">progestogenic (prolactin) · GH/IGF-1</text>
+<rect x="796" y="740" width="312" height="164.0" fill="#1A1A20" stroke="#3F3F46" stroke-width="1" rx="7" opacity="1"/>
+<rect x="796" y="740" width="5" height="164.0" fill="#F59E0B" rx="2"/>
+<text x="812" y="762" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Nandrolone</text>
+<text x="812" y="778" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.6" font-weight="500" fill="#A1A1AA">“Deca / NPP” · joint &amp;</text>
+<text x="812" y="791" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.6" font-weight="500" fill="#A1A1AA">connective support, weak E</text>
+<rect x="796" y="912.0" width="312" height="164.0" fill="#1A1A20" stroke="#3F3F46" stroke-width="1" rx="7" opacity="1"/>
+<rect x="796" y="912.0" width="5" height="164.0" fill="#F59E0B" rx="2"/>
+<text x="812" y="934.0" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Trenbolone</text>
+<text x="812" y="950.0" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.6" font-weight="500" fill="#A1A1AA">blocks cortisol → wins in a</text>
+<text x="812" y="963.0" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.6" font-weight="500" fill="#A1A1AA">deficit; no aromatize, progestogenic</text>
+<rect x="796" y="1084.0" width="312" height="164.0" fill="#1A1A20" stroke="#3F3F46" stroke-width="1" rx="7" opacity="1"/>
+<rect x="796" y="1084.0" width="5" height="164.0" fill="#34D399" rx="2"/>
+<text x="812" y="1106.0" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="600" fill="#FFFFFF">Trestolone*</text>
+<rect x="1046" y="1094.0" width="54" height="16" fill="#0E1A14" stroke="#34D399" stroke-width="1.2" rx="4"/>
+<path d="M 1055 1098.0 L 1059 1102.0 L 1055 1106.0 Z" fill="#34D399"/>
+<text x="1064" y="1105.5" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9" font-weight="700" fill="#34D399">BASE</text>
+<text x="812" y="1122.0" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="700" fill="#34D399">TEST-LIKE → aromatizes</text>
+<text x="812" y="1135.0" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9.3" font-weight="500" fill="#A1A1AA">“MENT” · can be a base</text>
+<line x1="952.0" y1="1266" x2="952.0" y2="1280" stroke="#F59E0B" stroke-width="2.5" opacity="0.85"/>
+<circle cx="952.0" cy="1280" r="5" fill="#F59E0B"/>
+<circle cx="952.0" cy="1280" r="9" fill="none" stroke="#F59E0B" stroke-width="1" opacity="0.4"/>
+<path d="M 398 1101.1999999999998 C 419.0 1101.1999999999998, 419.0 1109.1999999999998, 440 1109.1999999999998" fill="none" stroke="#60A5FA" stroke-width="1.6" stroke-dasharray="5 4" opacity="0.9"/>
+<path d="M 440 1109.1999999999998 l -8 -4 l 0 8 z" fill="#60A5FA"/>
+<path d="M 752 1219.142857142857 C 773.0 1219.142857142857, 773.0 1225.142857142857, 794 1225.142857142857" fill="none" stroke="#F59E0B" stroke-width="1.6" stroke-dasharray="5 4" opacity="0.9"/>
+<path d="M 794 1225.142857142857 l -8 -4 l 0 8 z" fill="#F59E0B"/>
+<path d="M 798 1170.0 C 598.0 1170.0, 598.0 990.0, 402 870.0" fill="none" stroke="#34D399" stroke-width="1.4" stroke-dasharray="5 4" opacity="0.55"/>
+<path d="M 402 870.0 l 9 -2 l -4 8 z" fill="#34D399"/>
+<line x1="60" y1="1280" x2="1220" y2="1280" stroke="#FFFFFF" stroke-width="4"/>
+<line x1="60" y1="1280" x2="1220" y2="1280" stroke="#34D399" stroke-width="4" opacity="0.25"/>
+<line x1="88" y1="1280" x2="88" y2="1287" stroke="#52525B" stroke-width="1" opacity="0.6"/>
+<line x1="148" y1="1280" x2="148" y2="1287" stroke="#52525B" stroke-width="1" opacity="0.6"/>
+<line x1="208" y1="1280" x2="208" y2="1287" stroke="#52525B" stroke-width="1" opacity="0.6"/>
+<line x1="268" y1="1280" x2="268" y2="1287" stroke="#52525B" stroke-width="1" opacity="0.6"/>
+<line x1="328" y1="1280" x2="328" y2="1287" stroke="#52525B" stroke-width="1" opacity="0.6"/>
+<line x1="388" y1="1280" x2="388" y2="1287" stroke="#52525B" stroke-width="1" opacity="0.6"/>
+<line x1="448" y1="1280" x2="448" y2="1287" stroke="#52525B" stroke-width="1" opacity="0.6"/>
+<line x1="508" y1="1280" x2="508" y2="1287" stroke="#52525B" stroke-width="1" opacity="0.6"/>
+<line x1="568" y1="1280" x2="568" y2="1287" stroke="#52525B" stroke-width="1" opacity="0.6"/>
+<line x1="628" y1="1280" x2="628" y2="1287" stroke="#52525B" stroke-width="1" opacity="0.6"/>
+<line x1="688" y1="1280" x2="688" y2="1287" stroke="#52525B" stroke-width="1" opacity="0.6"/>
+<line x1="748" y1="1280" x2="748" y2="1287" stroke="#52525B" stroke-width="1" opacity="0.6"/>
+<line x1="808" y1="1280" x2="808" y2="1287" stroke="#52525B" stroke-width="1" opacity="0.6"/>
+<line x1="868" y1="1280" x2="868" y2="1287" stroke="#52525B" stroke-width="1" opacity="0.6"/>
+<line x1="928" y1="1280" x2="928" y2="1287" stroke="#52525B" stroke-width="1" opacity="0.6"/>
+<line x1="988" y1="1280" x2="988" y2="1287" stroke="#52525B" stroke-width="1" opacity="0.6"/>
+<line x1="1048" y1="1280" x2="1048" y2="1287" stroke="#52525B" stroke-width="1" opacity="0.6"/>
+<line x1="1108" y1="1280" x2="1108" y2="1287" stroke="#52525B" stroke-width="1" opacity="0.6"/>
+<line x1="1168" y1="1280" x2="1168" y2="1287" stroke="#52525B" stroke-width="1" opacity="0.6"/>
+<rect x="298" y="1254" width="684" height="22" fill="#0A0A0C" stroke="#3F3F46" stroke-width="1" rx="4"/>
+<text x="640" y="1270" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12.5" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">NITROGEN RETAINED ≈ 60–75 g LBM / day — ROUGHLY EQUAL ACROSS ALL THREE FAMILIES</text>
+<text x="640" y="1304" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#A1A1AA" text-anchor="middle" font-style="italic">Same muscle. The difference is everything above this line.</text>
+<rect x="488" y="1404" width="304" height="66" fill="#26262B" stroke="#34D399" stroke-width="1.6" rx="10"/>
+<text x="640" y="1431" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#34D399" text-anchor="middle">TESTOSTERONE</text>
+<text x="640" y="1451" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="500" fill="#A1A1AA" text-anchor="middle">parent of the whole tree — DHT &amp; Nandrolone derive from it</text>
+<path d="M 640 1404 C 640 1364, 244.0 1330, 244.0 1286" fill="none" stroke="#34D399" stroke-width="2" opacity="0.8"/>
+<rect x="235.0" y="1339.0" width="18" height="18" fill="#0A0A0C" stroke="#34D399" stroke-width="1.4" rx="4"/>
+<circle cx="244.0" cy="1348.0" r="3" fill="#34D399"/>
+<text x="244.0" y="1374.0" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10" font-weight="600" fill="#34D399" text-anchor="middle">↳ direct → TEST</text>
+<path d="M 640 1404 C 640 1364, 598.0 1330, 598.0 1286" fill="none" stroke="#60A5FA" stroke-width="2" opacity="0.8"/>
+<rect x="589.0" y="1339.0" width="18" height="18" fill="#0A0A0C" stroke="#60A5FA" stroke-width="1.4" rx="4"/>
+<circle cx="598.0" cy="1348.0" r="3" fill="#60A5FA"/>
+<text x="598.0" y="1374.0" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10" font-weight="600" fill="#60A5FA" text-anchor="middle">↳ 5α-REDUCTION → DHT</text>
+<path d="M 640 1404 C 640 1364, 952.0 1330, 952.0 1286" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.8"/>
+<rect x="943.0" y="1339.0" width="18" height="18" fill="#0A0A0C" stroke="#F59E0B" stroke-width="1.4" rx="4"/>
+<circle cx="952.0" cy="1348.0" r="3" fill="#F59E0B"/>
+<text x="952.0" y="1374.0" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10" font-weight="600" fill="#F59E0B" text-anchor="middle">↳ 19-DEMETHYLATION → 19-nor</text>
+<line x1="1173.0" y1="506" x2="1173.0" y2="1266" stroke="#52525B" stroke-width="2" opacity="0.7"/>
+<text x="1173.0" y="480" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">CLIMB</text>
+<text x="1173.0" y="494" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">ORDER</text>
+<circle cx="1173.0" cy="1226" r="15" fill="#0A0A0C" stroke="#34D399" stroke-width="2"/>
+<text x="1173.0" y="1231" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="15" font-weight="700" fill="#34D399" text-anchor="middle">1</text>
+<text x="1173.0" y="1256" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9" font-weight="600" fill="#A1A1AA" text-anchor="middle">MASTER</text>
+<text x="1173.0" y="1268" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9" font-weight="600" fill="#A1A1AA" text-anchor="middle">TESTOSTERONE</text>
+<circle cx="1173.0" cy="900" r="15" fill="#0A0A0C" stroke="#60A5FA" stroke-width="2"/>
+<text x="1173.0" y="905" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="15" font-weight="700" fill="#60A5FA" text-anchor="middle">2</text>
+<text x="1173.0" y="930" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9" font-weight="600" fill="#A1A1AA" text-anchor="middle">ADD DHT</text>
+<text x="1173.0" y="942" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9" font-weight="600" fill="#A1A1AA" text-anchor="middle">DERIVATIVES</text>
+<circle cx="1173.0" cy="560" r="15" fill="#0A0A0C" stroke="#F59E0B" stroke-width="2"/>
+<text x="1173.0" y="565" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="15" font-weight="700" fill="#F59E0B" text-anchor="middle">3</text>
+<text x="1173.0" y="590" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9" font-weight="600" fill="#A1A1AA" text-anchor="middle">REACH FOR</text>
+<text x="1173.0" y="602" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="9" font-weight="600" fill="#A1A1AA" text-anchor="middle">19-NORS LAST</text>
+<text x="1173.0" y="1063" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="400" fill="#6B6B73" text-anchor="middle">▲</text>
+<text x="1173.0" y="1075" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8" font-weight="400" fill="#6B6B73" text-anchor="middle">exhaust</text>
+<text x="1173.0" y="1085" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8" font-weight="400" fill="#6B6B73" text-anchor="middle">before</text>
+<text x="1173.0" y="1095" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8" font-weight="400" fill="#6B6B73" text-anchor="middle">ascending</text>
+<text x="1173.0" y="730" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="400" fill="#6B6B73" text-anchor="middle">▲</text>
+<text x="1173.0" y="742" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8" font-weight="400" fill="#6B6B73" text-anchor="middle">exhaust</text>
+<text x="1173.0" y="752" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8" font-weight="400" fill="#6B6B73" text-anchor="middle">before</text>
+<text x="1173.0" y="762" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="8" font-weight="400" fill="#6B6B73" text-anchor="middle">ascending</text>
+<line x1="72" y1="1548" x2="1208" y2="1548" stroke="#3F3F46" stroke-width="1" opacity="0.5"/>
+<text x="72" y="1570" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#A1A1AA">*  behaves UNLIKE its family — the family is a strong default, not a law.</text>
+<text x="72" y="1592" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" font-weight="500" fill="#6B6B73">Pattern → T-family: AR + Estrogen levers · DHT-family: SHBG + restraint · 19-nor: Progesterone + Cortisol-blocking (back to the 3.0 pathways).</text>
+<text x="1208" y="1570" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#34D399" text-anchor="end" letter-spacing="0.5">Fit — Performance Enhancement</text>
+<text x="1208" y="1592" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="500" fill="#A1A1AA" text-anchor="end">tag colour = the family a compound actually BEHAVES like</text>
+</svg>

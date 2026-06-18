@@ -5,6 +5,7 @@ product_id: "mk-677-10mgx50tab-kohohpharma"
 compound: "MK-677"
 aliases:
   - "MK-677"
+  - "MK677"
 name: MK-677
 brand: kohohpharma
 vendor: kohohpharma
@@ -21,7 +22,7 @@ use: Cycling
 protocols:
   - "[[Bulk Recovery & Partitioning Protocol]]"
   - "[[Bulk Protocol]]"
-  - "[[Lean Bulk Protocol]]"
+  - "[[Recomposition & Lean Bulk Protocol|Lean Bulk]]"
 active: true
 count_in_total: true
 cycle_weeks: 8
@@ -34,7 +35,9 @@ list_price:
 promo_price:
 current_phase: medium
 stock_on_hand: 600
+stock_as_of: 2026-06-08
 daily_dose: 20
+runout_forecast: 2026-07-08
 product_tags:
   - On-cycle only
   - Anabolic
@@ -60,6 +63,19 @@ notes: ""
 |---|---|---|---|
 | early | 7 | RM3.18 | RM178.08 |
 | medium | 14 | RM6.36 | RM712.32 |
+
+
+## Purchase Log
+
+> [!note] Stock is currently an aggregate balance, not a lot-level FIFO ledger. PO rows prove acquisition; exact surviving lots require a physical count or depletion entry.
+
+| Date | Event | PO / source | Change or balance | Usage at update | Note |
+|---|---|---|---|---|---|
+| 2026-06-08 | Stock update | Manual/model snapshot | 600 mg on hand | 20 mg/ED | Latest recorded aggregate balance; forecast empty 2026-07-08 |
+| 2026-05-28 | Purchase | [[PO 2026-05-28 — kohohpharma]] | +500 mg purchased | - | MK677; line total 159.00 |
+| 2026-02-25 | Purchase | [[PO 2026-02-25 — kohohpharma]] | +1000 mg purchased | - | MK677; line total 318.00 |
+
+> Append future events newest-first: `Purchase`, `Stock check`, `Usage change`, or `Depletion`. Every stock check must also update `stock_on_hand` and `stock_as_of`.
 
 ## Links
 - Schedule: [[ED — Every Day]]

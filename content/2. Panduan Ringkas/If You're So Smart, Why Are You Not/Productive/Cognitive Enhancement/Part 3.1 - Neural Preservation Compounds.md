@@ -168,6 +168,10 @@ A few of the natural-stack staples don't belong to any single one of the six pat
 > [!check] The preservation principle
 > ==The best neuroprotection isn't a Tier-3 peptide; it's sleep, cardio, omega-3, stable glucose, and *not* running Bucket A past what your hardware can repay.== The compounds here are the margin on top of that, and the neurosteroids specifically are a *test-driven correction* for the deficit a cycle creates, not a blind add.
 
+*Here's the whole Preservation bucket as a cross-section read against the years, not against a feeling. The hot Performance deck sits on top, spending down a substrate of four maintenance bays ([[Part 3.1 - Neural Preservation Compounds#Pillar 1: Neurogenesis & Neurotrophic Factors (BDNF / NGF)|neurogenesis]], glutamate, the [[Part 3.1 - Neural Preservation Compounds#Pillar 3: The Neurosteroid Base (Pregnenolone / DHEA)|neurosteroid base]], and the uridine bridge plus supporting cast), all standing on the free foundation rail of sleep, cardio, omega-3, and stable glucose. The single red line is the decades ledger in the margin: skip the substrate and capacity steps down through tolerance, then fog, then decline, because [[Part 3.1 - Neural Preservation Compounds#Why this bucket is the one you'll skip and regret|performance is a loan and preservation is the repayment]]. Use it as a [[Part 3.1 - Neural Preservation Compounds#The Preservation stack at a glance|reference card]]: get everything on the floor right first, then add the compounds as the margin on top.*
+
+![[Poster — Productive - Cognitive Enhancement Part 3.1 - Neural Preservation Compounds.png]]
+
 ---
 ## Part 3 Takeaways
 

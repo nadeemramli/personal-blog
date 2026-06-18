@@ -51,5 +51,5 @@ notes: "Wishlist. USD69.99 (≈RM329, FX confirm). 20ml injectable lipolysis ble
 > [!warning] Stimulant load (yohimbine + albuterol). Don't combine with other strong stims, avoid late-day dosing, watch BP/HR. Pre-fasted-cardio use only.
 
 ## Links
-- Protocol: [[Mini-Cut & Accelerator Tiers]] · Source: [[aminotech]] · Sister blend: [[Super Shredder (20ml) — aminotech|Super Shredder]]
+- Protocol: [[Off-Season Mini-Cut & Accelerator Tiers]] · Source: [[aminotech]] · Sister blend: [[Super Shredder (20ml) — aminotech|Super Shredder]]
 - Operating system: [[The Operating System]] · [[Product List]] · [[Schema — Data Model]]

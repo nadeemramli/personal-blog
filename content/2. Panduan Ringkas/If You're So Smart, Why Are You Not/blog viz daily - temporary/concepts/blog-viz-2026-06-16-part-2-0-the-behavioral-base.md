@@ -1,0 +1,8 @@
+- Article: Productive/Cognitive Enhancement/Part 2.0 - The Behavioral Base.md
+- Date: 2026-06-16
+- Series: If You're So Smart, Why Are You Not
+
+Full visualization concept lives in the sibling file (richer, canonical):
+"Visualization Concept — Productive - Cognitive Enhancement Part 2.0 - The Behavioral Base.md"
+
+One-line: a STAGED COMMISSIONING BOARD that builds the brain's base supply in a locked order, hero = a DRAINABLE BASELINE RESERVOIR + CONTRAST COMPARATOR (cheap-hit leak injectors pump the level so high that the modest REAL-WORK ramp can't clear the threshold → close the valves, the level drains, real work clears it again = "dopamine works on contrast, not absolute level"). Spine = a 3-stage interlocked power-on sequence (drain baseline → attach reward/±stimulant → consolidate preservation, "behaviour first, performance second, hardware third"). Foundation = the five free inputs as a full-width POWER SUPPLY of unequal gauge (sleep = the mains; cardio = BDNF dynamo; omega-3/DHA = structural trinity-brick + absorption-key gate; hydration/fuel = smoothing; load-mgmt = shielding). Docked: habit-stamping as a rising-edge latched write; a five-toggle READINESS GATE to Part 3. The ONE red object = a stimulant/amplifier energized into a still-flooded baseline (bypassed Stage-1 interlock) → "JITTERS, NOT FOCUS" (the leaking-tank wound). Foot ribbon = the Fitness→…→Income spiral with COGNITION lit as the productivity node + "optionality & Design, not output" + "don't min-max your brain." Locked "Neural Signal Schematic" style, landscape. Builds the always-on BASE RAIL that 4.0 later runs everything on.

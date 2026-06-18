@@ -33,13 +33,13 @@ So the operating system is built on **qualitative drivers**, not just numbers. H
 
 Five kinds of note, surfaced through six [[Schema — Data Model|database views]]:
 
-1. **[[Product List|Products]]** — **101 products**, grouped by `stack` into 10 folders, each with its own base (`0. <Stack>.base`): Hair, Skin, PEDs, PCT, Cycle Support, Ancillaries & Supplement, Cognitive Stack, Peptides, Protein & Pre-Intra, Consumables. Plus a master `0. Products.base` and a `0. Stock & Restock.base` (stock check + a `restock` flag: Buy now / this month / OK / Not needed). Each note carries brand, prices, doses, cost/dose. (Bases live inside their folders, keeping the root clean.)
+1. **[[Product List|Products]]** — **103 stock products** (+92 wishlist offers, as of 2026-06-11), grouped by `stack` into 10 folders, each with its own base (`0. <Stack>.base`): Hair, Skin, PEDs, PCT, Cycle Support, Ancillaries & Supplement, Cognitive Stack, Peptides, Protein & Pre-Intra, Consumables. Plus a master `0. Products.base` and a `0. Stock & Restock.base` (stock check + a `restock` flag: Buy now / this month / OK / Not needed). Each note carries brand, prices, doses, cost/dose. (Bases live inside their folders, keeping the root clean.)
 2. **Product Usage** — `Product Usage.base`. The same product notes, viewed by *how we use them*: which pillar and protocol, importance, active/retired.
 3. **Cycles & Dosing** — `Cycles & Dosing.base`. Cycle definitions and where each item sits in the current cycle — start date, phase, run-out.
 4. **Dosing Information** — `Dosing Information.base`. The dosing-schedule dictionary (ED / EOD / Training Days / Intense Training Days / Occasionally / Cycling) with the `days_per_week` factor that drives every forecast.
 5. **Sources** — `Sources.base`. How each product is bought, because landed cost ≠ sticker price: iHerb's RM22-per-RM450 shipping, the crypto + fees on overseas GMP (HCG/HMG), and so on.
 6. **Overheads** — `Overheads.base`. The rest of the maintenance bill that isn't a pill: diagnostics ([[Bloodwork & Calculated Biomarkers|bloodwork]] + DEXA), gym, software/subscriptions, grooming, and **living/baseline** (rent RM0/family home, transport, utilities, phone/wifi ~RM585/mo). ~RM845/mo discretionary + ~RM585/mo living.
-7. **Protocols** — `Protocols.base`. Phase stacks — [[Bulk Protocol|Bulk]], [[Cut Protocol|Cut]], [[Lean Bulk Protocol|Lean Bulk]] — documenting which products run in each phase (GHK-Cu + KPV always-on).
+7. **Protocols** — `Protocols.base`. Phase stacks — [[Bulk Protocol|Bulk]], [[Cut Protocol|Cut]], [[Recomposition & Lean Bulk Protocol|Lean Bulk]] — documenting which products run in each phase (GHK-Cu + KPV always-on).
 
 > [!note] Out of scope on purpose: **peptides** (CJC/Ipamorelin, Retatrutide, SS31, MOTS-c, BPC-157, GHK-cu) are funded by the **INDEXA** side-business and excluded from the personal maintenance bill. **Hevy** is a one-time lifetime app purchase, not a recurring cost.
 

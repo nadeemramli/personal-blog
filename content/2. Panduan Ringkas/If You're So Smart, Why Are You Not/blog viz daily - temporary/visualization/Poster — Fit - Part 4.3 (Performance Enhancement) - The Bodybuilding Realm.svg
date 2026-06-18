@@ -1,0 +1,455 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1820" viewBox="0 0 1920 1820">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0C1118"/><stop offset="1" stop-color="#0A0D12"/></linearGradient>
+<linearGradient id="costgrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C97B3E" stop-opacity="0.6"/><stop offset="0.5" stop-color="#6A7585" stop-opacity="0.15"/><stop offset="1" stop-color="#4F8FC9" stop-opacity="0.6"/></linearGradient>
+<linearGradient id="ghost" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1A222C"/><stop offset="1" stop-color="#10161D"/></linearGradient>
+<pattern id="hatch" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="14" stroke="#7A2327" stroke-width="2.2" opacity="0.5"/></pattern>
+<pattern id="ghatch" width="22" height="22" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="22" stroke="#2C3A48" stroke-width="1.3" opacity="0.4"/></pattern>
+</defs>
+<rect x="0.0" y="0.0" width="1920.0" height="1820.0" fill="url(#bg)" stroke="none" stroke-width="1"/>
+<line x1="0.0" y1="0.0" x2="0.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="80.0" y1="0.0" x2="80.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="160.0" y1="0.0" x2="160.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="240.0" y1="0.0" x2="240.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="320.0" y1="0.0" x2="320.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="400.0" y1="0.0" x2="400.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="480.0" y1="0.0" x2="480.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="560.0" y1="0.0" x2="560.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="640.0" y1="0.0" x2="640.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="720.0" y1="0.0" x2="720.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="800.0" y1="0.0" x2="800.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="880.0" y1="0.0" x2="880.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="960.0" y1="0.0" x2="960.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="1040.0" y1="0.0" x2="1040.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="1120.0" y1="0.0" x2="1120.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="1200.0" y1="0.0" x2="1200.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="1280.0" y1="0.0" x2="1280.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="1360.0" y1="0.0" x2="1360.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="1440.0" y1="0.0" x2="1440.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="1520.0" y1="0.0" x2="1520.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="1600.0" y1="0.0" x2="1600.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="1680.0" y1="0.0" x2="1680.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="1760.0" y1="0.0" x2="1760.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="1840.0" y1="0.0" x2="1840.0" y2="1820.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="0.0" x2="1920.0" y2="0.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="80.0" x2="1920.0" y2="80.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="160.0" x2="1920.0" y2="160.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="240.0" x2="1920.0" y2="240.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="320.0" x2="1920.0" y2="320.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="400.0" x2="1920.0" y2="400.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="480.0" x2="1920.0" y2="480.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="560.0" x2="1920.0" y2="560.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="640.0" x2="1920.0" y2="640.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="720.0" x2="1920.0" y2="720.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="800.0" x2="1920.0" y2="800.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="880.0" x2="1920.0" y2="880.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="960.0" x2="1920.0" y2="960.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="1040.0" x2="1920.0" y2="1040.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="1120.0" x2="1920.0" y2="1120.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="1200.0" x2="1920.0" y2="1200.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="1280.0" x2="1920.0" y2="1280.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="1360.0" x2="1920.0" y2="1360.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="1440.0" x2="1920.0" y2="1440.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="1520.0" x2="1920.0" y2="1520.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="1600.0" x2="1920.0" y2="1600.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="1680.0" x2="1920.0" y2="1680.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<line x1="0.0" y1="1760.0" x2="1920.0" y2="1760.0" stroke="#10161E" stroke-width="1" stroke-linecap="butt" opacity="0.5"/>
+<rect x="24.0" y="24.0" width="1872.0" height="1772.0" fill="none" stroke="#2A333F" stroke-width="1.5" rx="6"/>
+<line x1="24.0" y1="24.0" x2="40.0" y2="24.0" stroke="#3A4654" stroke-width="2" stroke-linecap="butt"/>
+<line x1="24.0" y1="24.0" x2="24.0" y2="40.0" stroke="#3A4654" stroke-width="2" stroke-linecap="butt"/>
+<line x1="1896.0" y1="24.0" x2="1880.0" y2="24.0" stroke="#3A4654" stroke-width="2" stroke-linecap="butt"/>
+<line x1="1896.0" y1="24.0" x2="1896.0" y2="40.0" stroke="#3A4654" stroke-width="2" stroke-linecap="butt"/>
+<line x1="24.0" y1="1796.0" x2="40.0" y2="1796.0" stroke="#3A4654" stroke-width="2" stroke-linecap="butt"/>
+<line x1="24.0" y1="1796.0" x2="24.0" y2="1780.0" stroke="#3A4654" stroke-width="2" stroke-linecap="butt"/>
+<line x1="1896.0" y1="1796.0" x2="1880.0" y2="1796.0" stroke="#3A4654" stroke-width="2" stroke-linecap="butt"/>
+<line x1="1896.0" y1="1796.0" x2="1896.0" y2="1780.0" stroke="#3A4654" stroke-width="2" stroke-linecap="butt"/>
+<line x1="48.0" y1="70.0" x2="48.0" y2="150.0" stroke="#36C9C0" stroke-width="3" stroke-linecap="butt"/>
+<text x="66.0" y="84.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="15" fill="#36C9C0" font-weight="700" text-anchor="start" letter-spacing="1.5">FIT · PE · PART 4.3 — THE BODYBUILDING REALM</text>
+<text x="66.0" y="112.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="13" fill="#8C99A8" font-weight="400" text-anchor="start">PART 4 · THE TOOLBOX — defense flips to the LOOK.  Performance &amp; aesthetic compounds.</text>
+<text x="66.0" y="138.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="12" fill="#6A7585" font-weight="400" text-anchor="start">DRAWER 3 of the toolbox · 4.0 protect → 4.1 react → 4.2 select → 4.3 SHARPEN</text>
+<text x="48.0" y="244.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="74" fill="#E6ECF2" font-weight="600" text-anchor="start" letter-spacing="-0.5">It doesn’t build. It reveals.</text>
+<text x="52.0" y="292.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="17" fill="#8C99A8" font-weight="400" text-anchor="start">The performance &amp; aesthetic drawer — fat-burners, thyroid, pumps, stage tools — layered on a physique that’s already built.</text>
+<text x="52.0" y="318.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="17" fill="#8C99A8" font-weight="400" text-anchor="start" font-style="italic">Climb only as far as your leanness unlocks.</text>
+<rect x="48.0" y="346.0" width="1824.0" height="40.0" fill="#121821" stroke="#1F6B66" stroke-width="1.2" rx="5"/>
+<line x1="48.0" y1="346.0" x2="48.0" y2="386.0" stroke="#36C9C0" stroke-width="3" stroke-linecap="butt"/>
+<text x="70.0" y="372.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="15" fill="#E6ECF2" font-weight="600" text-anchor="start">READ THE INDIRECT EFFECT —  mechanism in, downstream out  ·  the lit OUTPUT PLATE is the reason you run it.</text>
+<text x="1850.0" y="372.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="13" fill="#36C9C0" font-weight="400" text-anchor="end" font-style="italic">learn one chip → read them all</text>
+<rect x="48.0" y="404.0" width="1824.0" height="96.0" fill="#0F141C" stroke="#2A333F" stroke-width="1" rx="6"/>
+<text x="66.0" y="430.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="13" fill="#8C99A8" font-weight="700" text-anchor="start" letter-spacing="1">GOAL RAILS — read by goal, not by drug</text>
+<rect x="274.0" y="448.0" width="172.0" height="34.0" fill="#121821" stroke="#1F6B66" stroke-width="1.2" rx="17"/>
+<circle cx="296.0" cy="465.0" r="11.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1.4"/>
+<text x="296.0" y="469.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="13" fill="#36C9C0" font-weight="700" text-anchor="middle">L</text>
+<text x="372.0" y="469.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="12" fill="#E6ECF2" font-weight="600" text-anchor="middle">LEAN-OUT</text>
+<rect x="565.0" y="448.0" width="172.0" height="34.0" fill="#121821" stroke="#1F6B66" stroke-width="1.2" rx="17"/>
+<circle cx="587.0" cy="465.0" r="11.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1.4"/>
+<text x="587.0" y="469.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="13" fill="#36C9C0" font-weight="700" text-anchor="middle">F</text>
+<text x="663.0" y="469.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="12" fill="#E6ECF2" font-weight="600" text-anchor="middle">FULLNESS</text>
+<rect x="856.0" y="448.0" width="172.0" height="34.0" fill="#121821" stroke="#1F6B66" stroke-width="1.2" rx="17"/>
+<circle cx="878.0" cy="465.0" r="11.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1.4"/>
+<text x="878.0" y="469.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="13" fill="#36C9C0" font-weight="700" text-anchor="middle">E</text>
+<text x="954.0" y="469.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="12" fill="#E6ECF2" font-weight="600" text-anchor="middle">ENDURANCE</text>
+<rect x="1147.0" y="448.0" width="172.0" height="34.0" fill="#121821" stroke="#1F6B66" stroke-width="1.2" rx="17"/>
+<circle cx="1169.0" cy="465.0" r="11.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1.4"/>
+<text x="1169.0" y="469.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="13" fill="#36C9C0" font-weight="700" text-anchor="middle">D</text>
+<text x="1245.0" y="469.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="12" fill="#E6ECF2" font-weight="600" text-anchor="middle">DRYNESS / VASCULARITY</text>
+<rect x="1438.0" y="448.0" width="172.0" height="34.0" fill="#121821" stroke="#1F6B66" stroke-width="1.2" rx="17"/>
+<circle cx="1460.0" cy="465.0" r="11.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1.4"/>
+<text x="1460.0" y="469.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="13" fill="#36C9C0" font-weight="700" text-anchor="middle">I</text>
+<text x="1536.0" y="469.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="12" fill="#E6ECF2" font-weight="600" text-anchor="middle">INSULIN SENS.</text>
+<text x="1602.0" y="428.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11.5" fill="#E3B23C" font-weight="700" text-anchor="start">+ NON-ANABOLIC STRENGTH side-tap</text>
+<text x="1602.0" y="448.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#8C99A8" font-weight="400" text-anchor="start">MK-677 joint cushion · tadalafil pump-as-structure</text>
+<text x="1602.0" y="464.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#8C99A8" font-weight="400" text-anchor="start">cardarine glycogen-spare → volume → neural gain</text>
+<text x="1602.0" y="482.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#6A7585" font-weight="400" text-anchor="start" font-style="italic">none anabolic — 3 raise the bar by other routes</text>
+<text x="66.0" y="524.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="12.5" fill="#8C99A8" font-weight="700" text-anchor="start" letter-spacing="0.5">SPAN-PHASE &amp; ADJUNCT — any tier, read by goal · dual-use picks are the efficient ones</text>
+<rect x="48.0" y="534.0" width="420.0" height="170.0" fill="#121821" stroke="#1F6B66" stroke-width="2" rx="7"/>
+<rect x="48.0" y="534.0" width="7.0" height="170.0" fill="#4F8FC9" stroke="none" stroke-width="1" opacity="0.85"/>
+<text x="72.0" y="561.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="15" fill="#E6ECF2" font-weight="700" text-anchor="start">MK-677</text>
+<rect x="382.0" y="545.0" width="74.0" height="21.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1" rx="10"/>
+<text x="419.0" y="560.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#36C9C0" font-weight="700" text-anchor="middle">DUAL-USE</text>
+<line x1="64.0" y1="574.0" x2="454.0" y2="574.0" stroke="#3A4654" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<circle cx="80.0" cy="598.0" r="8.0" fill="#0A0D12" stroke="#4F8FC9" stroke-width="1.6"/>
+<circle cx="80.0" cy="598.0" r="3.0" fill="#4F8FC9" stroke="none" stroke-width="1"/>
+<text x="98.0" y="592.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#6A7585" font-weight="600" text-anchor="start">IN · mechanism</text>
+<text x="98.0" y="609.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11.5" fill="#E6ECF2" font-weight="700" text-anchor="start">ghrelin agonist</text>
+<text x="72.0" y="634.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#8C99A8" font-weight="400" text-anchor="start" font-style="italic">direct: ↑GH / IGF-1</text>
+<line x1="216.0" y1="598.0" x2="252.0" y2="598.0" stroke="#36C9C0" stroke-width="1.6" stroke-linecap="butt"/>
+<polygon points="252.0,593.0 260.0,598.0 252.0,603.0" fill="#36C9C0" stroke="none" stroke-width="1"/>
+<rect x="258.0" y="580.0" width="198.0" height="66.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1.6" rx="5"/>
+<text x="270.0" y="597.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#36C9C0" font-weight="700" text-anchor="start" letter-spacing="1">INDIRECT —</text>
+<text x="270.0" y="614.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">fullness / vascularity</text>
+<text x="270.0" y="630.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">deep sleep · recovery</text>
+<text x="270.0" y="646.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">joint / tendon cushion</text>
+<text x="72.0" y="674.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="600" text-anchor="start">⚠ appetite=feature on bulk,</text>
+<text x="72.0" y="689.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="400" text-anchor="start">SABOTEUR on a cut · water blurs cond.</text>
+<text x="452.0" y="674.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#36C9C0" font-weight="700" text-anchor="end">rails ▸ F  D</text>
+<rect x="486.0" y="534.0" width="420.0" height="170.0" fill="#121821" stroke="#1F6B66" stroke-width="2" rx="7"/>
+<rect x="486.0" y="534.0" width="7.0" height="170.0" fill="#4F8FC9" stroke="none" stroke-width="1" opacity="0.85"/>
+<text x="510.0" y="561.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="15" fill="#E6ECF2" font-weight="700" text-anchor="start">TADALAFIL</text>
+<rect x="820.0" y="545.0" width="74.0" height="21.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1" rx="10"/>
+<text x="857.0" y="560.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#36C9C0" font-weight="700" text-anchor="middle">DUAL-USE</text>
+<line x1="502.0" y1="574.0" x2="892.0" y2="574.0" stroke="#3A4654" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<circle cx="518.0" cy="598.0" r="8.0" fill="#0A0D12" stroke="#4F8FC9" stroke-width="1.6"/>
+<circle cx="518.0" cy="598.0" r="3.0" fill="#4F8FC9" stroke="none" stroke-width="1"/>
+<text x="536.0" y="592.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#6A7585" font-weight="600" text-anchor="start">IN · mechanism</text>
+<text x="536.0" y="609.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11.5" fill="#E6ECF2" font-weight="700" text-anchor="start">PDE5 inhibitor</text>
+<text x="510.0" y="634.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#8C99A8" font-weight="400" text-anchor="start" font-style="italic">direct: vasodilation</text>
+<line x1="654.0" y1="598.0" x2="690.0" y2="598.0" stroke="#36C9C0" stroke-width="1.6" stroke-linecap="butt"/>
+<polygon points="690.0,593.0 698.0,598.0 690.0,603.0" fill="#36C9C0" stroke="none" stroke-width="1"/>
+<rect x="696.0" y="580.0" width="198.0" height="66.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1.6" rx="5"/>
+<text x="708.0" y="597.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#36C9C0" font-weight="700" text-anchor="start" letter-spacing="1">INDIRECT —</text>
+<text x="708.0" y="614.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">unreal pumps</text>
+<text x="708.0" y="630.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">persistent vascularity</text>
+<text x="708.0" y="646.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">set-to-set endurance</text>
+<text x="510.0" y="674.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="600" text-anchor="start">⚠ dual-use — also pays off</text>
+<text x="510.0" y="689.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="400" text-anchor="start">for BP / endothelium</text>
+<text x="890.0" y="674.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#36C9C0" font-weight="700" text-anchor="end">rails ▸ D  E</text>
+<rect x="924.0" y="534.0" width="420.0" height="170.0" fill="#121821" stroke="#3A4654" stroke-width="1.5" rx="7"/>
+<rect x="924.0" y="534.0" width="7.0" height="170.0" fill="#4F8FC9" stroke="none" stroke-width="1" opacity="0.85"/>
+<text x="948.0" y="561.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="15" fill="#E6ECF2" font-weight="700" text-anchor="start">MELANOTAN-2</text>
+<line x1="940.0" y1="574.0" x2="1330.0" y2="574.0" stroke="#3A4654" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<circle cx="956.0" cy="598.0" r="8.0" fill="#0A0D12" stroke="#4F8FC9" stroke-width="1.6"/>
+<circle cx="956.0" cy="598.0" r="3.0" fill="#4F8FC9" stroke="none" stroke-width="1"/>
+<text x="974.0" y="592.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#6A7585" font-weight="600" text-anchor="start">IN · mechanism</text>
+<text x="974.0" y="609.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11.5" fill="#E6ECF2" font-weight="700" text-anchor="start">melanocortin ag.</text>
+<text x="948.0" y="634.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#8C99A8" font-weight="400" text-anchor="start" font-style="italic">direct: pigmentation</text>
+<line x1="1092.0" y1="598.0" x2="1128.0" y2="598.0" stroke="#36C9C0" stroke-width="1.6" stroke-linecap="butt"/>
+<polygon points="1128.0,593.0 1136.0,598.0 1128.0,603.0" fill="#36C9C0" stroke="none" stroke-width="1"/>
+<rect x="1134.0" y="580.0" width="198.0" height="66.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1.6" rx="5"/>
+<text x="1146.0" y="597.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#36C9C0" font-weight="700" text-anchor="start" letter-spacing="1">INDIRECT —</text>
+<text x="1146.0" y="614.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">tan / colour on stage</text>
+<text x="1146.0" y="630.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">appetite ↓</text>
+<text x="1146.0" y="646.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">erection quality</text>
+<text x="948.0" y="674.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="600" text-anchor="start">⚠ nausea · mole darkening</text>
+<text x="948.0" y="689.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="400" text-anchor="start">long-term melanoma Q</text>
+<text x="1328.0" y="674.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#36C9C0" font-weight="700" text-anchor="end">rails ▸ D</text>
+<rect x="1362.0" y="534.0" width="510.0" height="170.0" fill="#241D0C" stroke="#6E561E" stroke-width="1.6" rx="7"/>
+<rect x="1362.0" y="534.0" width="7.0" height="170.0" fill="#E3B23C" stroke="none" stroke-width="1" opacity="0.9"/>
+<text x="1386.0" y="561.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="15" fill="#E3B23C" font-weight="700" text-anchor="start">CYTOLIN</text>
+<rect x="1778.0" y="545.0" width="82.0" height="21.0" fill="#0A0D12" stroke="#6E561E" stroke-width="1" rx="10"/>
+<text x="1819.0" y="560.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="700" text-anchor="middle">UGL BLEND</text>
+<line x1="1378.0" y1="574.0" x2="1858.0" y2="574.0" stroke="#6E561E" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<text x="1386.0" y="596.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#E6ECF2" font-weight="400" text-anchor="start">a UGL clen + T3/T4 blend —</text>
+<text x="1386.0" y="611.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#E6ECF2" font-weight="400" text-anchor="start">you trust a lab’s RATIO of two</text>
+<text x="1386.0" y="626.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#E6ECF2" font-weight="400" text-anchor="start">already-harsh compounds.</text>
+<text x="1386.0" y="656.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#8C99A8" font-weight="400" text-anchor="start">Run the components separately</text>
+<text x="1386.0" y="671.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#8C99A8" font-weight="400" text-anchor="start">and dialled — the Part 1</text>
+<text x="1386.0" y="686.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#8C99A8" font-weight="400" text-anchor="start">quality problem.</text>
+<rect x="48.0" y="776.0" width="92.0" height="538.0" fill="none" stroke="#2A333F" stroke-width="1" rx="5"/>
+<rect x="84.0" y="788.0" width="20.0" height="514.0" fill="url(#costgrad)" stroke="none" stroke-width="1" rx="10"/>
+<polygon points="94.0,782.0 87.0,796.0 101.0,796.0" fill="#C97B3E" stroke="none" stroke-width="1" opacity="0.85"/>
+<text x="94.0" y="754.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#8C99A8" font-weight="700" text-anchor="middle">CARDIOVASCULAR</text>
+<text x="94.0" y="767.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#8C99A8" font-weight="700" text-anchor="middle">COST</text>
+<text x="68.0" y="946.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="13" fill="#C97B3E" font-weight="700" text-anchor="middle" transform="rotate(-90 68.0 946.0)">HIGH · flogs the CNS</text>
+<text x="68.0" y="1144.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="13" fill="#4F8FC9" font-weight="700" text-anchor="middle" transform="rotate(-90 68.0 1144.0)">LOW · works underneath</text>
+<text x="148.0" y="786.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#C97B3E" font-weight="400" text-anchor="start" opacity="0.9">warm tint = high CV</text>
+<text x="148.0" y="1312.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#4F8FC9" font-weight="400" text-anchor="start" opacity="0.9">cool tint = low CV</text>
+<line x1="48.0" y1="1045.0" x2="1456.0" y2="1045.0" stroke="#2A333F" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 9" opacity="0.45"/>
+<text x="1450.0" y="1038.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#6A7585" font-weight="400" text-anchor="end" font-style="italic">same fat-loss goal · different height on the cost scale</text>
+<rect x="160.0" y="724.0" width="420.0" height="38.0" fill="#121821" stroke="#36C9C0" stroke-width="1.4" rx="5"/>
+<line x1="160.0" y1="724.0" x2="160.0" y2="762.0" stroke="#36C9C0" stroke-width="4" stroke-linecap="butt"/>
+<text x="176.0" y="742.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="14.5" fill="#36C9C0" font-weight="700" text-anchor="start">TIER 1 · LIGHT</text>
+<text x="176.0" y="757.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#8C99A8" font-weight="400" text-anchor="start" font-style="italic">soft / opening a mini-cut</text>
+<rect x="476.0" y="732.0" width="96.0" height="22.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1" rx="11"/>
+<text x="524.0" y="747.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#36C9C0" font-weight="700" text-anchor="middle">UNLOCKED</text>
+<rect x="160.0" y="776.0" width="420.0" height="538.0" fill="none" stroke="#2A333F" stroke-width="1" rx="6" opacity="0.7"/>
+<rect x="598.0" y="724.0" width="420.0" height="38.0" fill="#121821" stroke="#E3B23C" stroke-width="1.4" rx="5"/>
+<line x1="598.0" y1="724.0" x2="598.0" y2="762.0" stroke="#E3B23C" stroke-width="4" stroke-linecap="butt"/>
+<text x="614.0" y="742.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="14.5" fill="#E3B23C" font-weight="700" text-anchor="start">TIER 2 · MEDIUM</text>
+<text x="614.0" y="757.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#8C99A8" font-weight="400" text-anchor="start" font-style="italic">a genuine mid-cut</text>
+<rect x="906.0" y="732.0" width="104.0" height="22.0" fill="#241D0C" stroke="#6E561E" stroke-width="1" rx="11"/>
+<text x="958.0" y="747.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="700" text-anchor="middle">+ TIER 1</text>
+<rect x="598.0" y="776.0" width="420.0" height="538.0" fill="none" stroke="#2A333F" stroke-width="1" rx="6" opacity="0.7" stroke-dasharray="2 6"/>
+<path d="M 589 820 q -10 0 -10 14 v 422 q 0 14 10 14" fill="none" stroke="#E3B23C" stroke-width="1.6" stroke-linecap="butt" opacity="0.85"/>
+<text x="576.0" y="1045.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#E3B23C" font-weight="700" text-anchor="middle" transform="rotate(-90 576.0 1045.0)">NESTS THE ONE BELOW</text>
+<rect x="1036.0" y="724.0" width="420.0" height="38.0" fill="#121821" stroke="#E3B23C" stroke-width="1.4" rx="5"/>
+<line x1="1036.0" y1="724.0" x2="1036.0" y2="762.0" stroke="#E3B23C" stroke-width="4" stroke-linecap="butt"/>
+<text x="1052.0" y="742.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="14.5" fill="#E3B23C" font-weight="700" text-anchor="start">TIER 3 · HEAVY</text>
+<text x="1052.0" y="757.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#8C99A8" font-weight="400" text-anchor="start" font-style="italic">lean, chasing a final peak</text>
+<rect x="1344.0" y="732.0" width="104.0" height="22.0" fill="#241D0C" stroke="#6E561E" stroke-width="1" rx="11"/>
+<text x="1396.0" y="747.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="700" text-anchor="middle">+ ALL BELOW</text>
+<rect x="1036.0" y="776.0" width="420.0" height="538.0" fill="none" stroke="#2A333F" stroke-width="1" rx="6" opacity="0.7" stroke-dasharray="2 6"/>
+<path d="M 1027 820 q -10 0 -10 14 v 422 q 0 14 10 14" fill="none" stroke="#E3B23C" stroke-width="1.6" stroke-linecap="butt" opacity="0.85"/>
+<text x="1014.0" y="1045.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#E3B23C" font-weight="700" text-anchor="middle" transform="rotate(-90 1014.0 1045.0)">NESTS THE ONE BELOW</text>
+<rect x="172.0" y="776.0" width="396.0" height="170.0" fill="#121821" stroke="#3A4654" stroke-width="1.5" rx="7"/>
+<rect x="172.0" y="776.0" width="7.0" height="170.0" fill="#C97B3E" stroke="none" stroke-width="1" opacity="0.85"/>
+<text x="196.0" y="803.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="15" fill="#E6ECF2" font-weight="700" text-anchor="start">T3 (LIOTHYRONINE)</text>
+<line x1="188.0" y1="816.0" x2="554.0" y2="816.0" stroke="#3A4654" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<circle cx="204.0" cy="840.0" r="8.0" fill="#0A0D12" stroke="#C97B3E" stroke-width="1.6"/>
+<circle cx="204.0" cy="840.0" r="3.0" fill="#C97B3E" stroke="none" stroke-width="1"/>
+<text x="222.0" y="834.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#6A7585" font-weight="600" text-anchor="start">IN · mechanism</text>
+<text x="222.0" y="851.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11.5" fill="#E6ECF2" font-weight="700" text-anchor="start">active thyroid hormone</text>
+<text x="196.0" y="876.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#8C99A8" font-weight="400" text-anchor="start" font-style="italic">direct: ↑ metabolic rate</text>
+<line x1="330.4" y1="840.0" x2="364.0" y2="840.0" stroke="#36C9C0" stroke-width="1.6" stroke-linecap="butt"/>
+<polygon points="364.0,835.0 372.0,840.0 364.0,845.0" fill="#36C9C0" stroke="none" stroke-width="1"/>
+<rect x="370.0" y="822.0" width="186.0" height="66.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1.6" rx="5"/>
+<text x="382.0" y="839.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#36C9C0" font-weight="700" text-anchor="start" letter-spacing="1">INDIRECT —</text>
+<text x="382.0" y="856.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">aggressive cut fat loss</text>
+<text x="382.0" y="872.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">the contest thyroid tool</text>
+<text x="196.0" y="916.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="600" text-anchor="start">⚠ catabolic · cardiac strain · taper</text>
+<text x="196.0" y="931.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="400" text-anchor="start">T4=protection (4.2) · T3=aggressive cut</text>
+<text x="552.0" y="916.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#36C9C0" font-weight="700" text-anchor="end">rails ▸ L</text>
+<rect x="172.0" y="960.0" width="396.0" height="170.0" fill="#121821" stroke="#1F6B66" stroke-width="2" rx="7"/>
+<rect x="172.0" y="960.0" width="7.0" height="170.0" fill="#4F8FC9" stroke="none" stroke-width="1" opacity="0.85"/>
+<text x="196.0" y="987.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="15" fill="#E6ECF2" font-weight="700" text-anchor="start">CARDARINE</text>
+<rect x="482.0" y="971.0" width="74.0" height="21.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1" rx="10"/>
+<text x="519.0" y="986.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#36C9C0" font-weight="700" text-anchor="middle">DUAL-USE</text>
+<line x1="188.0" y1="1000.0" x2="554.0" y2="1000.0" stroke="#3A4654" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<circle cx="204.0" cy="1024.0" r="8.0" fill="#0A0D12" stroke="#4F8FC9" stroke-width="1.6"/>
+<circle cx="204.0" cy="1024.0" r="3.0" fill="#4F8FC9" stroke="none" stroke-width="1"/>
+<text x="222.0" y="1018.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#6A7585" font-weight="600" text-anchor="start">IN · mechanism</text>
+<text x="222.0" y="1035.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11.5" fill="#E6ECF2" font-weight="700" text-anchor="start">PPAR-δ agonist</text>
+<text x="196.0" y="1060.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#8C99A8" font-weight="400" text-anchor="start" font-style="italic">direct: fat-for-fuel switch</text>
+<line x1="330.4" y1="1024.0" x2="364.0" y2="1024.0" stroke="#36C9C0" stroke-width="1.6" stroke-linecap="butt"/>
+<polygon points="364.0,1019.0 372.0,1024.0 364.0,1029.0" fill="#36C9C0" stroke="none" stroke-width="1"/>
+<rect x="370.0" y="1006.0" width="186.0" height="66.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1.6" rx="5"/>
+<text x="382.0" y="1023.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#36C9C0" font-weight="700" text-anchor="start" letter-spacing="1">INDIRECT —</text>
+<text x="382.0" y="1040.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">endurance · glycogen sparing</text>
+<text x="382.0" y="1056.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">↑HDL / ↓trig · doubles as 4.0</text>
+<text x="196.0" y="1100.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="600" text-anchor="start">⚠ rodent high-dose cancer caveat</text>
+<text x="552.0" y="1100.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#36C9C0" font-weight="700" text-anchor="end">rails ▸ E  I</text>
+<rect x="172.0" y="1144.0" width="396.0" height="170.0" fill="#121821" stroke="#1F6B66" stroke-width="1.5" rx="7"/>
+<rect x="172.0" y="1144.0" width="7.0" height="170.0" fill="#4F8FC9" stroke="none" stroke-width="1" opacity="0.85"/>
+<text x="196.0" y="1171.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="15" fill="#E6ECF2" font-weight="700" text-anchor="start">GLUCOSE “+” COMBO</text>
+<rect x="482.0" y="1155.0" width="74.0" height="21.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1" rx="10"/>
+<text x="519.0" y="1170.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#36C9C0" font-weight="700" text-anchor="middle">CLUSTER</text>
+<line x1="188.0" y1="1184.0" x2="554.0" y2="1184.0" stroke="#3A4654" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<text x="196.0" y="1204.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#E6ECF2" font-weight="600" text-anchor="start">metformin + SGLT2i (empa/ertu) + retatrutide</text>
+<rect x="190.0" y="1216.0" width="360.0" height="52.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1.4" rx="5"/>
+<text x="202.0" y="1234.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#E6ECF2" font-weight="600" text-anchor="start">INDIRECT —  restore insulin-receptor sensitivity, 3 ways</text>
+<text x="202.0" y="1252.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#8C99A8" font-weight="400" text-anchor="start">peripheral sensitise · renal glucose dump · appetite crush</text>
+<text x="196.0" y="1299.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="400" text-anchor="start">several double as 4.2 year-round (“+”) · retatrutide crush = a CUT tool</text>
+<text x="552.0" y="1299.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#36C9C0" font-weight="700" text-anchor="end">rails ▸ I</text>
+<rect x="610.0" y="776.0" width="396.0" height="170.0" fill="#121821" stroke="#3A4654" stroke-width="1.5" rx="7"/>
+<rect x="610.0" y="776.0" width="7.0" height="170.0" fill="#4F8FC9" stroke="none" stroke-width="1" opacity="0.85"/>
+<text x="634.0" y="803.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="15" fill="#E6ECF2" font-weight="700" text-anchor="start">METHYLENE BLUE</text>
+<line x1="626.0" y1="816.0" x2="992.0" y2="816.0" stroke="#3A4654" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<circle cx="642.0" cy="840.0" r="8.0" fill="#0A0D12" stroke="#4F8FC9" stroke-width="1.6"/>
+<circle cx="642.0" cy="840.0" r="3.0" fill="#4F8FC9" stroke="none" stroke-width="1"/>
+<text x="660.0" y="834.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#6A7585" font-weight="600" text-anchor="start">IN · mechanism</text>
+<text x="660.0" y="851.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11.5" fill="#E6ECF2" font-weight="700" text-anchor="start">ETC electron cycler</text>
+<text x="634.0" y="876.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#8C99A8" font-weight="400" text-anchor="start" font-style="italic">direct: redox shuttle</text>
+<line x1="768.4" y1="840.0" x2="802.0" y2="840.0" stroke="#36C9C0" stroke-width="1.6" stroke-linecap="butt"/>
+<polygon points="802.0,835.0 810.0,840.0 802.0,845.0" fill="#36C9C0" stroke="none" stroke-width="1"/>
+<rect x="808.0" y="822.0" width="186.0" height="66.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1.6" rx="5"/>
+<text x="820.0" y="839.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#36C9C0" font-weight="700" text-anchor="start" letter-spacing="1">INDIRECT —</text>
+<text x="820.0" y="856.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">ATP yield</text>
+<text x="820.0" y="872.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">oxidative-waste clearance</text>
+<text x="634.0" y="916.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="600" text-anchor="start">⚠ hormetic · MAOI → serotonin risk</text>
+<text x="634.0" y="931.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="400" text-anchor="start">turns urine blue-green</text>
+<text x="990.0" y="916.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#36C9C0" font-weight="700" text-anchor="end">rails ▸ E</text>
+<rect x="610.0" y="960.0" width="396.0" height="170.0" fill="#121821" stroke="#3A4654" stroke-width="1.5" rx="7"/>
+<rect x="610.0" y="960.0" width="7.0" height="170.0" fill="#4F8FC9" stroke="none" stroke-width="1" opacity="0.85"/>
+<text x="634.0" y="987.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="15" fill="#E6ECF2" font-weight="700" text-anchor="start">SLU-PP-332</text>
+<line x1="626.0" y1="1000.0" x2="992.0" y2="1000.0" stroke="#3A4654" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<circle cx="642.0" cy="1024.0" r="8.0" fill="#0A0D12" stroke="#4F8FC9" stroke-width="1.6"/>
+<circle cx="642.0" cy="1024.0" r="3.0" fill="#4F8FC9" stroke="none" stroke-width="1"/>
+<text x="660.0" y="1018.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#6A7585" font-weight="600" text-anchor="start">IN · mechanism</text>
+<text x="660.0" y="1035.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11.5" fill="#E6ECF2" font-weight="700" text-anchor="start">ERR agonist</text>
+<text x="634.0" y="1060.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#8C99A8" font-weight="400" text-anchor="start" font-style="italic">direct: exercise-mimetic</text>
+<line x1="768.4" y1="1024.0" x2="802.0" y2="1024.0" stroke="#36C9C0" stroke-width="1.6" stroke-linecap="butt"/>
+<polygon points="802.0,1019.0 810.0,1024.0 802.0,1029.0" fill="#36C9C0" stroke="none" stroke-width="1"/>
+<rect x="808.0" y="1006.0" width="186.0" height="66.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1.6" rx="5"/>
+<text x="820.0" y="1023.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#36C9C0" font-weight="700" text-anchor="start" letter-spacing="1">INDIRECT —</text>
+<text x="820.0" y="1040.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">fat oxidation</text>
+<text x="820.0" y="1056.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">no stim load</text>
+<text x="634.0" y="1100.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="600" text-anchor="start">⚠ research chemical · thin human data</text>
+<text x="990.0" y="1100.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#36C9C0" font-weight="700" text-anchor="end">rails ▸ L</text>
+<rect x="610.0" y="1144.0" width="396.0" height="170.0" fill="#121821" stroke="#3A4654" stroke-width="1.5" rx="7"/>
+<rect x="610.0" y="1144.0" width="7.0" height="170.0" fill="#4F8FC9" stroke="none" stroke-width="1" opacity="0.85"/>
+<text x="634.0" y="1171.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="15" fill="#E6ECF2" font-weight="700" text-anchor="start">MOTS-c</text>
+<line x1="626.0" y1="1184.0" x2="992.0" y2="1184.0" stroke="#3A4654" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<circle cx="642.0" cy="1208.0" r="8.0" fill="#0A0D12" stroke="#4F8FC9" stroke-width="1.6"/>
+<circle cx="642.0" cy="1208.0" r="3.0" fill="#4F8FC9" stroke="none" stroke-width="1"/>
+<text x="660.0" y="1202.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#6A7585" font-weight="600" text-anchor="start">IN · mechanism</text>
+<text x="660.0" y="1219.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11.5" fill="#E6ECF2" font-weight="700" text-anchor="start">mito-derived peptide</text>
+<text x="634.0" y="1244.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#8C99A8" font-weight="400" text-anchor="start" font-style="italic">direct: metabolic signalling</text>
+<line x1="768.4" y1="1208.0" x2="802.0" y2="1208.0" stroke="#36C9C0" stroke-width="1.6" stroke-linecap="butt"/>
+<polygon points="802.0,1203.0 810.0,1208.0 802.0,1213.0" fill="#36C9C0" stroke="none" stroke-width="1"/>
+<rect x="808.0" y="1190.0" width="186.0" height="66.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1.6" rx="5"/>
+<text x="820.0" y="1207.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#36C9C0" font-weight="700" text-anchor="start" letter-spacing="1">INDIRECT —</text>
+<text x="820.0" y="1224.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">metabolic flexibility</text>
+<text x="820.0" y="1240.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">prevents diet-induced IR</text>
+<text x="634.0" y="1284.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="600" text-anchor="start">⚠ research-tier peptide</text>
+<text x="990.0" y="1284.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#36C9C0" font-weight="700" text-anchor="end">rails ▸ L  I</text>
+<text x="808.0" y="1332.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#4F8FC9" font-weight="400" text-anchor="middle" font-style="italic">the mitochondrial layer — same fat-loss, far lower CV cost</text>
+<rect x="1048.0" y="776.0" width="396.0" height="170.0" fill="#121821" stroke="#3A4654" stroke-width="1.5" rx="7"/>
+<rect x="1048.0" y="776.0" width="7.0" height="170.0" fill="#C97B3E" stroke="none" stroke-width="1" opacity="0.85"/>
+<text x="1072.0" y="803.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="15" fill="#E6ECF2" font-weight="700" text-anchor="start">CLENBUTEROL</text>
+<line x1="1064.0" y1="816.0" x2="1430.0" y2="816.0" stroke="#3A4654" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<circle cx="1080.0" cy="840.0" r="8.0" fill="#0A0D12" stroke="#C97B3E" stroke-width="1.6"/>
+<circle cx="1080.0" cy="840.0" r="3.0" fill="#C97B3E" stroke="none" stroke-width="1"/>
+<text x="1098.0" y="834.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#6A7585" font-weight="600" text-anchor="start">IN · mechanism</text>
+<text x="1098.0" y="851.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11.5" fill="#E6ECF2" font-weight="700" text-anchor="start">β2 agonist</text>
+<text x="1072.0" y="876.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#8C99A8" font-weight="400" text-anchor="start" font-style="italic">direct: thermogenesis / lipolysis</text>
+<line x1="1206.4" y1="840.0" x2="1240.0" y2="840.0" stroke="#36C9C0" stroke-width="1.6" stroke-linecap="butt"/>
+<polygon points="1240.0,835.0 1248.0,840.0 1240.0,845.0" fill="#36C9C0" stroke="none" stroke-width="1"/>
+<rect x="1246.0" y="822.0" width="186.0" height="66.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1.6" rx="5"/>
+<text x="1258.0" y="839.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#36C9C0" font-weight="700" text-anchor="start" letter-spacing="1">INDIRECT —</text>
+<text x="1258.0" y="856.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">muscle-sparing</text>
+<text x="1258.0" y="872.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">oxygenation / endurance</text>
+<text x="1258.0" y="888.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">vascularity</text>
+<text x="1072.0" y="916.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="600" text-anchor="start">⚠ cardiac load · SHORT cycles late cut</text>
+<text x="1072.0" y="931.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="400" text-anchor="start">taurine / K⁺ + ketotifen</text>
+<text x="1428.0" y="916.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#36C9C0" font-weight="700" text-anchor="end">rails ▸ L  E  D</text>
+<rect x="1048.0" y="960.0" width="396.0" height="170.0" fill="#121821" stroke="#3A4654" stroke-width="1.5" rx="7"/>
+<rect x="1048.0" y="960.0" width="7.0" height="170.0" fill="#C97B3E" stroke="none" stroke-width="1" opacity="0.85"/>
+<text x="1072.0" y="987.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="15" fill="#E6ECF2" font-weight="700" text-anchor="start">EPHEDRINE / ECA</text>
+<line x1="1064.0" y1="1000.0" x2="1430.0" y2="1000.0" stroke="#3A4654" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<circle cx="1080.0" cy="1024.0" r="8.0" fill="#0A0D12" stroke="#C97B3E" stroke-width="1.6"/>
+<circle cx="1080.0" cy="1024.0" r="3.0" fill="#C97B3E" stroke="none" stroke-width="1"/>
+<text x="1098.0" y="1018.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#6A7585" font-weight="600" text-anchor="start">IN · mechanism</text>
+<text x="1098.0" y="1035.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11.5" fill="#E6ECF2" font-weight="700" text-anchor="start">sympathomimetic</text>
+<text x="1072.0" y="1060.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#8C99A8" font-weight="400" text-anchor="start" font-style="italic">direct: thermogenesis · appetite ↓</text>
+<line x1="1206.4" y1="1024.0" x2="1240.0" y2="1024.0" stroke="#36C9C0" stroke-width="1.6" stroke-linecap="butt"/>
+<polygon points="1240.0,1019.0 1248.0,1024.0 1240.0,1029.0" fill="#36C9C0" stroke="none" stroke-width="1"/>
+<rect x="1246.0" y="1006.0" width="186.0" height="66.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1.6" rx="5"/>
+<text x="1258.0" y="1023.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#36C9C0" font-weight="700" text-anchor="start" letter-spacing="1">INDIRECT —</text>
+<text x="1258.0" y="1040.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">work capacity at sub-6% BF</text>
+<text x="1072.0" y="1100.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="600" text-anchor="start">⚠ BP / HR · not for hypertensives</text>
+<text x="1428.0" y="1100.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#36C9C0" font-weight="700" text-anchor="end">rails ▸ L</text>
+<rect x="1048.0" y="1144.0" width="396.0" height="170.0" fill="#121821" stroke="#3A4654" stroke-width="1.5" rx="7"/>
+<rect x="1048.0" y="1144.0" width="7.0" height="170.0" fill="#4F8FC9" stroke="none" stroke-width="1" opacity="0.85"/>
+<text x="1072.0" y="1171.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="15" fill="#E6ECF2" font-weight="700" text-anchor="start">YOHIMBINE / RAUWOLSCINE</text>
+<line x1="1064.0" y1="1184.0" x2="1430.0" y2="1184.0" stroke="#3A4654" stroke-width="1" stroke-linecap="butt" opacity="0.8"/>
+<circle cx="1080.0" cy="1208.0" r="8.0" fill="#0A0D12" stroke="#4F8FC9" stroke-width="1.6"/>
+<circle cx="1080.0" cy="1208.0" r="3.0" fill="#4F8FC9" stroke="none" stroke-width="1"/>
+<text x="1098.0" y="1202.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#6A7585" font-weight="600" text-anchor="start">IN · mechanism</text>
+<text x="1098.0" y="1219.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11.5" fill="#E6ECF2" font-weight="700" text-anchor="start">α2 antagonist</text>
+<text x="1072.0" y="1244.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#8C99A8" font-weight="400" text-anchor="start" font-style="italic">direct: stubborn-fat lipolysis</text>
+<line x1="1206.4" y1="1208.0" x2="1240.0" y2="1208.0" stroke="#36C9C0" stroke-width="1.6" stroke-linecap="butt"/>
+<polygon points="1240.0,1203.0 1248.0,1208.0 1240.0,1213.0" fill="#36C9C0" stroke="none" stroke-width="1"/>
+<rect x="1246.0" y="1190.0" width="186.0" height="66.0" fill="#0E2E2C" stroke="#36C9C0" stroke-width="1.6" rx="5"/>
+<text x="1258.0" y="1207.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#36C9C0" font-weight="700" text-anchor="start" letter-spacing="1">INDIRECT —</text>
+<text x="1258.0" y="1224.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">lower-back / ab fat</text>
+<text x="1258.0" y="1240.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="600" text-anchor="start">FASTED only</text>
+<text x="1072.0" y="1284.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E3B23C" font-weight="600" text-anchor="start">⚠ BP / HR / anxiety</text>
+<text x="1428.0" y="1284.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#36C9C0" font-weight="700" text-anchor="end">rails ▸ L  D</text>
+<text x="1246.0" y="1332.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#E3B23C" font-weight="400" text-anchor="middle" font-style="italic">+ HGH · full fasted fat-loss routine · electrolytes (glucose layer dropped)</text>
+<rect x="1628.0" y="724.0" width="244.0" height="590.0" fill="#2A1012" stroke="#E5484D" stroke-width="2.4" rx="6"/>
+<rect x="1636.0" y="732.0" width="228.0" height="574.0" fill="url(#hatch)" stroke="none" stroke-width="1" rx="4" opacity="0.6"/>
+<line x1="1618.0" y1="724.0" x2="1618.0" y2="1314.0" stroke="#E5484D" stroke-width="3" stroke-linecap="butt" stroke-dasharray="2 7"/>
+<rect x="1603.0" y="1017.0" width="30.0" height="26.0" fill="#0A0D12" stroke="#E5484D" stroke-width="2" rx="4"/>
+<path d="M 1609 1017.0 v -8 a 9 9 0 0 1 18 0 v 8" fill="none" stroke="#E5484D" stroke-width="2" stroke-linecap="butt"/>
+<circle cx="1618.0" cy="1028.0" r="3.2" fill="#E5484D" stroke="none" stroke-width="1"/>
+<text x="1750.0" y="758.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="20" fill="#E5484D" font-weight="700" text-anchor="middle" letter-spacing="1">REDLINE</text>
+<text x="1750.0" y="780.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="14" fill="#E5484D" font-weight="700" text-anchor="middle" letter-spacing="2">KILL-ZONE</text>
+<line x1="1652.0" y1="794.0" x2="1848.0" y2="794.0" stroke="#7A2327" stroke-width="1" stroke-linecap="butt"/>
+<text x="1750.0" y="828.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="18" fill="#E6ECF2" font-weight="700" text-anchor="middle">CONTEST</text>
+<text x="1750.0" y="852.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="18" fill="#E6ECF2" font-weight="700" text-anchor="middle">DIURETICS</text>
+<text x="1750.0" y="886.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11.5" fill="#E6ECF2" font-weight="700" text-anchor="middle">the line where this</text>
+<text x="1750.0" y="909.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11.5" fill="#E6ECF2" font-weight="700" text-anchor="middle">gets people KILLED</text>
+<text x="1750.0" y="955.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11.5" fill="#8C99A8" font-weight="400" text-anchor="middle">K⁺ / electrolyte crash</text>
+<text x="1750.0" y="978.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11.5" fill="#8C99A8" font-weight="400" text-anchor="middle">cardiac arrhythmia</text>
+<text x="1750.0" y="1024.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11.5" fill="#8C99A8" font-weight="400" text-anchor="middle">expert + coach +</text>
+<text x="1750.0" y="1047.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11.5" fill="#8C99A8" font-weight="400" text-anchor="middle">medical supervision</text>
+<text x="1750.0" y="1070.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11.5" fill="#8C99A8" font-weight="400" text-anchor="middle">contest-week ONLY</text>
+<rect x="1648.0" y="1138.0" width="204.0" height="72.0" fill="#0A0D12" stroke="#E5484D" stroke-width="1.6" rx="5"/>
+<text x="1750.0" y="1165.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="13" fill="#E5484D" font-weight="700" text-anchor="middle">NO DOSE MARKS</text>
+<text x="1750.0" y="1185.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#8C99A8" font-weight="400" text-anchor="middle" font-style="italic">— on purpose —</text>
+<text x="1750.0" y="1202.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#6A7585" font-weight="400" text-anchor="middle">every other tool has them</text>
+<text x="1750.0" y="1236.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#8C99A8" font-weight="400" text-anchor="middle">NOT the gentle BP indapamide</text>
+<text x="1750.0" y="1252.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#8C99A8" font-weight="400" text-anchor="middle" font-style="italic">RESTRAINT of Part 4.2</text>
+<text x="1750.0" y="1284.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#E5484D" font-weight="700" text-anchor="middle" letter-spacing="1">THE ONLY RED OBJECT</text>
+<text x="1750.0" y="1300.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#6A7585" font-weight="400" text-anchor="middle">on the whole page</text>
+<rect x="160.0" y="1348.0" width="1500.0" height="66.0" fill="url(#ghost)" stroke="#2C3A48" stroke-width="1.4" rx="6"/>
+<rect x="160.0" y="1348.0" width="1500.0" height="66.0" fill="url(#ghatch)" stroke="none" stroke-width="1" rx="6" opacity="0.5"/>
+<text x="184.0" y="1376.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="16" fill="#46586A" font-weight="700" text-anchor="start" letter-spacing="0.5">BUILT BY THE ANABOLICS  (Part 3)</text>
+<text x="184.0" y="1398.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="12" fill="#46586A" font-weight="400" text-anchor="start">this drawer only REVEALS &amp; SHARPENS it — the finishing sliver above rides on a physique that is already built</text>
+<text x="1490.0" y="1376.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="12" fill="#46586A" font-weight="700" text-anchor="end">THE MARGIN ON THE MARGIN</text>
+<text x="1490.0" y="1398.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#46586A" font-weight="400" text-anchor="end" font-style="italic">base dwarfs the sliver — on purpose</text>
+<rect x="48.0" y="1444.0" width="300.0" height="196.0" fill="#121821" stroke="#3A4654" stroke-width="1.4" rx="7"/>
+<text x="66.0" y="1470.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="14" fill="#E6ECF2" font-weight="700" text-anchor="start">BODY-FAT GOVERNOR</text>
+<text x="66.0" y="1488.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#8C99A8" font-weight="400" text-anchor="start" font-style="italic">the interlock — not a decorative gauge</text>
+<circle cx="122.0" cy="1570.0" r="52.0" fill="#0A0D12" stroke="#3A4654" stroke-width="2"/>
+<line x1="72.0" y1="1570.0" x2="82.0" y2="1570.0" stroke="#8C99A8" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="78.7" y1="1545.0" x2="87.4" y2="1550.0" stroke="#8C99A8" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="97.0" y1="1526.7" x2="102.0" y2="1535.4" stroke="#8C99A8" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="122.0" y1="1520.0" x2="122.0" y2="1530.0" stroke="#8C99A8" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="147.0" y1="1526.7" x2="142.0" y2="1535.4" stroke="#8C99A8" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="165.3" y1="1545.0" x2="156.6" y2="1550.0" stroke="#8C99A8" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="172.0" y1="1570.0" x2="162.0" y2="1570.0" stroke="#8C99A8" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="122.0" y1="1570.0" x2="90.8" y2="1552.0" stroke="#36C9C0" stroke-width="3" stroke-linecap="round"/>
+<circle cx="122.0" cy="1570.0" r="5.0" fill="#36C9C0" stroke="none" stroke-width="1"/>
+<text x="122.0" y="1640.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#8C99A8" font-weight="400" text-anchor="middle">reads BODY-FAT %</text>
+<text x="74.0" y="1522.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#36C9C0" font-weight="400" text-anchor="start">lean</text>
+<text x="170.0" y="1522.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#E3B23C" font-weight="400" text-anchor="end">soft</text>
+<text x="198.0" y="1522.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="700" text-anchor="start">THE TIER IS SET BY YOUR</text>
+<text x="198.0" y="1539.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E6ECF2" font-weight="700" text-anchor="start">BODY FAT, NOT YOUR</text>
+<text x="198.0" y="1556.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#36C9C0" font-weight="700" text-anchor="start">IMPATIENCE.</text>
+<text x="198.0" y="1586.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#E3B23C" font-weight="700" text-anchor="start">↺ return pawl:</text>
+<text x="198.0" y="1602.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#E3B23C" font-weight="400" text-anchor="start">marker turns →</text>
+<text x="198.0" y="1618.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#E3B23C" font-weight="400" text-anchor="start">step DOWN a tier</text>
+<text x="382.0" y="1468.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11.5" fill="#8C99A8" font-weight="700" text-anchor="start">THE ACCELERATOR RAMP — you climb, you don’t swap · each detent nests the one below</text>
+<text x="382.0" y="1486.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#E3B23C" font-weight="400" text-anchor="start" font-style="italic">soft + heavy stack  =  burning CNS &amp; insulin sensitivity for nothing</text>
+<polyline points="372.0,1610.0 502.0,1594.0 995.0,1548.0 1458.0,1502.0 1618.0,1484.0" fill="none" stroke="#3A4654" stroke-width="3"/>
+<polyline points="372.0,1552.0 502.0,1536.0 995.0,1490.0 1458.0,1444.0 1618.0,1426.0" fill="none" stroke="#2A333F" stroke-width="1.4" opacity="0.7" stroke-dasharray="3 7"/>
+<rect x="476.0" y="1584.0" width="52.0" height="20.0" fill="#0A0D12" stroke="#36C9C0" stroke-width="2" rx="4"/>
+<text x="502.0" y="1550.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#36C9C0" font-weight="700" text-anchor="middle">TIER 1</text>
+<text x="502.0" y="1626.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="8.5" fill="#36C9C0" font-weight="700" text-anchor="middle">CLEARED</text>
+<rect x="969.0" y="1538.0" width="52.0" height="20.0" fill="#0A0D12" stroke="#E3B23C" stroke-width="2" rx="4"/>
+<text x="995.0" y="1504.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E3B23C" font-weight="700" text-anchor="middle">TIER 2</text>
+<rect x="989.0" y="1514.0" width="12.0" height="16.0" fill="#241D0C" stroke="#E3B23C" stroke-width="1.6" rx="2"/>
+<path d="M 991.0 1514 v -5 a 4 4 0 0 1 8 0 v 5" fill="none" stroke="#E3B23C" stroke-width="1.6" stroke-linecap="butt"/>
+<text x="995.0" y="1580.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="8.5" fill="#E3B23C" font-weight="700" text-anchor="middle">LOCKED</text>
+<rect x="1432.0" y="1492.0" width="52.0" height="20.0" fill="#0A0D12" stroke="#E3B23C" stroke-width="2" rx="4"/>
+<text x="1458.0" y="1458.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="11" fill="#E3B23C" font-weight="700" text-anchor="middle">TIER 3</text>
+<rect x="1452.0" y="1468.0" width="12.0" height="16.0" fill="#241D0C" stroke="#E3B23C" stroke-width="1.6" rx="2"/>
+<path d="M 1454 1468 v -5 a 4 4 0 0 1 8 0 v 5" fill="none" stroke="#E3B23C" stroke-width="1.6" stroke-linecap="butt"/>
+<text x="1458.0" y="1534.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="8.5" fill="#E3B23C" font-weight="700" text-anchor="middle">LOCKED</text>
+<line x1="502.0" y1="1594.0" x2="472.0" y2="1516.0" stroke="#36C9C0" stroke-width="5" stroke-linecap="round"/>
+<circle cx="472.0" cy="1516.0" r="9.0" fill="#36C9C0" stroke="none" stroke-width="1"/>
+<circle cx="502.0" cy="1594.0" r="7.0" fill="#0A0D12" stroke="#36C9C0" stroke-width="2"/>
+<text x="472.0" y="1504.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9" fill="#36C9C0" font-weight="400" text-anchor="middle">lever cleared to here</text>
+<text x="1614.0" y="1468.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="9.5" fill="#E5484D" font-weight="700" text-anchor="end">past Tier 3 → sealed</text>
+<rect x="48.0" y="1662.0" width="1824.0" height="96.0" fill="#0F141C" stroke="#2A333F" stroke-width="1.2" rx="6"/>
+<line x1="48.0" y1="1662.0" x2="48.0" y2="1758.0" stroke="#E3B23C" stroke-width="4" stroke-linecap="butt"/>
+<text x="70.0" y="1692.0" font-family="Inter, 'Helvetica Neue', 'DejaVu Sans', Arial, sans-serif" font-size="15" fill="#E3B23C" font-weight="700" text-anchor="start">PROTECTION &amp; MONITORING MATTER MORE HERE, NOT LESS</text>
+<text x="70.0" y="1716.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="12.5" fill="#8C99A8" font-weight="400" text-anchor="start">clen / ephedrine push BP &amp; HR · T3 / MK-677 move glucose &amp; thyroid — so Part 2’s monitoring runs THROUGH every realm phase.</text>
+<text x="70.0" y="1740.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="13.5" fill="#E6ECF2" font-weight="700" text-anchor="start">IT REVEALS, IT DOESN’T BUILD — most of the year, most people need NONE of it.</text>
+<rect x="1386.0" y="1684.0" width="470.0" height="52.0" fill="#121821" stroke="#1F6B66" stroke-width="1.4" rx="6"/>
+<text x="1404.0" y="1706.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="12.5" fill="#36C9C0" font-weight="700" text-anchor="start">NEXT → 4.4  ELECTROLYTE MANAGEMENT</text>
+<text x="1404.0" y="1724.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10" fill="#8C99A8" font-weight="400" text-anchor="start">water &amp; the minerals that move with it — the thread under nearly every compound</text>
+<text x="48.0" y="1786.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#6A7585" font-weight="400" text-anchor="start">Harm-reduction education, not a protocol. Prescription-only, research chemicals, or banned substances (incl. Malaysia); several are acutely dangerous.</text>
+<text x="48.0" y="1804.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#6A7585" font-weight="400" text-anchor="start">Reference doses are illustrative, not instructions. Work with a physician; rely on bloodwork.   ·   Style: Engineering Diagnostic Instrument · Aether ground.</text>
+<text x="1872.0" y="1786.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Consolas', monospace" font-size="10.5" fill="#8C99A8" font-weight="400" text-anchor="end">KEY:  lit/teal = the indirect output you read   ·   amber = real but non-fatal cost   ·   one red = the line that kills</text>
+</svg>

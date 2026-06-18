@@ -7,16 +7,26 @@ Formulas: dose monthly = daily_dose*(dpw/7)*(cost/mass)*30.44*(weeks_per_year/52
 shelf-life = cost/shelf_life_months; PEDs = weekly*weeks_per_year*cost_per_mg/12."""
 import os,re,glob,sys,yaml,math
 OS=sys.argv[1] if len(sys.argv)>1 else "."
-DPW={"ED":7.0,"EOD":3.5,"ITD":4.0,"OCC":4.0,"TD":6.0}
+DPW={"ED":7.0,"EOD":3.5,"ITD":4.0,"OCC":4.0,"TD":6.0,"5x":5.0,"1-2x":1.5}
 
 # ---------------- CONFIG (edit at each review) ----------------
-INCOME={"net_salary":4569.92,"study_allowance":1200.0,"indexa":1200.0}  # study ends 2030
-CASH_SAVINGS=0.0
+def _load_inputs():
+    import os as _o,re as _r,yaml as _y
+    p=_o.path.join(_o.path.dirname(_o.path.abspath(__file__)),"..","FOS 0 — Financial Inputs.md")
+    try:
+        t=open(p,encoding="utf-8").read()
+        return _y.safe_load(_r.match(r"^---\n(.*?)\n---",t,_r.S).group(1)) or {}
+    except Exception:
+        return {}
+_IN=_load_inputs()
+INCOME={"net_salary":_IN.get("income_2x_net",4569.92),"study_allowance":_IN.get("income_study_allowance",1200.0),"indexa":_IN.get("income_indexa_net",1200.0)}
+CASH_SAVINGS=float(_IN.get("liquid_savings",0.0))
 EPF={"age":26,"balance":34500,"monthly_contrib":1152,"rate":0.06}
 # PED rotating calendar: name -> (weekly mg, weeks/year). Bloodwork-provisional.
-PED_CAL={"Testosterone Enanthate/Cypionate":(311,52),"Boldenone Undecanoate":(350,20),
- "Oxandrolone (Anavar)":(240,16),"MK-677":(140,16),"Trenbolone Acetate":(110,8),
- "Proviron":(175,8),"Levothyroxine (T4)":(350,16),"Cardarine (GW-501516)":(105,8)}
+PED_CAL={"Etho Testosterone 450":(350,52),"Boldenone Undecanoate":(350,20),
+ "Oxandrolone (Anavar)":(240,16),"MK-677":(140,24),"Trenbolone Acetate":(70,8),
+ "Proviron":(175,8),"Levothyroxine (T4)":(700,16),
+ "Cytolin (Cytomel / T3)":(175,16),"Cardarine (GW-501516)":(105,8)}
 OVH_F={"Gym","Diagnostics","Grooming"}; OVH_E={"Living","Insurance"}  # else -> X
 OVH_F_NAMES={"MacroFactor (app)"}  # software but foundational
 # --------------------------------------------------------------

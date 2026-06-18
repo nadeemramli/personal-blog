@@ -5,7 +5,7 @@ product_id: "metformin-500mgx100tab-indiamart"
 compound: "Metformin"
 aliases:
   - "Metformin"
-name: Metformin
+name: "Metformin 500mg (indiamart)"
 brand: "Glycomet-500 SR (USV)"
 vendor: indiamart
 source: indiamart
@@ -56,11 +56,11 @@ notes: "Price RESOLVED (dose still CONFIRM). Tier-1 glucose stack ([[Mini-Cut & 
 > - **Source:** [Glycomet @ IndiaMART](https://export.indiamart.com/products/?id=2858197503573&pos=2&kwd=metformin) · **Status:** planned
 
 ## How I use it
-- **Protocol:** Cut / mini-aggressive-cut glucose stack — see [[Mini-Cut & Accelerator Tiers]]
+- **Protocol:** Cut / mini-aggressive-cut glucose stack — see [[Off-Season Mini-Cut & Accelerator Tiers]]
 - **Pairs with:** [[Empagliflozin (25mg×10tab) — indiamart|Empagliflozin]] (SGLT2) + [[Retatrutide (60mg×10vial) — BFF-AMO|Retatrutide]]
 - **Tags:** Glucose control, Cutting
 
 ## Links
 - Schedule: [[ED — Every Day]] · Source: [[indiamart]] (bulk) / [[shopee-china]] (small qty) / [[pctmart]]
-- Protocol: [[Mini-Cut & Accelerator Tiers]] · Campaign: [[2026 Q3 Cut to 15%]]
+- Protocol: [[Off-Season Mini-Cut & Accelerator Tiers]] · Campaign: [[2026 Q3 Cut to 15%]]
 - Operating system: [[The Operating System]] · [[Product List]] · [[Schema — Data Model]]
