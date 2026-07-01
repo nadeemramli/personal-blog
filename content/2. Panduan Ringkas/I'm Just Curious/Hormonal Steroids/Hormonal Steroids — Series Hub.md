@@ -41,6 +41,16 @@ flowchart TD
 - **Part 5.0 — The Thermostat.** The HPG and HPA feedback axes: why the body that makes these hormones also spends enormous effort throttling them, and what happens when the thermostat gets overridden.
 - **Part 6.0 — Conversion and Clearance.** Aromatase, 5-alpha-reductase, and the metabolic exits: why testosterone won't stay testosterone, the full conversion web, and where it all eventually goes.
 - **Part 7.0 — Engineering the Molecule.** The bridge to the applied world: how humans modify the parent molecules and *why* (esters for half-life, 17α-alkylation to survive the liver, 19-nor and 7α-methyl to change aromatization and receptor behaviour). Still curiosity-side: the logic of the tweaks, not a protocol.
+![[Pasted image 20260619062830.png]]
+
+https://www.the-innovation.org/article/doi/10.59717/j.xinn-nutri.2026.100004
+
+![[Pasted image 20260619062853.png]]
+
+
+![[Pasted image 20260619062915.png]]
+
+https://moreplatesmoredates.com/anabolic-steroid-family-tree/
 
 ## What this series is not
 

@@ -234,6 +234,10 @@ The same three-KPI logic from the Hair series applies here. ==Same zone, same li
 > [!warning] Use this protocol *sparingly*
 > The full 48-hour stack is for events that justify it (wedding day, photoshoot, pitch, milestone). ==Doing it weekly turns it into a chronic stressor and the marginal effect collapses.== The daily maintenance versions (section A's low-sodium tilt, section C's 3-minute sweep, section D's full daily routine) are what compound over months.
 
+*Here's the whole acute layer drawn as one drawdown schematic: a hydraulic section through the face and neck where the four mechanisms become control inputs feeding one drain (the [[Part 2.0 - Fluid Dynamics & Oral Architecture#A. The electrolyte flushing mechanism|electrolyte flush]] as the master valve, the diuretic-and-thermal relief valve, the [[Part 2.0 - Fluid Dynamics & Oral Architecture#C. Lymphatic drainage & fascia massage|lymphatic sweep]] that runs down the neck and never up, and the slate [[Part 2.0 - Fluid Dynamics & Oral Architecture#D. Oral architecture & breath economics|oral architecture]] panel). A left-rail countdown dial sequences the [[Part 2.0 - Fluid Dynamics & Oral Architecture#The 48-hour event protocol: worked example|48-hour protocol]], the top toggle keeps acute work separate from the chronic base (puffy and lean is acute, soft and not-lean is chronic), and the three KPI gauges sit on the right. Its one red mark is the sealed pharmacological-diuretic valve, the line you never cross. Pin it up and run it sparingly: drain the face, don't drench it.*
+
+![[Poster — Attractive - Appearance Part 2.0 - Fluid Dynamics and Oral Architecture.png]]
+
 ---
 
 ## Part 2.0 Takeaways

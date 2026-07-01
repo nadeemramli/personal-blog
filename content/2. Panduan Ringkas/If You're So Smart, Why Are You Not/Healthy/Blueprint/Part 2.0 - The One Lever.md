@@ -171,6 +171,10 @@ This is the same logic as the [[Part 2.1 - Continuous Monitoring|monitoring chap
 > [!tip] The handoff to Sleep
 > This article is the Blueprint-hub summary. The full mechanism (the two-process model, the four sleep stages, the four-hour runway in microscopic detail, the warm-shower trick, the post-meal training problem) is the [[Part 1.0 - The Architecture of Sleep|Sleep series]], and especially [[Part 2.1 - The Pre-Sleep Protocol|Part 2.1 — The Pre-Sleep Protocol]]. If any of the six actions above don't click, that's where to look next.
 
+![[Poster — Healthy - Blueprint Part 2.0 - The One Lever.png]]
+
+*Here's the keystone of the whole Healthy section in one mechanical glance: sleep is the fulcrum, your pre-sleep resting heart rate is the lever, and the load it swings is every downstream marker stacked on top (recovery, self-control, hormones, fat loss, glucose, cardio, mood). Pull that one free input down ([[Part 2.0 - The One Lever#The thesis: one lever sits underneath everything|the thesis]], [[Part 2.0 - The One Lever#The cascade, in both directions|the cascade]]) and the whole stack lifts while the feedback ring tightens the win; the [[Part 2.0 - The One Lever#The six actions that lower it|six actions]] read as six hands on the same lever, not a six-item checklist. Pin it up: pull one lever for two weeks and keep only what moves your number.*
+
 ---
 ## Part 2 Takeaways
 

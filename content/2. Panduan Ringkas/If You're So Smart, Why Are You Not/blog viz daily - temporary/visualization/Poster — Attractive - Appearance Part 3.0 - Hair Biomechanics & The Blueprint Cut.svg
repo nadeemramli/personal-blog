@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" font-family="'Inter','DejaVu Sans',system-ui,-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif">
+<defs>
+<pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="0" cy="0" r="1.1" fill="#1E2024" opacity="0.05"/></pattern>
+<pattern id="hatchT" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="9" height="9" fill="#E7CBB4"/><line x1="0" y1="0" x2="0" y2="9" stroke="#C2703D" stroke-width="1.1" opacity="0.6"/></pattern>
+<pattern id="comb" width="7" height="7" patternUnits="userSpaceOnUse"><rect width="7" height="7" fill="none"/><line x1="0" y1="0" x2="0" y2="7" stroke="#1E2024" stroke-width="0.9" opacity="0.45"/></pattern>
+</defs>
+<rect width="1200" height="1500" fill="#F4F1EA"/>
+<rect width="1200" height="1500" fill="url(#dots)"/>
+<rect x="28" y="28" width="1144" height="1444" fill="none" stroke="#1E2024" stroke-width="1" opacity="0.35"/>
+<line x1="14" y1="28" x2="42" y2="28" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="28" y1="14" x2="28" y2="42" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="1158" y1="28" x2="1186" y2="28" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="1172" y1="14" x2="1172" y2="42" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="14" y1="1472" x2="42" y2="1472" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="28" y1="1458" x2="28" y2="1486" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="1158" y1="1472" x2="1186" y2="1472" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<line x1="1172" y1="1458" x2="1172" y2="1486" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<text x="60" y="92" font-size="13" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="3">APPEARANCE / SURVEY — SHEET A3.0</text>
+<text x="60" y="152" font-size="47" fill="#1E2024" font-family="'Inter','DejaVu Sans',system-ui,-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" letter-spacing="1">CUT THE HEAD YOU HAVE.</text>
+<line x1="60" y1="172" x2="1140" y2="172" stroke="#1E2024" stroke-width="1.4"/>
+<text x="60" y="194" font-size="12.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="1" opacity="0.75">Part 3 of 7 · Appearance · the Attractive pillar</text>
+<text x="1140" y="194" font-size="12.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" text-anchor="end" opacity="0.6">survey  →  spec  →  script  →  inspect</text>
+<rect x="60" y="212" width="372" height="46" fill="none" stroke="#1E2024" stroke-width="1" opacity="0.5"/>
+<text x="72" y="232" font-size="11.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="600" letter-spacing="0.5">SCOPE — THIS DRAWING = STYLING</text>
+<text x="72" y="250" font-size="11" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" opacity="0.7">cutting what you have  ·  RETENTION → Hair folder</text>
+<rect x="44" y="690" width="15" height="15" fill="#C2703D"/>
+<text x="50" y="800" font-size="12" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="600" letter-spacing="1" transform="rotate(-90 50 800)">warm = YOUR BIOLOGY · non-negotiable</text>
+<rect x="44" y="1010" width="15" height="15" fill="#5E7585"/>
+<text x="50" y="1120" font-size="12" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="600" letter-spacing="1" transform="rotate(-90 50 1120)">cool = CONVENTION · a strong default</text>
+<text x="1158" y="1010" font-size="11" fill="#9A958C" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" letter-spacing="1" transform="rotate(-90 1158 1010)">STOCK — WALKER TYPE · most MY men 1A–2B</text>
+<text x="132" y="300" font-size="19" fill="#1E2024" font-family="'Inter','DejaVu Sans',system-ui,-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" letter-spacing="0.5">VIEW 1 · PLAN — THE SITE SURVEY</text>
+<text x="132" y="320" font-size="12.5" fill="#1E2024" font-family="'Inter','DejaVu Sans',system-ui,-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" opacity="0.7" font-style="italic">read the head from above before you cut it</text>
+<circle cx="372" cy="520" r="178" fill="none" stroke="#1E2024" stroke-width="1.6"/>
+<circle cx="372" cy="520" r="178" fill="none" stroke="#1E2024" stroke-width="0.6" stroke-dasharray="2 6" opacity="0.4"/>
+<text x="372" y="722" font-size="10.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" text-anchor="middle" opacity="0.65">FRONT (face)</text>
+<text x="372" y="330" font-size="10.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" text-anchor="middle" opacity="0.65">BACK / NAPE</text>
+<line x1="450.0" y1="476.0" x2="536.0" y2="476.0" stroke="#C2703D" stroke-width="1.1" opacity="0.3"/>
+<polygon points="536.0,476.0 529.9,479.5 529.9,472.5" fill="#C2703D" opacity="0.35"/>
+<line x1="441.42562584220406" y1="508.0" x2="515.9038105676658" y2="551.0" stroke="#C2703D" stroke-width="1.1" opacity="0.3"/>
+<polygon points="515.9,551.0 508.9,551.0 512.4,544.9" fill="#C2703D" opacity="0.35"/>
+<line x1="418.0" y1="531.4256258422041" x2="461.0" y2="605.9038105676658" stroke="#C2703D" stroke-width="1.1" opacity="0.3"/>
+<polygon points="461.0,605.9 454.9,602.4 461.0,598.9" fill="#C2703D" opacity="0.35"/>
+<line x1="386.0" y1="540.0" x2="386.0" y2="626.0" stroke="#C2703D" stroke-width="1.1" opacity="0.3"/>
+<polygon points="386.0,626.0 382.5,619.9 389.5,619.9" fill="#C2703D" opacity="0.35"/>
+<line x1="354.0" y1="531.4256258422041" x2="311.0" y2="605.9038105676658" stroke="#C2703D" stroke-width="1.1" opacity="0.3"/>
+<polygon points="311.0,605.9 311.0,598.9 317.1,602.4" fill="#C2703D" opacity="0.35"/>
+<line x1="330.57437415779594" y1="508.0" x2="256.0961894323342" y2="551.0" stroke="#C2703D" stroke-width="1.1" opacity="0.3"/>
+<polygon points="256.1,551.0 259.6,544.9 263.1,551.0" fill="#C2703D" opacity="0.35"/>
+<line x1="322.0" y1="476.0" x2="236.0" y2="476.0" stroke="#C2703D" stroke-width="1.1" opacity="0.3"/>
+<polygon points="236.0,476.0 242.1,472.5 242.1,479.5" fill="#C2703D" opacity="0.35"/>
+<line x1="330.57437415779594" y1="444.0" x2="256.0961894323342" y2="401.0" stroke="#C2703D" stroke-width="1.1" opacity="0.3"/>
+<polygon points="256.1,401.0 263.1,401.0 259.6,407.1" fill="#C2703D" opacity="0.35"/>
+<line x1="354.0" y1="420.57437415779594" x2="310.99999999999994" y2="346.09618943233426" stroke="#C2703D" stroke-width="1.1" opacity="0.3"/>
+<polygon points="311.0,346.1 317.1,349.6 311.0,353.1" fill="#C2703D" opacity="0.35"/>
+<line x1="386.0" y1="412.0" x2="386.0" y2="326.0" stroke="#C2703D" stroke-width="1.1" opacity="0.3"/>
+<polygon points="386.0,326.0 389.5,332.1 382.5,332.1" fill="#C2703D" opacity="0.35"/>
+<line x1="418.0" y1="420.57437415779594" x2="461.0" y2="346.0961894323342" stroke="#C2703D" stroke-width="1.1" opacity="0.3"/>
+<polygon points="461.0,346.1 461.0,353.1 454.9,349.6" fill="#C2703D" opacity="0.35"/>
+<line x1="441.42562584220406" y1="444.0" x2="515.9038105676657" y2="400.99999999999994" stroke="#C2703D" stroke-width="1.1" opacity="0.3"/>
+<polygon points="515.9,401.0 512.4,407.1 508.9,401.0" fill="#C2703D" opacity="0.35"/>
+<polyline points="389.0,476.0 389.7,476.4 390.3,476.9 390.8,477.6 391.3,478.3 391.6,479.2 391.8,480.2 391.8,481.2 391.7,482.3 391.4,483.5 390.9,484.6 390.3,485.7 389.5,486.7 388.5,487.7 387.3,488.6 386.0,489.4 384.5,490.0 382.9,490.4 381.2,490.7 379.4,490.7 377.6,490.5 375.7,490.1 373.8,489.5 372.0,488.6 370.2,487.5 368.5,486.1 366.9,484.5 365.4,482.7 364.2,480.6 363.1,478.4 362.3,476.0 361.7,473.5 361.5,470.8 361.5,468.0 361.8,465.2 362.5,462.4 363.5,459.6 364.8,456.9 366.4,454.3 368.4,451.8 370.7,449.5 373.3,447.4 376.1,445.6 379.2,444.0 382.5,442.8 386.0,441.9 389.6,441.5 393.4,441.3 397.2,441.6" fill="none" stroke="#C2703D" stroke-width="2.4"/>
+<path d="M 430 462 A 46 46 0 0 1 416 514" fill="none" stroke="#C2703D" stroke-width="2"/>
+<polygon points="416.0,514.0 417.6,505.1 424.5,510.9" fill="#C2703D"/>
+<polyline points="348.2,654.2 354.0,668.0 359.8,654.2" fill="none" stroke="#C2703D" stroke-width="2.2"/>
+<polyline points="224.2,543.8 238.0,538.0 224.2,532.2" fill="none" stroke="#C2703D" stroke-width="2.2"/>
+<line x1="382" y1="690" x2="430" y2="652" stroke="#C2703D" stroke-width="1.6"/>
+<path d="M 382 690 A 30 30 0 0 0 410 696" fill="none" stroke="#C2703D" stroke-width="1.4"/>
+<line x1="392" y1="466" x2="600" y2="392" stroke="#C2703D" stroke-width="1.2"/>
+<circle cx="392" cy="466" r="2.6" fill="#C2703D"/>
+<text x="600" y="392" font-size="12.5" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="600" text-anchor="start">WHORL · 94% clockwise</text>
+<text x="600" y="408" font-size="11" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" text-anchor="start" opacity="0.7">the crown spiral — fixed</text>
+<line x1="238" y1="538" x2="132" y2="470" stroke="#C2703D" stroke-width="1.2"/>
+<circle cx="238" cy="538" r="2.6" fill="#C2703D"/>
+<text x="132" y="470" font-size="12.5" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="600" text-anchor="start">COWLICK</text>
+<text x="132" y="486" font-size="11" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" text-anchor="start" opacity="0.7">won't lie = biology, not failure</text>
+<line x1="416" y1="658" x2="600" y2="612" stroke="#C2703D" stroke-width="1.2"/>
+<circle cx="416" cy="658" r="2.6" fill="#C2703D"/>
+<text x="600" y="612" font-size="12.5" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="600" text-anchor="start">GROWTH ANGLE → sets the part</text>
+<text x="600" y="628" font-size="11" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" text-anchor="start" opacity="0.7">where the hair leaves the skin</text>
+<line x1="372" y1="372" x2="600" y2="470" stroke="#C2703D" stroke-width="1.2"/>
+<circle cx="372" cy="372" r="2.6" fill="#C2703D"/>
+<text x="600" y="470" font-size="12.5" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="600" text-anchor="start">FLAT OCCIPUT?</text>
+<text x="600" y="486" font-size="11" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" text-anchor="start" opacity="0.7">leave length at the back (MY-male case)</text>
+<text x="132" y="712" font-size="12.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" opacity="0.8" font-style="italic">SURVEY FIRST — read the head before you cut it.</text>
+<g opacity="0.9">
+<rect x="856" y="318" width="196" height="348" rx="22" fill="#ECE8DF" stroke="#9A958C" stroke-width="2"/>
+<rect x="868" y="344" width="172" height="296" rx="6" fill="#E2DDD2" stroke="#9A958C" stroke-width="1"/>
+<circle cx="954.0" cy="332" r="3" fill="#9A958C"/>
+<path d="M 910.0 594.0 C 910.0 528.0, 914.0 490.0, 924.0 468.0 C 934.0 440.0, 974.0 440.0, 984.0 468.0 C 994.0 490.0, 998.0 528.0, 998.0 594.0 Z" fill="#9A958C" opacity="0.55"/>
+<path d="M 920.0 476.0 C 908.0 440.0, 962.0 426.0, 992.0 458.0 C 972.0 446.0, 940.0 452.0, 920.0 476.0 Z" fill="#9A958C" opacity="0.8"/>
+</g>
+<g transform="rotate(-16 954.0 492.0)">
+<rect x="850" y="462.0" width="208" height="58" fill="none" stroke="#D9483B" stroke-width="3" rx="4" opacity="0.92"/>
+<text x="954.0" y="486.0" font-size="26" fill="#D9483B" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700" letter-spacing="2" text-anchor="middle" opacity="0.95">REJECTED</text>
+<text x="954.0" y="510.0" font-size="12" fill="#D9483B" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" text-anchor="middle" opacity="0.9">not your biomechanics</text>
+</g>
+<text x="954.0" y="692" font-size="13" fill="#1E2024" font-family="'Inter','DejaVu Sans',system-ui,-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" text-anchor="middle" opacity="0.85" font-style="italic">it worked on their head.</text>
+<text x="954.0" y="712" font-size="13" fill="#1E2024" font-family="'Inter','DejaVu Sans',system-ui,-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" text-anchor="middle" opacity="0.85" font-style="italic">yours is a different drawing.</text>
+<line x1="372" y1="700" x2="372" y2="770" stroke="#1E2024" stroke-width="1.2" stroke-dasharray="4 5"/>
+<polygon points="372.0,770.0 367.5,762.2 376.5,762.2" fill="#1E2024"/>
+<text x="384" y="748" font-size="11" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" opacity="0.65">read the spec off the survey</text>
+<text x="132" y="806" font-size="19" fill="#1E2024" font-family="'Inter','DejaVu Sans',system-ui,-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" letter-spacing="0.5">VIEW 2 · ELEVATION — THE SPEC</text>
+<text x="132" y="826" font-size="12.5" fill="#1E2024" font-family="'Inter','DejaVu Sans',system-ui,-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" opacity="0.7" font-style="italic">the face as geometry — draw the cut off it</text>
+<ellipse cx="357" cy="998" rx="108" ry="150" fill="none" stroke="#1E2024" stroke-width="1" stroke-dasharray="3 5" opacity="0.3"/>
+<ellipse cx="344" cy="998" rx="108" ry="150" fill="none" stroke="#1E2024" stroke-width="1.8"/>
+<line x1="344" y1="830" x2="344" y2="1166" stroke="#1E2024" stroke-width="1" opacity="0.5" stroke-dasharray="6 6"/>
+<text x="344" y="822" font-size="9.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" text-anchor="middle" opacity="0.55">CENTRE-LINE</text>
+<path d="M 336 854 C 274 856, 214 908, 230 944 L 254 918 C 294 888, 324 882, 336 878 Z" fill="url(#hatchT)" stroke="#C2703D" stroke-width="1.6"/>
+<text x="224" y="966" font-size="12" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700" text-anchor="middle">+WEIGHT</text>
+<text x="224" y="982" font-size="10.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" text-anchor="middle" opacity="0.7">softer side</text>
+<path d="M 352 854 C 404 856, 462 892, 454 934 L 432 914 C 388 886, 364 880, 352 878 Z" fill="url(#comb)" stroke="#1E2024" stroke-width="1.4"/>
+<text x="474" y="944" font-size="12" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700" text-anchor="start">CLEAN /</text>
+<text x="474" y="960" font-size="12" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700" text-anchor="start">TIGHT</text>
+<text x="474" y="976" font-size="10.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" text-anchor="start" opacity="0.7">stronger side</text>
+<line x1="230" y1="1176" x2="280" y2="1176" stroke="#C2703D" stroke-width="1.4"/>
+<polygon points="230.0,1176.0 236.9,1172.0 236.9,1180.0" fill="#C2703D"/>
+<polygon points="280.0,1176.0 273.1,1180.0 273.1,1172.0" fill="#C2703D"/>
+<text x="342" y="1180" font-size="12" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="600" text-anchor="start">≤ 1–2 cm · counter-balance, NOT concealment</text>
+<text x="474" y="1038" font-size="11.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" text-anchor="start" opacity="0.8">guard 1–4 →</text>
+<text x="474" y="1054" font-size="10.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" text-anchor="start" opacity="0.65">numbers on the sides</text>
+<text x="132" y="1206" font-size="13" fill="#5E7585" font-family="'Inter','DejaVu Sans',system-ui,-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700">FACE SHAPE — a strong default, not a law</text>
+<ellipse cx="156" cy="1236" rx="14" ry="19" fill="none" stroke="#5E7585" stroke-width="1.5"/>
+<text x="156" y="1270" font-size="10" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" text-anchor="middle" opacity="0.85">oval</text>
+<circle cx="230" cy="1236" r="16" fill="none" stroke="#5E7585" stroke-width="1.5"/>
+<text x="230" y="1270" font-size="10" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" text-anchor="middle" opacity="0.85">round</text>
+<rect x="289" y="1220" width="30" height="34" rx="6" fill="none" stroke="#5E7585" stroke-width="1.5"/>
+<text x="304" y="1270" font-size="10" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" text-anchor="middle" opacity="0.85">square</text>
+<rect x="365" y="1216" width="26" height="42" rx="10" fill="none" stroke="#5E7585" stroke-width="1.5"/>
+<text x="378" y="1270" font-size="10" fill="#5E7585" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" text-anchor="middle" opacity="0.85">oblong</text>
+<rect x="706" y="812" width="436" height="250" fill="none" stroke="#1E2024" stroke-width="1.8"/>
+<rect x="706" y="812" width="436" height="34" fill="#1E2024"/>
+<text x="924.0" y="835" font-size="14" fill="#F4F1EA" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700" letter-spacing="1" text-anchor="middle">THE 5-LINE BARBER SCRIPT</text>
+<text x="722" y="865.6" font-size="15" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700">01</text>
+<text x="764" y="865.6" font-size="14.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="600">TYPE &amp; GROWTH</text>
+<text x="764" y="882.6" font-size="10.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" opacity="0.6">your survey, in one line</text>
+<line x1="706" y1="889.2" x2="1142" y2="889.2" stroke="#1E2024" stroke-width="0.7" opacity="0.4"/>
+<text x="722" y="908.8000000000001" font-size="15" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700">02</text>
+<text x="764" y="908.8000000000001" font-size="14.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="600">SILHOUETTE</text>
+<text x="764" y="925.8000000000001" font-size="10.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" opacity="0.6">a shape — not a celebrity</text>
+<line x1="706" y1="932.4" x2="1142" y2="932.4" stroke="#1E2024" stroke-width="0.7" opacity="0.4"/>
+<text x="722" y="952.0" font-size="15" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700">03</text>
+<text x="764" y="952.0" font-size="14.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="600">NUMBERS</text>
+<text x="764" y="969.0" font-size="10.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" opacity="0.6">guards + cm left on top</text>
+<line x1="706" y1="975.6" x2="1142" y2="975.6" stroke="#1E2024" stroke-width="0.7" opacity="0.4"/>
+<text x="722" y="995.2" font-size="15" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700">04</text>
+<text x="764" y="995.2" font-size="14.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="600">PART / WEIGHT BIAS</text>
+<text x="764" y="1012.2" font-size="10.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" opacity="0.6">where it falls, softer side +</text>
+<line x1="706" y1="1018.8" x2="1142" y2="1018.8" stroke="#1E2024" stroke-width="0.7" opacity="0.4"/>
+<text x="722" y="1038.3999999999999" font-size="15" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700">05</text>
+<text x="764" y="1038.3999999999999" font-size="14.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="600">DO-NOT</text>
+<text x="764" y="1055.3999999999999" font-size="10.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" opacity="0.6">name 1–2 no-go's out loud</text>
+<g transform="rotate(-12 1012 1138)" opacity="0.92">
+<circle cx="1012" cy="1138" r="84" fill="none" stroke="#C2703D" stroke-width="3"/>
+<circle cx="1012" cy="1138" r="72" fill="none" stroke="#C2703D" stroke-width="1.2"/>
+<text x="1012" y="1094" font-size="15" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700" letter-spacing="2" text-anchor="middle">7-DAY</text>
+<text x="1012" y="1112" font-size="15" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700" letter-spacing="1" text-anchor="middle">MIRROR TEST</text>
+<line x1="954" y1="1124" x2="1070" y2="1124" stroke="#C2703D" stroke-width="1"/>
+<text x="1012" y="1144" font-size="14" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="600" text-anchor="middle">falls right</text>
+<text x="1012" y="1164" font-size="14" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="600" text-anchor="middle">NO product</text>
+<line x1="968" y1="1176" x2="1056" y2="1176" stroke="#C2703D" stroke-width="1"/>
+<text x="1012" y="1196" font-size="18" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700" letter-spacing="1" text-anchor="middle">= PASS</text>
+</g>
+<line x1="60" y1="1292" x2="1140" y2="1292" stroke="#1E2024" stroke-width="1.4"/>
+<text x="60" y="1356" font-size="36" fill="#1E2024" font-family="'Inter','DejaVu Sans',system-ui,-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" letter-spacing="1">SURVEY FIRST. CUT SECOND.</text>
+<text x="60" y="1402" font-size="12.5" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" opacity="0.7">survey → spec → script → the 7-day mirror test  ·  the photo on your phone is a different drawing.</text>
+<text x="1140" y="1356" font-size="13" fill="#1E2024" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" text-anchor="end" opacity="0.5">the</text>
+<text x="1140" y="1376" font-size="17" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700" letter-spacing="1" text-anchor="end">BLUEPRINT</text>
+<text x="1140" y="1396" font-size="17" fill="#C2703D" font-family="'JetBrains Mono','DejaVu Sans Mono','SF Mono',Consolas,ui-monospace,monospace" font-weight="700" letter-spacing="4" text-anchor="end">CUT</text>
+</svg>

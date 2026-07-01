@@ -1,0 +1,436 @@
+<svg viewBox="0 0 1500 1200" xmlns="http://www.w3.org/2000/svg" font-family="'Inter','DejaVu Sans',system-ui,sans-serif">
+<defs>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 H0 V40" fill="none" stroke="#16202A" stroke-width="1"/></pattern>
+<style>.mono{font-family:'JetBrains Mono','DejaVu Sans Mono',ui-monospace,Consolas,monospace;}.disp{font-family:'Inter','DejaVu Sans',system-ui,sans-serif;}</style>
+</defs>
+<rect x="0" y="0" width="1500" height="1200" fill="#0B0F14"/>
+<rect x="0" y="0" width="1500" height="1200" fill="url(#grid)" opacity="0.5"/>
+<rect x="40" y="40" width="1420" height="1120" fill="none" stroke="#2A3540" stroke-width="1.2"/>
+<g stroke="#3C8C84" stroke-width="2"><path d="M40 70 V40 H70"/><path d="M1460 70 V40 H1430"/><path d="M40 1130 V1160 H70"/><path d="M1460 1130 V1160 H1430"/></g>
+<text x="70" y="92" class="mono" font-size="14" fill="#2DD4BF" letter-spacing="2.3">PRODUCTIVE · PRODUCTIVITY ENHANCEMENT — PART 6.0</text>
+<text x="70" y="113" class="mono" font-size="12.5" fill="#7C8893" letter-spacing="1.2">( JUST-IN-TIME PROJECT MANAGEMENT · the capstone that fixes overwhelm )</text>
+<text x="70" y="172" class="disp" font-size="55" fill="#EEF3F7" font-weight="700">PULL. DON'T STOCKPILE.</text>
+<text x="71" y="203" class="mono" font-size="14.5" fill="#E8A23D" letter-spacing="0.4">BUSY IS NOT FINISHED — LET THE DEADLINE CLOSE THE SWITCH.</text>
+<text x="1438" y="86" class="mono" font-size="13" fill="#C9D2D9" text-anchor="end" letter-spacing="1.2">INSTRUMENT — THE PULL-DEMAND GOVERNOR</text>
+<text x="1438" y="104" class="mono" font-size="11" fill="#7C8893" text-anchor="end">Neural Signal Schematic · capped active bay vs dark dormant field</text>
+<circle cx="1126" cy="128" r="4.5" fill="#2DD4BF"/><text x="1137" y="132" class="mono" font-size="10.5" fill="#9AA6B0">live / load-bearing</text>
+<circle cx="1268" cy="128" r="4.5" fill="#E8A23D"/><text x="1279" y="132" class="mono" font-size="10.5" fill="#9AA6B0">mind this</text>
+<circle cx="1362" cy="128" r="4.5" fill="#FF5C5C"/><text x="1373" y="132" class="mono" font-size="10.5" fill="#9AA6B0">the one fault</text>
+<circle cx="1126" cy="146" r="4.5" fill="#46525D"/><text x="1137" y="150" class="mono" font-size="10.5" fill="#9AA6B0">parked / done — calm, not an alarm</text>
+<line x1="70" y1="222" x2="1430" y2="222" stroke="#2A3540" stroke-width="1"/>
+<text x="674" y="240" class="mono" font-size="13.5" fill="#2DD4BF" font-weight="700" letter-spacing="0.5">ACTIVE BAY · capped 3–5</text>
+<text x="1150" y="240" class="mono" font-size="11" fill="#7C8893" text-anchor="end" letter-spacing="0.5">DEMAND TIMELINE →</text>
+<line x1="690" y1="262" x2="1150" y2="262" stroke="#7C8893" stroke-width="1.4"/>
+<line x1="706" y1="259" x2="706" y2="265" stroke="#46525D" stroke-width="1"/>
+<line x1="744" y1="259" x2="744" y2="265" stroke="#46525D" stroke-width="1"/>
+<line x1="782" y1="259" x2="782" y2="265" stroke="#46525D" stroke-width="1"/>
+<line x1="820" y1="259" x2="820" y2="265" stroke="#46525D" stroke-width="1"/>
+<line x1="858" y1="259" x2="858" y2="265" stroke="#46525D" stroke-width="1"/>
+<line x1="896" y1="259" x2="896" y2="265" stroke="#46525D" stroke-width="1"/>
+<line x1="934" y1="259" x2="934" y2="265" stroke="#46525D" stroke-width="1"/>
+<line x1="972" y1="259" x2="972" y2="265" stroke="#46525D" stroke-width="1"/>
+<line x1="1010" y1="259" x2="1010" y2="265" stroke="#46525D" stroke-width="1"/>
+<line x1="1048" y1="259" x2="1048" y2="265" stroke="#46525D" stroke-width="1"/>
+<line x1="1086" y1="259" x2="1086" y2="265" stroke="#46525D" stroke-width="1"/>
+<line x1="1124" y1="259" x2="1124" y2="265" stroke="#46525D" stroke-width="1"/>
+<circle cx="715" cy="262" r="12" fill="#0B0F14" stroke="#2DD4BF" stroke-width="1.8"/>
+<line x1="715" y1="262" x2="715" y2="254" stroke="#2DD4BF" stroke-width="1.6"/>
+<line x1="715" y1="262" x2="721" y2="265" stroke="#2DD4BF" stroke-width="1.6"/>
+<text x="697" y="266" class="mono" font-size="8.5" fill="#2DD4BF" text-anchor="end">DEADLINE</text>
+<g stroke="#E8A23D" stroke-width="1.6"><line x1="907" y1="252" x2="907" y2="272"/><line x1="897" y1="262" x2="917" y2="262"/><line x1="900" y1="255" x2="914" y2="269"/><line x1="914" y1="255" x2="900" y2="269"/></g>
+<text x="924" y="266" class="mono" font-size="8.5" fill="#E8A23D">OPPORTUNITY</text>
+<line x1="715" y1="274" x2="715" y2="308" stroke="#2DD4BF" stroke-width="2.4"/>
+<path d="M715 312 l-6 -10 l12 0 z" fill="#2DD4BF"/>
+<text x="740" y="300" class="mono" font-size="8.5" fill="#6FBDB4">its moment has come</text>
+<text x="70" y="250" class="mono" font-size="14" fill="#9AA6B0" letter-spacing="0.6">DORMANT / PARKED FIELD</text>
+<text x="70" y="268" class="mono" font-size="10.5" fill="#7C8893">almost every project — switch OPEN, drawing ZERO current</text>
+<rect x="64" y="290" width="488" height="378" rx="6" fill="#0C1014" stroke="#2A3540" stroke-width="1" opacity="0.7"/>
+<rect x="78" y="302" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="91" y1="315" x2="108" y2="315" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="94" cy="330.0" r="2.2" fill="#5A6671"/><circle cx="126" cy="330.0" r="2.2" fill="#5A6671"/>
+<line x1="94" y1="330.0" x2="112" y2="320.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="156" y="302" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="169" y1="315" x2="186" y2="315" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="172" cy="330.0" r="2.2" fill="#5A6671"/><circle cx="204" cy="330.0" r="2.2" fill="#5A6671"/>
+<line x1="172" y1="330.0" x2="190" y2="320.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="234" y="302" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="247" y1="315" x2="264" y2="315" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="250" cy="330.0" r="2.2" fill="#5A6671"/><circle cx="282" cy="330.0" r="2.2" fill="#5A6671"/>
+<line x1="250" y1="330.0" x2="268" y2="320.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="312" y="302" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="325" y1="315" x2="342" y2="315" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="328" cy="330.0" r="2.2" fill="#5A6671"/><circle cx="360" cy="330.0" r="2.2" fill="#5A6671"/>
+<line x1="328" y1="330.0" x2="346" y2="320.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="390" y="302" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="403" y1="315" x2="420" y2="315" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="406" cy="330.0" r="2.2" fill="#5A6671"/><circle cx="438" cy="330.0" r="2.2" fill="#5A6671"/>
+<line x1="406" y1="330.0" x2="424" y2="320.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="468" y="302" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="481" y1="315" x2="498" y2="315" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="484" cy="330.0" r="2.2" fill="#5A6671"/><circle cx="516" cy="330.0" r="2.2" fill="#5A6671"/>
+<line x1="484" y1="330.0" x2="502" y2="320.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="78" y="362" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="91" y1="375" x2="108" y2="375" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="94" cy="390.0" r="2.2" fill="#5A6671"/><circle cx="126" cy="390.0" r="2.2" fill="#5A6671"/>
+<line x1="94" y1="390.0" x2="112" y2="380.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="156" y="362" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="169" y1="375" x2="186" y2="375" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="172" cy="390.0" r="2.2" fill="#5A6671"/><circle cx="204" cy="390.0" r="2.2" fill="#5A6671"/>
+<line x1="172" y1="390.0" x2="190" y2="380.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="234" y="362" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="247" y1="375" x2="264" y2="375" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="250" cy="390.0" r="2.2" fill="#5A6671"/><circle cx="282" cy="390.0" r="2.2" fill="#5A6671"/>
+<line x1="250" y1="390.0" x2="268" y2="380.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="312" y="362" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="325" y1="375" x2="342" y2="375" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="328" cy="390.0" r="2.2" fill="#5A6671"/><circle cx="360" cy="390.0" r="2.2" fill="#5A6671"/>
+<line x1="328" y1="390.0" x2="346" y2="380.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="390" y="362" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="403" y1="375" x2="420" y2="375" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="406" cy="390.0" r="2.2" fill="#5A6671"/><circle cx="438" cy="390.0" r="2.2" fill="#5A6671"/>
+<line x1="406" y1="390.0" x2="424" y2="380.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="468" y="362" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="481" y1="375" x2="498" y2="375" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="484" cy="390.0" r="2.2" fill="#5A6671"/><circle cx="516" cy="390.0" r="2.2" fill="#5A6671"/>
+<line x1="484" y1="390.0" x2="502" y2="380.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="78" y="422" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="91" y1="435" x2="108" y2="435" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="94" cy="450.0" r="2.2" fill="#5A6671"/><circle cx="126" cy="450.0" r="2.2" fill="#5A6671"/>
+<line x1="94" y1="450.0" x2="112" y2="440.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="156" y="422" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="169" y1="435" x2="186" y2="435" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="172" cy="450.0" r="2.2" fill="#5A6671"/><circle cx="204" cy="450.0" r="2.2" fill="#5A6671"/>
+<line x1="172" y1="450.0" x2="190" y2="440.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="234" y="422" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="247" y1="435" x2="264" y2="435" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="250" cy="450.0" r="2.2" fill="#5A6671"/><circle cx="282" cy="450.0" r="2.2" fill="#5A6671"/>
+<line x1="250" y1="450.0" x2="268" y2="440.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="312" y="422" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="325" y1="435" x2="342" y2="435" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="328" cy="450.0" r="2.2" fill="#5A6671"/><circle cx="360" cy="450.0" r="2.2" fill="#5A6671"/>
+<line x1="328" y1="450.0" x2="346" y2="440.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="390" y="422" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="403" y1="435" x2="420" y2="435" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="406" cy="450.0" r="2.2" fill="#5A6671"/><circle cx="438" cy="450.0" r="2.2" fill="#5A6671"/>
+<line x1="406" y1="450.0" x2="424" y2="440.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="468" y="422" width="64" height="46" rx="5" fill="#0E1A1B" stroke="#2DD4BF" stroke-width="1.6"/>
+<line x1="481" y1="435" x2="501" y2="435" stroke="#2DD4BF" stroke-width="1.4"/>
+<circle cx="484" cy="450.0" r="2.4" fill="#2DD4BF"/><circle cx="516" cy="450.0" r="2.4" fill="#2DD4BF"/>
+<line x1="484" y1="450.0" x2="516" y2="450.0" stroke="#2DD4BF" stroke-width="1.8"/>
+<text x="500.0" y="479" class="mono" font-size="7.5" fill="#2DD4BF" text-anchor="middle">MOMENT CAME</text>
+<rect x="78" y="482" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="91" y1="495" x2="108" y2="495" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="94" cy="510.0" r="2.2" fill="#5A6671"/><circle cx="126" cy="510.0" r="2.2" fill="#5A6671"/>
+<line x1="94" y1="510.0" x2="112" y2="500.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="156" y="482" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="169" y1="495" x2="186" y2="495" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="172" cy="510.0" r="2.2" fill="#5A6671"/><circle cx="204" cy="510.0" r="2.2" fill="#5A6671"/>
+<line x1="172" y1="510.0" x2="190" y2="500.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="234" y="482" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="247" y1="495" x2="264" y2="495" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="250" cy="510.0" r="2.2" fill="#5A6671"/><circle cx="282" cy="510.0" r="2.2" fill="#5A6671"/>
+<line x1="250" y1="510.0" x2="268" y2="500.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="312" y="482" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="325" y1="495" x2="342" y2="495" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="328" cy="510.0" r="2.2" fill="#5A6671"/><circle cx="360" cy="510.0" r="2.2" fill="#5A6671"/>
+<line x1="328" y1="510.0" x2="346" y2="500.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="390" y="482" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="403" y1="495" x2="420" y2="495" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="406" cy="510.0" r="2.2" fill="#5A6671"/><circle cx="438" cy="510.0" r="2.2" fill="#5A6671"/>
+<line x1="406" y1="510.0" x2="424" y2="500.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="468" y="482" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="481" y1="495" x2="498" y2="495" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="484" cy="510.0" r="2.2" fill="#5A6671"/><circle cx="516" cy="510.0" r="2.2" fill="#5A6671"/>
+<line x1="484" y1="510.0" x2="502" y2="500.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="78" y="542" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="91" y1="555" x2="108" y2="555" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="94" cy="570.0" r="2.2" fill="#5A6671"/><circle cx="126" cy="570.0" r="2.2" fill="#5A6671"/>
+<line x1="94" y1="570.0" x2="112" y2="560.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="156" y="542" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="169" y1="555" x2="186" y2="555" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="172" cy="570.0" r="2.2" fill="#5A6671"/><circle cx="204" cy="570.0" r="2.2" fill="#5A6671"/>
+<line x1="172" y1="570.0" x2="190" y2="560.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="234" y="542" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="247" y1="555" x2="264" y2="555" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="250" cy="570.0" r="2.2" fill="#5A6671"/><circle cx="282" cy="570.0" r="2.2" fill="#5A6671"/>
+<line x1="250" y1="570.0" x2="268" y2="560.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="312" y="542" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="325" y1="555" x2="342" y2="555" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="328" cy="570.0" r="2.2" fill="#5A6671"/><circle cx="360" cy="570.0" r="2.2" fill="#5A6671"/>
+<line x1="328" y1="570.0" x2="346" y2="560.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="390" y="542" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="403" y1="555" x2="420" y2="555" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="406" cy="570.0" r="2.2" fill="#5A6671"/><circle cx="438" cy="570.0" r="2.2" fill="#5A6671"/>
+<line x1="406" y1="570.0" x2="424" y2="560.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="468" y="542" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="481" y1="555" x2="498" y2="555" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="484" cy="570.0" r="2.2" fill="#5A6671"/><circle cx="516" cy="570.0" r="2.2" fill="#5A6671"/>
+<line x1="484" y1="570.0" x2="502" y2="560.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="78" y="602" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="91" y1="615" x2="108" y2="615" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="94" cy="630.0" r="2.2" fill="#5A6671"/><circle cx="126" cy="630.0" r="2.2" fill="#5A6671"/>
+<line x1="94" y1="630.0" x2="112" y2="620.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="156" y="602" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="169" y1="615" x2="186" y2="615" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="172" cy="630.0" r="2.2" fill="#5A6671"/><circle cx="204" cy="630.0" r="2.2" fill="#5A6671"/>
+<line x1="172" y1="630.0" x2="190" y2="620.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="234" y="602" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="247" y1="615" x2="264" y2="615" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="250" cy="630.0" r="2.2" fill="#5A6671"/><circle cx="282" cy="630.0" r="2.2" fill="#5A6671"/>
+<line x1="250" y1="630.0" x2="268" y2="620.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="312" y="602" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="325" y1="615" x2="342" y2="615" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="328" cy="630.0" r="2.2" fill="#5A6671"/><circle cx="360" cy="630.0" r="2.2" fill="#5A6671"/>
+<line x1="328" y1="630.0" x2="346" y2="620.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="390" y="602" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="403" y1="615" x2="420" y2="615" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="406" cy="630.0" r="2.2" fill="#5A6671"/><circle cx="438" cy="630.0" r="2.2" fill="#5A6671"/>
+<line x1="406" y1="630.0" x2="424" y2="620.0" stroke="#46525D" stroke-width="1.4"/>
+<rect x="468" y="602" width="64" height="46" rx="5" fill="#11161B" stroke="#46525D" stroke-width="1.1"/>
+<line x1="481" y1="615" x2="498" y2="615" stroke="#46525D" stroke-width="1.1"/>
+<circle cx="484" cy="630.0" r="2.2" fill="#5A6671"/><circle cx="516" cy="630.0" r="2.2" fill="#5A6671"/>
+<line x1="484" y1="630.0" x2="502" y2="620.0" stroke="#46525D" stroke-width="1.4"/>
+<text x="70" y="690" class="mono" font-size="10.5" fill="#9AA6B0" letter-spacing="0.4">PARKED · INVENTORY WAITING FOR DEMAND · COSTS YOU NOTHING</text>
+<text x="70" y="707" class="mono" font-size="9.5" fill="#7C8893">reviewed weekly: 'does anything need to activate yet?' — usually no. that's fine.</text>
+<rect x="64" y="718" width="300" height="22" rx="11" fill="#1E160A" stroke="#E8A23D" stroke-width="1"/>
+<text x="74" y="733" class="mono" font-size="9" fill="#E8A23D">WEEKLY REVIEW · scan the parked field, pull nothing on guilt</text>
+<rect x="566" y="312" width="54" height="232" rx="8" fill="#0C1A1B" stroke="#2DD4BF" stroke-width="1.7"/>
+<text x="593.0" y="344" class="mono" font-size="10" fill="#2DD4BF" text-anchor="middle" font-weight="700">ACTIVE</text>
+<text x="593.0" y="358" class="mono" font-size="10" fill="#2DD4BF" text-anchor="middle" font-weight="700">CAP</text>
+<rect x="575" y="368" width="36" height="26" rx="4" fill="#0A2422" stroke="#2DD4BF" stroke-width="1"/>
+<text x="593.0" y="386" class="mono" font-size="15" fill="#2DD4BF" text-anchor="middle" font-weight="700">3–5</text>
+<path d="M578 470 l8 -10 l8 20 l8 -20 l8 10" fill="none" stroke="#2DD4BF" stroke-width="1.6"/>
+<text x="593.0" y="500" class="mono" font-size="8" fill="#6FBDB4" text-anchor="middle">RATED</text>
+<text x="593.0" y="512" class="mono" font-size="8" fill="#6FBDB4" text-anchor="middle">FUSE</text>
+<text x="593.0" y="300" class="mono" font-size="9" fill="#7C8893" text-anchor="middle" letter-spacing="1">GOVERNOR</text>
+<line x1="532" y1="449" x2="566" y2="449" stroke="#2DD4BF" stroke-width="2.4"/>
+<line x1="620" y1="449" x2="672" y2="449" stroke="#2DD4BF" stroke-width="2.4"/>
+<path d="M672 449 l-11 -6 l0 12 z" fill="#2DD4BF"/>
+<rect x="564" y="441" width="58" height="16" rx="3" fill="#0B2522" stroke="#2DD4BF" stroke-width="1"/>
+<text x="593.0" y="453" class="mono" font-size="7" fill="#2DD4BF" text-anchor="middle">PULL</text>
+<line x1="593.0" y1="700" x2="593.0" y2="556" stroke="#E8A23D" stroke-width="2" stroke-dasharray="6 5"/>
+<path d="M593.0 552 l-6 10 l12 0 z" fill="#E8A23D"/>
+<line x1="560" y1="548" x2="626" y2="548" stroke="#E8A23D" stroke-width="3"/>
+<g stroke="#E8A23D" stroke-width="2"><line x1="587.0" y1="560" x2="599.0" y2="572"/><line x1="599.0" y1="560" x2="587.0" y2="572"/></g>
+<text x="593.0" y="690" class="mono" font-size="9" fill="#E8A23D" text-anchor="middle">'I feel bad</text>
+<text x="593.0" y="701" class="mono" font-size="9" fill="#E8A23D" text-anchor="middle">about it'</text>
+<text x="593.0" y="592" class="mono" font-size="8.5" fill="#E8A23D" text-anchor="middle" font-weight="700">BLOCKED</text>
+<text x="593.0" y="604" class="mono" font-size="8" fill="#7C8893" text-anchor="middle">guilt ≠ pull</text>
+<rect x="672" y="312" width="86" height="200" rx="8" fill="#0E1A1B" stroke="#2DD4BF" stroke-width="1.6"/>
+<rect x="680" y="352" width="9" height="144" rx="2" fill="#2DD4BF" opacity="0.85"/>
+<text x="719.0" y="336" class="mono" font-size="11" fill="#2DD4BF" text-anchor="middle" font-weight="700">JUST PULLED</text>
+<text x="719.0" y="352" class="mono" font-size="8" fill="#6FBDB4" text-anchor="middle">its moment came</text>
+<path d="M698 402 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8" fill="none" stroke="#2DD4BF" stroke-width="1.4" opacity="0.8"/>
+<rect x="696" y="432" width="54" height="10" rx="5" fill="#0B2522" stroke="#2DD4BF" stroke-width="0.8"/>
+<rect x="696" y="432" width="37" height="10" rx="5" fill="#2DD4BF" opacity="0.8"/>
+<text x="719.0" y="462" class="mono" font-size="8.5" fill="#2DD4BF" text-anchor="middle">FULL POWER</text>
+<text x="719.0" y="484" class="mono" font-size="8" fill="#9AA6B0" text-anchor="middle">single focus</text>
+<rect x="768" y="312" width="86" height="200" rx="8" fill="#0E1A1B" stroke="#2DD4BF" stroke-width="1.6"/>
+<rect x="776" y="352" width="9" height="144" rx="2" fill="#2DD4BF" opacity="0.85"/>
+<text x="815.0" y="336" class="mono" font-size="11.5" fill="#2DD4BF" text-anchor="middle" font-weight="700">PROJECT B</text>
+<text x="815.0" y="352" class="mono" font-size="8.5" fill="#6FBDB4" text-anchor="middle">running</text>
+<path d="M794 402 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8" fill="none" stroke="#2DD4BF" stroke-width="1.4" opacity="0.8"/>
+<rect x="792" y="432" width="54" height="10" rx="5" fill="#0B2522" stroke="#2DD4BF" stroke-width="0.8"/>
+<rect x="792" y="432" width="41" height="10" rx="5" fill="#2DD4BF" opacity="0.8"/>
+<text x="815.0" y="462" class="mono" font-size="8.5" fill="#2DD4BF" text-anchor="middle">FULL POWER</text>
+<text x="815.0" y="484" class="mono" font-size="8" fill="#9AA6B0" text-anchor="middle">single focus</text>
+<rect x="864" y="312" width="86" height="200" rx="8" fill="#0E1A1B" stroke="#2DD4BF" stroke-width="1.6"/>
+<rect x="872" y="352" width="9" height="144" rx="2" fill="#2DD4BF" opacity="0.85"/>
+<text x="911.0" y="336" class="mono" font-size="11.5" fill="#2DD4BF" text-anchor="middle" font-weight="700">PROJECT C</text>
+<text x="911.0" y="352" class="mono" font-size="8.5" fill="#6FBDB4" text-anchor="middle">running</text>
+<path d="M890 402 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8" fill="none" stroke="#2DD4BF" stroke-width="1.4" opacity="0.8"/>
+<rect x="888" y="432" width="54" height="10" rx="5" fill="#0B2522" stroke="#2DD4BF" stroke-width="0.8"/>
+<rect x="888" y="432" width="45" height="10" rx="5" fill="#2DD4BF" opacity="0.8"/>
+<text x="911.0" y="462" class="mono" font-size="8.5" fill="#2DD4BF" text-anchor="middle">FULL POWER</text>
+<text x="911.0" y="484" class="mono" font-size="8" fill="#9AA6B0" text-anchor="middle">single focus</text>
+<rect x="960" y="312" width="86" height="200" rx="8" fill="#0E1A1B" stroke="#2DD4BF" stroke-width="1.6"/>
+<rect x="968" y="352" width="9" height="144" rx="2" fill="#2DD4BF" opacity="0.85"/>
+<text x="1007.0" y="336" class="mono" font-size="11.5" fill="#2DD4BF" text-anchor="middle" font-weight="700">PROJECT D</text>
+<text x="1007.0" y="352" class="mono" font-size="8.5" fill="#6FBDB4" text-anchor="middle">running</text>
+<path d="M986 402 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8" fill="none" stroke="#2DD4BF" stroke-width="1.4" opacity="0.8"/>
+<rect x="984" y="432" width="54" height="10" rx="5" fill="#0B2522" stroke="#2DD4BF" stroke-width="0.8"/>
+<rect x="984" y="432" width="49" height="10" rx="5" fill="#2DD4BF" opacity="0.8"/>
+<text x="1007.0" y="462" class="mono" font-size="8.5" fill="#2DD4BF" text-anchor="middle">FULL POWER</text>
+<text x="1007.0" y="484" class="mono" font-size="8" fill="#9AA6B0" text-anchor="middle">single focus</text>
+<rect x="1056" y="312" width="86" height="200" rx="8" fill="#0D1217" stroke="#46525D" stroke-width="1.4"/>
+<text x="1099.0" y="338" class="mono" font-size="13" fill="#9AA6B0" text-anchor="middle" font-weight="700">DONE</text>
+<circle cx="1099.0" cy="390" r="22" fill="none" stroke="#2DD4BF" stroke-width="2"/>
+<path d="M1089.0 390 l7 8 l15 -16" fill="none" stroke="#2DD4BF" stroke-width="2.4"/>
+<text x="1099.0" y="440" class="mono" font-size="9.5" fill="#9AA6B0" text-anchor="middle">finished</text>
+<text x="1099.0" y="462" class="mono" font-size="9" fill="#7C8893" text-anchor="middle">→ sweeps out</text>
+<text x="1099.0" y="484" class="mono" font-size="9" fill="#6FBDB4" text-anchor="middle">frees a slot</text>
+<rect x="1043" y="462" width="12" height="40" rx="3" fill="#0A2422" stroke="#2DD4BF" stroke-width="0.8"/>
+<text x="1049" y="482" class="mono" font-size="8" fill="#2DD4BF" font-weight="700">→ P7 · AUTONOMOUS</text>
+<line x1="672" y1="548" x2="1142" y2="548" stroke="#2DD4BF" stroke-width="2.6"/>
+<line x1="715.0" y1="548" x2="715.0" y2="512" stroke="#2DD4BF" stroke-width="1.6"/>
+<line x1="811.0" y1="548" x2="811.0" y2="512" stroke="#2DD4BF" stroke-width="1.6"/>
+<line x1="907.0" y1="548" x2="907.0" y2="512" stroke="#2DD4BF" stroke-width="1.6"/>
+<line x1="1003.0" y1="548" x2="1003.0" y2="512" stroke="#2DD4BF" stroke-width="1.6"/>
+<text x="674" y="540" class="mono" font-size="9.5" fill="#6FBDB4">THE STACK ASSEMBLES EACH PROJECT FOR YOU — it lands PRE-LOADED, never blank</text>
+<line x1="758.0" y1="600" x2="758.0" y2="548" stroke="#2DD4BF" stroke-width="1.4"/>
+<path d="M758.0 548 l-5 9 l10 0 z" fill="#2DD4BF"/>
+<rect x="680" y="600" width="156" height="42" rx="5" fill="#0A2422" stroke="#2DD4BF" stroke-width="1.1"/>
+<text x="688" y="618" class="mono" font-size="10.5" fill="#2DD4BF" font-weight="700">RESOURCES → 4.0 PARA</text>
+<text x="688" y="634" class="mono" font-size="8.5" fill="#9AA6B0">everything past-you filed</text>
+<line x1="918.0" y1="600" x2="918.0" y2="548" stroke="#2DD4BF" stroke-width="1.4"/>
+<path d="M918.0 548 l-5 9 l10 0 z" fill="#2DD4BF"/>
+<rect x="842" y="600" width="152" height="42" rx="5" fill="#0A2422" stroke="#2DD4BF" stroke-width="1.1"/>
+<text x="850" y="618" class="mono" font-size="10.5" fill="#2DD4BF" font-weight="700">MAPS → 4.1</text>
+<text x="850" y="634" class="mono" font-size="8.5" fill="#9AA6B0">progressive-summ. nodes</text>
+<line x1="1071.0" y1="600" x2="1071.0" y2="548" stroke="#2DD4BF" stroke-width="1.4"/>
+<path d="M1071.0 548 l-5 9 l10 0 z" fill="#2DD4BF"/>
+<rect x="1000" y="600" width="142" height="42" rx="5" fill="#0A2422" stroke="#2DD4BF" stroke-width="1.1"/>
+<text x="1008" y="618" class="mono" font-size="10.5" fill="#2DD4BF" font-weight="700">NEXT ACTION → 3.0</text>
+<text x="1008" y="634" class="mono" font-size="8.5" fill="#9AA6B0">workflow defines move</text>
+<rect x="680" y="652" width="462" height="42" rx="6" fill="#0A2422" stroke="#2DD4BF" stroke-width="1.3"/>
+<text x="690" y="672" class="mono" font-size="11.5" fill="#2DD4BF" font-weight="700">×AI KIT-ASSEMBLER</text>
+<text x="1132" y="672" class="mono" font-size="10.5" fill="#2DD4BF" text-anchor="end" font-weight="700">BLANK PAGE → 0</text>
+<text x="690" y="688" class="mono" font-size="9.5" fill="#9AA6B0">gathers resources + maps · drafts the plan &amp; the first next action</text>
+<text x="690" y="712" class="mono" font-size="8.5" fill="#6FBDB4">lights ONLY because the 3.0 / 4.0 / 4.1 feeds are live — fundamental before multiplier</text>
+<line x1="1142" y1="412" x2="1296" y2="412" stroke="#9AA6B0" stroke-width="2.2"/>
+<path d="M1300 412 l-12 -6 l0 12 z" fill="#9AA6B0"/>
+<text x="1150" y="402" class="mono" font-size="9.5" fill="#9AA6B0">DONE → ARCHIVES</text>
+<rect x="1300" y="356" width="138" height="118" rx="8" fill="#0D1217" stroke="#46525D" stroke-width="1.4"/>
+<text x="1369" y="382" class="mono" font-size="11" fill="#9AA6B0" text-anchor="middle" font-weight="700">ARCHIVE SINK</text>
+<line x1="1314" y1="398" x2="1424" y2="398" stroke="#2C3640" stroke-width="3"/>
+<line x1="1314" y1="410" x2="1424" y2="410" stroke="#2C3640" stroke-width="3"/>
+<line x1="1314" y1="422" x2="1424" y2="422" stroke="#2C3640" stroke-width="3"/>
+<line x1="1314" y1="434" x2="1424" y2="434" stroke="#2C3640" stroke-width="3"/>
+<line x1="1314" y1="446" x2="1424" y2="446" stroke="#2C3640" stroke-width="3"/>
+<line x1="1314" y1="458" x2="1424" y2="458" stroke="#2C3640" stroke-width="3"/>
+<text x="1369" y="470" class="mono" font-size="8.5" fill="#5A6671" text-anchor="middle">dark · costs nothing</text>
+<path d="M1369 356 C 1369 318, 720 318, 715 308" fill="none" stroke="#2DD4BF" stroke-width="1.4" stroke-dasharray="5 5" opacity="0.8"/>
+<text x="1150" y="500" class="mono" font-size="11" fill="#2DD4BF" font-weight="700">FINISH ⇒ FREE A SLOT</text>
+<text x="1150" y="517" class="mono" font-size="9" fill="#9AA6B0">only a completed-and-swept project returns</text>
+<text x="1150" y="531" class="mono" font-size="9" fill="#9AA6B0">headroom to the limiter — then pull the next.</text>
+<text x="1150" y="553" class="mono" font-size="10" fill="#6FBDB4" font-weight="700">completion rate &gt; open rate</text>
+<line x1="70" y1="788" x2="1430" y2="788" stroke="#2A3540" stroke-width="1"/>
+<rect x="64" y="802" width="400" height="300" rx="9" fill="#0C1116" stroke="#2A3540" stroke-width="1.2"/>
+<text x="80" y="830" class="mono" font-size="11.5" fill="#C9D2D9" font-weight="700" letter-spacing="0.5">PROJECTS &amp; LEARNING — TWO FACES OF ONE PULL</text>
+<line x1="264.0" y1="846" x2="264.0" y2="1088" stroke="#2A3540" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="80" y="866" class="mono" font-size="10.5" fill="#E8A23D" font-weight="700">JUST-IN-CASE STOCKPILE</text>
+<line x1="94" y1="894" x2="94" y2="904" stroke="#E8A23D" stroke-width="1.4"/>
+<line x1="82" y1="904" x2="106" y2="904" stroke="#E8A23D" stroke-width="2.4"/>
+<line x1="85" y1="910" x2="103" y2="910" stroke="#E8A23D" stroke-width="2.4"/>
+<line x1="94" y1="910" x2="94" y2="920" stroke="#E8A23D" stroke-width="1.4"/>
+<line x1="94" y1="922" x2="94" y2="934" stroke="#E8A23D" stroke-width="1" stroke-dasharray="2 3" opacity="0.7"/>
+<line x1="136" y1="894" x2="136" y2="904" stroke="#E8A23D" stroke-width="1.4"/>
+<line x1="124" y1="904" x2="148" y2="904" stroke="#E8A23D" stroke-width="2.4"/>
+<line x1="127" y1="910" x2="145" y2="910" stroke="#E8A23D" stroke-width="2.4"/>
+<line x1="136" y1="910" x2="136" y2="920" stroke="#E8A23D" stroke-width="1.4"/>
+<line x1="136" y1="922" x2="136" y2="934" stroke="#E8A23D" stroke-width="1" stroke-dasharray="2 3" opacity="0.7"/>
+<line x1="178" y1="894" x2="178" y2="904" stroke="#E8A23D" stroke-width="1.4"/>
+<line x1="166" y1="904" x2="190" y2="904" stroke="#E8A23D" stroke-width="2.4"/>
+<line x1="169" y1="910" x2="187" y2="910" stroke="#E8A23D" stroke-width="2.4"/>
+<line x1="178" y1="910" x2="178" y2="920" stroke="#E8A23D" stroke-width="1.4"/>
+<line x1="178" y1="922" x2="178" y2="934" stroke="#E8A23D" stroke-width="1" stroke-dasharray="2 3" opacity="0.7"/>
+<text x="80" y="964" class="mono" font-size="9" fill="#9AA6B0">courses · pre-built curricula</text>
+<text x="80" y="980" class="mono" font-size="9" fill="#E8A23D">bought, idle, slowly obsolete</text>
+<text x="80" y="1000" class="mono" font-size="8.5" fill="#7C8893">doesn't match a problem you</text>
+<text x="80" y="1014" class="mono" font-size="8.5" fill="#7C8893">have now → doesn't stick</text>
+<text x="278.0" y="866" class="mono" font-size="10.5" fill="#2DD4BF" font-weight="700">JUST-IN-TIME LEARNING</text>
+<rect x="284.0" y="886" width="64" height="34" rx="5" fill="#0E1A1B" stroke="#2DD4BF" stroke-width="1.4"/>
+<text x="316.0" y="904" class="mono" font-size="9" fill="#2DD4BF" text-anchor="middle" font-weight="700">LIVE</text>
+<text x="316.0" y="915" class="mono" font-size="8" fill="#6FBDB4" text-anchor="middle">PROJECT</text>
+<line x1="348.0" y1="903" x2="384.0" y2="903" stroke="#2DD4BF" stroke-width="1.8"/>
+<path d="M384.0 903 l-10 -5 l0 10 z" fill="#2DD4BF"/>
+<circle cx="406.0" cy="903" r="16" fill="#0A2422" stroke="#2DD4BF" stroke-width="1.4"/>
+<text x="406.0" y="907" class="mono" font-size="8" fill="#2DD4BF" text-anchor="middle" font-weight="700">SKILL</text>
+<text x="278.0" y="952" class="mono" font-size="9" fill="#9AA6B0">learn the exact thing the</text>
+<text x="278.0" y="966" class="mono" font-size="9" fill="#9AA6B0">project pulls for, on the job</text>
+<text x="278.0" y="986" class="mono" font-size="9" fill="#6FBDB4">sticks — because it's used now</text>
+<text x="80" y="1088" class="mono" font-size="8.5" fill="#7C8893">let real demand pull the work AND the learning — never stockpile either</text>
+<rect x="480" y="802" width="520" height="300" rx="9" fill="#0C1116" stroke="#2A3540" stroke-width="1.2"/>
+<text x="496" y="830" class="disp" font-size="12" fill="#EEF3F7" font-weight="700">THE OVERLOAD PARADOX</text>
+<text x="984" y="830" class="mono" font-size="10" fill="#7C8893" text-anchor="end">same total supply, both sides</text>
+<line x1="740.0" y1="842" x2="740.0" y2="1088" stroke="#2A3540" stroke-width="1"/>
+<text x="496" y="858" class="mono" font-size="10" fill="#FF5C5C" font-weight="700">EVERYTHING ON · just-in-case</text>
+<rect x="498" y="872" width="24" height="16" rx="3" fill="#241011" stroke="#FF5C5C" stroke-width="0.9" opacity="0.8"/>
+<line x1="502" y1="880" x2="518" y2="880" stroke="#FF8C8C" stroke-width="1.4" opacity="0.7"/>
+<rect x="528" y="872" width="24" height="16" rx="3" fill="#241011" stroke="#FF5C5C" stroke-width="0.9" opacity="0.8"/>
+<line x1="532" y1="880" x2="548" y2="880" stroke="#FF8C8C" stroke-width="1.4" opacity="0.7"/>
+<rect x="558" y="872" width="24" height="16" rx="3" fill="#241011" stroke="#FF5C5C" stroke-width="0.9" opacity="0.8"/>
+<line x1="562" y1="880" x2="578" y2="880" stroke="#FF8C8C" stroke-width="1.4" opacity="0.7"/>
+<rect x="588" y="872" width="24" height="16" rx="3" fill="#241011" stroke="#FF5C5C" stroke-width="0.9" opacity="0.8"/>
+<line x1="592" y1="880" x2="608" y2="880" stroke="#FF8C8C" stroke-width="1.4" opacity="0.7"/>
+<rect x="618" y="872" width="24" height="16" rx="3" fill="#241011" stroke="#FF5C5C" stroke-width="0.9" opacity="0.8"/>
+<line x1="622" y1="880" x2="638" y2="880" stroke="#FF8C8C" stroke-width="1.4" opacity="0.7"/>
+<rect x="498" y="894" width="24" height="16" rx="3" fill="#241011" stroke="#FF5C5C" stroke-width="0.9" opacity="0.8"/>
+<line x1="502" y1="902" x2="518" y2="902" stroke="#FF8C8C" stroke-width="1.4" opacity="0.7"/>
+<rect x="528" y="894" width="24" height="16" rx="3" fill="#241011" stroke="#FF5C5C" stroke-width="0.9" opacity="0.8"/>
+<line x1="532" y1="902" x2="548" y2="902" stroke="#FF8C8C" stroke-width="1.4" opacity="0.7"/>
+<rect x="558" y="894" width="24" height="16" rx="3" fill="#241011" stroke="#FF5C5C" stroke-width="0.9" opacity="0.8"/>
+<line x1="562" y1="902" x2="578" y2="902" stroke="#FF8C8C" stroke-width="1.4" opacity="0.7"/>
+<rect x="588" y="894" width="24" height="16" rx="3" fill="#241011" stroke="#FF5C5C" stroke-width="0.9" opacity="0.8"/>
+<line x1="592" y1="902" x2="608" y2="902" stroke="#FF8C8C" stroke-width="1.4" opacity="0.7"/>
+<rect x="618" y="894" width="24" height="16" rx="3" fill="#241011" stroke="#FF5C5C" stroke-width="0.9" opacity="0.8"/>
+<line x1="622" y1="902" x2="638" y2="902" stroke="#FF8C8C" stroke-width="1.4" opacity="0.7"/>
+<rect x="498" y="916" width="24" height="16" rx="3" fill="#241011" stroke="#FF5C5C" stroke-width="0.9" opacity="0.8"/>
+<line x1="502" y1="924" x2="518" y2="924" stroke="#FF8C8C" stroke-width="1.4" opacity="0.7"/>
+<rect x="528" y="916" width="24" height="16" rx="3" fill="#241011" stroke="#FF5C5C" stroke-width="0.9" opacity="0.8"/>
+<line x1="532" y1="924" x2="548" y2="924" stroke="#FF8C8C" stroke-width="1.4" opacity="0.7"/>
+<rect x="558" y="916" width="24" height="16" rx="3" fill="#241011" stroke="#FF5C5C" stroke-width="0.9" opacity="0.8"/>
+<line x1="562" y1="924" x2="578" y2="924" stroke="#FF8C8C" stroke-width="1.4" opacity="0.7"/>
+<rect x="588" y="916" width="24" height="16" rx="3" fill="#241011" stroke="#FF5C5C" stroke-width="0.9" opacity="0.8"/>
+<line x1="592" y1="924" x2="608" y2="924" stroke="#FF8C8C" stroke-width="1.4" opacity="0.7"/>
+<rect x="618" y="916" width="24" height="16" rx="3" fill="#241011" stroke="#FF5C5C" stroke-width="0.9" opacity="0.8"/>
+<line x1="622" y1="924" x2="638" y2="924" stroke="#FF8C8C" stroke-width="1.4" opacity="0.7"/>
+<text x="498" y="952" class="mono" font-size="8.5" fill="#FF8C8C">all switches closed → supply spread thin</text>
+<text x="498" y="966" class="mono" font-size="8.5" fill="#FF8C8C">every load BROWNS OUT below useful work</text>
+<rect x="498" y="978" width="50" height="40" rx="5" fill="#190E0E" stroke="#FF5C5C" stroke-width="1.6"/>
+<text x="523" y="995" class="mono" font-size="8" fill="#FF5C5C" text-anchor="middle" font-weight="700">LIMITER</text>
+<text x="523" y="1007" class="mono" font-size="8" fill="#FF5C5C" text-anchor="middle" font-weight="700">TRIPPED</text>
+<path d="M558 984 l0 26 l7 -7 l5 12 l5 -2 l-5 -12 l9 0 z" fill="#FF5C5C"/>
+<text x="576" y="998" class="mono" font-size="8" fill="#FF8C8C">cramming a 6th on</text>
+<text x="498" y="1038" class="mono" font-size="9" fill="#9AA6B0" font-weight="700">COMPLETION</text>
+<rect x="498" y="1044" width="216" height="14" rx="7" fill="#1A1012" stroke="#FF5C5C" stroke-width="1"/>
+<rect x="498" y="1044" width="14" height="14" rx="7" fill="#FF5C5C"/>
+<text x="720" y="1055" class="mono" font-size="11" fill="#FF5C5C" text-anchor="end" font-weight="700">≈ 0</text>
+<text x="498" y="1080" class="mono" font-size="10.5" fill="#FF5C5C" font-weight="700">EVERYTHING ON = NOTHING FINISHES</text>
+<text x="498" y="1094" class="mono" font-size="8.5" fill="#FF8C8C">maximally busy, minimally finished</text>
+<text x="756.0" y="858" class="mono" font-size="10" fill="#2DD4BF" font-weight="700">A FEW ON, REST PARKED · just-in-time</text>
+<rect x="758.0" y="880" width="22" height="40" rx="4" fill="#0E1A1B" stroke="#2DD4BF" stroke-width="1.4"/>
+<rect x="766.0" y="886" width="6" height="28" rx="2" fill="#2DD4BF"/>
+<rect x="788.0" y="880" width="22" height="40" rx="4" fill="#0E1A1B" stroke="#2DD4BF" stroke-width="1.4"/>
+<rect x="796.0" y="886" width="6" height="28" rx="2" fill="#2DD4BF"/>
+<rect x="818.0" y="880" width="22" height="40" rx="4" fill="#0E1A1B" stroke="#2DD4BF" stroke-width="1.4"/>
+<rect x="826.0" y="886" width="6" height="28" rx="2" fill="#2DD4BF"/>
+<rect x="848.0" y="880" width="22" height="40" rx="4" fill="#0E1A1B" stroke="#2DD4BF" stroke-width="1.4"/>
+<rect x="856.0" y="886" width="6" height="28" rx="2" fill="#2DD4BF"/>
+<rect x="878.0" y="880" width="22" height="40" rx="4" fill="#11161B" stroke="#46525D" stroke-width="1"/>
+<line x1="883.0" y1="906" x2="893.0" y2="896" stroke="#46525D" stroke-width="1.3"/>
+<rect x="908.0" y="880" width="22" height="40" rx="4" fill="#11161B" stroke="#46525D" stroke-width="1"/>
+<line x1="913.0" y1="906" x2="923.0" y2="896" stroke="#46525D" stroke-width="1.3"/>
+<rect x="938.0" y="880" width="22" height="40" rx="4" fill="#11161B" stroke="#46525D" stroke-width="1"/>
+<line x1="943.0" y1="906" x2="953.0" y2="896" stroke="#46525D" stroke-width="1.3"/>
+<rect x="968.0" y="880" width="22" height="40" rx="4" fill="#11161B" stroke="#46525D" stroke-width="1"/>
+<line x1="973.0" y1="906" x2="983.0" y2="896" stroke="#46525D" stroke-width="1.3"/>
+<text x="758.0" y="938" class="mono" font-size="8.5" fill="#9AA6B0">only 3–5 closed → the active few run</text>
+<text x="758.0" y="952" class="mono" font-size="8.5" fill="#6FBDB4">at FULL brightness, clean current</text>
+<text x="758.0" y="978" class="mono" font-size="8.5" fill="#7C8893">rest dark &amp; calm — drawing nothing</text>
+<text x="758.0" y="1038" class="mono" font-size="9" fill="#9AA6B0" font-weight="700">COMPLETION</text>
+<rect x="758.0" y="1044" width="216" height="14" rx="7" fill="#0B2522" stroke="#2DD4BF" stroke-width="1"/>
+<rect x="758.0" y="1044" width="188" height="14" rx="7" fill="#2DD4BF"/>
+<text x="974.0" y="1055" class="mono" font-size="11" fill="#2DD4BF" text-anchor="end" font-weight="700">HIGH</text>
+<text x="758.0" y="1080" class="mono" font-size="10.5" fill="#2DD4BF" font-weight="700">MORE ACTIVE → LESS FINISHED.</text>
+<text x="758.0" y="1094" class="mono" font-size="8.5" fill="#6FBDB4">so cap the bay and let demand choose.</text>
+<rect x="1016" y="802" width="414" height="300" rx="9" fill="#0C1116" stroke="#2A3540" stroke-width="1.2"/>
+<text x="1032" y="830" class="mono" font-size="11.5" fill="#7C8893" font-weight="700" letter-spacing="0.8">OFF-BOARD CONTINUITY</text>
+<line x1="1032" y1="842" x2="1414" y2="842" stroke="#2A3540" stroke-width="1"/>
+<text x="1032" y="872" class="mono" font-size="12.5" fill="#2DD4BF" font-weight="700">→ PART 7.0 · THE AGENTIC AI FRAMEWORK</text>
+<text x="1032" y="890" class="mono" font-size="10" fill="#9AA6B0">a fully-repeatable project type hands off to</text>
+<text x="1032" y="905" class="mono" font-size="10" fill="#9AA6B0">an AUTONOMOUS RUNNER that executes it.</text>
+<rect x="1032" y="916" width="120" height="30" rx="6" fill="#0A2422" stroke="#2DD4BF" stroke-width="1.2"/>
+<text x="1046" y="935" class="mono" font-size="8.5" fill="#2DD4BF" font-weight="700">⚙ AUTONOMOUS RUNNER</text>
+<text x="1032" y="974" class="mono" font-size="11" fill="#6FBDB4" font-weight="700">← FEEDS THIS GOVERNOR</text>
+<text x="1032" y="992" class="mono" font-size="9.5" fill="#9AA6B0">5.0 toolkit · 4.x knowledge · 3.0 workflow</text>
+<text x="1032" y="1006" class="mono" font-size="9" fill="#7C8893">— the lower layers are why the kit assembles itself.</text>
+<line x1="1032" y1="1024" x2="1414" y2="1024" stroke="#2A3540" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="1032" y="1046" class="mono" font-size="9.5" fill="#7C8893" font-weight="700" letter-spacing="0.8">SOLDER-CALLBACKS</text>
+<text x="1032" y="1064" class="mono" font-size="9" fill="#9AA6B0">active bay fed by 4.0 + 4.1 + 3.0</text>
+<text x="1032" y="1079" class="mono" font-size="9" fill="#9AA6B0">completion sweep mirrors 4.0's P→A archive</text>
+<text x="1032" y="1094" class="mono" font-size="9" fill="#9AA6B0">×AI assembler = the fundamental-before-multiplier law</text>
+<line x1="70" y1="1126" x2="1430" y2="1126" stroke="#2A3540" stroke-width="1"/>
+<text x="70" y="1148" class="mono" font-size="12.5" letter-spacing="0.4" fill="#C9D2D9">CAP 3–5 · PARKED = GUILT-FREE · <tspan fill="#2DD4BF" font-weight="700">DEADLINES PULL, NOT ANXIETY</tspan> · FINISH BEFORE YOU START · <tspan fill="#2DD4BF" font-weight="700">COMPLETION &gt; OPEN</tspan></text>
+<text x="1430" y="1148" class="mono" font-size="11" fill="#5A6671" text-anchor="end">Pull-Demand Governor · 2026-06-21</text>
+</svg>

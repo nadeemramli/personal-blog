@@ -142,6 +142,10 @@ The mistake most "tactical social smoking" framings make is conflating the *spac
 >
 > The pattern this blog will not endorse: framing cigarettes as a "cheat code" with no cost. The cost is real and quantifiable. ==Build the relationship; skip the smoke.==
 
+![[Poster — Attractive - Appearance Part 6.0 - Scent and Social Leverage.png]]
+
+*Both invisible signals on one sheet: scent drawn as a field you shape (apply 50% of the European dose; the humidity does the projecting) over the third-space doorway drawn as a room you occupy, joined by the one refresh kit that lets you cross between them clean. The single red mark is the cigarette, with a bypass arrow around it: the leverage is the doorway, not the cigarette. Glance at it before you walk out with the group: build the field, work the room, skip the smoke.*
+
 ---
 
 ## Part 6.0 Takeaways

@@ -5,10 +5,14 @@ product_id: "fish-oil-omega-3-1100mgx240softgel-iherb"
 compound: "Fish Oil (Omega-3)"
 aliases:
   - "Fish Oil (Omega-3)"
+  - "California Gold, Omega-3 Fish Oil, 240 Softgels"
 name: "Fish Oil (Omega-3)"
-brand: "California Gold"
+brand: "California Gold Nutrition"
 vendor: "iHerb"
 source: "iHerb"
+label_verified_as_of: 2026-06-19
+label_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/fish-oil-omega-3-1100mgx240softgel-iherb-front.jpg"
+source_url: "https://www.iherb.com/pr/california-gold-nutrition-omega-3-premium-fish-oil-240-fish-gelatin-softgels/86598"
 pillar: "Productive"
 sub_series: "Cognitive Enhancement"
 category: "Supplement"
@@ -46,8 +50,8 @@ notes: "Label (2026-06-08): serving = 2 softgels, 120 servings/container (240 so
 **California Gold** · Supplement · Productive / Cognitive Enhancement
 
 > [!info] Quick reference
-> - **Dose:** 150mg per serving (75.0mg per half) · **Schedule:** [[ED — Every Day|Every Day]]
-> - **Cost:** RM103.00 per tabs · ~RM0.4292/unit
+> - **Dose:** 2 softgels/day = 2,200mg fish oil concentrate, 640mg total omega-3 (EPA 360mg + DHA 240mg + other 40mg) · **Schedule:** [[ED — Every Day|Every Day]]
+> - **Cost:** RM103.00 per 240 softgels · ~RM0.4292/softgel, ~RM0.8584/day
 > - **Importance:** Very · **Status:** active · **Source:** iHerb
 
 ## How I use it
@@ -61,6 +65,34 @@ notes: "Label (2026-06-08): serving = 2 softgels, 120 servings/container (240 so
 | early | 14 | RM0.86 | RM624.87 |
 | medium | 28 | RM1.72 | RM2,499.47 |
 
+
+## Label Facts
+
+> [!info] iHerb label captured 2026-06-19
+> - Source: [iHerb - California Gold Nutrition, Omega-3, Premium Fish Oil, 240 Fish Gelatin Softgels](https://www.iherb.com/pr/california-gold-nutrition-omega-3-premium-fish-oil-240-fish-gelatin-softgels/86598)
+> - Product image: ![[fish-oil-omega-3-1100mgx240softgel-iherb-front.jpg]]
+> - Product code: CGN-01330
+> - UPC: 898220013302
+> - Package: 240 fish gelatin softgels
+> - Serving size: 2 softgels
+> - Brand dosage: 2 softgels daily with food.
+> - Stock protocol use: 2,200 mg fish oil/ED
+
+| Label item | Amount | DV |
+|---|---:|---:|
+| Calories | 20 | - |
+| Total fat | 2 g | 3% |
+| Saturated fat | 0.5 g | 3% |
+| Cholesterol | 10 mg | 3% |
+| Fish oil concentrate | 2,200 mg | - |
+| Total omega-3 fatty acids as TG | 640 mg | - |
+| EPA as TG | 360 mg | - |
+| DHA as TG | 240 mg | - |
+| Other omega-3 fatty acids | 40 mg | - |
+
+Other ingredients: fish gelatin softgel (gelatin, vegetable glycerin, purified water), vitamin E (<0.1% as mixed tocopherols). Contains fish (anchovy, mackerel, sardine, tilapia) and soy.
+
+Warnings / cautions: keep out of reach of children; consult a qualified healthcare professional if pregnant, lactating, chronically ill, elderly, under 18, taking prescription medications such as blood thinners, or managing a diagnosed medical condition.
 
 ## Purchase Log
 

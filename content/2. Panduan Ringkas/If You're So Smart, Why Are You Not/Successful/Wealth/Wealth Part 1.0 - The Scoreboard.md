@@ -1,6 +1,6 @@
 ---
-title: "Wealth Part 1.0 - The Scoreboard"
-draft: true
+title: Wealth Part 1.0 - The Scoreboard
+draft: false
 tags:
   - successful
   - wealth

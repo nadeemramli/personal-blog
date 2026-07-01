@@ -14,7 +14,7 @@ pillar: "Fit"
 sub_series: "Performance Enhancement"
 category: "Steroid"
 importance: "Very"
-status: "paused"
+status: active
 stack: "PEDs"
 restock: "Not needed now"
 dosing: "EOD"

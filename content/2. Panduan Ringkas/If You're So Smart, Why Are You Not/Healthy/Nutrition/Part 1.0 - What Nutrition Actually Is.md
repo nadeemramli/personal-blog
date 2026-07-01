@@ -161,6 +161,10 @@ The series's stance is: **pull the four levers, eat mostly whole food with some 
 > [!tip] The cost of complexity
 > Every constraint you add to a diet (window, macro ratio, food list) is a constraint you have to *defend* — at restaurants, at family dinners, during travel, during stress. Each defended constraint is a chance to break the whole plan. ==Adherence is the master variable in nutrition, and the simplest plan you can sustain almost always wins.==
 
+![[Poster — Healthy - Nutrition Part 1.0 - What Nutrition Actually Is.png]]
+
+*Here's the whole article rendered as one instrument: a nutrition control console. Four leverage-ranked levers pulled in a fixed order ([[Part 1.0 - What Nutrition Actually Is#The four levers, in priority order|protein floor, then calorie direction, then fat's floor-and-ceiling, then carbs as the flex lever]]), one steering-wheel scoreboard ([[Part 1.0 - What Nutrition Actually Is#The scoreboard: weight is the input, body composition is the output|the scale read as a 7–14 day trend, never one day]]), and a feedback wire closing the loop predict → eat → weigh → adjust ([[Part 1.0 - What Nutrition Actually Is#The dashboard: MacroFactor and how it fits|the closed-loop dashboard]]), all of it standing on the [[Part 1.0 - What Nutrition Actually Is#The 90/10 rule, applied to food|90/10 base]] whose tiny bottom shelf is the "which diet?" knob everyone fights over. Use it to catch yourself reaching for that 5% knob while the four real levers sit untouched. Pin it up: whenever you feel stuck, walk the levers in order before touching anything else.*
+
 ---
 ## Part 1 Takeaways
 

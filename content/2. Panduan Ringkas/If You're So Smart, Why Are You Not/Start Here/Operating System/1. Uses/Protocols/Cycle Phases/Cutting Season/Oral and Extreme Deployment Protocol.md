@@ -56,6 +56,7 @@ Do not deploy if:
 ## Compound-Specific Guardrails
 
 - **Oral AAS:** lipid damage and liver-marker monitoring are mandatory. Support products do not make a bad lipid panel acceptable.
+- **Milk thistle / silymarin:** not an active oral-window support tool here. If used, it belongs to [[Milk Thistle Recovery Protocol]] after the oral stressor has stopped.
 - **Tren lane:** neuropsychological, sleep, BP, prolactin/E2-context, and relationship/function monitoring are part of the protocol, not afterthoughts. Use [[Neuroprotection Protocol (Tren)]].
 - **Thyroid lane:** thyroid hormones are not casual fat-loss agents. Watch tremor, heat intolerance, anxiety, insomnia, HR, and cardiac symptoms.
 - **Clen/stimulant lane:** do not stack adrenergic load without BP/HR and sleep control.

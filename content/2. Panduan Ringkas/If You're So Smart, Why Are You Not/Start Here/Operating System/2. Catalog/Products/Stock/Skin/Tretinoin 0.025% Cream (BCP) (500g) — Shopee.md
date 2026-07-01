@@ -5,6 +5,7 @@ product_id: "tretinoin-0-025pct-cream-bcp-500g-shopee"
 compound: "Tretinoin 0.025% Cream (BCP)"
 aliases:
   - "Tretinoin 0.025% Cream (BCP)"
+  - "BCP Tretinoin 0.025 Cream 500G"
 name: "Tretinoin 0.025% Cream (BCP)"
 brand: "BCP"
 vendor: "Shopee"

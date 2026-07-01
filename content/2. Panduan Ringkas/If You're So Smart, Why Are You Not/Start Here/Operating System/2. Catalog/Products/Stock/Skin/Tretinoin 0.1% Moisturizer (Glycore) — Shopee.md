@@ -5,6 +5,7 @@ product_id: "tretinoin-0-1pct-moisturizer-glycore-shopee"
 compound: "Tretinoin 0.1% Moisturizer (Glycore)"
 aliases:
   - "Tretinoin 0.1% Moisturizer (Glycore)"
+  - "Glycore Tretinoin 0.1 Moisturizer"
 name: "Tretinoin 0.1% Moisturizer (Glycore)"
 brand: "Glycore"
 vendor: "Shopee"

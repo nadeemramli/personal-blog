@@ -157,6 +157,10 @@ The single rule that ties this article together:
 
 This is the actionable preview of [[Part 7.0 - The 1% Cleanliness Audit & The Foundation Gate|Part 7.0]] — the cleanliness audit is where these coherence checks become a weekly ritual.
 
+![[Poster — Attractive - Appearance Part 5.0 - Possessions, Carry and Tech.png]]
+
+*Your whole carry on one inspection sheet, gauged on the axis that matters: maintenance and coherence, never value (a spotless Civic out-reads a filthy BMW). The master readout reads at the weakest pin, not the best, which is why one cracked screen drags the whole read down; warm marks what's measurable (maintenance, the metal→metal / leather→leather ties, the foundation gate), cool marks the which-one choices that are just convention. Keep it by you for the Sunday audit: upgrade evenly, and don't let one item lap the rest.*
+
 ---
 
 ## Part 5.0 Takeaways

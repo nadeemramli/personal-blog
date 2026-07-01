@@ -15,7 +15,7 @@ tags:
 
 | Item | Qty | Unit (RM) | Total (RM) | Remark |
 |---|---|---|---|---|
-| [[Methylene Blue (25g powder) — heiltropfen|Methylene Blue 25g powder (USP)]] | 1 | 191.68 | 191.68 | €40.74 |
+| [[Methylene Blue (25g powder) — heiltropfen\|Methylene Blue 25g powder (USP)]] | 1 | 191.68 | 191.68 | €40.74 |
 | Worldwide Intl Post (15-20 days) | 1 | 44.21 | 44.21 | €9.40 shipping |
 | **TOTAL** | | | **RM235.89** | |
 

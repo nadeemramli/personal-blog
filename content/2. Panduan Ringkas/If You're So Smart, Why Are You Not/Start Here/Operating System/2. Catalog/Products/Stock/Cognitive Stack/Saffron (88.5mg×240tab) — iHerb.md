@@ -5,10 +5,15 @@ product_id: "saffron-88-5mgx240tab-iherb"
 compound: "Saffron"
 aliases:
   - "Saffron"
+  - "Nutricost, Saffron, 88.5 mg, 240 Caps"
 name: "Saffron"
 brand: "Nutricost"
 vendor: "iHerb"
 source: "iHerb"
+label_verified_as_of: 2026-06-19
+label_facts_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/saffron-88-5mgx240tab-iherb-supplement-facts.jpg"
+label_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/saffron-88-5mgx240tab-iherb-front.jpg"
+source_url: "https://nutricost.com/products/nutricost-saffron-extract-capsules"
 pillar: "Productive"
 sub_series: "Cognitive Enhancement"
 category: "Nootropic"
@@ -58,6 +63,24 @@ notes: ""
 |---|---|---|---|
 | early | 7 | RM0.28 | RM102.66 |
 
+
+
+## Label Facts
+
+> [!info] Official label captured 2026-06-19
+> - Source: [Nutricost ? Nutricost Saffron Extract Capsules](https://nutricost.com/products/nutricost-saffron-extract-capsules)
+> - Product image: ![[saffron-88-5mgx240tab-iherb-front.jpg]]
+> - Supplement facts image: ![[saffron-88-5mgx240tab-iherb-supplement-facts.jpg]]
+> - Brand dosage image: ![[saffron-88-5mgx240tab-iherb-dosage.jpg]]
+> - Package: Default Title
+> - Serving size: 1 tab (inferred from stock spec; verify against saved label image)
+> - Stock protocol use: 88.5 mg/ED
+
+| Label item | Amount |
+|---|---:|
+| Saffron | 88.5 mg per tab |
+
+Other ingredients and full label cautions: see saved Supplement Facts panel image.
 
 ## Purchase Log
 

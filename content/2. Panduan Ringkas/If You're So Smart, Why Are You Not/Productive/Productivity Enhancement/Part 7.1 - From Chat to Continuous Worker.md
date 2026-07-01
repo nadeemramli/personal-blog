@@ -101,6 +101,10 @@ The mistake is treating "higher" as "better." It isn't; it's *more*. The skill i
 
 And every level depends on the same foundation: an agent is only as good as the [[Part 4.0 - PARA|knowledge]] it can reach and the [[Part 7.2 - Persistent Memory|memory]] it can keep across runs. Which is the last piece, and the subject of [[Part 7.2 - Persistent Memory|Part 7.2]].
 
+*Here's the same worker shown in all [[Part 7.1 - From Chat to Continuous Worker#The four levels of the harness|four harnesses]] at once (chat, projects, scheduled, full runtime), each one adding a single organ of autonomy (its own memory, then its own clock, then its own computer) and cutting one more cord to you. The selector underneath carries the real lesson from [[Part 7.1 - From Chat to Continuous Worker#Match the level to the task|matching the level to the task]]: higher isn't better, it's more, and most gains live at the cheap middle rungs ([[Part 7.1 - From Chat to Continuous Worker#Level 3: scheduled and coworker workflows|Levels 2–3]]), not the 24/7 machine. Use it to pick the smallest harness a job actually needs.*
+
+![[Poster — Productive - Productivity Enhancement Part 7.1 - From Chat to Continuous Worker.png]]
+
 ---
 > [!check] Part 7 Takeaways
 > - The **chat box is the smallest harness**, not the whole of AI. The real unlock is turning chat into a worker that runs on a schedule or lives on its own machine.

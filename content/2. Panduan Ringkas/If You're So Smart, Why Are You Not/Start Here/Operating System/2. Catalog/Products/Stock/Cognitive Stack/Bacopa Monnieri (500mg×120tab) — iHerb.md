@@ -5,10 +5,15 @@ product_id: "bacopa-monnieri-500mgx120tab-iherb"
 compound: "Bacopa Monnieri"
 aliases:
   - "Bacopa Monnieri"
+  - "Nutricost, Bacopa Monnieri, 120 Caps (500 mg)"
 name: "Bacopa Monnieri"
 brand: "Nutricost"
 vendor: "iHerb"
 source: "iHerb"
+label_verified_as_of: 2026-06-19
+label_facts_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/bacopa-monnieri-500mgx120tab-iherb-supplement-facts.jpg"
+label_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/bacopa-monnieri-500mgx120tab-iherb-front.jpg"
+source_url: "https://nutricost.com/products/nutricost-bacopa-monnieri"
 pillar: "Productive"
 sub_series: "Cognitive Enhancement"
 category: "Nootropic"
@@ -58,6 +63,24 @@ notes: "Added +60,000mg to stock from [[PO 2026-06-13 — iHerb]]."
 |---|---|---|---|
 | early | 7 | RM0.48 | RM173.20 |
 
+
+
+## Label Facts
+
+> [!info] Official label captured 2026-06-19
+> - Source: [Nutricost ? Nutricost Bacopa Monnieri](https://nutricost.com/products/nutricost-bacopa-monnieri)
+> - Product image: ![[bacopa-monnieri-500mgx120tab-iherb-front.jpg]]
+> - Supplement facts image: ![[bacopa-monnieri-500mgx120tab-iherb-supplement-facts.jpg]]
+> - Brand dosage image: ![[bacopa-monnieri-500mgx120tab-iherb-dosage.jpg]]
+> - Package: Default Title
+> - Serving size: 1 tab (inferred from stock spec; verify against saved label image)
+> - Stock protocol use: 500 mg/ED
+
+| Label item | Amount |
+|---|---:|
+| Bacopa Monnieri | 500 mg per tab |
+
+Other ingredients and full label cautions: see saved Supplement Facts panel image.
 
 ## Purchase Log
 

@@ -5,6 +5,7 @@ product_id: "spi-soy-protein-isolate-hk-1000g-shopee"
 compound: "SPI (Soy Protein Isolate, HK)"
 aliases:
   - "SPI (Soy Protein Isolate, HK)"
+  - "Pure Soy Protein Isolate HK SPI"
 name: "SPI (Soy Protein Isolate, HK)"
 brand: "Haziq Khalim"
 vendor: "Shopee"

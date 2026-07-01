@@ -15,7 +15,7 @@ tags:
 
 | Item | Qty | Unit (RM) | Total (RM) | Remark |
 |---|---|---|---|---|
-| GW501516 | 4 | 107.38 | 429.50 |  |
+| [[Cardarine (GW-501516) (10mg×50tab) — kohohpharma\|GW501516]] | 4 | 107.38 | 429.50 |  |
 | **TOTAL** | | | **RM429.50** | |
 
 ## Links

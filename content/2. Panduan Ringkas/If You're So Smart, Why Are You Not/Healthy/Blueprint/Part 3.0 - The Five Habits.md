@@ -160,6 +160,10 @@ And here's the friction, also stated plainly:
 
 The work isn't to muster heroic discipline. It is to **build systems so the right action becomes the easy one**, and to fire the version of you that wants to do otherwise.
 
+![[Poster — Healthy - Blueprint Part 3.0 - The Five Habits.png]]
+
+*Here's the whole protocol as one clinical manifold: four supply lines you build (sleep the fattest and first, then nutrition, exercise, connection) feeding a core held in range, and one line you remove (the [[Part 3.0 - The Five Habits#Habit 5: Things to avoid|avoid-list]]) draining the wired stuff back out. The shape is the argument ([[Part 3.0 - The Five Habits#The philosophy: do fewer things, not more|fewer, not more]]): four in, one out, the board kept bare, every shiny add-on left unplugged until the basics are kept for months. Pin it up and install one habit this month, not five at once.*
+
 ---
 ## Part 3 Takeaways
 

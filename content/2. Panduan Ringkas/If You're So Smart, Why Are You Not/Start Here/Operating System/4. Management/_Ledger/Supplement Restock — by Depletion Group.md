@@ -12,12 +12,13 @@ horizon_options: [2027-12-31, 2028-12-31]
 
 ## Restock calendar (groups by depletion window)
 
-### 🔴 Group A — Q3 2026 (Jul–Sep) · restock by **~13 Aug 2026**
+### ✅ Group A — Q3 2026 (Jul–Sep) · CLEARED 2026-06-19
+> Nothing depletes this window. Uridine & L-Theanine → Groups C/D (PO 739095421); **Boswellia** got a 2nd bottle from [[PO 2026-06-19 — iHerb 2]], pushing it to **16 Dec 26 → Group B**.
+
 | Item | Out | Buy → end-2027 | Buy → end-2028 |
 |---|---|---|---|
-| Uridine | 13 Aug 26 | 9 box · RM562 | 15 box · RM936 |
-| L-Theanine | 25 Aug 26 | 3 box · RM207 | 4 box · RM276 |
-| **Group A total** | | **RM769** | **RM1,212** |
+| — (all moved out) | — | — | — |
+| **Group A total** | | **RM0** | **RM0** |
 
 ### 🟠 Group B — Q4 2026 (Oct–Dec) · restock by **~23 Nov 2026**
 | Item | Out | Buy → end-2027 | Buy → end-2028 |
@@ -25,19 +26,17 @@ horizon_options: [2027-12-31, 2028-12-31]
 | Apigenin | 23 Nov 26 | 3 · RM240 | 5 · RM400 |
 | Magnesium Glycinate | 29 Nov 26 | 2 · RM164 | 4 · RM328 |
 | Alpha-GPC | 29 Nov 26 | 6 · RM596 | 11 · RM1,093 |
-| DIM | 29 Nov 26 | 2 · RM152 | 4 · RM303 |
 | Oral Minoxidil | 1 Dec 26 | 4 · RM1,045 | 8 · RM2,090 |
 | Intra-Workout | 2 Dec 26 | 4 · RM424 | 7 · RM742 |
-| NAC | 5 Dec 26 | 3 · RM210 | 5 · RM350 |
 | CoQ10 | 11 Dec 26 | 2 · RM602 | 3 · RM903 |
+| Boswellia Extract | 16 Dec 26 | 5 · RM352 | 9 · RM633 |
 | Copper | 31 Dec 26 | 2 · RM70 | 4 · RM140 |
 | Creatine | 31 Dec 26 | 2 · RM200 | 4 · RM400 |
-| **Group B total** | | **RM3,703** | **RM6,749** |
+| **Group B total** | | **RM3,693** | **RM6,729** |
 
 ### 🟡 Group C — Q1 2027 (Jan–Mar) · restock by **~4 Jan 2027**
 | Item | Out | Buy → end-2027 | Buy → end-2028 |
 |---|---|---|---|
-| Zinc | 4 Jan 27 | 4 · RM155 | 7 · RM272 |
 | Aged Garlic Extract | 25 Jan 27 | 3 · RM378 | 5 · RM630 |
 | Irbesartan | 9 Feb 27 | 2 · RM280 | 3 · RM420 |
 | Vitamin C | 9 Feb 27 | 6 · RM108 | 12 · RM216 |
@@ -45,7 +44,8 @@ horizon_options: [2027-12-31, 2028-12-31]
 | CDP-Choline | 9 Feb 27 | 3 · RM373 | 6 · RM745 |
 | Saffron | 9 Feb 27 | 2 · RM135 | 3 · RM203 |
 | Boron | 9 Feb 27 | 1 · RM58 | 2 · RM116 |
-| **Group C total** | | **RM1,657** | **RM2,942** |
+| Uridine | 14 Feb 27 | 6 · RM476 | 12 · RM952 |
+| **Group C total** | | **RM1,978** | **RM3,622** |
 
 ### 🔵 Group D — Q2 2027 (Apr–Jun) · restock by **~10 Apr 2027**
 | Item | Out | Buy → end-2027 | Buy → end-2028 |
@@ -53,25 +53,29 @@ horizon_options: [2027-12-31, 2028-12-31]
 | Metformin+Empagliflozin | 10 Apr 27 | 1 · RM323 | 1 · RM323 |
 | Nicotinamide Riboside | 10 Apr 27 | 3 · RM155 | 6 · RM311 |
 | Nicorette Gum | 25 Apr 27 | 2 · RM326 | 3 · RM489 |
+| L-Theanine | 27 Apr 27 | 2 · RM170 | 3 · RM256 |
 | Fish Oil (Omega-3) | 4 May 27 | 3 · RM309 | 6 · RM618 |
+| Zinc | 9 May 27 | 2 · RM100 | 6 · RM299 |
 | Methyl B Complex | 16 May 27 | 2 · RM66 | 5 · RM165 |
 | TMG (Betaine) | 16 May 27 | 2 · RM80 | 5 · RM200 |
 | Taurine | 30 May 27 | 1 · RM71 | 3 · RM212 |
 | Acetyl L-Carnitine | 9 Jun 27 | 1 · RM65 | 2 · RM130 |
+| NAC | 14 Jun 27 | 2 · RM191 | 4 · RM381 |
 | Pre-Workout | 19 Jun 27 | 2 · RM285 | 4 · RM570 |
-| **Group D total** | | **RM1,680** | **RM3,018** |
+| **Group D total** | | **RM2,141** | **RM3,954** |
 
 ### 🟢 Group E — H2 2027 (Jul–Dec) · restock by **~19 Jul 2027**
 | Item | Out | Buy → end-2027 | Buy → end-2028 |
 |---|---|---|---|
 | Nebivolol (Nebiheal) | 19 Jul 27 | 9 · RM63 | 27 · RM189 |
+| DIM | 1 Aug 27 | 1 · RM85 | 3 · RM254 |
 | Melatonin | 20 Aug 27 | 1 · RM51 | 2 · RM102 |
 | Tadalafil (Vidalista) | 28 Aug 27 | 7 · RM33 | 25 · RM117 |
 | Ginkgo Biloba | 7 Oct 27 | 1 · RM52 | 1 · RM52 |
 | Huperzine-A | 7 Oct 27 | 1 · RM68 | 1 · RM68 |
 | Caffeine | 27 Oct 27 | 1 · RM57 | 1 · RM57 |
 | Rosuvastatin | 26 Dec 27 | 1 · RM13 | 14 · RM185 |
-| **Group E total** | | **RM337** | **RM770** |
+| **Group E total** | | **RM422** | **RM1,024** |
 
 ### ⚪ Group F — 2028+ (already covered through 2027)
 Ezetimibe (Jan 28), Aspirin (Feb 28), L-Tyrosine (Nov 28), Vitamin D3/K2 (May 29). **→2027 buy = RM0**; →2028 buy ≈ **RM335** total. Nothing to do until late 2027.
@@ -80,13 +84,13 @@ Ezetimibe (Jan 28), Aspirin (Feb 28), L-Tyrosine (Nov 28), Vitamin D3/K2 (May 29
 
 | Horizon | Total supplement spend | Notes |
 |---|---|---|
-| **Buy everything to end-2027** | **≈ RM8,145** | spread across 5 shop trips (Aug 26 → Jul 27) |
-| **Buy everything to end-2028** | **≈ RM15,026** | front-loaded; fewer re-orders |
+| **Buy everything to end-2027** | **≈ RM8,234** | 4 shop trips (Nov 26 → Jul 27); Group A cleared by the two 2026-06-19 POs |
+| **Buy everything to end-2028** | **≈ RM15,329** | front-loaded; fewer re-orders |
 
 **Cash to prep per restock window (→2027 plan):**
-- Aug 2026: **RM769** · Nov 2026: **RM3,703** · Jan 2027: **RM1,657** · Apr 2027: **RM1,680** · Jul 2027: **RM337**
+- ~~Aug–Sep 2026~~ **cleared** · Nov 2026: **RM3,693** · Jan 2027: **RM1,978** · Apr 2027: **RM2,141** · Jul 2027: **RM422**
 
-> [!note] Q4 2026 (Group B, ~RM3.7k) is the heaviest window — driven by Alpha-GPC, Oral Minoxidil, CoQ10 and Intra-Workout (NAC moved here 2026-06-18 after its stock was corrected down to 1 bottle). If cash is tight there, the **→2027 (not 2028)** quantities already minimise it, and Oral Minoxidil is cheaper from Equicare/anabolicpharmacist than the RM261/box Lazada price used here (could cut ~RM700 off Group B).
+> [!note] Q4 2026 (Group B, ~RM3.7k) is the heaviest window — driven by Alpha-GPC, Oral Minoxidil, CoQ10 and Intra-Workout. If cash is tight there, the **→2027 (not 2028)** quantities already minimise it, and Oral Minoxidil is cheaper from Equicare/anabolicpharmacist than the RM261/box Lazada price used here (could cut ~RM700 off Group B).
 
 ## Assumptions
 - Burn rate uses current `daily_dose` × frequency; **buy quantities round up to whole boxes**.

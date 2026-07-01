@@ -1,0 +1,371 @@
+<svg viewBox="0 0 1500 1200" xmlns="http://www.w3.org/2000/svg" font-family="Inter, system-ui, 'DejaVu Sans', sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#06090D"/>
+      <stop offset="0.5" stop-color="#0B0F14"/>
+      <stop offset="1" stop-color="#0E1419"/>
+    </linearGradient>
+    <radialGradient id="latchGlow" cx="0.5" cy="0.5" r="0.6">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="diskGlow" cx="0.5" cy="0.5" r="0.6">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="hotGlow" cx="0.5" cy="0.5" r="0.6">
+      <stop offset="0" stop-color="#E8A23D" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#E8A23D" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="redGlow" cx="0.5" cy="0.5" r="0.7">
+      <stop offset="0" stop-color="#FF5C5C" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#FF5C5C" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#161D25" stroke-width="0.6"/>
+    </pattern>
+    <pattern id="fence" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="9" stroke="#2C3540" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.0" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-90%" y="-90%" width="280%" height="280%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <marker id="arrCyan" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0 0L6.5 3L0 6Z" fill="#2DD4BF"/></marker>
+    <marker id="arrAmber" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0 0L6.5 3L0 6Z" fill="#E8A23D"/></marker>
+    <marker id="arrDim" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0 0L6.5 3L0 6Z" fill="#3B4552"/></marker>
+    <marker id="arrRed" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0 0L6.5 3L0 6Z" fill="#FF5C5C"/></marker>
+  </defs>
+
+  <rect width="1500" height="1200" fill="url(#bg)"/>
+  <rect width="1500" height="1200" fill="url(#grid)"/>
+  <rect x="270" y="430" width="320" height="220" fill="url(#latchGlow)"/>
+  <rect x="92" y="600" width="700" height="280" fill="url(#diskGlow)"/>
+  <rect x="92" y="232" width="240" height="180" fill="url(#hotGlow)"/>
+  <rect x="1075" y="560" width="368" height="300" fill="url(#redGlow)"/>
+
+  <!-- ============ HEADER ============ -->
+  <g id="header">
+    <text x="72" y="48" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="3.0" fill="#8A93A3">PRODUCTIVE   ·   PRODUCTIVITY ENHANCEMENT   ·   PART 3.1   ·   THE SELF-IMPROVING WORKFLOW</text>
+    <text x="70" y="104" font-size="40" font-weight="700" letter-spacing="0.4" fill="#E6E8EE">THE CHAT FORGETS. <tspan fill="#2DD4BF">THE FILE REMEMBERS.</tspan></text>
+    <text x="72" y="135" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="0.5" fill="#5FCBBC">Fix the instructions, not the output — a correction saved to disk is paid once; one left in the chat is a tax you pay every run.</text>
+    <text x="1432" y="44" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1.6" fill="#5A6470">WRITE-BACK MEMORY BENCH</text>
+    <text x="1432" y="62" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1.6" fill="#5A6470">NON-VOLATILE LATCH</text>
+    <line x1="70" y1="152" x2="1432" y2="152" stroke="#222A33" stroke-width="1"/>
+  </g>
+
+  <!-- ============ RAM RAIL LABEL ============ -->
+  <g id="ramlabel">
+    <text x="72" y="190" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="1.4" font-weight="600" fill="#C9CDD6">VOLATILE RAM RAIL · <tspan fill="#8A93A3">THE CHAT</tspan></text>
+    <text x="370" y="190" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" letter-spacing="0.6" fill="#5A6470">one cell per run of the same repeatable task — run axis →</text>
+    <line x1="1010" y1="186" x2="1055" y2="186" stroke="#4A5562" stroke-width="1.2" marker-end="url(#arrDim)"/>
+  </g>
+
+  <!-- ============ RAM CELLS ============ -->
+  <!-- CELL 1 · RUN 1 · JANUARY · HOT -->
+  <g id="cell1">
+    <rect x="92" y="232" width="210" height="170" rx="7" fill="#120E07" stroke="#7A5C24" stroke-width="1.5"/>
+    <rect x="92" y="232" width="210" height="26" rx="7" fill="#1A1305"/>
+    <rect x="92" y="245" width="210" height="13" fill="#1A1305"/>
+    <text x="104" y="250" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11.5" letter-spacing="0.8" font-weight="600" fill="#E8A23D">RUN 1 · JANUARY</text>
+    <text x="290" y="250" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#9A7A3A">HOT</text>
+    <!-- work pulse jagged -->
+    <polyline points="104,360 120,360 130,338 142,372 156,344 170,366 184,346 198,360 214,360 226,330 238,372 252,360 266,360" fill="none" stroke="#2DD4BF" stroke-width="1.6" opacity="0.85"/>
+    <!-- correction sparks (amber) -->
+    <g stroke="#E8A23D" stroke-width="1.6">
+      <line x1="138" y1="290" x2="138" y2="306"/><line x1="130" y1="298" x2="146" y2="298"/><line x1="132" y1="292" x2="144" y2="304"/>
+      <line x1="206" y1="286" x2="206" y2="302"/><line x1="198" y1="294" x2="214" y2="294"/><line x1="200" y1="288" x2="212" y2="300"/>
+    </g>
+    <text x="118" y="284" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" fill="#C99A45">correction</text>
+    <text x="186" y="280" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" fill="#C99A45">correction</text>
+    <text x="104" y="392" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#8A6A2E">DO the task · CORRECT by hand</text>
+    <!-- session-wipe / discharge-to-ground at right edge -->
+    <g stroke="#E8A23D" stroke-width="1.4" fill="none">
+      <line x1="284" y1="296" x2="284" y2="348"/>
+      <line x1="272" y1="348" x2="296" y2="348"/>
+      <line x1="276" y1="354" x2="292" y2="354"/>
+      <line x1="280" y1="360" x2="288" y2="360"/>
+    </g>
+    <text x="284" y="290" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="7.5" fill="#9A7A3A">WIPE</text>
+  </g>
+
+  <!-- CELL 2 · RUN 2 · FEB · one fix held + the RED recurrence -->
+  <g id="cell2">
+    <rect x="470" y="232" width="130" height="170" rx="7" fill="#0C1116" stroke="#33424C" stroke-width="1.3"/>
+    <rect x="470" y="232" width="130" height="24" rx="7" fill="#0E1A1C"/>
+    <rect x="470" y="244" width="130" height="12" fill="#0E1A1C"/>
+    <text x="482" y="249" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="0.6" font-weight="600" fill="#9FE8DE">RUN 2 · FEB</text>
+    <polyline points="482,348 496,348 506,334 520,360 534,338 548,358 562,344 576,348 590,348" fill="none" stroke="#2DD4BF" stroke-width="1.6"/>
+    <!-- the saved one is gone (handled). One RED recurring correction. -->
+    <g stroke="#FF5C5C" stroke-width="1.8" filter="url(#glow)">
+      <line x1="534" y1="288" x2="534" y2="306"/><line x1="525" y1="297" x2="543" y2="297"/><line x1="527" y1="290" x2="541" y2="304"/>
+    </g>
+    <text x="534" y="282" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" font-weight="600" fill="#FF7B7B">SAME BUG, AGAIN</text>
+    <text x="482" y="392" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" fill="#5FCBBC">1 fix held · 1 came back</text>
+  </g>
+
+  <!-- CELL 3 · RUN 3 · cleaner -->
+  <g id="cell3">
+    <rect x="630" y="232" width="130" height="170" rx="7" fill="#0B1014" stroke="#2A4F49" stroke-width="1.3"/>
+    <rect x="630" y="232" width="130" height="24" rx="7" fill="#0C1715"/>
+    <rect x="630" y="244" width="130" height="12" fill="#0C1715"/>
+    <text x="642" y="249" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="0.6" font-weight="600" fill="#9FE8DE">RUN 3</text>
+    <polyline points="642,346 656,346 668,336 682,356 696,340 710,352 724,344 738,346 750,346" fill="none" stroke="#2DD4BF" stroke-width="1.7"/>
+    <g stroke="#E8A23D" stroke-width="1.4" opacity="0.65">
+      <line x1="700" y1="300" x2="700" y2="312"/><line x1="694" y1="306" x2="706" y2="306"/>
+    </g>
+    <text x="642" y="392" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" fill="#5FCBBC">mostly clean</text>
+  </g>
+
+  <!-- CELL 4 · RUN 4 · clean -->
+  <g id="cell4">
+    <rect x="790" y="232" width="130" height="170" rx="7" fill="#0A1316" stroke="#23625A" stroke-width="1.4"/>
+    <rect x="790" y="232" width="130" height="24" rx="7" fill="#0C1B19"/>
+    <rect x="790" y="244" width="130" height="12" fill="#0C1B19"/>
+    <text x="802" y="249" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="0.6" font-weight="600" fill="#9FE8DE">RUN 4</text>
+    <polyline points="802,344 818,344 832,336 848,352 864,338 880,350 896,342 910,344" fill="none" stroke="#2DD4BF" stroke-width="1.8" filter="url(#glow)"/>
+    <text x="802" y="392" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" fill="#5FCBBC">clean</text>
+  </g>
+
+  <!-- CELL 5 · BY MARCH · runs itself -->
+  <g id="cell5">
+    <rect x="950" y="232" width="100" height="170" rx="7" fill="#08161A" stroke="#2DD4BF" stroke-width="1.6"/>
+    <rect x="950" y="232" width="100" height="24" rx="7" fill="#0C211F"/>
+    <rect x="950" y="244" width="100" height="12" fill="#0C211F"/>
+    <text x="962" y="249" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" letter-spacing="0.4" font-weight="600" fill="#2DD4BF">BY MARCH</text>
+    <polyline points="962,344 978,344 992,338 1006,350 1020,338 1034,344 1042,344" fill="none" stroke="#2DD4BF" stroke-width="2.0" filter="url(#glow)"/>
+    <rect x="962" y="296" width="78" height="20" rx="4" fill="#0C2A26" stroke="#2DD4BF" stroke-width="1.1"/>
+    <text x="1001" y="310" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" font-weight="600" fill="#7DEFE0">RUNS ITSELF</text>
+    <text x="962" y="392" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" fill="#5FCBBC">0 corrections</text>
+  </g>
+
+  <text x="72" y="424" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" letter-spacing="1.6" fill="#7C5E2A">VOLATILE · CLEARED EVERY SESSION</text>
+
+  <!-- faint reload ticks into later cells -->
+  <g stroke="#2DD4BF" stroke-width="1.2" opacity="0.5">
+    <line x1="690" y1="430" x2="690" y2="406" marker-end="url(#arrCyan)"/>
+    <line x1="850" y1="430" x2="850" y2="406" marker-end="url(#arrCyan)"/>
+    <line x1="1000" y1="430" x2="1000" y2="406" marker-end="url(#arrCyan)"/>
+  </g>
+
+  <!-- ============ THE VERTICAL DO->CORRECT->SAVE->IMPROVE LOOP (left) ============ -->
+  <!-- save path: c1 correction descends into latch -->
+  <path d="M206 304 C 240 360, 300 400, 332 452" fill="none" stroke="#E8A23D" stroke-width="2.0" marker-end="url(#arrAmber)"/>
+  <text x="250" y="430" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#C99A45">copy down</text>
+
+  <!-- HERO: WRITE-ENABLE LATCH -->
+  <g id="latch">
+    <rect x="300" y="452" width="172" height="138" rx="8" fill="#08161A" stroke="#2DD4BF" stroke-width="2.2" filter="url(#softglow)"/>
+    <text x="386" y="476" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" letter-spacing="1.2" fill="#7DEFE0">WRITE-ENABLE LATCH</text>
+    <text x="386" y="520" text-anchor="middle" font-size="34" font-weight="700" letter-spacing="1" fill="#2DD4BF">SAVE</text>
+    <text x="386" y="540" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#8A93A3">the step everyone skips</text>
+    <!-- WRITE = 1 control line -->
+    <line x1="306" y1="566" x2="466" y2="566" stroke="#2DD4BF" stroke-width="1.4" stroke-dasharray="2 3" opacity="0.8"/>
+    <text x="386" y="580" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#5FCBBC">WRITE = 1  ·  one-way · latched</text>
+    <!-- reflect-tap inlet from left -->
+    <line x1="232" y1="498" x2="300" y2="498" stroke="#2DD4BF" stroke-width="1.6" marker-end="url(#arrCyan)"/>
+    <text x="228" y="494" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#5FCBBC">← FROM 3.0</text>
+    <text x="228" y="507" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#5A6470">REFLECT TAP</text>
+  </g>
+
+  <!-- latch output -> router -> disk -->
+  <path d="M386 590 L386 620" fill="none" stroke="#2DD4BF" stroke-width="2.2"/>
+  <circle cx="386" cy="626" r="8" fill="#08161A" stroke="#2DD4BF" stroke-width="1.6"/>
+  <text x="402" y="623" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#5FCBBC">ROUTE BY OWNER</text>
+  <path d="M380 631 C 330 642, 270 646, 222 656" fill="none" stroke="#2DD4BF" stroke-width="1.8" marker-end="url(#arrCyan)"/>
+  <path d="M392 631 C 440 642, 500 646, 548 656" fill="none" stroke="#2DD4BF" stroke-width="1.8" marker-end="url(#arrCyan)"/>
+
+  <!-- reload up into c2 -->
+  <path d="M520 654 C 510 560, 500 470, 500 406" fill="none" stroke="#2DD4BF" stroke-width="2.0" stroke-dasharray="6 4" marker-end="url(#arrCyan)"/>
+  <text x="528" y="540" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#5FCBBC">RELOAD</text>
+  <text x="528" y="553" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#5A6470">AT RUN START</text>
+
+  <!-- ============ SEAM LOCKUPS (right of latch) ============ -->
+  <g id="seam">
+    <text x="640" y="474" font-size="21" font-weight="700" letter-spacing="0.5" fill="#E6E8EE">FIX THE INSTRUCTIONS,</text>
+    <text x="640" y="500" font-size="21" font-weight="700" letter-spacing="0.5" fill="#2DD4BF">NOT THE OUTPUT.</text>
+    <!-- four step spine -->
+    <g font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="0.5">
+      <text x="640" y="532" fill="#8A93A3">DO</text>
+      <text x="678" y="532" fill="#5A6470">→</text>
+      <text x="698" y="532" fill="#C99A45">CORRECT</text>
+      <text x="772" y="532" fill="#5A6470">→</text>
+      <rect x="790" y="519" width="58" height="20" rx="4" fill="#0C2A26" stroke="#2DD4BF" stroke-width="1.2"/>
+      <text x="819" y="533" text-anchor="middle" fill="#2DD4BF" font-weight="700">SAVE</text>
+      <text x="856" y="532" fill="#5A6470">→</text>
+      <text x="876" y="532" fill="#5FCBBC">IMPROVE</text>
+    </g>
+    <text x="640" y="562" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" letter-spacing="0.4" fill="#9FE8DE">ABOUT YOU? → INSTRUCTIONS    ·    ABOUT THE TASK? → SKILL</text>
+    <text x="640" y="585" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#B5832F">⚠ mis-route guard — a tone rule dumped into the skill = both files bloated and vague</text>
+    <text x="640" y="607" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#5A6470">the model is unchanged — only what it reads each run gets sharper</text>
+  </g>
+
+  <!-- ============ DISK RAIL ============ -->
+  <g id="disklabel">
+    <text x="72" y="636" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="1.4" font-weight="600" fill="#7DEFE0">NON-VOLATILE DISK RAIL · <tspan fill="#5FCBBC">THE FILES</tspan></text>
+  </g>
+
+  <!-- the persistent bus -->
+  <rect x="92" y="656" width="648" height="10" rx="3" fill="#16433D" stroke="#2DD4BF" stroke-width="1.2"/>
+  <rect x="92" y="656" width="648" height="10" rx="3" fill="#2DD4BF" opacity="0.30"/>
+  <rect x="770" y="656" width="280" height="10" rx="3" fill="none" stroke="#3B4552" stroke-width="1.1" stroke-dasharray="5 4"/>
+
+  <!-- BANK A : PROJECT INSTRUCTIONS (small / stable) -->
+  <g id="bankA">
+    <rect x="92" y="680" width="268" height="150" rx="7" fill="#0A1316" stroke="#2A5249" stroke-width="1.3"/>
+    <text x="106" y="704" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="0.6" font-weight="700" fill="#7DEFE0">PROJECT INSTRUCTIONS</text>
+    <text x="106" y="722" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" fill="#9FE8DE">CONTEXT — about YOU</text>
+    <text x="106" y="740" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#7A8694">role · audience · tone · hard constraints</text>
+    <!-- few stable seated chips -->
+    <g>
+      <rect x="106" y="756" width="52" height="22" rx="3" fill="#0C2A26" stroke="#2DD4BF" stroke-width="1.2"/>
+      <rect x="166" y="756" width="52" height="22" rx="3" fill="#0C2A26" stroke="#2DD4BF" stroke-width="1.2"/>
+    </g>
+    <rect x="106" y="794" width="120" height="18" rx="9" fill="#0C2A26" stroke="#2A5249" stroke-width="1"/>
+    <text x="166" y="807" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5" letter-spacing="0.5" fill="#5FCBBC">small · stable</text>
+  </g>
+
+  <!-- BANK B : SKILL / skills.md (procedural / per-task) -->
+  <g id="bankB">
+    <rect x="380" y="680" width="360" height="150" rx="7" fill="#0A1316" stroke="#2A5249" stroke-width="1.3"/>
+    <text x="394" y="704" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="0.6" font-weight="700" fill="#7DEFE0">SKILL / skills.md</text>
+    <text x="394" y="722" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" fill="#9FE8DE">PROCEDURE — about the TASK</text>
+    <text x="394" y="740" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#7A8694">the steps · the format · the pre-done checklist</text>
+    <!-- more seated chips (grows per task) -->
+    <g>
+      <rect x="394" y="756" width="50" height="22" rx="3" fill="#0C2A26" stroke="#2DD4BF" stroke-width="1.2"/>
+      <rect x="452" y="756" width="50" height="22" rx="3" fill="#0C2A26" stroke="#2DD4BF" stroke-width="1.2"/>
+      <rect x="510" y="756" width="50" height="22" rx="3" fill="#0C2A26" stroke="#2DD4BF" stroke-width="1.2"/>
+      <rect x="568" y="756" width="50" height="22" rx="3" fill="#0C2A26" stroke="#2DD4BF" stroke-width="1.2"/>
+      <rect x="626" y="756" width="50" height="22" rx="3" fill="#0C2A26" stroke="#2DD4BF" stroke-width="1.2" opacity="0.6"/>
+    </g>
+    <rect x="394" y="794" width="138" height="18" rx="9" fill="#0C2A26" stroke="#2A5249" stroke-width="1"/>
+    <text x="463" y="807" text-anchor="middle" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5" letter-spacing="0.5" fill="#5FCBBC">procedural · per-task</text>
+  </g>
+
+  <!-- BANK C : PERSISTENT MEMORY (ghosted / fenced / deferred) -->
+  <g id="bankC">
+    <rect x="770" y="680" width="280" height="150" rx="7" fill="url(#fence)" opacity="0.5"/>
+    <rect x="770" y="680" width="280" height="150" rx="7" fill="#0A0E12" fill-opacity="0.6" stroke="#3B4552" stroke-width="1.2" stroke-dasharray="6 4"/>
+    <text x="784" y="704" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="0.6" font-weight="700" fill="#828B98">PERSISTENT MEMORY</text>
+    <text x="784" y="722" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10" fill="#6B7480">people · projects · history</text>
+    <g opacity="0.55">
+      <rect x="784" y="740" width="44" height="20" rx="3" fill="#161D25" stroke="#475160" stroke-width="1"/>
+      <rect x="836" y="740" width="44" height="20" rx="3" fill="#161D25" stroke="#475160" stroke-width="1"/>
+      <rect x="888" y="740" width="44" height="20" rx="3" fill="#161D25" stroke="#475160" stroke-width="1"/>
+      <rect x="940" y="740" width="44" height="20" rx="3" fill="#161D25" stroke="#475160" stroke-width="1"/>
+      <rect x="784" y="766" width="44" height="20" rx="3" fill="#161D25" stroke="#475160" stroke-width="1"/>
+      <rect x="836" y="766" width="44" height="20" rx="3" fill="#161D25" stroke="#475160" stroke-width="1"/>
+    </g>
+    <text x="784" y="806" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#6B7480">large · growing</text>
+    <text x="1036" y="806" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9.5" font-weight="600" fill="#828B98">→ Part 7.2 (different lane)</text>
+  </g>
+
+  <text x="72" y="852" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="10.5" letter-spacing="1.6" fill="#3F8C80">PERSISTENT · RELOADED EVERY RUN</text>
+  <text x="740" y="852" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#5A6470">the bus only ever gains chips — it is never wiped</text>
+
+  <!-- ============ RIGHT COLUMN : COMPOUNDING METER ============ -->
+  <g id="meter">
+    <rect x="1075" y="180" width="368" height="356" rx="9" fill="#0A0E12" stroke="#222A33" stroke-width="1.3"/>
+    <text x="1097" y="210" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="1.0" font-weight="700" fill="#C9CDD6">CORRECTIONS / RUN</text>
+    <text x="1097" y="227" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#5A6470">the cost of running the same task, run over run</text>
+    <!-- axes -->
+    <line x1="1112" y1="248" x2="1112" y2="430" stroke="#3B4552" stroke-width="1.1"/>
+    <line x1="1112" y1="430" x2="1418" y2="430" stroke="#3B4552" stroke-width="1.1"/>
+    <text x="1104" y="252" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8" fill="#5A6470" transform="rotate(-90 1104 252)"></text>
+    <!-- grey flat (unsaved) -->
+    <line x1="1112" y1="282" x2="1418" y2="282" stroke="#56606D" stroke-width="2.0" stroke-dasharray="7 5"/>
+    <text x="1414" y="276" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#828B98">UNSAVED — paid every run</text>
+    <!-- cyan decay (saved) -->
+    <polyline points="1112,290 1150,318 1196,360 1252,398 1320,418 1418,424" fill="none" stroke="#2DD4BF" stroke-width="2.6" filter="url(#glow)"/>
+    <circle cx="1112" cy="290" r="3.2" fill="#2DD4BF"/>
+    <circle cx="1418" cy="424" r="3.2" fill="#2DD4BF"/>
+    <text x="1300" y="412" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#5FCBBC">SAVED — decays to zero</text>
+    <!-- run ticks -->
+    <g font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#5A6470" text-anchor="middle">
+      <text x="1112" y="446">R1</text><text x="1188" y="446">R2</text><text x="1264" y="446">R3</text><text x="1340" y="446">R4</text><text x="1416" y="446">R5</text>
+    </g>
+    <line x1="1097" y1="464" x2="1421" y2="464" stroke="#1B222B" stroke-width="1"/>
+    <text x="1097" y="492" font-size="17" font-weight="700" fill="#E6E8EE">THE MODEL DIDN'T IMPROVE.</text>
+    <text x="1097" y="516" font-size="17" font-weight="700" fill="#2DD4BF">THE INSTRUCTIONS DID.</text>
+  </g>
+
+  <!-- ============ RIGHT COLUMN : RED ALARM ANNUNCIATOR ============ -->
+  <g id="alarm">
+    <rect x="1075" y="560" width="368" height="300" rx="9" fill="#16090A" stroke="#7A2E2E" stroke-width="1.5"/>
+    <rect x="1075" y="560" width="368" height="30" rx="9" fill="#26100F"/>
+    <rect x="1075" y="575" width="368" height="15" fill="#26100F"/>
+    <circle cx="1097" cy="575" r="5" fill="#FF5C5C" filter="url(#glow)"/>
+    <text x="1112" y="580" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11.5" letter-spacing="1.4" font-weight="700" fill="#FF7B7B">ALARM · THE ONE THAT GOT AWAY</text>
+    <!-- mini sequence: fix in chat, never latched, wipes, returns -->
+    <g font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace">
+      <rect x="1097" y="612" width="120" height="40" rx="5" fill="#1A1305" stroke="#7A5C24" stroke-width="1.2"/>
+      <text x="1157" y="630" text-anchor="middle" font-size="9" fill="#E8A23D">fixed in chat</text>
+      <text x="1157" y="644" text-anchor="middle" font-size="8" fill="#9A7A3A">correction given</text>
+
+      <line x1="1217" y1="632" x2="1252" y2="632" stroke="#56606D" stroke-width="1.4" marker-end="url(#arrDim)"/>
+
+      <rect x="1255" y="612" width="120" height="40" rx="5" fill="#0E0E12" stroke="#3B4552" stroke-width="1.2" stroke-dasharray="4 3"/>
+      <text x="1315" y="630" text-anchor="middle" font-size="9" fill="#828B98">WRITE = 0</text>
+      <text x="1315" y="644" text-anchor="middle" font-size="8" fill="#6B7480">never latched</text>
+
+      <line x1="1315" y1="652" x2="1315" y2="684" stroke="#56606D" stroke-width="1.4" marker-end="url(#arrDim)"/>
+      <text x="1330" y="672" font-size="8" fill="#6B7480">session wipe</text>
+
+      <rect x="1255" y="688" width="120" height="42" rx="5" fill="#26100F" stroke="#FF5C5C" stroke-width="1.6" filter="url(#glow)"/>
+      <text x="1315" y="706" text-anchor="middle" font-size="9.5" font-weight="700" fill="#FF7B7B">SAME BUG</text>
+      <text x="1315" y="720" text-anchor="middle" font-size="8" fill="#E89090">re-emerges next run</text>
+
+      <path d="M1255 709 C 1180 709, 1170 690, 1170 656" fill="none" stroke="#FF5C5C" stroke-width="1.6" stroke-dasharray="5 4" marker-end="url(#arrRed)"/>
+      <text x="1100" y="700" font-size="8" fill="#E89090">re-taught,</text>
+      <text x="1100" y="712" font-size="8" fill="#E89090">identical</text>
+    </g>
+    <line x1="1097" y1="748" x2="1421" y2="748" stroke="#3A1E1E" stroke-width="1"/>
+    <text x="1097" y="778" font-size="15.5" font-weight="700" fill="#FF7B7B">TYPING THIS AGAIN?</text>
+    <text x="1097" y="800" font-size="15.5" font-weight="700" fill="#E6E8EE">IT SHOULD'VE BEEN SAVED.</text>
+    <text x="1097" y="828" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#9A6A6A">red appears nowhere else — the chat isn't the villain, it's just volatile</text>
+  </g>
+
+  <!-- ============ BOTTOM-LEFT : WORKED EXAMPLE · THIS BLOG ============ -->
+  <g id="worked">
+    <rect x="72" y="900" width="640" height="150" rx="9" fill="#0A0E12" stroke="#222A33" stroke-width="1.3"/>
+    <text x="92" y="930" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="1.0" font-weight="700" fill="#C9CDD6">WORKED EXAMPLE · THIS BLOG</text>
+    <text x="312" y="930" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="9" fill="#5A6470">two corrections, seated once, applied automatically since</text>
+    <!-- chip 1 -->
+    <rect x="92" y="946" width="280" height="42" rx="5" fill="#0C2A26" stroke="#2DD4BF" stroke-width="1.3"/>
+    <text x="106" y="965" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="600" fill="#7DEFE0">em-dash → parentheses</text>
+    <text x="106" y="980" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#5FCBBC">saved once · applied automatically since</text>
+    <!-- chip 2 -->
+    <rect x="384" y="946" width="280" height="42" rx="5" fill="#0C2A26" stroke="#2DD4BF" stroke-width="1.3"/>
+    <text x="398" y="965" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="600" fill="#7DEFE0">"you" = the reader</text>
+    <text x="398" y="980" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#5FCBBC">saved once · applied automatically since</text>
+    <text x="92" y="1024" font-size="15" font-weight="600" fill="#E6E8EE">THE BLOG DIDN'T GET A BETTER WRITER. <tspan fill="#2DD4BF">IT GOT BETTER INSTRUCTIONS.</tspan></text>
+  </g>
+
+  <!-- ============ BOTTOM-RIGHT : THREE MONTHS APART ============ -->
+  <g id="threemonths">
+    <rect x="730" y="900" width="320" height="150" rx="9" fill="#0A0E12" stroke="#222A33" stroke-width="1.3"/>
+    <text x="750" y="930" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="1.0" font-weight="700" fill="#C9CDD6">THE SAME TASK, 3 MONTHS APART</text>
+    <g font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace">
+      <circle cx="762" cy="962" r="4" fill="#E8A23D"/>
+      <text x="778" y="966" font-size="11" fill="#E8A23D">JANUARY</text>
+      <text x="862" y="966" font-size="10" fill="#9A7A3A">— you fought it by hand</text>
+      <circle cx="762" cy="992" r="4" fill="#5FCBBC"/>
+      <text x="778" y="996" font-size="11" fill="#5FCBBC">FEBRUARY</text>
+      <text x="868" y="996" font-size="10" fill="#7A8694">— noticeably lighter</text>
+      <circle cx="762" cy="1022" r="4" fill="#2DD4BF" filter="url(#glow)"/>
+      <text x="778" y="1026" font-size="11" font-weight="700" fill="#2DD4BF">MARCH</text>
+      <text x="838" y="1026" font-size="10" fill="#5FCBBC">— it runs itself</text>
+    </g>
+  </g>
+
+  <!-- ============ FOOTER ============ -->
+  <line x1="70" y1="1078" x2="1432" y2="1078" stroke="#222A33" stroke-width="1"/>
+  <text x="72" y="1108" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1.4" fill="#5A6470">PART 3 — THE WORKFLOW ENGINE   ·   3.0 RUNS THE LOOP   ·   3.1 SHARPENS IT</text>
+  <text x="72" y="1150" font-size="26" font-weight="700" letter-spacing="0.4" fill="#E6E8EE">AN UN-SAVED CORRECTION IS A <tspan fill="#E8A23D">TAX</tspan>.  A SAVED ONE IS AN <tspan fill="#2DD4BF">ASSET</tspan>.</text>
+  <text x="1432" y="1150" text-anchor="end" font-family="JetBrains Mono, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1.0" fill="#3F4853">RAM → DISK · MOVE THE FIX OUT OF THE CHAT</text>
+</svg>

@@ -5,6 +5,7 @@ product_id: "ell-cranel-alpha-0-025pct-alfatradiol-100ml-shopee"
 compound: "Ell-Cranel Alpha 0.025% (alfatradiol)"
 aliases:
   - "Ell-Cranel Alpha 0.025% (alfatradiol)"
+  - "Ell-Cranel Alpha 0.025% Topical"
 name: "Ell-Cranel Alpha 0.025% (alfatradiol)"
 brand: "Ell-Cranel"
 vendor: "Shopee"

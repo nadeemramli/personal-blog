@@ -162,6 +162,10 @@ The order of operations, before opening the gate:
 > [!tip] Build the machine first; invite guests later
 > The phrase that ties this all together. The Appearance series builds the machine. Parts 1.0–6.0 are the build. Part 7.0 is the *standard of running it*. Once it runs and the financial substrate is in place, the rest of life — including romantic and social investment — happens from strength, not from compensation.
 
+![[Poster — Attractive - Appearance Part 7.0 - The 1% Cleanliness Audit and The Foundation Gate.png]]
+
+*This is the capstone reference card: the six-part appearance "machine" drawn as a system kept running, with the weekly maintenance LOOP (the 1% audit, your multiplier) wrapped around it and the Foundation Gate upstream (the Surplus Equation, your prerequisite) held shut until surplus clears the running cost. Sever the loop and the machine ghosts into its "built-and-decaying" shadow within six months; force the gate open on a stretched balance sheet and you trip the one red alarm. Pin it: maintenance is the multiplier, the gate is the prerequisite, so build the machine first and invite guests later.*
+
 ---
 
 ## Part 7.0 Takeaways — the capstone summary

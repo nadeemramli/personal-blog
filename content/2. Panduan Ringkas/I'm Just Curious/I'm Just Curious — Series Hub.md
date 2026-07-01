@@ -36,6 +36,7 @@ The voice is "here is what fascinated me and here is what I found," kept rigorou
 
 > [!example] Open breakdowns
 > - **[[Hormonal Steroids — Series Hub|Hormonal Steroids]]** — what a "steroid" actually is, where the body builds them, how they give orders to cells, and why one hormone quietly turns into another. The science layer underneath the applied [[Part 1.0 - The Decision|Performance Enhancement]] series, written for its own sake. *(in progress)*
+> - **[[Do Steroids Make You Stupid — Series Hub|Do Steroids Make You Stupid?]]** — the brain companion to Hormonal Steroids: does flooding the system with anabolic steroids actually reshape your brain and dull your cognition, or is "meathead" just a stereotype? Reward chemistry, neuro-inflammation, and what the scans really show. *(in progress)*
 
 More will get added here whenever something refuses to stop being interesting.
 

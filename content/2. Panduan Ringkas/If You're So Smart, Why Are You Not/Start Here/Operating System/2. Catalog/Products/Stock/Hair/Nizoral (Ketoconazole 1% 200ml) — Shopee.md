@@ -5,6 +5,7 @@ product_id: "nizoral-ketoconazole-1pct-200ml-shopee"
 compound: "Nizoral (Ketoconazole shampoo)"
 aliases:
   - "Nizoral (Ketoconazole shampoo)"
+  - "Nizoral"
 name: "Nizoral (Ketoconazole shampoo)"
 brand: "Nizoral"
 vendor: "Shopee"

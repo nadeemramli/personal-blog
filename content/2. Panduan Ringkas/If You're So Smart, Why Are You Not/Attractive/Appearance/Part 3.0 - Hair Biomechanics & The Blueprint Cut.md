@@ -179,6 +179,10 @@ Unlike Part 2.0 (which has measurable KPIs) or the Hair folder's retention metri
 
 A cut that only looks right with 10 minutes of styling daily is a cut you will fail to maintain.
 
+*Here's the whole procedure crystallized on a single drawing: your own head rendered as an engineer's survey-and-spec sheet, not a barbershop flyer. Two views carry the argument in order: a top-down PLAN surveys your biology ([[Part 3.0 - Hair Biomechanics & The Blueprint Cut#B. Growth direction, whorls, and cowlicks|whorl, cowlicks, growth angle]]), a front ELEVATION specs [[Part 3.0 - Hair Biomechanics & The Blueprint Cut#D. The Blueprint Cut: balancing facial asymmetry|the Blueprint Cut's light counter-balance]], and both feed the five-line title-block ([[Part 3.0 - Hair Biomechanics & The Blueprint Cut#E. What to tell a barber|the barber script]]) and the inspection stamp ([[Part 3.0 - Hair Biomechanics & The Blueprint Cut#The mirror test: the only KPI here|the 7-day mirror test]]). The one red mark is the phone showing someone else's head, stamped REJECTED: it worked on their head, yours is a different drawing. Pin it up before your next cut and walk into the chair with the spec in hand.*
+
+![[Poster — Attractive - Appearance Part 3.0 - Hair Biomechanics & The Blueprint Cut.png]]
+
 ---
 
 ## Part 3.0 Takeaways

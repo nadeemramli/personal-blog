@@ -5,10 +5,15 @@ product_id: "l-tyrosine-500g-iherb"
 compound: "L-Tyrosine"
 aliases:
   - "L-Tyrosine"
+  - "Nutricost, L-Tyrosine, 500 g"
 name: "L-Tyrosine"
 brand: "Nutricost"
 vendor: "iHerb"
 source: "iHerb"
+label_verified_as_of: 2026-06-19
+label_facts_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/l-tyrosine-500g-iherb-supplement-facts.jpg"
+label_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/l-tyrosine-500g-iherb-front.jpg"
+source_url: "https://nutricost.com/products/nutricost-l-tyrosine-powder"
 pillar: "Productive"
 sub_series: "Cognitive Enhancement"
 category: "Nootropic"
@@ -60,6 +65,24 @@ notes: ""
 | early | 7 | RM0.20 | RM74.26 |
 | medium | 14 | RM0.41 | RM297.02 |
 
+
+
+## Label Facts
+
+> [!info] Official label captured 2026-06-19
+> - Source: [Nutricost ? Nutricost L-Tyrosine Powder](https://nutricost.com/products/nutricost-l-tyrosine-powder)
+> - Product image: ![[l-tyrosine-500g-iherb-front.jpg]]
+> - Supplement facts image: ![[l-tyrosine-500g-iherb-supplement-facts.jpg]]
+> - Brand dosage image: ![[l-tyrosine-500g-iherb-dosage.jpg]]
+> - Package: 500 Grams
+> - Serving size: See official Supplement Facts image
+> - Stock protocol use: 1 g/EOD
+
+| Label item | Amount |
+|---|---:|
+| L-Tyrosine | 1 g per serving / stock unit |
+
+Other ingredients and full label cautions: see saved Supplement Facts panel image.
 
 ## Purchase Log
 

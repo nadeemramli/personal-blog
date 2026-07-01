@@ -15,8 +15,8 @@ tags:
 
 | Item | Qty | Unit (RM) | Total (RM) | Remark |
 |---|---|---|---|---|
-| CJC 1295 NO DAC + IPAMORELIN | 1 | 1158.00 | 1158.00 | blacklisted |
-| Retatrutide | 1 | 858.00 | 858.00 | blacklisted |
+| [[CJC-1295 (No DAC) + Ipamorelin (10mg×10vial) — TCI\|CJC 1295 NO DAC + IPAMORELIN]] | 1 | 1158.00 | 1158.00 | blacklisted |
+| [[Retatrutide (60mg×10vial) — BFF-AMO\|Retatrutide]] | 1 | 858.00 | 858.00 | blacklisted |
 | **TOTAL** | | | **RM2016.00** | |
 
 ## Links

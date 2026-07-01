@@ -223,6 +223,10 @@ A typical savoury fiber plate built this way clears **15–20 g of fiber**, **40
 
 In a deficit, swap the sweet potato for double the leafy greens, drop the olive oil to one teaspoon, and use leaner animal protein (chicken breast, white fish). ==You lose ~250 kcal and gain volume without losing the fiber/diversity goal.== This is the [[Part 5.0 - The Weekly System|cut-hack pattern]] applied to fiber: keep the structure, swap the high-density items for high-volume items.
 
+![[Poster — Healthy - Nutrition Part 3.0 - Omega-3, Fiber, and the Gut.png]]
+
+*Here's the whole article rendered as one diagnostic instrument: a smug macro tracker stamps "DAY COMPLETE," but a hard sensor line marks the limit of what it can measure, and everything that decides your blood and your gut sits below it in the dark. Two unsensed channels feed up from there ([[Part 3.0 - Omega-3, Fiber, and the Gut#Omega-3: DHA and EPA, and why they're not optional|omega-3, ~2 g/day]] and [[Part 3.0 - Omega-3, Fiber, and the Gut#Fiber: the macro most people undershoot by half|fiber, 30–40 g/day]]) into the living [[Part 3.0 - Omega-3, Fiber, and the Gut#The gut: 7 strains, and why diversity is the goal|gut bed whose density is its diversity (30+ plants a week)]], and a single [[Part 3.0 - Omega-3, Fiber, and the Gut#The Prebiotic Diet Bowl (the recipe)|prebiotic-bowl cartridge]] plugs into all of it at once. The one red object is the trap worth remembering: 200 g protein, 12 g fiber, a green tick that lied. Pin it up as the reminder that a perfect macro day can still starve the half you can't see.*
+
 ---
 ## Part 3 Takeaways
 

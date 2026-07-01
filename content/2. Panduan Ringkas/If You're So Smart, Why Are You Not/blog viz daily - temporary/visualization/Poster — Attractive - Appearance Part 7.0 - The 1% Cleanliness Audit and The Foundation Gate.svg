@@ -1,0 +1,274 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<defs>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+  <path d="M32 0 L0 0 0 32" fill="none" stroke="#5E7585" stroke-width="0.5" opacity="0.10"/>
+</pattern>
+<pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+  <line x1="0" y1="0" x2="0" y2="6" stroke="#A39D92" stroke-width="1" opacity="0.55"/>
+</pattern>
+<marker id="arrT" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="9.0" refY="6.0" orient="auto"><path d="M0 0 L12 6.0 L0 12 z" fill="#C2703D"/></marker>
+<marker id="arrI" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="9.0" refY="6.0" orient="auto"><path d="M0 0 L12 6.0 L0 12 z" fill="#1E2024"/></marker>
+<marker id="arrS" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" refX="7.5" refY="5.0" orient="auto"><path d="M0 0 L10 5.0 L0 10 z" fill="#5E7585"/></marker>
+<marker id="arrG" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" refX="7.5" refY="5.0" orient="auto"><path d="M0 0 L10 5.0 L0 10 z" fill="#A39D92"/></marker>
+<marker id="arrR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="9.0" refY="6.0" orient="auto"><path d="M0 0 L12 6.0 L0 12 z" fill="#D9483B"/></marker>
+</defs>
+<rect x="0" y="0" width="1600" height="1000" fill="#F4F1EA"/>
+<rect x="0" y="0" width="1600" height="1000" fill="url(#grid)"/>
+<rect x="22" y="22" width="1556" height="956" fill="none" stroke="#1E2024" stroke-width="1.4"/>
+<rect x="29" y="29" width="1542" height="942" fill="none" stroke="#1E2024" stroke-width="0.6" opacity="0.55"/>
+<circle cx="22" cy="22" r="3.2" fill="none" stroke="#1E2024" stroke-width="0.8"/>
+<circle cx="1578" cy="22" r="3.2" fill="none" stroke="#1E2024" stroke-width="0.8"/>
+<circle cx="22" cy="978" r="3.2" fill="none" stroke="#1E2024" stroke-width="0.8"/>
+<circle cx="1578" cy="978" r="3.2" fill="none" stroke="#1E2024" stroke-width="0.8"/>
+<text x="48" y="60" font-size="12.5" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start" letter-spacing="3">IF YOU'RE SO SMART, WHY ARE YOU NOT</text>
+<text x="48" y="80" font-size="11" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="600" text-anchor="start" letter-spacing="1.5">ATTRACTIVE  ·  APPEARANCE  —  PART 7 OF 7  ·  THE CAPSTONE</text>
+<text x="1552" y="58" font-size="12.5" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="end" letter-spacing="2">COMMISSIONING &amp; RUN SCHEMATIC</text>
+<text x="1552" y="78" font-size="10.5" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="500" text-anchor="end" letter-spacing="1.5">DWG 7.0   ·   SHEET 7 / 7   ·   O&amp;M — RUN STATE</text>
+<line x1="40" y1="98" x2="1560" y2="98" stroke="#1E2024" stroke-width="1"/>
+<line x1="40" y1="101.5" x2="1560" y2="101.5" stroke="#1E2024" stroke-width="0.4" opacity="0.5"/>
+<text x="46" y="132" font-size="11" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start" letter-spacing="1.5">EPISTEMIC KEY</text>
+<line x1="46" y1="140" x2="178" y2="140" stroke="#1E2024" stroke-width="0.6"/>
+<rect x="46" y="156" width="20" height="20" fill="#C2703D" stroke="#1E2024" stroke-width="0.8"/>
+<text x="74" y="164" font-size="9.5" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start" letter-spacing="0.5">MEASURABLE</text>
+<text x="74" y="175.0" font-size="8.3" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.85">&amp; YOURS — your</text>
+<text x="74" y="185.2" font-size="8.3" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.85">cadence, your</text>
+<text x="74" y="195.4" font-size="8.3" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.85">surplus, coherence</text>
+<rect x="46" y="220" width="20" height="20" fill="#5E7585" stroke="#1E2024" stroke-width="0.8"/>
+<text x="74" y="228" font-size="9.5" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start" letter-spacing="0.5">CONVENTION</text>
+<text x="74" y="239.0" font-size="8.3" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.85">benchmark —</text>
+<text x="74" y="249.2" font-size="8.3" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.85">≤30% · 3–6 MO ·</text>
+<text x="74" y="259.4" font-size="8.3" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.85">10–15% rules</text>
+<rect x="46" y="284" width="20" height="20" fill="#A39D92" stroke="#1E2024" stroke-width="0.8"/>
+<text x="74" y="292" font-size="9.5" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start" letter-spacing="0.5">DECAYED</text>
+<text x="74" y="303.0" font-size="8.3" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.85">eroded footing /</text>
+<text x="74" y="313.2" font-size="8.3" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.85">neglected build /</text>
+<text x="74" y="323.4" font-size="8.3" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.85">corrected instinct</text>
+<rect x="46" y="348" width="20" height="20" fill="#C9912E" stroke="#1E2024" stroke-width="0.8"/>
+<text x="74" y="356" font-size="9.5" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start" letter-spacing="0.5">CAUTION</text>
+<text x="74" y="367.0" font-size="8.3" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.85">grace-note —</text>
+<text x="74" y="377.2" font-size="8.3" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.85">uneven upgrade,</text>
+<text x="74" y="387.4" font-size="8.3" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.85">peer facade</text>
+<rect x="46" y="412" width="20" height="20" fill="#D9483B" stroke="#1E2024" stroke-width="0.8"/>
+<text x="74" y="420" font-size="9.5" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start" letter-spacing="0.5">ONE ALARM</text>
+<text x="74" y="431.0" font-size="8.3" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.85">a single red</text>
+<text x="74" y="441.2" font-size="8.3" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.85">object only —</text>
+<text x="74" y="451.4" font-size="8.3" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.85">see the gate</text>
+<line x1="46" y1="478" x2="178" y2="478" stroke="#1E2024" stroke-width="0.5" opacity="0.6"/>
+<text x="46" y="494" font-size="8.2" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="500" text-anchor="start" opacity="0.8">WARM = measurable</text>
+<text x="46" y="506" font-size="8.2" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="500" text-anchor="start" opacity="0.8">COOL = convention</text>
+<text x="46" y="518" font-size="8.2" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="500" text-anchor="start" opacity="0.8">GREY = decayed</text>
+<text x="46" y="530" font-size="8.2" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="500" text-anchor="start" opacity="0.8">RED  = the one alarm</text>
+<line x1="190" y1="116" x2="190" y2="848" stroke="#1E2024" stroke-width="0.5" opacity="0.45"/>
+<circle cx="220" cy="128" r="9" fill="#F4F1EA" stroke="#C2703D" stroke-width="1.6"/><text x="220" y="131.74" font-size="11" fill="#C2703D" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">1</text>
+<text x="236" y="132" font-size="12" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start" letter-spacing="1">THE GATE — THE PREREQUISITE</text>
+<text x="236" y="148" font-size="9.2" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" font-style="italic">fuel the machine only from surplus</text>
+<line x1="214" y1="172" x2="214" y2="612" stroke="#1E2024" stroke-width="1"/>
+<text x="212" y="166" font-size="8" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start" letter-spacing="1">ORDER</text>
+<circle cx="214" cy="188" r="7.5" fill="#F4F1EA" stroke="#5E7585" stroke-width="1.4"/>
+<text x="214" y="191" font-size="8.5" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">1</text>
+<text x="227" y="191" font-size="7.8" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="500" text-anchor="start" opacity="0.8">INCOME</text>
+<circle cx="214" cy="248" r="7.5" fill="#F4F1EA" stroke="#5E7585" stroke-width="1.4"/>
+<text x="214" y="251" font-size="8.5" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">2</text>
+<text x="227" y="251" font-size="7.8" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="500" text-anchor="start" opacity="0.8">DEBT</text>
+<circle cx="214" cy="308" r="7.5" fill="#F4F1EA" stroke="#5E7585" stroke-width="1.4"/>
+<text x="214" y="311" font-size="8.5" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">3</text>
+<text x="227" y="311" font-size="7.8" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="500" text-anchor="start" opacity="0.8">EMERGENCY</text>
+<circle cx="214" cy="368" r="7.5" fill="#F4F1EA" stroke="#5E7585" stroke-width="1.4"/>
+<text x="214" y="371" font-size="8.5" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">4</text>
+<text x="227" y="371" font-size="7.8" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="500" text-anchor="start" opacity="0.8">RETIRE</text>
+<circle cx="214" cy="428" r="7.5" fill="#F4F1EA" stroke="#C2703D" stroke-width="1.4"/>
+<text x="214" y="431" font-size="8.5" fill="#C2703D" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">5</text>
+<text x="227" y="431" font-size="7.8" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="500" text-anchor="start" opacity="0.8">SUBSTRATE</text>
+<circle cx="214" cy="488" r="7.5" fill="#F4F1EA" stroke="#C2703D" stroke-width="1.4"/>
+<text x="214" y="491" font-size="8.5" fill="#C2703D" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">6</text>
+<text x="227" y="491" font-size="7.8" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="500" text-anchor="start" opacity="0.8">SIGNAL</text>
+<circle cx="214" cy="548" r="7.5" fill="#F4F1EA" stroke="#D9483B" stroke-width="1.4"/>
+<text x="214" y="551" font-size="8.5" fill="#D9483B" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">7</text>
+<text x="227" y="551" font-size="7.8" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="500" text-anchor="start" opacity="0.8">DATING</text>
+<text x="258" y="178" font-size="10" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start">MONTHLY INCOME</text>
+<path d="M258 188 L300 188 L300 470" fill="none" stroke="#1E2024" stroke-width="6" stroke-linejoin="round" marker-end="url(#arrI)"/>
+<path d="M258 188 L300 188 L300 470" fill="none" stroke="#F4F1EA" stroke-width="2.2" stroke-linejoin="round" opacity="0.6"/>
+<path d="M300 212 L370 212" fill="none" stroke="#1E2024" stroke-width="2.4" marker-end="url(#arrI)"/>
+<circle cx="300" cy="212" r="4" fill="#F4F1EA" stroke="#1E2024" stroke-width="1.6"/>
+<text x="376" y="210" font-size="9.2" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start">− HEALTH PROTOCOLS</text>
+<text x="376" y="221" font-size="7.6" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.8" font-style="italic">non-negotiable</text>
+<path d="M300 262 L370 262" fill="none" stroke="#5E7585" stroke-width="2.4" marker-end="url(#arrS)"/>
+<circle cx="300" cy="262" r="4" fill="#F4F1EA" stroke="#5E7585" stroke-width="1.6"/>
+<text x="376" y="260" font-size="9.2" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start">− RENT  ≤30%</text>
+<text x="376" y="271" font-size="7.6" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.8" font-style="italic">convention</text>
+<path d="M300 312 L370 312" fill="none" stroke="#1E2024" stroke-width="2.4" marker-end="url(#arrI)"/>
+<circle cx="300" cy="312" r="4" fill="#F4F1EA" stroke="#1E2024" stroke-width="1.6"/>
+<text x="376" y="310" font-size="9.2" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start">− BILLS / TRANSPORT / INSURANCE</text>
+<text x="376" y="321" font-size="7.6" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.8" font-style="italic">fixed draw</text>
+<path d="M300 362 L370 362" fill="none" stroke="#5E7585" stroke-width="2.4" marker-end="url(#arrS)"/>
+<circle cx="300" cy="362" r="4" fill="#F4F1EA" stroke="#5E7585" stroke-width="1.6"/>
+<text x="376" y="360" font-size="9.2" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start">− EMERGENCY FUND  3–6 MO</text>
+<text x="376" y="371" font-size="7.6" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.8" font-style="italic">convention</text>
+<path d="M300 412 L370 412" fill="none" stroke="#5E7585" stroke-width="2.4" marker-end="url(#arrS)"/>
+<circle cx="300" cy="412" r="4" fill="#F4F1EA" stroke="#5E7585" stroke-width="1.6"/>
+<text x="376" y="410" font-size="9.2" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start">− RETIREMENT  ≥10–15%</text>
+<text x="376" y="421" font-size="7.6" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.8" font-style="italic">convention</text>
+<rect x="262" y="482" width="120" height="58" rx="3" fill="#E3C4AC" stroke="#C2703D" stroke-width="2"/>
+<path d="M266 510 q14 -7 28 0 t28 0 t28 0 t28 0" fill="none" stroke="#C2703D" stroke-width="1.6" opacity="0.8"/>
+<text x="322" y="502" font-size="12" fill="#C2703D" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">= SURPLUS</text>
+<text x="322" y="530" font-size="8.4" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="middle" opacity="0.8" font-style="italic">what survives</text>
+<path d="M322 540 L322 562" fill="none" stroke="#C2703D" stroke-width="3.4" marker-end="url(#arrT)"/>
+<path d="M322 562 L380 588 L322 614 L264 588 Z" fill="#EEEAE0" stroke="#1E2024" stroke-width="1.6"/>
+<text x="322" y="585" font-size="9.5" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">SURPLUS ≥</text>
+<text x="322" y="597" font-size="9.5" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">RUN-COST?</text>
+<text x="322" y="628" font-size="8.6" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="600" text-anchor="middle">RUN-COST  RM 500–1,500 / MO</text>
+<rect x="404" y="556" width="156" height="64" rx="3" fill="none" stroke="#C9912E" stroke-width="1.2" stroke-dasharray="3 2.5"/>
+<text x="412" y="572" font-size="9" fill="#C9912E" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start">CONSPICUOUS ≠ SOLVENT</text>
+<text x="412" y="588.0" font-size="8" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.85">run your numbers,</text>
+<text x="412" y="598.5" font-size="8" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.85">not theirs — the room</text>
+<text x="412" y="609.0" font-size="8" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.85">can't read a balance</text>
+<line x1="322" y1="614" x2="322" y2="628" stroke="#1E2024" stroke-width="1.4"/>
+<text x="212" y="648" font-size="9.5" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start" letter-spacing="0.5">GATE VALVE</text>
+<text x="296" y="648" font-size="8.4" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" font-style="italic">two outcomes →</text>
+<path d="M408 642 L548 642" fill="none" stroke="#C2703D" stroke-width="6" marker-end="url(#arrT)"/>
+<text x="414" y="636" font-size="8.4" fill="#C2703D" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start">OPEN — FULL FUEL → MACHINE + DATING (7)</text>
+<path d="M408 666 L548 666" fill="none" stroke="#A39D92" stroke-width="2" stroke-dasharray="5 4" marker-end="url(#arrG)"/>
+<text x="414" y="678" font-size="8.0" fill="#A39D92" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="600" text-anchor="start">HELD — SUBSTRATE BYPASS ONLY (parts 2–3, ~free)</text>
+<rect x="206" y="700" width="354" height="130" rx="4" fill="none" stroke="#D9483B" stroke-width="1.6"/>
+<rect x="206" y="700" width="354" height="16" fill="#D9483B"/>
+<text x="214" y="712" font-size="9" fill="#F4F1EA" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start" letter-spacing="1">FAILURE MODE  —  THE ONE ALARM</text>
+<rect x="220" y="730" width="60" height="30" rx="2" fill="none" stroke="#A39D92" stroke-width="1.4"/>
+<rect x="220" y="752" width="60" height="8" fill="#A39D92" opacity="0.5"/>
+<text x="250" y="726" font-size="7.5" fill="#A39D92" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">SURPLUS</text>
+<text x="250" y="747" font-size="9.5" fill="#D9483B" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">LOW</text>
+<circle cx="324" cy="745" r="16" fill="none" stroke="#D9483B" stroke-width="2"/>
+<line x1="324" y1="745" x2="337" y2="734" stroke="#D9483B" stroke-width="3"/>
+<text x="324" y="774" font-size="7.4" fill="#D9483B" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">FORCED OPEN</text>
+<path d="M344 745 L402 745" fill="none" stroke="#D9483B" stroke-width="5" marker-end="url(#arrR)"/>
+<circle cx="411" cy="745" r="11" fill="none" stroke="#D9483B" stroke-width="2"/>
+<line x1="423.0" y1="745.0" x2="428.0" y2="745.0" stroke="#D9483B" stroke-width="1.6"/>
+<line x1="419.5" y1="753.5" x2="423.0" y2="757.0" stroke="#D9483B" stroke-width="1.6"/>
+<line x1="411.0" y1="757.0" x2="411.0" y2="762.0" stroke="#D9483B" stroke-width="1.6"/>
+<line x1="402.5" y1="753.5" x2="399.0" y2="757.0" stroke="#D9483B" stroke-width="1.6"/>
+<line x1="399.0" y1="745.0" x2="394.0" y2="745.0" stroke="#D9483B" stroke-width="1.6"/>
+<line x1="402.5" y1="736.5" x2="399.0" y2="733.0" stroke="#D9483B" stroke-width="1.6"/>
+<line x1="411.0" y1="733.0" x2="411.0" y2="728.0" stroke="#D9483B" stroke-width="1.6"/>
+<line x1="419.5" y1="736.5" x2="423.0" y2="733.0" stroke="#D9483B" stroke-width="1.6"/>
+<text x="411" y="774" font-size="7.4" fill="#D9483B" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">DATING (7)</text>
+<path d="M438 760 l10 0 l4 6 l8 -4 l10 5 l8 -3 l12 4" fill="none" stroke="#A39D92" stroke-width="1.4"/>
+<text x="476" y="750" font-size="7.4" fill="#A39D92" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">FOOTING</text>
+<text x="476" y="774" font-size="7.4" fill="#A39D92" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">ERODES</text>
+<text x="216" y="796" font-size="8.6" fill="#D9483B" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="600" text-anchor="start">STRETCHED BALANCE SHEET — forcing the gate on an empty</text>
+<text x="216" y="808" font-size="8.6" fill="#D9483B" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="600" text-anchor="start">footing: romance bought without a buffer is a liability.</text>
+<circle cx="608" cy="128" r="9" fill="#F4F1EA" stroke="#C2703D" stroke-width="1.6"/><text x="608" y="131.74" font-size="11" fill="#C2703D" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">2</text>
+<text x="624" y="132" font-size="12" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start" letter-spacing="1">THE MACHINE   +</text>
+<circle cx="792" cy="128" r="9" fill="#F4F1EA" stroke="#C2703D" stroke-width="1.6"/><text x="792" y="131.74" font-size="11" fill="#C2703D" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">3</text>
+<text x="808" y="132" font-size="12" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start" letter-spacing="1">THE FLOOR  (THE MULTIPLIER)</text>
+<text x="608" y="148" font-size="9.2" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" font-style="italic">the assembled Parts 1–6, kept to spec every week</text>
+<ellipse cx="846" cy="410" rx="190" ry="148" fill="none" stroke="#C2703D" stroke-width="3"/>
+<path d="M1009.9 335.2 L1017.7 345.6" stroke="#C2703D" stroke-width="3" marker-end="url(#arrT)"/>
+<path d="M1011.1 483.2 L1003.4 493.6" stroke="#C2703D" stroke-width="3" marker-end="url(#arrT)"/>
+<path d="M682.1 484.8 L674.3 474.4" stroke="#C2703D" stroke-width="3" marker-end="url(#arrT)"/>
+<path d="M680.9 336.8 L688.6 326.4" stroke="#C2703D" stroke-width="3" marker-end="url(#arrT)"/>
+<rect x="696" y="502" width="300" height="34" rx="3" fill="#EEEAE0" stroke="#1E2024" stroke-width="1.4"/>
+<text x="846" y="524" font-size="12" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle" letter-spacing="3">THE FLOOR</text>
+<line x1="706" y1="536" x2="698" y2="550" stroke="#1E2024" stroke-width="0.7" opacity="0.5"/>
+<line x1="732" y1="536" x2="724" y2="550" stroke="#1E2024" stroke-width="0.7" opacity="0.5"/>
+<line x1="758" y1="536" x2="750" y2="550" stroke="#1E2024" stroke-width="0.7" opacity="0.5"/>
+<line x1="784" y1="536" x2="776" y2="550" stroke="#1E2024" stroke-width="0.7" opacity="0.5"/>
+<line x1="810" y1="536" x2="802" y2="550" stroke="#1E2024" stroke-width="0.7" opacity="0.5"/>
+<line x1="836" y1="536" x2="828" y2="550" stroke="#1E2024" stroke-width="0.7" opacity="0.5"/>
+<line x1="862" y1="536" x2="854" y2="550" stroke="#1E2024" stroke-width="0.7" opacity="0.5"/>
+<line x1="888" y1="536" x2="880" y2="550" stroke="#1E2024" stroke-width="0.7" opacity="0.5"/>
+<line x1="914" y1="536" x2="906" y2="550" stroke="#1E2024" stroke-width="0.7" opacity="0.5"/>
+<line x1="940" y1="536" x2="932" y2="550" stroke="#1E2024" stroke-width="0.7" opacity="0.5"/>
+<line x1="966" y1="536" x2="958" y2="550" stroke="#1E2024" stroke-width="0.7" opacity="0.5"/>
+<line x1="992" y1="536" x2="984" y2="550" stroke="#1E2024" stroke-width="0.7" opacity="0.5"/>
+<rect x="754" y="344" width="184" height="48" rx="2" fill="#F4F1EA" stroke="#1E2024" stroke-width="1.6"/>
+<text x="846" y="364" font-size="10.5" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">SIGNAL TIER</text>
+<text x="846" y="378" font-size="7.8" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="middle">parts 4–6 · clothing / carry / scent</text>
+<rect x="742" y="394" width="208" height="50" rx="2" fill="#EEEAE0" stroke="#1E2024" stroke-width="1.6"/>
+<text x="846" y="414" font-size="10.5" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">SUBSTRATE SLAB</text>
+<text x="846" y="428" font-size="7.8" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="middle">parts 2–3 · skin / hair</text>
+<rect x="742" y="324" width="86" height="15" rx="2" fill="#1E2024"/>
+<text x="785" y="335" font-size="7.6" fill="#F4F1EA" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">PARTS 1–6 · SEALED</text>
+<line x1="736" y1="310" x2="956" y2="310" stroke="#1E2024" stroke-width="2"/>
+<rect x="830" y="305" width="32" height="10" rx="5" fill="#F4F1EA" stroke="#1E2024" stroke-width="1"/>
+<circle cx="846" cy="310" r="3" fill="#C2703D"/>
+<line x1="736" y1="305" x2="736" y2="315" stroke="#1E2024" stroke-width="1.4"/>
+<line x1="956" y1="305" x2="956" y2="315" stroke="#1E2024" stroke-width="1.4"/>
+<text x="846" y="298" font-size="8.4" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">LEVELLING BAR — UPGRADE EVENLY</text>
+<circle cx="941.0" cy="281.8" r="11" fill="#F4F1EA" stroke="#C2703D" stroke-width="2"/>
+<text x="941.0" y="285.4282402399031" font-size="11" fill="#C2703D" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">1</text>
+<text x="957.0" y="284.8282402399031" font-size="8.2" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="600" text-anchor="start">SHOES</text>
+<circle cx="1036.0" cy="410.0" r="11" fill="#F4F1EA" stroke="#C2703D" stroke-width="2"/>
+<text x="1036.0" y="413.6" font-size="11" fill="#C2703D" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">2</text>
+<text x="1052.0" y="413.0" font-size="8.2" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="600" text-anchor="start">WARDROBE SCAN</text>
+<circle cx="941.0" cy="538.2" r="11" fill="#F4F1EA" stroke="#C2703D" stroke-width="2"/>
+<text x="941.0" y="541.7717597600969" font-size="11" fill="#C2703D" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">3</text>
+<text x="957.0" y="541.1717597600968" font-size="8.2" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="600" text-anchor="start">VEHICLE / BAG</text>
+<circle cx="751.0" cy="538.2" r="11" fill="#F4F1EA" stroke="#C2703D" stroke-width="2"/>
+<text x="751.0" y="541.771759760097" font-size="11" fill="#C2703D" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">4</text>
+<text x="735.0" y="541.171759760097" font-size="8.2" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="600" text-anchor="end">WALLET</text>
+<circle cx="656.0" cy="410.0" r="11" fill="#F4F1EA" stroke="#C2703D" stroke-width="2"/>
+<text x="656.0" y="413.6" font-size="11" fill="#C2703D" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">5</text>
+<text x="640.0" y="413.0" font-size="8.2" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="600" text-anchor="end">NAILS / GROOMING</text>
+<circle cx="751.0" cy="281.8" r="11" fill="#F4F1EA" stroke="#C2703D" stroke-width="2"/>
+<text x="750.9999999999999" y="285.4282402399032" font-size="11" fill="#C2703D" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">6</text>
+<text x="734.9999999999999" y="284.82824023990315" font-size="8.2" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="600" text-anchor="end">SCREENS &amp; CRYSTALS</text>
+<circle cx="846" cy="262" r="13" fill="#C2703D" stroke="#1E2024" stroke-width="1.2"/>
+<text x="846" y="267.5" font-size="18" fill="#F4F1EA" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">×</text>
+<text x="846" y="246" font-size="9" fill="#C2703D" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle" letter-spacing="0.5">MAINTENANCE IS THE  × MULTIPLIER</text>
+<rect x="748" y="562" width="196" height="22" rx="3" fill="none" stroke="#C2703D" stroke-width="1.4"/>
+<text x="846" y="577" font-size="9.6" fill="#C2703D" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle" letter-spacing="0.5">30 MIN  ·  SAME DAY EACH WEEK</text>
+<rect x="1192" y="410" width="250" height="150" rx="4" fill="none" stroke="#1E2024" stroke-width="1"/>
+<text x="1204" y="432" font-size="9.6" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start" letter-spacing="0.5">THE 1% — DETAIL CHECK</text>
+<text x="1204" y="446" font-size="8" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" font-style="italic">the multiplier on the whole build</text>
+<rect x="1206" y="464" width="11" height="11" fill="none" stroke="#C2703D" stroke-width="1.4"/>
+<text x="1226" y="474" font-size="10" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="600" text-anchor="start">FACE</text>
+<rect x="1206" y="490" width="11" height="11" fill="none" stroke="#C2703D" stroke-width="1.4"/>
+<text x="1226" y="500" font-size="10" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="600" text-anchor="start">HAND</text>
+<rect x="1206" y="516" width="11" height="11" fill="none" stroke="#C2703D" stroke-width="1.4"/>
+<text x="1226" y="526" font-size="10" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="600" text-anchor="start">CLOTHING</text>
+<rect x="1206" y="542" width="11" height="11" fill="none" stroke="#C2703D" stroke-width="1.4"/>
+<text x="1226" y="552" font-size="10" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="600" text-anchor="start">METAL &amp; LEATHER</text>
+<path d="M1036 410 C 1106 410, 1142 470, 1192 470" fill="none" stroke="#C2703D" stroke-width="1.1" stroke-dasharray="4 3" opacity="0.75"/>
+<rect x="1166" y="588" width="380" height="58" rx="3" fill="none" stroke="#C9912E" stroke-width="1.2" stroke-dasharray="3 2.5"/>
+<text x="1176" y="606" font-size="9.4" fill="#C9912E" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start">RM 8,000 WATCH  ·  RM 30 FRAYED WALLET</text>
+<text x="1176" y="624" font-size="8.4" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.85">the mismatch reads louder than either item — hold every</text>
+<text x="1176" y="636" font-size="8.4" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" opacity="0.85">component at one moderate tier, one maintenance level.</text>
+<rect x="1180" y="250" width="366" height="132" rx="5" fill="#E3C4AC" stroke="#C2703D" stroke-width="2.4"/>
+<text x="1363.0" y="280" font-size="10" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle" letter-spacing="3">OUTPUT</text>
+<text x="1363.0" y="312" font-size="17" fill="#1E2024" font-family="'DejaVu Sans', system-ui, -apple-system, 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-weight="700" text-anchor="middle">RUNS FROM STRENGTH,</text>
+<text x="1363.0" y="336" font-size="17" fill="#1E2024" font-family="'DejaVu Sans', system-ui, -apple-system, 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-weight="700" text-anchor="middle">NOT COMPENSATION</text>
+<line x1="1198" y1="350" x2="1528" y2="350" stroke="#C2703D" stroke-width="0.8" opacity="0.6"/>
+<circle cx="1224" cy="366" r="5" fill="#C2703D"/>
+<text x="1234" y="370" font-size="8.6" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="600" text-anchor="start">GATE OPEN</text>
+<text x="1330" y="370" font-size="12" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start">∧</text>
+<circle cx="1358" cy="366" r="5" fill="#C2703D"/>
+<text x="1368" y="370" font-size="8.6" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="600" text-anchor="start">LOOP INTACT</text>
+<text x="1468" y="370" font-size="9" fill="#C2703D" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start">→ LIT</text>
+<path d="M1036 350 C 1120 320, 1150 316, 1180 316" fill="none" stroke="#C2703D" stroke-width="2.4" marker-end="url(#arrT)"/>
+<line x1="592" y1="744" x2="1556" y2="744" stroke="#A39D92" stroke-width="0.6" opacity="0.6"/>
+<text x="600" y="758" font-size="10" fill="#A39D92" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="start" letter-spacing="0.5">WITH THE LOOP SEVERED — THE SAME MACHINE, 6 MONTHS ON</text>
+<g opacity="0.7">
+<path d="M636 796 a38 26 0 1 1 0.1 0" fill="none" stroke="#A39D92" stroke-width="2.4" stroke-dasharray="10 8"/>
+<line x1="624" y1="776" x2="648" y2="814" stroke="#A39D92" stroke-width="2.4"/>
+<text x="636" y="800" font-size="16" fill="#A39D92" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">×</text>
+</g>
+<text x="636" y="834" font-size="7.6" fill="#A39D92" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">LOOP CUT</text>
+<rect x="720" y="776" width="124" height="40" rx="3" fill="url(#hatch)" stroke="#A39D92" stroke-width="1"/>
+<text x="782" y="800" font-size="8.4" fill="#A39D92" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">SCUFFED SHOE</text>
+<rect x="862" y="776" width="124" height="40" rx="3" fill="url(#hatch)" stroke="#A39D92" stroke-width="1"/>
+<text x="924" y="800" font-size="8.4" fill="#A39D92" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">FRAYED STRAP</text>
+<rect x="1004" y="776" width="124" height="40" rx="3" fill="url(#hatch)" stroke="#A39D92" stroke-width="1"/>
+<text x="1066" y="800" font-size="8.4" fill="#A39D92" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">GREYED SNEAKER</text>
+<rect x="1146" y="776" width="124" height="40" rx="3" fill="url(#hatch)" stroke="#A39D92" stroke-width="1"/>
+<text x="1208" y="800" font-size="8.4" fill="#A39D92" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">STAINED LAPEL</text>
+<rect x="1288" y="776" width="124" height="40" rx="3" fill="url(#hatch)" stroke="#A39D92" stroke-width="1"/>
+<text x="1350" y="800" font-size="8.4" fill="#A39D92" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="middle">OVERGROWN NECKLINE</text>
+<text x="720" y="838" font-size="13" fill="#A39D92" font-family="'DejaVu Sans', system-ui, -apple-system, 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-weight="800" text-anchor="start" letter-spacing="1">BUILT-AND-DECAYING</text>
+<text x="978" y="838" font-size="8.8" fill="#A39D92" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="400" text-anchor="start" font-style="italic">—  the 99% rots within months without the 1%.  neglect is dim, never an alarm.</text>
+<line x1="40" y1="858" x2="1560" y2="858" stroke="#1E2024" stroke-width="1"/>
+<text x="52" y="916" font-size="46" fill="#1E2024" font-family="'DejaVu Sans', system-ui, -apple-system, 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-weight="800" text-anchor="start" letter-spacing="0.5">BUILD THE MACHINE FIRST.</text>
+<rect x="54" y="930" width="44" height="5" fill="#C2703D"/>
+<text x="108" y="956" font-size="13" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="600" text-anchor="start" letter-spacing="1.5">INVITE GUESTS LATER.</text>
+<text x="1548" y="902" font-size="9.5" fill="#5E7585" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="end" letter-spacing="2">THE THESIS</text>
+<text x="1548" y="928" font-size="15" fill="#C2703D" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="end" letter-spacing="0.5">MAINTENANCE IS THE MULTIPLIER</text>
+<text x="1548" y="952" font-size="15" fill="#1E2024" font-family="'DejaVu Sans Mono', ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, monospace" font-weight="700" text-anchor="end" letter-spacing="0.5">·  THE GATE IS THE PREREQUISITE</text>
+</svg>

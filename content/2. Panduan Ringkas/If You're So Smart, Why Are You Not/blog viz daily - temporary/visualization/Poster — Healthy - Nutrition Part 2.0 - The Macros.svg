@@ -1,0 +1,316 @@
+<svg viewBox="0 0 1600 1040" xmlns="http://www.w3.org/2000/svg" font-family="'Helvetica Neue',Arial,system-ui,sans-serif">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0E1322"/>
+      <stop offset="0.55" stop-color="#0A0E1B"/>
+      <stop offset="1" stop-color="#070A12"/>
+    </linearGradient>
+    <pattern id="deadHatch" width="8" height="8" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="#2c1a1e"/>
+      <line x1="0" y1="0" x2="0" y2="8" stroke="#7a3a42" stroke-width="2"/>
+    </pattern>
+    <pattern id="amberHatch" width="9" height="9" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <rect width="9" height="9" fill="#241c10"/>
+      <line x1="0" y1="0" x2="0" y2="9" stroke="#9c7330" stroke-width="2.2"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- ===================== BACKGROUND ===================== -->
+  <g id="bg">
+    <rect x="0" y="0" width="1600" height="1040" fill="url(#bgGrad)"/>
+    <!-- faint bench verticals -->
+    <g stroke="#141C2C" stroke-width="1" opacity="0.6">
+      <line x1="400" y1="128" x2="400" y2="958"/>
+      <line x1="800" y1="128" x2="800" y2="958"/>
+      <line x1="1110" y1="210" x2="1110" y2="780"/>
+    </g>
+    <rect x="0" y="0" width="1600" height="1040" fill="none" stroke="#1B2336" stroke-width="2"/>
+  </g>
+
+  <!-- ===================== HEADER ===================== -->
+  <g id="header">
+    <text x="56" y="78" font-size="46" font-weight="700" letter-spacing="0.5" fill="#E6E8EE">PROTEIN IS A <tspan fill="#2BD4C4">FLOOR</tspan>.  CARBS ARE <tspan fill="#2BD4C4">WHAT'S LEFT</tspan>.</text>
+    <text x="58" y="108" font-size="14" letter-spacing="1.5" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" fill="#8A93A6">PART 2 / 5 · NUTRITION · PUTTING REAL NUMBERS ON THE FOUR LEVERS</text>
+    <text x="1544" y="74" text-anchor="end" font-size="13" letter-spacing="2" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" fill="#2BD4C4">THE CALIBRATION BENCH</text>
+    <text x="1544" y="96" text-anchor="end" font-size="11" letter-spacing="2" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" fill="#59617A">HEALTHY · CLINICAL NOCTURNE</text>
+    <line x1="56" y1="120" x2="1544" y2="120" stroke="#27314A" stroke-width="1.5"/>
+  </g>
+
+  <!-- ===================== CALCULATION CHAIN RAIL ===================== -->
+  <g id="calcchain">
+    <rect x="56" y="130" width="1044" height="60" rx="8" fill="#0C1322" stroke="#223049" stroke-width="1.2"/>
+    <text x="158" y="167" font-size="16" letter-spacing="0.5" xml:space="preserve" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" fill="#C9CEDA">1 · SET PROTEIN  <tspan fill="#2BD4C4">→</tspan>  2 · SET CALORIES  <tspan fill="#2BD4C4">→</tspan>  3 · HOLD FAT FLOOR  <tspan fill="#2BD4C4">→</tspan>  <tspan fill="#2BD4C4">4 · CARBS = WHAT'S LEFT</tspan></text>
+    <text x="1322" y="167" font-size="12" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" fill="#59617A">ONE ORDERED CALCULATION ↴</text>
+  </g>
+
+  <!-- ===================== BENCH BASELINE ===================== -->
+  <line x1="56" y1="772" x2="1100" y2="772" stroke="#283248" stroke-width="2"/>
+  <line x1="56" y1="836" x2="1544" y2="836" stroke="#27314A" stroke-width="1.5"/>
+
+  <!-- ===================== LEVER 1 · PROTEIN (HARD FLOOR) ===================== -->
+  <g id="lever-protein">
+    <!-- header -->
+    <circle cx="70" cy="234" r="13" fill="none" stroke="#2BD4C4" stroke-width="1.6"/>
+    <text x="70" y="239" text-anchor="middle" font-size="15" font-family="'JetBrains Mono',monospace" fill="#2BD4C4">1</text>
+    <text x="92" y="232" font-size="18" font-weight="700" fill="#E6E8EE">PROTEIN</text>
+    <text x="92" y="250" font-size="11" letter-spacing="1" font-family="'JetBrains Mono',monospace" fill="#8A93A6">THE HARD-FLOOR GAUGE</text>
+
+    <!-- track -->
+    <rect x="140" y="278" width="28" height="492" rx="6" fill="#121829" stroke="#2A3550" stroke-width="1.4"/>
+    <!-- dead zone (>2.5) hatched dim-red -->
+    <rect x="140" y="298" width="28" height="62" fill="url(#deadHatch)"/>
+    <!-- neutral 2.2-2.5 (plain) -->
+    <!-- cyan SET band 1.6-2.2 -->
+    <rect x="140" y="409" width="28" height="99" fill="#2BD4C4" opacity="0.20"/>
+    <rect x="140" y="409" width="28" height="99" fill="none" stroke="#2BD4C4" stroke-width="1.2" opacity="0.7"/>
+    <!-- scarce SATURATED red breach zone (below floor) -->
+    <rect x="140" y="508" width="28" height="104" fill="#FF4747" opacity="0.16"/>
+    <!-- hard-stop detent at floor 1.6 -->
+    <line x1="130" y1="508" x2="178" y2="508" stroke="#2BD4C4" stroke-width="3.2" filter="url(#glow)"/>
+    <path d="M130 508 l8 -7 l0 14 z" fill="#2BD4C4"/>
+
+    <!-- ticks / numbers (right) -->
+    <g font-family="'JetBrains Mono',monospace" font-size="12">
+      <text x="182" y="304" fill="#59617A" font-size="10">g/kg</text>
+      <line x1="170" y1="360" x2="178" y2="360" stroke="#7a3a42" stroke-width="1.4"/>
+      <text x="182" y="364" fill="#B06a70" font-size="11">2.5</text>
+      <line x1="170" y1="409" x2="178" y2="409" stroke="#2BD4C4" stroke-width="1.4"/>
+      <text x="182" y="413" fill="#2BD4C4">2.2</text>
+      <line x1="170" y1="508" x2="178" y2="508" stroke="#2BD4C4" stroke-width="1.4"/>
+      <text x="182" y="512" fill="#2BD4C4" font-weight="700">1.6</text>
+    </g>
+    <!-- zone labels -->
+    <text x="182" y="334" font-size="9.5" font-family="'JetBrains Mono',monospace" fill="#B06a70">&gt;2.5 = JUST</text>
+    <text x="182" y="346" font-size="9.5" font-family="'JetBrains Mono',monospace" fill="#B06a70">DIGESTION</text>
+    <text x="182" y="463" font-size="11" font-weight="700" font-family="'JetBrains Mono',monospace" fill="#2BD4C4">SET</text>
+    <text x="182" y="476" font-size="11" font-weight="700" font-family="'JetBrains Mono',monospace" fill="#2BD4C4">BAND</text>
+    <text x="182" y="548" font-size="10.5" font-weight="700" font-family="'JetBrains Mono',monospace" fill="#FF5A5A">↓ BELOW</text>
+    <text x="182" y="561" font-size="10.5" font-weight="700" font-family="'JetBrains Mono',monospace" fill="#FF5A5A">FLOOR FOR</text>
+    <text x="182" y="574" font-size="10.5" font-weight="700" font-family="'JetBrains Mono',monospace" fill="#FF5A5A">WEEKS =</text>
+    <text x="182" y="587" font-size="10.5" font-weight="700" font-family="'JetBrains Mono',monospace" fill="#FF5A5A">LOST TISSUE</text>
+
+    <!-- lever arm + knob set at ~2.0 -->
+    <line x1="116" y1="442" x2="192" y2="442" stroke="#2BD4C4" stroke-width="3"/>
+    <circle cx="154" cy="442" r="9" fill="#0B0F1A" stroke="#2BD4C4" stroke-width="2.4" filter="url(#glow)"/>
+    <circle cx="116" cy="442" r="5" fill="#2BD4C4"/>
+
+    <!-- distribution comb (left) -->
+    <g>
+      <text x="60" y="616" font-size="9.5" font-family="'JetBrains Mono',monospace" fill="#8A93A6">SPREAD IT</text>
+      <line x1="62" y1="628" x2="120" y2="628" stroke="#3a465f" stroke-width="1.4"/>
+      <g stroke="#5a6580" stroke-width="1.4">
+        <line x1="70" y1="628" x2="70" y2="640"/>
+        <line x1="86" y1="628" x2="86" y2="640"/>
+        <line x1="102" y1="628" x2="102" y2="640"/>
+        <line x1="118" y1="628" x2="118" y2="640"/>
+      </g>
+      <text x="60" y="656" font-size="9.5" font-family="'JetBrains Mono',monospace" fill="#8A93A6">0.3–0.4 g/kg</text>
+      <text x="60" y="668" font-size="9.5" font-family="'JetBrains Mono',monospace" fill="#8A93A6">× 3–5 feeds</text>
+      <text x="60" y="680" font-size="9.5" font-family="'JetBrains Mono',monospace" fill="#8A93A6">~25–40 g each</text>
+    </g>
+
+    <!-- tag -->
+    <text x="150" y="792" text-anchor="middle" font-size="11" letter-spacing="0.6" font-family="'JetBrains Mono',monospace" fill="#2BD4C4">SET FIRST · NEVER LET IT DRIFT</text>
+  </g>
+
+  <!-- ===================== LEVER 2 · CALORIES (DIRECTION GATE) ===================== -->
+  <g id="lever-calories">
+    <circle cx="327" cy="234" r="13" fill="none" stroke="#2BD4C4" stroke-width="1.6"/>
+    <text x="327" y="239" text-anchor="middle" font-size="15" font-family="'JetBrains Mono',monospace" fill="#2BD4C4">2</text>
+    <text x="349" y="232" font-size="18" font-weight="700" fill="#E6E8EE">CALORIES</text>
+    <text x="349" y="250" font-size="11" letter-spacing="1" font-family="'JetBrains Mono',monospace" fill="#8A93A6">THE DIRECTION GATE</text>
+
+    <!-- selector slot (tallest) -->
+    <rect x="350" y="296" width="52" height="458" rx="10" fill="#121829" stroke="#2A3550" stroke-width="1.4"/>
+    <!-- detent lines -->
+    <g stroke="#3a465f" stroke-width="1.4">
+      <line x1="354" y1="348" x2="398" y2="348"/>
+      <line x1="354" y1="704" x2="398" y2="704"/>
+    </g>
+    <!-- maintenance detent (lit) -->
+    <line x1="350" y1="526" x2="402" y2="526" stroke="#2BD4C4" stroke-width="1.6" opacity="0.7"/>
+    <!-- selector knob at MAINTENANCE -->
+    <rect x="344" y="510" width="64" height="32" rx="6" fill="#0B0F1A" stroke="#2BD4C4" stroke-width="2.4" filter="url(#glow)"/>
+    <line x1="356" y1="526" x2="396" y2="526" stroke="#2BD4C4" stroke-width="2"/>
+
+    <!-- labels -->
+    <text x="418" y="344" font-size="13" font-weight="700" fill="#C9CEDA">SURPLUS ↑</text>
+    <text x="418" y="360" font-size="11" font-family="'JetBrains Mono',monospace" fill="#8A93A6">+250 · bulk</text>
+    <text x="418" y="522" font-size="13" font-weight="700" fill="#2BD4C4">MAINTENANCE —</text>
+    <text x="418" y="538" font-size="11" font-family="'JetBrains Mono',monospace" fill="#2BD4C4">0 · hold</text>
+    <text x="418" y="700" font-size="13" font-weight="700" fill="#C9CEDA">DEFICIT ↓</text>
+    <text x="418" y="716" font-size="11" font-family="'JetBrains Mono',monospace" fill="#8A93A6">−300 · cut</text>
+
+    <!-- tag -->
+    <text x="433" y="792" text-anchor="middle" font-size="11" letter-spacing="0.4" font-family="'JetBrains Mono',monospace" fill="#8A93A6">DIRECTION OF WEIGHT · READ THE TREND</text>
+  </g>
+
+  <!-- ===================== LEVER 3 · FAT (FLOOR + CEILING BAND) ===================== -->
+  <g id="lever-fat">
+    <circle cx="580" cy="234" r="13" fill="none" stroke="#2BD4C4" stroke-width="1.6"/>
+    <text x="580" y="239" text-anchor="middle" font-size="15" font-family="'JetBrains Mono',monospace" fill="#2BD4C4">3</text>
+    <text x="602" y="232" font-size="18" font-weight="700" fill="#E6E8EE">FAT</text>
+    <text x="602" y="250" font-size="11" letter-spacing="1" font-family="'JetBrains Mono',monospace" fill="#8A93A6">FLOOR-AND-CEILING BAND</text>
+
+    <!-- track -->
+    <rect x="652" y="278" width="28" height="492" rx="6" fill="#121829" stroke="#2A3550" stroke-width="1.4"/>
+    <!-- amber ceiling temptation zone (above safe band) -->
+    <rect x="652" y="298" width="28" height="42" fill="url(#amberHatch)"/>
+    <!-- safe travel band 1.0-1.4 dim cyan -->
+    <rect x="652" y="340" width="28" height="123" fill="#2BD4C4" opacity="0.10"/>
+    <!-- floor band 0.8-1.0 bright cyan -->
+    <rect x="652" y="463" width="28" height="61" fill="#2BD4C4" opacity="0.22"/>
+    <rect x="652" y="463" width="28" height="61" fill="none" stroke="#2BD4C4" stroke-width="1.1" opacity="0.7"/>
+    <!-- below floor dim -->
+    <rect x="652" y="524" width="28" height="246" fill="#161b2b" opacity="0.6"/>
+    <!-- ceiling detent (amber) -->
+    <line x1="642" y1="340" x2="690" y2="340" stroke="#E8A23D" stroke-width="2.6"/>
+    <path d="M642 340 l8 7 l0 -14 z" fill="#E8A23D"/>
+    <!-- floor detent (cyan) -->
+    <line x1="642" y1="524" x2="690" y2="524" stroke="#2BD4C4" stroke-width="2.8" filter="url(#glow)"/>
+    <path d="M642 524 l8 -7 l0 14 z" fill="#2BD4C4"/>
+
+    <!-- ticks / labels -->
+    <g font-family="'JetBrains Mono',monospace" font-size="11">
+      <text x="694" y="320" fill="#E8A23D" font-size="10">↑ OVERSHOOT</text>
+      <text x="694" y="332" fill="#E8A23D" font-size="10">9 kcal/g</text>
+      <line x1="680" y1="463" x2="688" y2="463" stroke="#2BD4C4" stroke-width="1.3"/>
+      <text x="694" y="467" fill="#2BD4C4">1.0</text>
+      <line x1="680" y1="524" x2="688" y2="524" stroke="#2BD4C4" stroke-width="1.3"/>
+      <text x="694" y="528" fill="#2BD4C4" font-weight="700">0.8</text>
+    </g>
+    <text x="694" y="495" font-size="11" font-weight="700" font-family="'JetBrains Mono',monospace" fill="#2BD4C4">FLOOR</text>
+    <text x="694" y="356" font-size="9.5" font-family="'JetBrains Mono',monospace" fill="#E8A23D">easiest to</text>
+    <text x="694" y="368" font-size="9.5" font-family="'JetBrains Mono',monospace" fill="#E8A23D">overshoot</text>
+    <text x="694" y="380" font-size="9.5" font-family="'JetBrains Mono',monospace" fill="#E8A23D">on a cut</text>
+    <text x="694" y="556" font-size="9.5" font-family="'JetBrains Mono',monospace" fill="#7d869c">below floor:</text>
+    <text x="694" y="568" font-size="9.5" font-family="'JetBrains Mono',monospace" fill="#7d869c">hormones ·</text>
+    <text x="694" y="580" font-size="9.5" font-family="'JetBrains Mono',monospace" fill="#7d869c">A·D·E·K ·</text>
+    <text x="694" y="592" font-size="9.5" font-family="'JetBrains Mono',monospace" fill="#7d869c">membranes</text>
+
+    <!-- lever arm + knob at 0.9 (in floor band) -->
+    <line x1="628" y1="493" x2="704" y2="493" stroke="#2BD4C4" stroke-width="3"/>
+    <circle cx="666" cy="493" r="9" fill="#0B0F1A" stroke="#2BD4C4" stroke-width="2.4" filter="url(#glow)"/>
+
+    <!-- tag -->
+    <text x="666" y="792" text-anchor="middle" font-size="11" letter-spacing="0.3" font-family="'JetBrains Mono',monospace" fill="#2BD4C4">HOLD FLOOR · RESPECT CEILING</text>
+  </g>
+
+  <!-- ===================== LEVER 4 · CARBS (FLEX REMAINDER) ===================== -->
+  <g id="lever-carbs">
+    <circle cx="833" cy="234" r="13" fill="none" stroke="#2BD4C4" stroke-width="1.6"/>
+    <text x="833" y="239" text-anchor="middle" font-size="15" font-family="'JetBrains Mono',monospace" fill="#2BD4C4">4</text>
+    <text x="855" y="232" font-size="18" font-weight="700" fill="#E6E8EE">CARBS</text>
+    <text x="855" y="250" font-size="11" letter-spacing="1" font-family="'JetBrains Mono',monospace" fill="#8A93A6">THE FLEX REMAINDER · COMPUTED, NOT SET</text>
+
+    <!-- free-travel slider (no detents) -->
+    <rect x="842" y="300" width="22" height="452" rx="6" fill="#121829" stroke="#2A3550" stroke-width="1.4"/>
+    <text x="853" y="322" text-anchor="middle" font-size="9" font-family="'JetBrains Mono',monospace" fill="#E8A23D">↑ BULK</text>
+    <text x="853" y="742" text-anchor="middle" font-size="9" font-family="'JetBrains Mono',monospace" fill="#7d869c">↓ CUT</text>
+    <line x1="830" y1="372" x2="876" y2="372" stroke="#2BD4C4" stroke-width="2.6"/>
+    <circle cx="853" cy="372" r="8.5" fill="#0B0F1A" stroke="#2BD4C4" stroke-width="2.2" filter="url(#glow)"/>
+
+    <!-- down-pipe from chain (remainder pours in) -->
+    <path d="M1040 192 V300 V452" fill="none" stroke="#2BD4C4" stroke-width="2" opacity="0.45"/>
+    <text x="1040" y="450" text-anchor="middle" font-size="13" fill="#2BD4C4" opacity="0.7">↓</text>
+
+    <!-- subtraction strip -->
+    <g font-family="'JetBrains Mono',monospace" font-size="13" xml:space="preserve">
+      <text x="888" y="324" font-size="10" fill="#59617A">SUBTRACTION — MADE LITERAL</text>
+      <text x="888" y="348" fill="#C9CEDA">TOTAL      2,800</text>
+      <text x="888" y="370" fill="#C9CEDA">−  PROTEIN   640</text>
+      <text x="888" y="392" fill="#C9CEDA">−  FAT       648</text>
+      <line x1="890" y1="402" x2="1058" y2="402" stroke="#3a465f" stroke-width="1.2"/>
+      <text x="888" y="424" fill="#E6E8EE">=          1,512</text>
+      <text x="888" y="446" fill="#8A93A6">÷ 4  kcal/g</text>
+    </g>
+
+    <!-- readout window -->
+    <rect x="882" y="458" width="210" height="112" rx="10" fill="#0E1f24" stroke="#2BD4C4" stroke-width="1.6"/>
+    <rect x="882" y="458" width="210" height="112" rx="10" fill="#2BD4C4" opacity="0.06"/>
+    <text x="987" y="484" text-anchor="middle" font-size="11" letter-spacing="2" font-family="'JetBrains Mono',monospace" fill="#7d869c">CARBS</text>
+    <text x="987" y="528" text-anchor="middle" font-size="40" font-weight="700" fill="#2BD4C4" filter="url(#glow)">378 g</text>
+    <text x="987" y="554" text-anchor="middle" font-size="11" font-family="'JetBrains Mono',monospace" fill="#2BD4C4">← WHAT'S LEFT</text>
+
+    <!-- tag -->
+    <text x="965" y="792" text-anchor="middle" font-size="11" letter-spacing="0.2" font-family="'JetBrains Mono',monospace" fill="#2BD4C4">WHAT'S LEFT · UP ON A BULK · DOWN ON A CUT</text>
+  </g>
+
+  <!-- ===================== DAY TICKET ===================== -->
+  <g id="dayticket">
+    <text x="1130" y="276" font-size="12" letter-spacing="1.5" font-family="'JetBrains Mono',monospace" fill="#8A93A6">DAY TICKET — PROOF THE BENCH OUTPUTS A REAL DAY</text>
+    <rect x="1130" y="286" width="414" height="212" rx="8" fill="#0E1426" stroke="#2A3550" stroke-width="1.4"/>
+    <line x1="1130" y1="306" x2="1544" y2="306" stroke="#223049" stroke-width="1" stroke-dasharray="4 4"/>
+    <g font-family="'JetBrains Mono',monospace" xml:space="preserve">
+      <text x="1148" y="334" font-size="16" font-weight="700" fill="#2BD4C4">80 kg · LEAN RECOMP</text>
+      <text x="1148" y="370" font-size="14.5" fill="#E6E8EE">PROTEIN  160 g    640 kcal  <tspan fill="#8A93A6">← 2.0 g/kg</tspan></text>
+      <text x="1148" y="398" font-size="14.5" fill="#E6E8EE">FAT       72 g    648 kcal  <tspan fill="#8A93A6">← 0.9 g/kg</tspan></text>
+      <text x="1148" y="426" font-size="14.5" fill="#E6E8EE">CARBS    378 g  1,512 kcal  <tspan fill="#2BD4C4">← what's left</tspan></text>
+      <line x1="1148" y1="440" x2="1526" y2="440" stroke="#2A3550" stroke-width="1.2"/>
+      <text x="1148" y="470" font-size="15" font-weight="700" fill="#2BD4C4">TOTAL ≈ 2,800 kcal  <tspan fill="#8A93A6" font-weight="400">maintenance</tspan></text>
+    </g>
+
+    <!-- tolerance stamp -->
+    <rect x="1130" y="512" width="414" height="64" rx="8" fill="#0c1322" stroke="#2BD4C4" stroke-width="1.2" stroke-dasharray="5 4" opacity="0.9"/>
+    <text x="1148" y="540" font-size="13.5" font-weight="700" font-family="'JetBrains Mono',monospace" fill="#2BD4C4">TOLERANCE  ±5% PROTEIN · ±10% THE REST</text>
+    <text x="1148" y="560" font-size="11" font-style="italic" fill="#8A93A6">to the gram is contest prep — within a band is for everyone else</text>
+
+    <!-- malaysian readout -->
+    <rect x="1130" y="590" width="414" height="60" rx="8" fill="#0c1322" stroke="#243049" stroke-width="1.2"/>
+    <text x="1148" y="616" font-size="12.5" font-family="'JetBrains Mono',monospace" fill="#E6E8EE">MALAYSIA · PROTEIN FLOOR ≈ &lt; RM 15 / DAY</text>
+    <text x="1148" y="636" font-size="11" font-family="'JetBrains Mono',monospace" fill="#8A93A6">eggs + chicken + OTG / HK whey</text>
+
+    <!-- Part-1 trend wire callback -->
+    <rect x="1130" y="664" width="414" height="92" rx="8" fill="#0a0f1c" stroke="#243049" stroke-width="1.2"/>
+    <text x="1148" y="690" font-size="11" letter-spacing="1" font-family="'JetBrains Mono',monospace" fill="#59617A">↳ WIRED TO PART 1 · THE SCOREBOARD</text>
+    <polyline points="1150,738 1180,730 1210,734 1240,722 1270,726 1300,712" fill="none" stroke="#2BD4C4" stroke-width="2"/>
+    <g fill="#2BD4C4"><circle cx="1150" cy="738" r="2.5"/><circle cx="1210" cy="734" r="2.5"/><circle cx="1300" cy="712" r="2.5"/></g>
+    <text x="1322" y="718" font-size="10.5" font-family="'JetBrains Mono',monospace" fill="#8A93A6">MEASURE THE TREND,</text>
+    <text x="1322" y="732" font-size="10.5" font-family="'JetBrains Mono',monospace" fill="#8A93A6">NOT A FORMULA</text>
+    <text x="1322" y="746" font-size="10.5" font-family="'JetBrains Mono',monospace" fill="#2BD4C4">→ tunes 2 · CALORIES</text>
+  </g>
+
+  <!-- ===================== FAD-DIET SHELF ===================== -->
+  <g id="fadshelf">
+    <text x="70" y="872" font-size="13" letter-spacing="1" font-family="'JetBrains Mono',monospace" fill="#E8A23D">THE FAD-DIET SHELF</text>
+    <text x="70" y="890" font-size="10.5" font-family="'JetBrains Mono',monospace" fill="#7d869c">MISCALIBRATED LEVERS — EACH FORCED PAST ITS OWN RULE</text>
+
+    <!-- KETO: carbs rammed to 0 -->
+    <text x="372" y="864" text-anchor="middle" font-size="9" font-family="'JetBrains Mono',monospace" fill="#7d869c">CARBS → 0</text>
+    <rect x="363" y="872" width="18" height="62" rx="4" fill="url(#amberHatch)" stroke="#9c7330" stroke-width="1.2"/>
+    <line x1="356" y1="926" x2="388" y2="926" stroke="#E8A23D" stroke-width="2.4"/>
+    <circle cx="372" cy="926" r="6" fill="#0B0F1A" stroke="#E8A23D" stroke-width="2"/>
+    <text x="372" y="952" text-anchor="middle" font-size="12" font-weight="700" font-family="'JetBrains Mono',monospace" fill="#E8A23D">KETO</text>
+
+    <!-- IF: can't reach protein floor -->
+    <text x="492" y="864" text-anchor="middle" font-size="9" font-family="'JetBrains Mono',monospace" fill="#7d869c">P &lt; FLOOR</text>
+    <rect x="483" y="872" width="18" height="62" rx="4" fill="url(#amberHatch)" stroke="#9c7330" stroke-width="1.2"/>
+    <line x1="476" y1="888" x2="508" y2="888" stroke="#2BD4C4" stroke-width="1.4" opacity="0.5" stroke-dasharray="3 3"/>
+    <line x1="476" y1="918" x2="508" y2="918" stroke="#E8A23D" stroke-width="2.4"/>
+    <circle cx="492" cy="918" r="6" fill="#0B0F1A" stroke="#E8A23D" stroke-width="2"/>
+    <text x="492" y="952" text-anchor="middle" font-size="12" font-weight="700" font-family="'JetBrains Mono',monospace" fill="#E8A23D">IF</text>
+
+    <!-- CARNIVORE: fiber to 0 -->
+    <text x="612" y="864" text-anchor="middle" font-size="9" font-family="'JetBrains Mono',monospace" fill="#7d869c">FIBER → 0</text>
+    <rect x="603" y="872" width="18" height="62" rx="4" fill="url(#amberHatch)" stroke="#9c7330" stroke-width="1.2"/>
+    <line x1="596" y1="926" x2="628" y2="926" stroke="#E8A23D" stroke-width="2.4"/>
+    <circle cx="612" cy="926" r="6" fill="#0B0F1A" stroke="#E8A23D" stroke-width="2"/>
+    <text x="612" y="952" text-anchor="middle" font-size="11" font-weight="700" font-family="'JetBrains Mono',monospace" fill="#E8A23D">CARNIVORE</text>
+
+    <!-- caption -->
+    <text x="720" y="896" font-size="14" font-family="'JetBrains Mono',monospace" fill="#C9A765">THEY "WORK" ONLY WHEN THEY ACCIDENTALLY</text>
+    <text x="720" y="918" font-size="14" font-family="'JetBrains Mono',monospace" fill="#C9A765">PULL A RIGHT LEVER — AND FAIL THE MOMENT</text>
+    <text x="720" y="940" font-size="14" font-family="'JetBrains Mono',monospace" fill="#C9A765">THEY BREAK ONE YOU NEEDED.</text>
+  </g>
+
+  <!-- ===================== THESIS ===================== -->
+  <g id="thesis">
+    <line x1="56" y1="972" x2="1544" y2="972" stroke="#27314A" stroke-width="1.5"/>
+    <text x="404" y="1002" font-size="18" font-weight="700" letter-spacing="0.5" font-family="'JetBrains Mono',monospace" fill="#E6E8EE">SET PROTEIN  <tspan fill="#2BD4C4">→</tspan>  SET CALORIES  <tspan fill="#2BD4C4">→</tspan>  HOLD FAT FLOOR  <tspan fill="#2BD4C4">→</tspan>  CARBS ARE WHAT'S LEFT</text>
+    <text x="800" y="1024" text-anchor="middle" font-size="12" letter-spacing="2" font-family="'JetBrains Mono',monospace" fill="#8A93A6">FOUR LEVERS · FOUR DIFFERENT RULES · ONE ORDER</text>
+  </g>
+</svg>

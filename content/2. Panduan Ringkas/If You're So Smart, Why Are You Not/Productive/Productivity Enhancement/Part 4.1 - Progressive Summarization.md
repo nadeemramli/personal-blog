@@ -90,6 +90,10 @@ The deep reason to do any of this is in the [[Part 1.0 - How Learning Actually H
 
 So the payoff is double. You get a knowledge base that's actually retrievable (summaries, not walls of highlight), *and* the act of maintaining it deepens the understanding itself. Re-reading gives you neither: it feels like learning, but it's the [[Part 1.1 - The Enemy of Productivity|Mindlessness]] enemy wearing a study costume. With the map sharp and the material organised, the last move in the knowledge layer is to make it *act*, not just inform, which is [[Part 4.2 - The Operating System|Part 4.2]].
 
+![[Poster — Productive - Productivity Enhancement Part 4.1 - Progressive Summarization.png]]
+
+*The whole chapter as one signal-conditioning bench: a raw, noisy capture is stripped stage by stage (RAW CAPTURE → BOLD → HIGHLIGHT → ONE LINE), then metabolised into a single living map node that climbs in resolution while its footprint stays fixed, with the right-margin meters carrying the punchline (RESOLUTION ↑ vs LENGTH →: **sharper, not longer**). The one red object is the note that's all highlight and no filtering, wired into a costly re-read loop (highlight everything = highlight nothing). Run the loop it diagrams, Encounter · Integrate · Link · Prune, every time you read something worth keeping.*
+
 ---
 > [!check] Part 4 Takeaways
 > - A note you must re-read in full has saved you nothing. The knowledge layer needs **summaries, not hoards**.

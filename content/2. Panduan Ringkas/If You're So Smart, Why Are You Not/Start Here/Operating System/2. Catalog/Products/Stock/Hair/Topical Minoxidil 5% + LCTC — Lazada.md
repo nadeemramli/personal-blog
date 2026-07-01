@@ -5,6 +5,7 @@ product_id: "topical-minoxidil-5pct-plus-lctc-lazada"
 compound: "Topical Minoxidil 5% + LCTC"
 aliases:
   - "Topical Minoxidil 5% + LCTC"
+  - "LCTC and Minoxidil 5%"
 name: "Topical Minoxidil 5% + LCTC"
 brand: ""
 vendor: "Lazada"

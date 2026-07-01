@@ -103,6 +103,10 @@ The **enhanced** treatment already exists, in the [[Part 3.0 - The Eight Anaboli
 
 The androgen receptor is the cleanest example of the split. Here, in [[Part 5.0 - The Androgen Receptor|Part 5.0]], the question is receptor **density and sensitivity**: how a natural lifter gets more anabolism out of the testosterone he already makes. In PE, the question is receptor **occupancy**: what to put *on* those receptors. Same receptor, two doors. This series owns the first; PE owns the second.
 
+![[Poster — Fit - Aesthetic & Strength (Advance) Part 1.0 - The Engine Room.png]]
+
+*This panel is the whole framework on one board: four control loops (sensors, throttle, amplifier, switch) descending body-wide to molecular, with every turnable knob sitting only on the sensor side and all four feeding one master P-RATIO needle that swings between FAT and LEAN. The point it locks in: you operate the sensors, the loops do the rest, and the P-ratio is the output they compute, never a dial you set. Use it as a map: when progress stalls, don't grab the output, ask which sensor and which input (bias the ratio first, then defend the budget, then maximise signal per set).*
+
 ## How to read this series
 
 Each of the five system articles (Parts 2.0–6.0) follows the same fixed template, so they read as one body and you always know where you are:

@@ -119,6 +119,10 @@ Now the physiology, for the three claims above.
 
 You'll know the Physical Layer is solved when a work session has a particular *frictionlessness*: you sit down, everything you need is already visible across your screens or within reach on the desk, the room is cool enough that you forget your body, and ninety minutes pass without you standing up to find something or waiting on a spinning machine. ==The setup disappears, and only the work is left.== That disappearance is the whole goal. Once the base is invisible, the next layer (the workflow that decides *what* to put on those screens) is worth building. That's [[Part 3.0 - The Workflow Engine|Part 3.0]].
 
+*Here's the physical layer drawn as one rated workstation bay: the four subsystems you just built (screens, machine/RAM, desk, and the [[Part 2.0 - The Machine and the Room#The build: the room|room]]) as parts of a single enclosure carrying one attention current to finished work. Two things to read off it: the thermal derating ceiling that caps your output no matter how hard you push (the [[Part 2.0 - The Machine and the Room#Why it works: the mechanism|mechanism]] behind the heat lever), and the cost-inversion ledger where the cheapest fixes seal the biggest leaks (order of leverage, not price, from the [[Part 2.0 - The Machine and the Room#The Malaysian costing|Malaysian costing]]). Its one red mark is the willpower knob failing against the heat: you can't out-discipline the room. Pin it up and commission the bay until the setup disappears and only the work is left.*
+
+![[Poster — Productive - Productivity Enhancement Part 2.0 - The Machine and the Room.png]]
+
 ---
 > [!check] Part 2 Takeaways
 > - The Physical Layer is the **base of the stack**: cheap, boring, and impossible to out-discipline.

@@ -181,6 +181,10 @@ If you're already overwhelmed by the size of that dashboard, here is the reassur
 
 The single highest-leverage thing you can do for the entire dashboard is to **lower your resting heart rate before bed.** It sounds small. It isn't. A low pre-sleep heart rate produces better sleep; better sleep restores the self-control that makes you train and eat well; training and eating well improve nearly every other marker on the list, *including* your resting heart rate, which closes the loop and spins it upward. A high pre-sleep heart rate runs the same loop in reverse, downward. ==One lever sits at the bottom of the whole cascade, and it costs nothing.== That is [[Part 2.0 - The One Lever|Part 2.0]], and it's the most important practical article in this series.
 
+![[Poster — Healthy - Blueprint Part 1.0 - What Healthy Actually Is.png]]
+
+*The poster is this whole hub on one screen: the warm `HOW YOU FEEL · FINE` light glowing on top while the six system channels (body comp, cardiovascular, metabolic, reproductive, bio-age, recovery) slide silently into the red beneath it across a years axis, and the one saturated-red `YOU FEEL IT HERE` marker landing years downstream of where each number already crossed. Off to the sides sit the three budgets (money, time, PEACE) and the free first lever, `START HERE: lower resting HR before bed`. Keep it where you can see it: feelings lag, numbers lead.*
+
 ---
 ## Part 1 Takeaways
 

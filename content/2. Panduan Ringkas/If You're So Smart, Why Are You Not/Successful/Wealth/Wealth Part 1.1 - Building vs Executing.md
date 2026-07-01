@@ -1,6 +1,6 @@
 ---
-title: "Wealth Part 1.1 - Building vs Executing"
-draft: true
+title: Wealth Part 1.1 - Building vs Executing
+draft: false
 tags:
   - successful
   - wealth

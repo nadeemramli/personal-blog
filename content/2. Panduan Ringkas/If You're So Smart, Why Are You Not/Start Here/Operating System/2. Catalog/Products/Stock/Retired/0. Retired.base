@@ -1,0 +1,14 @@
+filters:
+  and:
+    - 'type == "product"'
+    - 'stack == "Retired"'
+views:
+  - type: table
+    name: Retired
+    order:
+      - file.name
+      - brand
+      - status
+      - stock_on_hand
+      - cost_per_bottle
+      - notes

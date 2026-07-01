@@ -1,0 +1,228 @@
+<svg viewBox="0 0 1640 1320" xmlns="http://www.w3.org/2000/svg" font-family="Inter, 'Liberation Sans', 'DejaVu Sans', sans-serif">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#121A23" stroke-width="1"/>
+    </pattern>
+    <marker id="ahCyan" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0,0 L6.5,3 L0,6 z" fill="#2DD4BF"/></marker>
+    <marker id="ahOff" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0,0 L6.5,3 L0,6 z" fill="#C6D0DA"/></marker>
+    <marker id="ahGrey" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0,0 L6.5,3 L0,6 z" fill="#5C6B7A"/></marker>
+    <marker id="ahRed" markerWidth="10" markerHeight="10" refX="6.5" refY="3" orient="auto"><path d="M0,0 L6.5,3 L0,6 z" fill="#FF5C5C"/></marker>
+    <linearGradient id="busFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C6D0DA"/><stop offset="0.7" stop-color="#7C8896"/><stop offset="1" stop-color="#3A4753"/>
+    </linearGradient>
+    <linearGradient id="costGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5C6B7A"/><stop offset="1" stop-color="#E8A23D"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1640" height="1320" fill="#0B0F14"/>
+  <rect x="0" y="0" width="1640" height="1320" fill="url(#grid)" opacity="0.5"/>
+
+  <text x="56" y="58" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="15" letter-spacing="1.5" fill="#8A97A6">IF YOU'RE SO SMART, WHY ARE YOU NOT  ·  PRODUCTIVE / PRODUCTIVITY ENHANCEMENT  ·  PART 7.1</text>
+  <text x="54" y="132" font-size="65" font-weight="600" letter-spacing="-0.5" fill="#E6ECF2">CLIMB <tspan fill="#2DD4BF">ONLY</tspan> WHEN YOU MUST.</text>
+  <text x="56" y="174" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="16.5" letter-spacing="0.4" fill="#A7B2BF">FOUR HARNESSES.  EACH ADDS ONE ORGAN OF AUTONOMY.  PICK THE SMALLEST THAT FITS.</text>
+  <text x="1584" y="58" text-anchor="end" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="14" fill="#8A97A6">FIG. 7.1 — PROGRESSIVE-DETACHMENT / SELF-SUFFICIENCY BENCH</text>
+  <text x="1584" y="80" text-anchor="end" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="13" fill="#5C6B7A">four configs of one worker · read left → right as the cords fall away</text>
+
+  <rect x="56" y="208" width="176" height="60" rx="9" fill="#0C1219" stroke="#7C8896" stroke-width="1.6"/>
+  <circle cx="84" cy="238" r="11" fill="none" stroke="#C6D0DA" stroke-width="2"/><circle cx="84" cy="234" r="4" fill="#C6D0DA"/><path d="M76,250 q8,-9 16,0" fill="none" stroke="#C6D0DA" stroke-width="2"/>
+  <text x="106" y="233" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="15" font-weight="700" fill="#E6ECF2">OPERATOR</text>
+  <text x="106" y="252" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12.5" fill="#8A97A6">· YOU ·</text>
+  <line x1="232" y1="238" x2="1132" y2="238" stroke="url(#busFade)" stroke-width="2.2"/>
+  <text x="240" y="228" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#5C6B7A">operator's reach — taps fewer cords each bay →</text>
+
+  <g fill="#2DD4BF" opacity="0.8" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="22" font-weight="700" text-anchor="middle">
+    <text x="343" y="566">▸</text><text x="713" y="566">▸</text><text x="1133" y="566">▸</text>
+  </g>
+
+  <rect x="60" y="355" width="270" height="410" rx="12" fill="#0C1219" stroke="#38444F" stroke-width="1.5"/>
+  <text x="80" y="390" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="18" font-weight="700" fill="#E6ECF2">L1 · CHAT</text>
+  <text x="80" y="412" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12.5" fill="#7C8896">+ NOTHING · you drive every step</text>
+  <g stroke="#C6D0DA" stroke-width="1.8" opacity="0.92">
+    <line x1="160" y1="238" x2="160" y2="470" marker-end="url(#ahOff)"/>
+    <line x1="196" y1="238" x2="196" y2="470" marker-end="url(#ahOff)"/>
+    <line x1="232" y1="238" x2="232" y2="470" marker-end="url(#ahOff)"/>
+  </g>
+  <text x="196" y="448" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#C6D0DA">TRIGGER · MEMORY · LOOP</text>
+  <rect x="112" y="476" width="166" height="120" rx="6" fill="none" stroke="#6E7C8A" stroke-width="1.4"/>
+  <text x="195" y="618" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#9CA8B5">BOUND BY: ONE SESSION</text>
+  <rect x="132" y="494" width="126" height="84" rx="7" fill="#10161D" stroke="#5C6B7A" stroke-width="1.8"/>
+  <circle cx="160" cy="524" r="10" fill="none" stroke="#7C8896" stroke-width="1.8"/><path d="M152,524 q8,-9 16,0 t16,0" fill="none" stroke="#6E7C8A" stroke-width="1.6"/>
+  <path d="M150,548 a13,9 0 1 0 26,0" fill="none" stroke="#6E7C8A" stroke-width="1.6" marker-end="url(#ahGrey)"/>
+  <text x="222" y="520" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#7C8896">AGENT</text>
+  <text x="222" y="533" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#7C8896">CORE</text>
+  <text x="216" y="566" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="8.5" fill="#5C6B7A">model→loop</text>
+  <g transform="translate(265,560)"><path d="M0,4 a9,9 0 1 1 3,7" fill="none" stroke="#5C6B7A" stroke-width="1.6"/><path d="M0,-3 L0,5 L7,5" fill="none" stroke="#5C6B7A" stroke-width="1.6"/></g>
+  <g font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12.5" fill="#8A97A6">
+    <text x="80" y="660">you are the loop, the memory</text>
+    <text x="80" y="680">&amp; the scheduler.</text>
+    <text x="80" y="712" fill="#6E7C8A">session ends → all forgotten</text>
+    <text x="80" y="731" fill="#6E7C8A">nothing persists.</text>
+  </g>
+
+  <rect x="356" y="355" width="344" height="410" rx="12" fill="#0C1219" stroke="#38444F" stroke-width="1.5"/>
+  <text x="376" y="390" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="18" font-weight="700" fill="#E6ECF2">L2 · PROJECTS / WORKSPACES</text>
+  <text x="376" y="412" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12.5" fill="#2DD4BF">+ PERSISTENT CONTEXT → 3.1</text>
+  <g stroke="#C6D0DA" stroke-width="1.8" opacity="0.92">
+    <line x1="470" y1="238" x2="470" y2="486" marker-end="url(#ahOff)"/>
+    <line x1="506" y1="238" x2="506" y2="486" marker-end="url(#ahOff)"/>
+  </g>
+  <text x="488" y="466" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" fill="#C6D0DA">TRIGGER · LOOP</text>
+  <path d="M600,238 q22,26 -2,40 q-20,12 4,24" fill="none" stroke="#5C6B7A" stroke-width="1.6"/>
+  <text x="612" y="300" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" fill="#5C6B7A">MEMORY ×</text>
+  <text x="612" y="315" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" fill="#5C6B7A">now onboard</text>
+  <rect x="404" y="486" width="262" height="118" rx="6" fill="none" stroke="#566472" stroke-width="1.3" stroke-dasharray="6 4"/>
+  <text x="535" y="626" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#9CA8B5">BOUND BY: A CONTEXT WINDOW</text>
+  <rect x="420" y="502" width="120" height="86" rx="7" fill="#0E1A1C" stroke="#2DD4BF" stroke-width="1.8"/>
+  <circle cx="448" cy="532" r="10" fill="none" stroke="#2DD4BF" stroke-width="1.8"/><path d="M440,532 q8,-9 16,0 t16,0" fill="none" stroke="#2DD4BF" stroke-width="1.6"/>
+  <path d="M438,556 a13,9 0 1 0 26,0" fill="none" stroke="#2DD4BF" stroke-width="1.6" marker-end="url(#ahCyan)"/>
+  <text x="510" y="528" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#A7B2BF">AGENT</text>
+  <text x="510" y="541" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#A7B2BF">CORE</text>
+  <rect x="552" y="506" width="98" height="78" rx="5" fill="#0E2422" stroke="#2DD4BF" stroke-width="1.8"/>
+  <rect x="560" y="514" width="82" height="9" rx="2" fill="#2DD4BF" opacity="0.5"/>
+  <rect x="560" y="528" width="82" height="9" rx="2" fill="#2DD4BF" opacity="0.35"/>
+  <rect x="560" y="542" width="60" height="9" rx="2" fill="#2DD4BF" opacity="0.25"/>
+  <text x="601" y="572" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="700" fill="#2DD4BF">MEMORY</text>
+  <g font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12.5" fill="#8A97A6">
+    <text x="376" y="662">the smallest harness worth building.</text>
+    <text x="376" y="682">save the context once · this blog runs here.</text>
+    <text x="376" y="714" fill="#7C8896">starts every run already knowing who you are.</text>
+  </g>
+
+  <rect x="726" y="355" width="394" height="410" rx="12" fill="#0C1219" stroke="#2DD4BF" stroke-width="1.7" opacity="0.95"/>
+  <rect x="726" y="355" width="394" height="410" rx="12" fill="none" stroke="#2DD4BF" stroke-width="3" opacity="0.12"/>
+  <text x="746" y="390" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="18" font-weight="700" fill="#E6ECF2">L3 · SCHEDULED / COWORKER</text>
+  <text x="746" y="412" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12.5" fill="#2DD4BF">+ ITS OWN TRIGGER · a clock or an event</text>
+  <line x1="922" y1="476" x2="922" y2="244" stroke="#2DD4BF" stroke-width="1.8" stroke-dasharray="5 4" marker-end="url(#ahCyan)"/>
+  <text x="934" y="320" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" fill="#2DD4BF">hands you</text>
+  <text x="934" y="335" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" fill="#2DD4BF">the result ↑</text>
+  <path d="M800,238 q20,24 -2,36 q-18,11 3,22" fill="none" stroke="#5C6B7A" stroke-width="1.5"/>
+  <text x="772" y="318" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" fill="#5C6B7A">cords cut ×</text>
+  <text x="772" y="333" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" fill="#5C6B7A">it wakes itself</text>
+  <rect x="752" y="478" width="338" height="112" rx="6" fill="none" stroke="#4C5966" stroke-width="1.2" stroke-dasharray="8 5"/>
+  <text x="921" y="612" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#9CA8B5">BOUND BY: A DEFINED TASK</text>
+  <rect x="766" y="494" width="112" height="82" rx="7" fill="#0E1A1C" stroke="#2DD4BF" stroke-width="1.8"/>
+  <circle cx="792" cy="522" r="9" fill="none" stroke="#2DD4BF" stroke-width="1.8"/><path d="M785,522 q7,-8 14,0 t14,0" fill="none" stroke="#2DD4BF" stroke-width="1.5"/>
+  <path d="M783,544 a12,8 0 1 0 24,0" fill="none" stroke="#2DD4BF" stroke-width="1.5" marker-end="url(#ahCyan)"/>
+  <text x="850" y="520" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#A7B2BF">CORE</text>
+  <rect x="888" y="498" width="74" height="74" rx="5" fill="#0E2422" stroke="#2DD4BF" stroke-width="1.6"/>
+  <rect x="895" y="506" width="60" height="8" rx="2" fill="#2DD4BF" opacity="0.5"/>
+  <rect x="895" y="518" width="60" height="8" rx="2" fill="#2DD4BF" opacity="0.32"/>
+  <text x="925" y="560" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" font-weight="700" fill="#2DD4BF">MEMORY</text>
+  <rect x="972" y="498" width="102" height="74" rx="5" fill="#0E2422" stroke="#2DD4BF" stroke-width="1.8"/>
+  <circle cx="1000" cy="528" r="15" fill="none" stroke="#2DD4BF" stroke-width="1.8"/>
+  <line x1="1000" y1="528" x2="1000" y2="518" stroke="#2DD4BF" stroke-width="1.8"/><line x1="1000" y1="528" x2="1008" y2="532" stroke="#2DD4BF" stroke-width="1.8"/>
+  <circle cx="1042" cy="514" r="3.5" fill="#2DD4BF"/><line x1="1042" y1="518" x2="1042" y2="540" stroke="#2DD4BF" stroke-width="1.6"/>
+  <text x="1023" y="562" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9.5" font-weight="700" fill="#2DD4BF">CLOCK · EVENT</text>
+  <g font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" fill="#A7B2BF">
+    <rect x="746" y="636" width="142" height="22" rx="11" fill="#0E1A1C" stroke="#2DD4BF" stroke-width="1" opacity="0.9"/><text x="817" y="651" text-anchor="middle">WEEKLY REVIEW → 3.0</text>
+    <rect x="898" y="636" width="128" height="22" rx="11" fill="#0E1A1C" stroke="#2DD4BF" stroke-width="1" opacity="0.9"/><text x="962" y="651" text-anchor="middle">EMAIL TRIAGE → 5.0</text>
+  </g>
+  <g font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#8A97A6">
+    <text x="746" y="688">it wakes itself — the work happens whether or</text>
+    <text x="746" y="706" fill="#A7B2BF">not you're thinking about it.  AI I use → AI that runs.</text>
+  </g>
+  <text x="921" y="736" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12" font-weight="700" fill="#2DD4BF">« THE JUMP THAT CHANGES EVERYTHING »</text>
+
+  <rect x="1146" y="355" width="439" height="410" rx="12" fill="#0B141A" stroke="#38444F" stroke-width="1.5"/>
+  <text x="1166" y="390" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="18" font-weight="700" fill="#E6ECF2">L4 · FULL RUNTIME</text>
+  <text x="1166" y="412" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12.5" fill="#2DD4BF">+ ITS OWN COMPUTER · a dedicated machine</text>
+  <g stroke="#C6D0DA" stroke-width="1.5" stroke-dasharray="4 4"><line x1="1365" y1="430" x2="1365" y2="462"/></g>
+  <circle cx="1365" cy="424" r="6" fill="none" stroke="#C6D0DA" stroke-width="1.6"/><line x1="1365" y1="430" x2="1365" y2="438" stroke="#C6D0DA" stroke-width="1.6"/><line x1="1365" y1="434" x2="1370" y2="434" stroke="#C6D0DA" stroke-width="1.6"/>
+  <text x="1380" y="428" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" fill="#8A97A6">GRANT ACCESS · authorise once</text>
+  <rect x="1166" y="466" width="400" height="132" rx="8" fill="#091416" stroke="#2DD4BF" stroke-width="1.6"/>
+  <rect x="1166" y="466" width="400" height="16" rx="8" fill="#2DD4BF" opacity="0.18"/>
+  <text x="1176" y="479" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" font-weight="700" fill="#2DD4BF">24/7 POWER RAIL · never sleeps</text>
+  <rect x="1180" y="498" width="78" height="84" rx="6" fill="#0E1A1C" stroke="#2DD4BF" stroke-width="1.5"/>
+  <circle cx="1203" cy="524" r="8" fill="none" stroke="#2DD4BF" stroke-width="1.6"/><path d="M1196,524 q7,-8 14,0" fill="none" stroke="#2DD4BF" stroke-width="1.4"/><path d="M1196,544 a11,7 0 1 0 22,0" fill="none" stroke="#2DD4BF" stroke-width="1.4"/>
+  <text x="1219" y="574" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9" fill="#A7B2BF">CORE+MEM+CLK</text>
+  <rect x="1270" y="498" width="138" height="84" rx="6" fill="#0E2422" stroke="#2DD4BF" stroke-width="1.5"/>
+  <path d="M1284,516 h26 l6,7 h22" fill="none" stroke="#2DD4BF" stroke-width="1.5"/><rect x="1284" y="523" width="54" height="34" rx="3" fill="none" stroke="#2DD4BF" stroke-width="1.4" opacity="0.7"/>
+  <text x="1339" y="574" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" font-weight="700" fill="#2DD4BF">FILE SYSTEM</text>
+  <rect x="1420" y="498" width="132" height="84" rx="6" fill="#0E2422" stroke="#2DD4BF" stroke-width="1.5"/>
+  <rect x="1456" y="516" width="60" height="40" rx="4" fill="none" stroke="#2DD4BF" stroke-width="1.5"/>
+  <g stroke="#2DD4BF" stroke-width="1.3"><line x1="1466" y1="510" x2="1466" y2="516"/><line x1="1486" y1="510" x2="1486" y2="516"/><line x1="1506" y1="510" x2="1506" y2="516"/><line x1="1466" y1="556" x2="1466" y2="562"/><line x1="1486" y1="556" x2="1486" y2="562"/><line x1="1506" y1="556" x2="1506" y2="562"/></g>
+  <text x="1486" y="574" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" font-weight="700" fill="#2DD4BF">COMPUTE</text>
+  <g stroke="#3A4753" stroke-width="1.3" stroke-dasharray="3 6">
+    <path d="M1158,470 v-8 h10" fill="none"/><path d="M1576,470 v-8 h-10" fill="none"/><path d="M1158,604 v8 h10" fill="none"/><path d="M1576,604 v8 h-10" fill="none"/>
+  </g>
+  <text x="1365" y="624" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#9CA8B5">BOUND BY: ALMOST NOTHING · 24/7</text>
+  <g font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12.5" fill="#8A97A6">
+    <text x="1166" y="664">its own VPS / machine · persistent · always on.</text>
+    <text x="1166" y="690" fill="#A7B2BF">an assistant you open  →  a worker that's simply</text>
+    <text x="1166" y="709" fill="#A7B2BF">always on.</text>
+  </g>
+
+  <text x="56" y="804" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="13" letter-spacing="0.5" fill="#5C6B7A">TASK-MATCH SELECTOR ▸ route each job UP to the smallest sufficient rung — don't reach past it</text>
+  <path d="M356,792 v-10 h764 v10" fill="none" stroke="#2DD4BF" stroke-width="1.6"/>
+  <text x="738" y="778" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12.5" font-weight="700" fill="#2DD4BF">MOST GAINS LIVE HERE</text>
+  <g font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5">
+    <line x1="195" y1="822" x2="195" y2="767" stroke="#2DD4BF" stroke-width="1.6" marker-end="url(#ahCyan)"/>
+    <rect x="80" y="822" width="230" height="44" rx="8" fill="#0E1A1C" stroke="#2DD4BF" stroke-width="1.3"/>
+    <text x="195" y="841" text-anchor="middle" font-weight="700" fill="#E6ECF2">ONE-OFF</text>
+    <text x="195" y="857" text-anchor="middle" fill="#8A97A6">don't build anything</text>
+    <line x1="528" y1="822" x2="528" y2="767" stroke="#2DD4BF" stroke-width="1.6" marker-end="url(#ahCyan)"/>
+    <rect x="380" y="822" width="296" height="44" rx="8" fill="#0E1A1C" stroke="#2DD4BF" stroke-width="1.3"/>
+    <text x="528" y="841" text-anchor="middle" font-weight="700" fill="#E6ECF2">RECURRING KIND OF WORK</text>
+    <text x="528" y="857" text-anchor="middle" fill="#8A97A6">save the context once</text>
+    <line x1="922" y1="822" x2="922" y2="767" stroke="#2DD4BF" stroke-width="1.6" marker-end="url(#ahCyan)"/>
+    <rect x="746" y="822" width="350" height="44" rx="8" fill="#0E1A1C" stroke="#2DD4BF" stroke-width="1.3"/>
+    <text x="921" y="841" text-anchor="middle" font-weight="700" fill="#E6ECF2">SAME JOB ON A CLOCK</text>
+    <text x="921" y="857" text-anchor="middle" fill="#8A97A6">give it a schedule</text>
+    <line x1="1365" y1="822" x2="1365" y2="767" stroke="#E8A23D" stroke-width="1.6" marker-end="url(#ahCyan)"/>
+    <rect x="1146" y="822" width="439" height="44" rx="8" fill="#0E1A1C" stroke="#E8A23D" stroke-width="1.3"/>
+    <text x="1365" y="841" text-anchor="middle" font-weight="700" fill="#E6ECF2">A PROVEN PROCESS THAT SHOULD NEVER SLEEP</text>
+    <text x="1365" y="857" text-anchor="middle" fill="#8A97A6">give it a machine — only after L3 proves it</text>
+  </g>
+
+  <text x="56" y="906" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="14" font-weight="700" fill="#E6ECF2">HIGHER <tspan fill="#FF8A8A">≠</tspan> BETTER  ·  HIGHER = MORE</text>
+  <text x="56" y="926" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#5C6B7A">the model is identical in every bay — only the harness around it grows</text>
+  <line x1="80" y1="1018" x2="1585" y2="1018" stroke="#2A3540" stroke-width="1.2"/>
+  <line x1="80" y1="958" x2="1585" y2="958" stroke="#C6D0DA" stroke-width="1.6" stroke-dasharray="7 5"/>
+  <text x="88" y="950" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#C6D0DA">MODEL CAPABILITY — FLAT · same model in every bay</text>
+  <g><circle cx="195" cy="958" r="3" fill="#C6D0DA"/><circle cx="528" cy="958" r="3" fill="#C6D0DA"/><circle cx="922" cy="958" r="3" fill="#C6D0DA"/><circle cx="1365" cy="958" r="3" fill="#C6D0DA"/></g>
+  <g>
+    <rect x="155" y="1000" width="80" height="18" fill="#5C6B7A"/>
+    <rect x="470" y="975" width="116" height="43" fill="url(#costGrad)" opacity="0.85"/>
+    <rect x="850" y="936" width="144" height="82" fill="url(#costGrad)" opacity="0.9"/>
+    <rect x="1255" y="902" width="220" height="116" fill="url(#costGrad)"/>
+  </g>
+  <text x="155" y="1036" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#8A97A6">SETUP COST / INFRASTRUCTURE  grows fat left → right — more to stand up, more to run</text>
+  <text x="1365" y="894" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" fill="#E8A23D">cost dwarfs the matched task</text>
+
+  <line x1="56" y1="1062" x2="1018" y2="1062" stroke="#2A3540" stroke-width="1"/>
+  <text x="56" y="1092" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="13.5" font-weight="700" fill="#E6ECF2">PICK THE SMALLEST HARNESS THE TASK PULLS FOR.</text>
+  <g font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#8A97A6">
+    <text x="56" y="1120">L1 CHAT · L2 PROJECTS · L3 SCHEDULED · L4 FULL RUNTIME</text>
+    <text x="56" y="1148" fill="#6E7C8A">← 3.1 instructions = the L2 memory  ·  4.0 / 4.1 knowledge it reaches  ·  6.0 match-the-rung discipline</text>
+    <text x="56" y="1176" fill="#2DD4BF">→ 7.2 persistent memory = state that survives across runs</text>
+  </g>
+  <text x="56" y="1210" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#5C6B7A">the agent doesn't get smarter up the bench — it gets more self-sufficient, and more expensive to stand up.</text>
+
+  <rect x="1044" y="1058" width="541" height="184" rx="10" fill="#160C0E" stroke="#FF5C5C" stroke-width="1.5" stroke-dasharray="9 5"/>
+  <text x="1064" y="1086" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="13" font-weight="700" fill="#FF5C5C">FAILURE MODE — OVER-PROVISIONING</text>
+  <g transform="translate(1070,1110)">
+    <path d="M0,18 q14,-22 28,0 q14,22 28,0 q14,-22 28,0" fill="none" stroke="#5C6B7A" stroke-width="1.8"/>
+    <path d="M6,30 q18,16 40,-2 q16,-12 36,4" fill="none" stroke="#4C5966" stroke-width="1.5"/>
+    <text x="42" y="62" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#6E7C8A">UNDEFINED</text>
+    <text x="42" y="75" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#6E7C8A">PROCESS</text>
+    <text x="42" y="88" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9" fill="#5C6B7A">never proven at L3</text>
+  </g>
+  <rect x="1190" y="1108" width="96" height="74" rx="6" fill="#091416" stroke="#FF5C5C" stroke-width="1.5"/>
+  <rect x="1190" y="1108" width="96" height="13" rx="6" fill="#FF5C5C" opacity="0.25"/>
+  <text x="1238" y="1118" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9" font-weight="700" fill="#FF8A8A">24/7</text>
+  <text x="1238" y="1150" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#A7B2BF">L4 MACHINE</text>
+  <text x="1238" y="1165" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9" fill="#8A97A6">full-tilt, non-stop</text>
+  <line x1="1158" y1="1145" x2="1188" y2="1145" stroke="#5C6B7A" stroke-width="1.8" marker-end="url(#ahGrey)"/>
+  <g stroke="#FF5C5C" stroke-width="2">
+    <line x1="1288" y1="1135" x2="1356" y2="1135" marker-end="url(#ahRed)"/>
+    <line x1="1288" y1="1147" x2="1356" y2="1147" marker-end="url(#ahRed)"/>
+    <line x1="1288" y1="1159" x2="1356" y2="1159" marker-end="url(#ahRed)"/>
+  </g>
+  <text x="1366" y="1140" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="14" font-weight="700" fill="#FF5C5C">PROBLEMS —</text>
+  <text x="1366" y="1160" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="14" font-weight="700" fill="#FF5C5C">CONTINUOUSLY</text>
+  <text x="1064" y="1212" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#FF8A8A">ALWAYS-ON OVER AN UNPROVEN PROCESS = PROBLEMS, NON-STOP.</text>
+  <text x="1064" y="1230" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#E8A23D">prove it at L3 first — then give it a machine.</text>
+
+  <text x="1585" y="1286" text-anchor="end" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#3A4753">FIG 7.1 · NEURAL SIGNAL SCHEMATIC · IF YOU'RE SO SMART, WHY ARE YOU NOT</text>
+</svg>

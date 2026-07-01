@@ -53,6 +53,7 @@ MB is deliberately **not** put in the ~06:00 fasted-cardio slot — keeping it �
 
 Never combine MB with:
 - **Antidepressants** — SSRIs/SNRIs (escitalopram, sertraline, fluoxetine, duloxetine), TCAs, other MAOIs.
+- 🔴 **Trazodone (in YOUR sleep stack)** — serotonergic antidepressant (SARI); + MB's MAO-A inhibition → **serotonin syndrome**. **Avoid on MB days entirely** — MB's 14–27 h half-life means same-day spacing isn't enough; don't run trazodone the night before, of, or after an MB dose. *(added 2026-06-19)*
 - **Serotonergic psychedelics / supplements** — MDMA, LSD, psilocybin, ayahuasca, **5-HTP, tryptophan**.
 - **Stimulants** — amphetamines (Adderall/Vyvanse), methylphenidate; MB amplifies them → cardiac strain, panic.
 - **Certain analgesics** — tramadol, meperidine, **dextromethorphan** (OTC cough syrup).
@@ -62,7 +63,7 @@ Never combine MB with:
 ### Daily cardiovascular / lipid meds
 | Compound | Risk w/ MB | Action |
 |---|---|---|
-| [[Nebivolol (2.5mg×100tab) — Jigar Healthcare\|Nebivolol]] (future) | 🚨 High | MB amplifies β-blocker hypotension + bradycardia → HR too low, dizzy spells. Watch closely / separate. |
+| [[Nebivolol (2.5mg×100tab) — Jigar Healthcare\|Nebivolol]] (**now in stock** — Nebiheal 5mg) | 🚨 High | MB amplifies β-blocker hypotension + bradycardia → HR too low, dizzy spells. Watch closely / separate. *(status updated 2026-06-19: was "future")* |
 | [[Irbesartan (150mg×120tab) — shopee-china\|Irbesartan]] 75mg | 🚨 High | compounded BP-lowering → hypotension/lethargy. Monitor BP. |
 | [[Tadalafil (10mg×100tab) — shopee-china\|Tadalafil]] 5mg | ⚠️ Mod | MB opposes the NO pathway tadalafil works on → blunted effect / BP volatility. Separate timing. |
 | [[Rosuvastatin (10mg×28tab) — shopee-china\|Rosuvastatin]] | ⚠️ Mod | MB's CYP effects can slow statin clearance → more muscle-soreness risk. |
@@ -80,7 +81,25 @@ Never combine MB with:
 | [[Caffeine (200mg×250tab) — iHerb\|Caffeine]] | ⚠️ Yellow | **cut 50–75%** — MB amplifies stimulants → jitters/panic, HR. |
 | [[Huperzine-A (200mcg×240tab) — iHerb\|Huperzine-A]] | ⚠️ Yellow | **drop or reduce** — MB has weak AChE-inhibition; + Hup-A + your high choline ([[Alpha-GPC (300mg×120tab) — iHerb\|Alpha-GPC]] / [[CDP-Choline (300mg×120tab) — iHerb\|CDP-Choline]]) → cholinergic overload (fog, twitches, headache). |
 | [[Acetyl L-Carnitine (500mg×180tab) — iHerb\|ALCAR]] | 🟢 Synergy | keep — elite mito energy pairing (electron carrier + fatty-acid shuttle). |
-| [[Uridine Monophosphate (300mg×60tab) — iHerb\|Uridine]] · [[Fish Oil (Omega-3) (1100mg×240softgel) — iHerb\|Omega-3]] · [[Creatine Monohydrate (1000g) — Shopee\|Creatine]] · [[L-Theanine (200mg×240tab) — iHerb\|L-Theanine]] · [[Bacopa Monnieri (500mg×120tab) — iHerb\|Bacopa]] | 🟢 Safe | keep — structural/ATP support; L-Theanine also buffers MB over-stim. |
+| [[Uridine Monophosphate (300mg×60tab) — iHerb\|Uridine]] · [[Fish Oil (Omega-3) (1100mg×240softgel) — iHerb\|Omega-3]] · [[Phosphatidylserine (100mg×120cap) — iHerb\|Phosphatidylserine]] · [[Creatine Monohydrate (1000g) — Shopee\|Creatine]] · [[L-Theanine (200mg×240tab) — iHerb\|L-Theanine]] · [[Bacopa Monnieri (500mg×120tab) — iHerb\|Bacopa]] | 🟢 Safe | keep — structural/ATP support; PS is compatible with MB days and is not a serotonergic/catecholamine amplifier. L-Theanine also buffers MB over-stim. |
+
+### Adrenergic / sympathomimetic stack — separate or reduce on MB days *(added 2026-06-19)*
+MB is an MAO-A inhibitor, so it stacks with anything that raises catecholamine tone → ↑BP/HR.
+
+| Item | Risk | On MB days |
+|---|---|---|
+| **Clenbuterol** | 🟠 Mod | β₂-agonist + MAOI → additive ↑HR/BP, arrhythmia risk. Separate; don't peak together; monitor BP/HR. |
+| **Mirabegron** | 🟠 Mod | β₃-agonist (raises BP on its own) + MAOI. Monitor BP; separate. |
+| **Nicotine (Nicorette)** | 🟠 Mod | triggers adrenal catecholamine release; MAOI amplifies the pressor effect. Avoid heavy use on MB days. |
+| **Modafinil (Modaheal)** | 🟠 Mod | dopaminergic/wakefulness stimulant; MAOI amplifies → BP/anxiety. Avoid concurrent. |
+| **Pre-Workout / Intra-Workout** | 🟠 Mod | likely caffeine/stimulant vehicles (± nitrates) → treat as caffeine; check labels, reduce on MB days. |
+| ⏸️ **Yohimbine** (currently paused) | 🔴 High | α₂-antagonist → norepinephrine surge + MAOI = **hypertensive crisis**. Paused now; **if reinstated, treat as a hard 🔴 — never run on MB days.** |
+
+### Mild / theoretical — monitor *(added 2026-06-19)*
+- **Ginkgo Biloba**, **Apigenin** — weak intrinsic MAO inhibition → additive with MB. Monitor.
+- **Melatonin** — serotonin-pathway metabolite; theoretical only. Monitor.
+- **Beet Root Powder** — nitrate → NO donor; MB opposes the NO/cGMP axis (same as tadalafil) → blunted effect. Monitor BP.
+- **T4 / T3 (Levothyroxine / Cytolin)** — thyroid sensitises tissue to catecholamines → additive adrenergic with an MAOI (separate issue from the absorption-timing conflict in §2). Keep dosing separated; monitor HR/BP.
 
 ## 5. Verdict
 

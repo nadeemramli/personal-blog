@@ -1,0 +1,261 @@
+<svg viewBox="0 0 1600 1000" xmlns="http://www.w3.org/2000/svg" font-family="'DejaVu Sans','Inter',system-ui,sans-serif">
+  <defs>
+    <radialGradient id="bgGrad" cx="42%" cy="38%" r="85%">
+      <stop offset="0%" stop-color="#10161E"/>
+      <stop offset="55%" stop-color="#0B0F14"/>
+      <stop offset="100%" stop-color="#070A0E"/>
+    </radialGradient>
+    <linearGradient id="cyanPipe" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1E9C8E"/>
+      <stop offset="100%" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <linearGradient id="vesselGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0F1620"/>
+      <stop offset="100%" stop-color="#0A0E13"/>
+    </linearGradient>
+    <linearGradient id="amberDrain" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E8A23D"/>
+      <stop offset="100%" stop-color="#B97C25"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 L0 0 L0 40" fill="none" stroke="#2DD4BF" stroke-width="0.5" opacity="0.05"/>
+    </pattern>
+    <pattern id="hatchAmber" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="8" stroke="#E8A23D" stroke-width="1.4" opacity="0.5"/>
+    </pattern>
+    <marker id="arrAmber" markerWidth="11" markerHeight="11" refX="7" refY="3" orient="auto">
+      <path d="M0,0 L7,3 L0,6 Z" fill="#E8A23D"/>
+    </marker>
+    <marker id="arrSlate" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto">
+      <path d="M0,0 L7,3 L0,6 Z" fill="#8A93A3"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="1600" height="1000" fill="url(#bgGrad)"/>
+  <rect x="0" y="0" width="1600" height="1000" fill="url(#grid)"/>
+  <rect x="0" y="0" width="1600" height="1000" fill="none" stroke="#2DD4BF" stroke-width="1" opacity="0.10"/>
+
+  <g id="header">
+    <text x="60" y="50" font-family="'DejaVu Sans Mono',monospace" font-size="14" fill="#2DD4BF" letter-spacing="3" opacity="0.85">HEALTHY · BLUEPRINT — THE PROTOCOL</text>
+    <text x="60" y="100" font-size="50" font-weight="700" fill="#E6E8EE" letter-spacing="1.5"><tspan fill="#2DD4BF">FOUR YOU BUILD.</tspan>  <tspan fill="#E8A23D">ONE YOU REMOVE.</tspan></text>
+    <text x="1540" y="44" text-anchor="end" font-family="'DejaVu Sans Mono',monospace" font-size="13" fill="#8A93A3" letter-spacing="1.5">Part 3 of 6 · Blueprint · THE PROTOCOL</text>
+    <text x="1540" y="68" text-anchor="end" font-family="'DejaVu Sans Mono',monospace" font-size="12" fill="#5E6675" letter-spacing="1">do fewer things, not more</text>
+    <line x1="60" y1="118" x2="1540" y2="118" stroke="#2DD4BF" stroke-width="1" opacity="0.22"/>
+  </g>
+
+  <g font-family="'DejaVu Sans Mono',monospace">
+    <text x="70" y="152" font-size="15" font-weight="700" fill="#2DD4BF" letter-spacing="2">▸ FOUR YOU BUILD</text>
+    <text x="70" y="170" font-size="11" fill="#6B7585" letter-spacing="1">ordered by leverage · all non-negotiable</text>
+    <text x="758" y="152" text-anchor="middle" font-size="13" font-weight="700" fill="#E6E8EE" letter-spacing="2">HELD IN RANGE</text>
+    <text x="1540" y="152" text-anchor="end" font-size="15" font-weight="700" fill="#E8A23D" letter-spacing="2">ONE YOU REMOVE ▸</text>
+    <text x="1540" y="170" text-anchor="end" font-size="11" fill="#6B7585" letter-spacing="1">subtraction, not addition</text>
+  </g>
+
+  <g fill="none" stroke="#2DD4BF" opacity="0.10" stroke-linecap="round">
+    <path d="M70 200 L520 200 C600 200, 620 362, 690 362" stroke-width="26"/>
+    <path d="M70 305 L520 305 C600 305, 620 408, 690 408" stroke-width="32"/>
+    <path d="M70 420 L520 420 C600 420, 620 452, 690 452" stroke-width="40"/>
+    <path d="M70 555 L520 555 C600 555, 620 500, 690 500" stroke-width="54"/>
+  </g>
+  <g fill="none" stroke="url(#cyanPipe)" stroke-linecap="round">
+    <path d="M70 200 L520 200 C600 200, 620 362, 690 362" stroke-width="14"/>
+    <path d="M70 305 L520 305 C600 305, 620 408, 690 408" stroke-width="20"/>
+    <path d="M70 420 L520 420 C600 420, 620 452, 690 452" stroke-width="28"/>
+    <path d="M70 555 L520 555 C600 555, 620 500, 690 500" stroke-width="42"/>
+  </g>
+  <g fill="none" stroke="#9CF3E6" stroke-linecap="round" opacity="0.55">
+    <path d="M80 197 L515 197" stroke-width="1.6"/>
+    <path d="M80 301 L515 301" stroke-width="1.8"/>
+    <path d="M80 415 L515 415" stroke-width="2"/>
+    <path d="M80 548 L515 548" stroke-width="2.4"/>
+  </g>
+
+  <g font-family="'DejaVu Sans Mono',monospace">
+    <circle cx="84" cy="176" r="12" fill="none" stroke="#2DD4BF" stroke-width="1.4"/>
+    <text x="84" y="181" text-anchor="middle" font-size="13" font-weight="700" fill="#2DD4BF">4</text>
+    <text x="106" y="181" font-size="17" font-weight="700" fill="#E6E8EE" letter-spacing="1">CONNECTION</text>
+    <text x="250" y="181" font-size="12" fill="#8A93A3">— is not soft</text>
+    <text x="70" y="232" font-size="12.5" fill="#9AA3B2">≈50% better survival ≈ quitting smoking (Holt-Lunstad)</text>
+    <text x="70" y="249" font-size="12.5" fill="#9AA3B2">multiple ties · scheduled · present</text>
+  </g>
+
+  <g font-family="'DejaVu Sans Mono',monospace">
+    <circle cx="84" cy="281" r="12" fill="none" stroke="#2DD4BF" stroke-width="1.4"/>
+    <text x="84" y="286" text-anchor="middle" font-size="13" font-weight="700" fill="#2DD4BF">3</text>
+    <text x="106" y="286" font-size="17" font-weight="700" fill="#E6E8EE" letter-spacing="1">EXERCISE</text>
+    <text x="222" y="286" font-size="12" fill="#8A93A3">— 6h/wk ideal · 20min/day floor</text>
+    <text x="70" y="337" font-size="12.5" fill="#9AA3B2">strength ≥ cardio · 0→20 min is the steepest part</text>
+    <text x="70" y="354" font-size="12.5" fill="#9AA3B2">of the curve — don't let perfect ruin much-better</text>
+  </g>
+
+  <g font-family="'DejaVu Sans Mono',monospace">
+    <circle cx="84" cy="394" r="12" fill="none" stroke="#2DD4BF" stroke-width="1.4"/>
+    <text x="84" y="399" text-anchor="middle" font-size="13" font-weight="700" fill="#2DD4BF">2</text>
+    <text x="106" y="399" font-size="17" font-weight="700" fill="#E6E8EE" letter-spacing="1">NUTRITION</text>
+    <text x="240" y="399" font-size="12" fill="#8A93A3">— every calorie fights for its life</text>
+    <text x="70" y="452" font-size="12.5" fill="#9AA3B2">decide AM · execute PM (build food systems)</text>
+    <text x="70" y="469" font-size="12.5" fill="#9AA3B2">protein↑ fibre↑ UPF↓ · last real meal −4h</text>
+    <text x="70" y="489" font-size="11" fill="#E8A23D" opacity="0.85">▸ KL 11pm mamak = the named exception (90/10)</text>
+  </g>
+
+  <g font-family="'DejaVu Sans Mono',monospace">
+    <circle cx="84" cy="527" r="13" fill="none" stroke="#2DD4BF" stroke-width="1.8"/>
+    <text x="84" y="532" text-anchor="middle" font-size="14" font-weight="700" fill="#2DD4BF">1</text>
+    <text x="108" y="533" font-size="20" font-weight="700" fill="#E6E8EE" letter-spacing="1">SLEEP</text>
+    <text x="200" y="533" font-size="12" fill="#8A93A3">— the #1 longevity drug · free, nightly</text>
+    <rect x="430" y="519" width="138" height="20" rx="3" fill="none" stroke="#8B7CF0" stroke-width="1" opacity="0.8"/>
+    <text x="499" y="533" text-anchor="middle" font-size="10.5" fill="#A99BF2" letter-spacing="0.5">← KEYSTONE · Part 2.0</text>
+    <text x="70" y="585" font-size="12.5" fill="#9AA3B2">7–9h ACTUAL · schedule the day around it</text>
+    <text x="70" y="602" font-size="12.5" fill="#9AA3B2">low stable sleeping RHR = the scoreboard</text>
+  </g>
+
+  <g font-family="'DejaVu Sans Mono',monospace">
+    <line x1="70" y1="624" x2="600" y2="624" stroke="#2DD4BF" stroke-width="0.8" opacity="0.25"/>
+    <text x="70" y="643" font-size="12" font-weight="700" fill="#2DD4BF" letter-spacing="1">FOUR YOU BUILD · ordered by leverage · ALL non-negotiable</text>
+    <text x="70" y="661" font-size="11" fill="#5E6675">add only after you've KEPT the basics for months</text>
+  </g>
+
+  <g id="core">
+    <rect x="690" y="300" width="136" height="266" rx="20" fill="url(#vesselGrad)" stroke="#2DD4BF" stroke-width="1.6" opacity="0.95"/>
+    <rect x="690" y="390" width="136" height="94" fill="#2DD4BF" opacity="0.12"/>
+    <line x1="690" y1="390" x2="826" y2="390" stroke="#2DD4BF" stroke-width="1" stroke-dasharray="5 4" opacity="0.6"/>
+    <line x1="690" y1="484" x2="826" y2="484" stroke="#2DD4BF" stroke-width="1" stroke-dasharray="5 4" opacity="0.6"/>
+    <text x="836" y="394" font-family="'DejaVu Sans Mono',monospace" font-size="9.5" fill="#2DD4BF" opacity="0.7">in-range</text>
+    <line x1="690" y1="437" x2="826" y2="437" stroke="#2DD4BF" stroke-width="3"/>
+    <circle cx="758" cy="437" r="6" fill="#2DD4BF"/>
+    <circle cx="758" cy="437" r="11" fill="none" stroke="#2DD4BF" stroke-width="1" opacity="0.5"/>
+    <path d="M690 460 C730 460, 740 524, 826 528" fill="none" stroke="#4A535F" stroke-width="1.4" stroke-dasharray="4 5" opacity="0.7"/>
+    <text x="758" y="552" text-anchor="middle" font-family="'DejaVu Sans Mono',monospace" font-size="9" fill="#4A535F">miss one → it droops</text>
+    <text x="758" y="600" text-anchor="middle" font-family="'DejaVu Sans Mono',monospace" font-size="13" font-weight="700" fill="#E6E8EE" letter-spacing="1">THE NUMBERS · HELD IN RANGE</text>
+    <text x="758" y="619" text-anchor="middle" font-family="'DejaVu Sans Mono',monospace" font-size="11" fill="#8A93A3">sleeping RHR ↓ · bloodwork in-range · bio-age flat</text>
+  </g>
+
+  <g id="drain">
+    <circle cx="868" cy="345" r="12" fill="none" stroke="#E8A23D" stroke-width="1.6"/>
+    <text x="868" y="350" text-anchor="middle" font-family="'DejaVu Sans Mono',monospace" font-size="13" font-weight="700" fill="#E8A23D">5</text>
+    <text x="890" y="350" font-family="'DejaVu Sans Mono',monospace" font-size="15" font-weight="700" fill="#E8A23D" letter-spacing="1">THINGS TO AVOID</text>
+    <text x="858" y="372" font-family="'DejaVu Sans Mono',monospace" font-size="11" fill="#9AA3B2">the opposite operation — you REMOVE, not supply</text>
+    <path d="M826 437 L1400 437" fill="none" stroke="url(#amberDrain)" stroke-width="16" stroke-linecap="round" opacity="0.30"/>
+    <path d="M826 437 L1400 437" fill="none" stroke="url(#amberDrain)" stroke-width="8" stroke-linecap="round"/>
+    <g stroke="#E8A23D" stroke-width="2" fill="none" opacity="0.85">
+      <path d="M980 437 l14 0" marker-end="url(#arrAmber)"/>
+      <path d="M1120 437 l14 0" marker-end="url(#arrAmber)"/>
+      <path d="M1260 437 l14 0" marker-end="url(#arrAmber)"/>
+    </g>
+    <g>
+      <rect x="893" y="417" width="26" height="40" rx="3" fill="#0B0F14" stroke="#E8A23D" stroke-width="1.6"/>
+      <line x1="906" y1="417" x2="906" y2="457" stroke="#E8A23D" stroke-width="2.4"/>
+      <text x="906" y="402" text-anchor="middle" font-family="'DejaVu Sans Mono',monospace" font-size="9.5" fill="#E8A23D">valve</text>
+    </g>
+    <text x="906" y="486" text-anchor="middle" font-family="'DejaVu Sans Mono',monospace" font-size="10.5" fill="#E8A23D" opacity="0.9">BRIGHT LINES &gt; NEGOTIATED LIMITS</text>
+    <text x="906" y="502" text-anchor="middle" font-family="'DejaVu Sans Mono',monospace" font-size="9.5" fill="#6B7585">"none" is easier to hold than "some"</text>
+    <g font-family="'DejaVu Sans Mono',monospace" font-size="10" fill="#E8A23D">
+      <g>
+        <rect x="960" y="527" width="92" height="22" rx="11" fill="none" stroke="#E8A23D" stroke-width="1" opacity="0.85"/>
+        <text x="1006" y="542" text-anchor="middle">UPF</text>
+      </g>
+      <g>
+        <rect x="1062" y="527" width="146" height="22" rx="11" fill="none" stroke="#E8A23D" stroke-width="1" opacity="0.85"/>
+        <text x="1135" y="542" text-anchor="middle">SMOKING / VAPING</text>
+      </g>
+      <g>
+        <rect x="1218" y="527" width="150" height="22" rx="11" fill="none" stroke="#E8A23D" stroke-width="1" opacity="0.85"/>
+        <text x="1293" y="542" text-anchor="middle">EXCESS ALCOHOL</text>
+      </g>
+      <g>
+        <rect x="978" y="558" width="178" height="22" rx="11" fill="none" stroke="#E8A23D" stroke-width="1" opacity="0.85"/>
+        <text x="1067" y="573" text-anchor="middle">COMPULSIVE SCROLLING</text>
+      </g>
+      <g>
+        <rect x="1166" y="558" width="178" height="22" rx="11" fill="none" stroke="#E8A23D" stroke-width="1" opacity="0.85"/>
+        <text x="1255" y="573" text-anchor="middle">ANYTHING ADDICTIVE</text>
+      </g>
+    </g>
+    <g>
+      <rect x="1400" y="404" width="74" height="66" rx="8" fill="#15110A" stroke="#E8A23D" stroke-width="1.6"/>
+      <rect x="1400" y="404" width="74" height="66" rx="8" fill="url(#hatchAmber)" opacity="0.5"/>
+      <line x1="1400" y1="420" x2="1474" y2="420" stroke="#E8A23D" stroke-width="1.4"/>
+      <text x="1437" y="488" text-anchor="middle" font-family="'DejaVu Sans Mono',monospace" font-size="9.5" fill="#8A93A3">sealed trap</text>
+    </g>
+  </g>
+
+  <g id="caddy" opacity="0.92">
+    <rect x="1156" y="182" width="384" height="118" rx="8" fill="#12161C" stroke="#3A434F" stroke-width="1.2" stroke-dasharray="6 5"/>
+    <text x="1170" y="204" font-family="'DejaVu Sans Mono',monospace" font-size="12" font-weight="700" fill="#7A828F" letter-spacing="1">EVERYTHING YOU'D ADD</text>
+    <text x="1170" y="221" font-family="'DejaVu Sans Mono',monospace" font-size="10" fill="#5E6675">unplugged · not connected · refused</text>
+    <g stroke="#4A535F" fill="none" stroke-width="1.3">
+      <rect x="1172" y="236" width="26" height="44" rx="4"/>
+      <rect x="1178" y="230" width="14" height="8" rx="2"/>
+      <rect x="1204" y="236" width="26" height="44" rx="4"/>
+      <rect x="1210" y="230" width="14" height="8" rx="2"/>
+      <path d="M1250 250 q0 30 8 30 h40 q8 0 8 -30"/>
+      <ellipse cx="1286" cy="250" rx="36" ry="8"/>
+      <circle cx="1360" cy="258" r="20"/>
+      <path d="M1360 258 L1360 245 M1360 258 L1372 263"/>
+      <rect x="1410" y="244" width="30" height="30" rx="7"/>
+      <path d="M1418 244 L1418 234 M1432 244 L1432 234 M1418 274 L1418 284 M1432 274 L1432 284"/>
+      <path d="M1466 280 l16 -34 l16 34 Z"/>
+    </g>
+    <g stroke="#3A434F" stroke-width="1.2">
+      <line x1="1198" y1="288" x2="1198" y2="296"/>
+      <line x1="1286" y1="288" x2="1286" y2="296"/>
+      <line x1="1360" y1="288" x2="1360" y2="296"/>
+    </g>
+    <line x1="1164" y1="296" x2="1500" y2="232" stroke="#3A434F" stroke-width="1.4" opacity="0.7"/>
+    <text x="1532" y="292" text-anchor="end" font-family="'DejaVu Sans Mono',monospace" font-size="10" fill="#6B7585">smallest you'll keep &gt; biggest you won't</text>
+  </g>
+
+  <g id="red-sin">
+    <path d="M1466 264 C1180 250, 980 250, 770 300" fill="none" stroke="#FF5C5C" stroke-width="2.6" stroke-dasharray="2 6" opacity="0.9"/>
+    <path d="M760 286 l-10 -16 l20 0 Z" fill="#FF5C5C"/>
+    <rect x="752" y="270" width="16" height="10" rx="2" fill="#FF5C5C"/>
+    <circle cx="760" cy="302" r="5" fill="none" stroke="#FF5C5C" stroke-width="2"/>
+    <text x="744" y="246" text-anchor="end" font-family="'DejaVu Sans Mono',monospace" font-size="11" font-weight="700" fill="#FF5C5C">ADD EXOTICA BEFORE BASICS =</text>
+    <text x="744" y="263" text-anchor="end" font-family="'DejaVu Sans Mono',monospace" font-size="11" fill="#FF8A8A">avoiding the boring habit that moves the number</text>
+  </g>
+
+  <g id="method" font-family="'DejaVu Sans Mono',monospace">
+    <g>
+      <rect x="70" y="700" width="372" height="46" rx="6" fill="#0E141B" stroke="#2DD4BF" stroke-width="1" opacity="0.95"/>
+      <text x="86" y="722" font-size="12" font-weight="700" fill="#2DD4BF">INSTALL ONE HABIT THIS MONTH</text>
+      <text x="86" y="738" font-size="10.5" fill="#8A93A3">not five at once — probably sleep first</text>
+    </g>
+    <g>
+      <rect x="458" y="700" width="392" height="46" rx="6" fill="#0E141B" stroke="#5E7585" stroke-width="1" opacity="0.95"/>
+      <text x="474" y="722" font-size="12" font-weight="700" fill="#B6C0CC">AUDIT · add only after months</text>
+      <text x="474" y="738" font-size="10.5" fill="#8A93A3">drop what isn't pulling weight — habits get audited</text>
+    </g>
+  </g>
+
+  <g id="ribbon">
+    <line x1="90" y1="905" x2="1300" y2="905" stroke="#3A434F" stroke-width="1"/>
+    <rect x="90" y="858" width="118" height="60" fill="url(#hatchAmber)" opacity="0.45"/>
+    <text x="149" y="848" text-anchor="middle" font-family="'DejaVu Sans Mono',monospace" font-size="10.5" font-weight="700" fill="#E8A23D">RESISTANCE</text>
+    <text x="149" y="935" text-anchor="middle" font-family="'DejaVu Sans Mono',monospace" font-size="9.5" fill="#9AA3B2">weeks · normal · → 3.1</text>
+    <polyline points="92,890 150,906 208,900 430,872 720,846 1050,820 1300,818" fill="none" stroke="#2DD4BF" stroke-width="2.6"/>
+    <g fill="#2DD4BF">
+      <circle cx="430" cy="872" r="5"/>
+      <circle cx="720" cy="846" r="5"/>
+      <circle cx="1050" cy="820" r="5"/>
+    </g>
+    <g font-family="'DejaVu Sans Mono',monospace">
+      <text x="430" y="892" text-anchor="middle" font-size="12" font-weight="700" fill="#E6E8EE">1 MONTH</text>
+      <text x="430" y="935" text-anchor="middle" font-size="10" fill="#8A93A3">mood · sleep · RHR↓ · no 4pm crash</text>
+      <text x="720" y="866" text-anchor="middle" font-size="12" font-weight="700" fill="#E6E8EE">6 MONTHS</text>
+      <text x="720" y="935" text-anchor="middle" font-size="10" fill="#8A93A3">body comp · bloodwork</text>
+      <text x="1050" y="840" text-anchor="middle" font-size="12" font-weight="700" fill="#E6E8EE">2–5 YEARS</text>
+      <text x="1050" y="935" text-anchor="middle" font-size="10" fill="#8A93A3">bio-age stops climbing with the calendar</text>
+    </g>
+    <g>
+      <line x1="1320" y1="888" x2="1356" y2="888" stroke="#8A93A3" stroke-width="1.6" marker-end="url(#arrSlate)"/>
+      <text x="1368" y="878" font-family="'DejaVu Sans Mono',monospace" font-size="12" font-weight="700" fill="#B6C0CC">→ Part 3.1</text>
+      <text x="1368" y="894" font-family="'DejaVu Sans Mono',monospace" font-size="10" fill="#8A93A3">systems, not willpower</text>
+      <text x="1368" y="909" font-family="'DejaVu Sans Mono',monospace" font-size="9" fill="#5E6675">easy to describe, hard to install</text>
+    </g>
+  </g>
+
+  <g>
+    <text x="758" y="968" text-anchor="middle" font-family="'DejaVu Sans Mono',monospace" font-size="20" font-weight="700" fill="#E6E8EE" letter-spacing="2"><tspan fill="#2DD4BF">FEWER, NOT MORE</tspan> · <tspan fill="#E8A23D">FOUR IN, ONE OUT</tspan> · SLEEP FIRST</text>
+    <text x="758" y="990" text-anchor="middle" font-family="'DejaVu Sans Mono',monospace" font-size="9.5" fill="#4A535F">the smallest protocol you'll actually keep beats the biggest one you won't · Holt-Lunstad 2010/2015 · Pagliai 2021 · WHO 2020 · 90/10 (Fit 4.0)</text>
+  </g>
+</svg>

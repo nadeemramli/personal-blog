@@ -84,6 +84,10 @@ A few rules that keep it working:
 > [!tip] The AI multiplier on PARA
 > Two wins. First, **filing**: an assistant can read a saved item and propose its bucket and the project or area it attaches to, so even the small filing decision is drafted for you. Second, and far bigger, **retrieval by meaning**: instead of remembering which folder something is in, you ask your knowledge base a question and it finds the relevant note regardless of where it's filed. That's RAG over your own vault, built in [[Part 5.0 - The Tactical Toolkit|Part 5.0]], and it's why the *filing* matters less than it used to while the *capturing* matters more. The next article, [[Part 4.1 - Progressive Summarization|Progressive Summarisation]], makes each note worth retrieving in the first place.
 
+![[Poster — Productive - Productivity Enhancement Part 4.0 - PARA.png]]
+
+*The whole knowledge layer on one board: a heat-graded bus that files by **when you'll act, not what it's about**, with Projects glowing hot and live, cooling through Areas and Resources down to a near-invisible Archives (the four arrows show how items migrate between buckets). The single red object is the finished project never swept out, still leaking noise into your active space (finished ≠ filed · archive aggressively). Keep it as your filing decision card: which of the four buckets, and for which project or area?*
+
 ---
 > [!check] Part 4 Takeaways
 > - The knowledge layer's one job is **retrieval**. A base you can't retrieve from is a hoard.

@@ -212,6 +212,10 @@ What you still do yourself:
 
 **Cost.** MacroFactor is a paid app (RM ~30/month, indicative). For most people who train hard, this is the single highest-ROI software subscription in this whole blog. For some, a spreadsheet works. The point is the loop, not the brand.
 
+![[Poster — Healthy - Nutrition Part 4.0 - Calorie Management - Bulk, Cut, Reverse.png]]
+
+*Here's the whole article rendered as one clinical chart-recorder: a single intake trace drifting between three bands (surplus, maintenance, deficit) over months, with a rate limiter on every switch. The signature device is the dashed true-maintenance line that quietly moves: it sags on the [[Part 4.0 - Calorie Management - Bulk, Cut, Reverse#The cut: pulling carbs and (last) fat|cut]] (adapts down, NEAT drops, 2,800 → 2,550) and only recovers on the way back, so the target you're steering toward has already shifted. At the end of the cut the trace forks into the poster's whole point: Path A, the violent switch (jump straight back, overshoot, rebound +5 kg in a month), against Path B, the [[Part 4.0 - Calorie Management - Bulk, Cut, Reverse#The reverse diet: from cut back to maintenance without ricochet|controlled reverse glide]] (add slow, carbs first, +50–100 kcal/week, settle clean), with the [[Part 4.0 - Calorie Management - Bulk, Cut, Reverse#The decision tree: bulk, cut, or maintain|phase selector]] ("run one direction 8–12 weeks") and [[Part 4.0 - Calorie Management - Bulk, Cut, Reverse#Reading the trend: what the weight is telling you|trend reader]] ("the day is noise, two weeks is signal") framing it. Pin it up before you end your next cut: the damage isn't the diet, it's how violently you switch.*
+
 ---
 ## Part 4 Takeaways
 

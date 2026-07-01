@@ -171,6 +171,10 @@ A working protein day costs less than people think, and you don't need to import
 
 The full Malaysian cost and meal-prep model lives in [[Part 5.0 - The Weekly System|Part 5]]. What matters at this stage is that the protein target is **financially feasible from a normal Malaysian grocery list**: eggs + chicken + the OTG/HK powder mix gets most lifters most of the way there for less than RM 15 a day.
 
+![[Poster — Healthy - Nutrition Part 2.0 - The Macros.png]]
+
+*Here's the whole method as one calibration bench: the four levers from Part 1 with their real numbers engraved, each shaped by its own rule, wired into one ordered calculation that ends in subtraction. Protein is a hard floor you set first ([[Part 2.0 - The Macros#Protein: the floor, not the ceiling|1.6–2.2 g/kg, never breached]]), calories are the direction, fat is a band held above a floor and below a ceiling ([[Part 2.0 - The Macros#Fat: still matters, and not just for hormones|0.8–1.0 g/kg at 9 kcal/g]]), and [[Part 2.0 - The Macros#Carbs: the flex lever|carbs are simply what's left]], printed out as the [[Part 2.0 - The Macros#A worked example: 80 kg, lean recomp|80 kg day ticket]]. Read it as an order, not a ratio: set protein, set calories, hold the fat floor, and the carbs fall out. Pin it up and run your own numbers down the same chain.*
+
 ---
 ## Part 2 Takeaways
 

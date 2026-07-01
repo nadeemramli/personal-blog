@@ -15,9 +15,9 @@ tags:
 
 | Item | Qty | Unit (RM) | Total (RM) | Remark |
 |---|---|---|---|---|
-| Equibolone | 2 | 180.00 | 360.00 |  |
-| MK677 | 1 | 159.00 | 159.00 |  |
-| Oxandrolin | 1 | 206.00 | 206.00 |  |
+| [[Boldenone Undecanoate (250mg-ml ×10ml) — kohohpharma\|Equibolone]] | 2 | 180.00 | 360.00 |  |
+| [[MK-677 (10mg×50tab) — kohohpharma\|MK677]] | 1 | 159.00 | 159.00 |  |
+| [[Oxandrolone (Anavar) (10mg×100tab) — kohohpharma\|Oxandrolin]] | 1 | 206.00 | 206.00 |  |
 | **TOTAL** | | | **RM725.00** | |
 
 ## Links

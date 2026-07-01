@@ -200,6 +200,10 @@ How the career flexibility gets *built* is the whole [[Part 1.0 - Allocation The
 > [!note] For the office-bound version
 > If WFH isn't your reality (yet), the stack still works; you just need to install it harder. A walking pad under a standing desk if you can. Stair climbs at every break. A real lunch break outside the building. A clear protected morning window for sun. The principle is the same: **stack tiny interventions into the structure of the day**, even an inflexible one.
 
+![[Poster — Healthy - Blueprint Part 3.1 - Building Systems and Breaking Bad Habits.png]]
+
+*Here's the whole engine as one clinical instrument: your willpower charge runs full in the morning and dies into the evening, so the move is to relocate every hard decision back to the strong end (morning sets the rules, evening just presses play) and re-grade the day's terrain so the healthy action runs downhill while the junk basin gets walled off. It maps the [[Part 3.1 - Building Systems and Breaking Bad Habits#The core principle: systems, not willpower|core principle]], the [[Part 3.1 - Building Systems and Breaking Bad Habits#Designing the environment|friction differential]], and the [[Part 3.1 - Building Systems and Breaking Bad Habits#The low-friction compounding stack|compounding break stack]] onto a single day, all standing on the schedule-sovereignty rail. Pin it up: you can't out-willpower your kitchen, so let the system carry you the ~66 days until it runs itself.*
+
 ---
 ## Part 3 Takeaways
 

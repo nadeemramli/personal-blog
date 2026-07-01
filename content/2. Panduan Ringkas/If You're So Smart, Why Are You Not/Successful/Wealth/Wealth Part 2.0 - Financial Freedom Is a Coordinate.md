@@ -1,6 +1,6 @@
 ---
-title: "Wealth Part 2.0 - Financial Freedom Is a Coordinate"
-draft: true
+title: Wealth Part 2.0 - Financial Freedom Is a Coordinate
+draft: false
 tags:
   - successful
   - wealth
@@ -94,6 +94,17 @@ This is where most frameworks stop. They tell you to save three to six months of
 ## Financial freedom is a coordinate
 
 Overlay the two axes and you are always at some `(layer, runway)` position. The goal is not to maximise a single number. It is to systematically move *right* on the horizontal axis, starting from the layers that matter most to you.
+
+The whole framework collapses into a single grid. Read it from the bottom row up (your foundation is the base) and from left to right (each column buys you more runway):
+
+| What you protect | Now (0) | 6 months | 1 year | 2 years | Capital-funded |
+|---|---|---|---|---|---|
+| Whole life (`E+F+C+X`) | exposed | Stage 5: everything, 6 mo | Stage 6: build a full year | two-year cushion | work is optional |
+| `+` Catalyst (`E+F+C`) | exposed | income tools held | earning power safe | income safe, 2 yr | self-funding |
+| **Engine `+` Shield (`E+F`)** *(what you live for)* | paycheck to paycheck | Stage 3: fear drops | Stage 4: layoff-proof | shock = non-event | floor self-funds |
+| Shield only (`E`) | survival, fragile | roof held, 6 mo | roof held, 1 yr | roof held, 2 yr | covered |
+
+The `E+F` row is the one that matters, because it holds the layers you actually live for. Funded for two years (the highlighted column), a layoff stops being a crisis and becomes something you can ride out twice over while you choose the next move. Build the bottom-left first, then ratchet right, and never let a secured column fall back down.
 
 This reframes a lot at once:
 

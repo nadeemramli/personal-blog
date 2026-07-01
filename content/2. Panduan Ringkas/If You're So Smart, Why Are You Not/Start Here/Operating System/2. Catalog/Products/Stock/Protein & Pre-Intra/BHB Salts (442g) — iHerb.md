@@ -7,9 +7,14 @@ name: "BHB Salts"
 aliases:
   - Beta-Hydroxybutyrate
   - Ketone Salts
-brand: ""
+  - "Nutricost, BHB Salts, 442 g"
+brand: "Nutricost"
 vendor: iHerb
 source: iHerb
+label_verified_as_of: 2026-06-19
+label_facts_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/bhb-salts-442g-iherb-supplement-facts.jpg"
+label_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/bhb-salts-442g-iherb-front.jpg"
+source_url: "https://nutricost.com/products/nutricost-ketone-bhb-salt-4-in-1-powder-20-servings"
 pillar: Fit
 sub_series: Performance Enhancement
 category: Amino/Pre
@@ -51,6 +56,24 @@ notes: "PURCHASED 2026-06-08 (iHerb PO, RM247.59, Nutricost 442g tub ≈ 40 serv
 
 Part of the pre-workout fuel stack with [[Glycerol (1000g) — Shopee|Glycerol]] + [[C8 MCT Powder (907g) — iHerb|C8 MCT Powder]] + [[Creatine Monohydrate (1000g) — Shopee|Creatine Monohydrate]] + [[HMB (500mg×240cap) — iHerb|HMB]].
 
+
+
+## Label Facts
+
+> [!info] Official label captured 2026-06-19
+> - Source: [Nutricost ? Nutricost Ketone BHB Salt 4-in-1 Powder](https://nutricost.com/products/nutricost-ketone-bhb-salt-4-in-1-powder-20-servings)
+> - Product image: ![[bhb-salts-442g-iherb-front.jpg]]
+> - Supplement facts image: ![[bhb-salts-442g-iherb-supplement-facts.jpg]]
+> - Brand dosage image: ![[bhb-salts-442g-iherb-dosage.jpg]]
+> - Package: Fruit Punch
+> - Serving size: see official Supplement Facts image
+> - Stock protocol use: 5.5 g/ITD
+
+| Label item | Amount |
+|---|---:|
+| Official Supplement Facts panel | See saved label image for complete powder formula |
+
+Other ingredients and full label cautions: see saved Supplement Facts panel image.
 
 ## Purchase Log
 

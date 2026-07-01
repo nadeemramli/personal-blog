@@ -5,6 +5,7 @@ product_id: "ethanol-99pct-carrier-1000ml-lazada"
 compound: "Ethanol 99% (carrier)"
 aliases:
   - "Ethanol 99% (carrier)"
+  - "Ethanol 99% 1L"
 name: "Ethanol 99% (carrier)"
 brand: ""
 vendor: "Lazada"

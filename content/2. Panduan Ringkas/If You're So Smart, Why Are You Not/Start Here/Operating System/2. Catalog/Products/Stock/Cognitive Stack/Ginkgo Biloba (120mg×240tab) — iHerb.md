@@ -5,10 +5,15 @@ product_id: "ginkgo-biloba-120mgx240tab-iherb"
 compound: "Ginkgo Biloba"
 aliases:
   - "Ginkgo Biloba"
+  - "Nutricost, Ginkgo Biloba, 120 mg, 240 Caps"
 name: "Ginkgo Biloba"
 brand: "Nutricost"
 vendor: "iHerb"
 source: "iHerb"
+label_verified_as_of: 2026-06-19
+label_facts_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/ginkgo-biloba-120mgx240tab-iherb-supplement-facts.jpg"
+label_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/ginkgo-biloba-120mgx240tab-iherb-front.jpg"
+source_url: "https://nutricost.com/products/nutricost-ginkgo-biloba-120mg-240-capsules"
 pillar: "Productive"
 sub_series: "Cognitive Enhancement"
 category: "Nootropic"
@@ -59,6 +64,24 @@ notes: ""
 |---|---|---|---|
 | early | 7 | RM0.22 | RM79.17 |
 
+
+
+## Label Facts
+
+> [!info] Official label captured 2026-06-19
+> - Source: [Nutricost ? Nutricost Ginkgo Biloba Capsules](https://nutricost.com/products/nutricost-ginkgo-biloba-120mg-240-capsules)
+> - Product image: ![[ginkgo-biloba-120mgx240tab-iherb-front.jpg]]
+> - Supplement facts image: ![[ginkgo-biloba-120mgx240tab-iherb-supplement-facts.jpg]]
+> - Brand dosage image: ![[ginkgo-biloba-120mgx240tab-iherb-dosage.jpg]]
+> - Package: Default Title
+> - Serving size: 1 tab (inferred from stock spec; verify against saved label image)
+> - Stock protocol use: 120 mg/EOD
+
+| Label item | Amount |
+|---|---:|
+| Ginkgo Biloba | 120 mg per tab |
+
+Other ingredients and full label cautions: see saved Supplement Facts panel image.
 
 ## Purchase Log
 

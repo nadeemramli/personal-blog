@@ -1,0 +1,257 @@
+<svg viewBox="0 0 1640 1320" xmlns="http://www.w3.org/2000/svg" font-family="Inter, 'Liberation Sans', 'DejaVu Sans', sans-serif">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#121A23" stroke-width="1"/>
+    </pattern>
+    <pattern id="md" width="78" height="58" patternUnits="userSpaceOnUse">
+      <text x="6" y="18" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="13" fill="#2DD4BF" opacity="0.07"># map</text>
+      <text x="10" y="40" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="13" fill="#2DD4BF" opacity="0.07">- [[ ]]</text>
+    </pattern>
+    <clipPath id="coreClip"><rect x="630" y="600" width="385" height="265" rx="14"/></clipPath>
+    <marker id="ahCyan" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0,0 L6.5,3 L0,6 z" fill="#2DD4BF"/></marker>
+    <marker id="ahCyanS" markerWidth="8" markerHeight="8" refX="6" refY="2.7" orient="auto"><path d="M0,0 L6,2.7 L0,5.4 z" fill="#2DD4BF"/></marker>
+    <marker id="ahOff" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0,0 L6.5,3 L0,6 z" fill="#C6D0DA"/></marker>
+    <marker id="ahAmber" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0,0 L6.5,3 L0,6 z" fill="#E8A23D"/></marker>
+    <marker id="ahGrey" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0,0 L6.5,3 L0,6 z" fill="#5C6B7A"/></marker>
+    <marker id="ahRed" markerWidth="10" markerHeight="10" refX="6.5" refY="3" orient="auto"><path d="M0,0 L6.5,3 L0,6 z" fill="#FF5C5C"/></marker>
+    <radialGradient id="coreGlow" cx="0.5" cy="0.5" r="0.62">
+      <stop offset="0" stop-color="#0E2A28"/><stop offset="1" stop-color="#091416"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1640" height="1320" fill="#0B0F14"/>
+  <rect x="0" y="0" width="1640" height="1320" fill="url(#grid)" opacity="0.5"/>
+
+  <!-- ============ HEADER ============ -->
+  <text x="56" y="56" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="15" letter-spacing="1.5" fill="#8A97A6">IF YOU'RE SO SMART, WHY ARE YOU NOT  ·  PRODUCTIVE / PRODUCTIVITY ENHANCEMENT  ·  PART 7.2</text>
+  <text x="54" y="128" font-size="64" font-weight="600" letter-spacing="-0.5" fill="#E6ECF2">YOUR VAULT IS THE <tspan fill="#2DD4BF">AGENT'S</tspan> VAULT.</text>
+  <text x="56" y="170" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="16.5" letter-spacing="0.4" fill="#A7B2BF">ONE SHARED STORE OF PLAIN-TEXT FILES.  TWO READERS.  THE STACK IS A LOOP, NOT A LADDER.</text>
+  <text x="1584" y="56" text-anchor="end" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="14" fill="#8A97A6">FIG. 7.2 — DUAL-PORT NON-VOLATILE SHARED MEMORY CORE</text>
+  <text x="1584" y="78" text-anchor="end" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12.5" fill="#5C6B7A">one core · two ports · the loop closes — series finale</text>
+  <rect x="1342" y="92" width="242" height="30" rx="6" fill="#0E1A1C" stroke="#2DD4BF" stroke-width="1" opacity="0.85"/>
+  <text x="1463" y="112" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#2DD4BF">THE LOOP CLOSES — ONE BRAIN, TWO READERS</text>
+
+  <!-- ============ RING / RIM : seven-layer stack bent into a closed loop ============ -->
+  <g id="ring">
+    <ellipse cx="820" cy="700" rx="742" ry="418" fill="none" stroke="#243039" stroke-width="2"/>
+    <ellipse cx="820" cy="700" rx="742" ry="418" fill="none" stroke="#2DD4BF" stroke-width="1" stroke-dasharray="2 16" opacity="0.35"/>
+    <text x="820" y="312" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#4C5966" letter-spacing="1">↺  THE SEVEN-LAYER STACK, BENT INTO A LOOP — EVERYTHING RETURNS TO THE CORE  ↺</text>
+
+    <!-- circulation arrowheads on the rim (clockwise) -->
+    <g fill="#34424E" font-size="20" font-family="monospace" text-anchor="middle">
+      <text x="1110" y="300">▸</text><text x="1110" y="1108">▸</text><text x="530" y="1112">◂</text><text x="528" y="300">◂</text>
+    </g>
+
+    <!-- node chips -->
+    <g font-family="'JetBrains Mono','DejaVu Sans Mono',monospace">
+      <!-- AI-AS-WORKER (top) -->
+      <rect x="712" y="252" width="216" height="40" rx="9" fill="#0C1219" stroke="#2DD4BF" stroke-width="1.4"/>
+      <circle cx="734" cy="272" r="7" fill="none" stroke="#2DD4BF" stroke-width="1.5"/><circle cx="734" cy="272" r="2.4" fill="#2DD4BF"/>
+      <text x="752" y="277" font-size="13.5" font-weight="700" fill="#E6ECF2">L7 · AI-AS-WORKER</text>
+      <!-- PHYSICAL (upper-left) -->
+      <rect x="206" y="372" width="176" height="38" rx="9" fill="#0C1219" stroke="#3A4753" stroke-width="1.3"/>
+      <text x="294" y="396" text-anchor="middle" font-size="13" font-weight="700" fill="#A7B2BF">L1 · PHYSICAL</text>
+      <!-- JIT (upper-right) -->
+      <rect x="1258" y="372" width="176" height="38" rx="9" fill="#0C1219" stroke="#3A4753" stroke-width="1.3"/>
+      <text x="1346" y="396" text-anchor="middle" font-size="13" font-weight="700" fill="#A7B2BF">L6 · JIT-PM</text>
+      <!-- WORKFLOW (lower-left) -->
+      <rect x="198" y="968" width="192" height="38" rx="9" fill="#0C1219" stroke="#3A4753" stroke-width="1.3"/>
+      <text x="294" y="992" text-anchor="middle" font-size="13" font-weight="700" fill="#A7B2BF">L3 · WORKFLOW ENGINE</text>
+      <!-- TACTICAL TOOLKIT (lower-right) -->
+      <rect x="1252" y="968" width="188" height="38" rx="9" fill="#0C1219" stroke="#3A4753" stroke-width="1.3"/>
+      <text x="1346" y="992" text-anchor="middle" font-size="13" font-weight="700" fill="#A7B2BF">L2 · TACTICAL TOOLKIT</text>
+      <!-- KNOWLEDGE SYSTEM (bottom / the weld) -->
+      <rect x="690" y="1088" width="260" height="44" rx="10" fill="#0E2422" stroke="#2DD4BF" stroke-width="1.8"/>
+      <text x="820" y="1108" text-anchor="middle" font-size="13.5" font-weight="700" fill="#2DD4BF">L4 · KNOWLEDGE SYSTEM</text>
+      <text x="820" y="1124" text-anchor="middle" font-size="10.5" fill="#9CA8B5">the plain-text vault YOU maintain — the fundamental</text>
+    </g>
+  </g>
+
+  <!-- ============ CLOSURE WELD : AI (top) writes back down into Knowledge (bottom) THROUGH the core ============ -->
+  <g id="weld">
+    <!-- top spoke : AI down into the core -->
+    <line x1="820" y1="294" x2="820" y2="402" stroke="#2DD4BF" stroke-width="2" stroke-dasharray="6 5" opacity="0.7" marker-end="url(#ahCyan)"/>
+    <text x="832" y="356" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" fill="#2DD4BF">the agent writes</text>
+    <text x="832" y="370" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" fill="#2DD4BF">back DOWN ↓</text>
+    <!-- bottom spoke : highlighted weld, core down into Knowledge -->
+    <line x1="820" y1="952" x2="820" y2="1086" stroke="#2DD4BF" stroke-width="3.4"/>
+    <line x1="813" y1="952" x2="813" y2="1086" stroke="#2DD4BF" stroke-width="1.2" opacity="0.5"/>
+    <line x1="827" y1="952" x2="827" y2="1086" stroke="#2DD4BF" stroke-width="1.2" opacity="0.5"/>
+    <g stroke="#2DD4BF" stroke-width="1.6" opacity="0.85"><line x1="806" y1="1006" x2="834" y2="1006"/><line x1="806" y1="1018" x2="834" y2="1018"/><line x1="806" y1="1030" x2="834" y2="1030"/></g>
+    <rect x="846" y="996" width="206" height="46" rx="8" fill="#0E1A1C" stroke="#2DD4BF" stroke-width="1.2"/>
+    <text x="858" y="1015" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" font-weight="700" fill="#2DD4BF">CLOSURE WELD</text>
+    <text x="858" y="1032" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#9CA8B5">human's vault = agent's vault</text>
+  </g>
+
+  <!-- ============ CONVERGENCE REVEAL : ONE STORE · TWO PORTS + struck-through separate memory ============ -->
+  <g id="reveal">
+    <!-- bracket spanning both ports -->
+    <path d="M380,470 v-22 h860 v22" fill="none" stroke="#2DD4BF" stroke-width="1.8"/>
+    <rect x="688" y="408" width="264" height="36" rx="18" fill="#0B0F14" stroke="#2DD4BF" stroke-width="1.6"/>
+    <text x="820" y="432" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="15" font-weight="700" fill="#2DD4BF">ONE STORE · TWO PORTS</text>
+
+    <!-- ghosted, struck-through "separate agent memory", rewired into the one core -->
+    <g opacity="0.95">
+      <rect x="1066" y="468" width="150" height="86" rx="9" fill="#0E1318" stroke="#5C6B7A" stroke-width="1.5" stroke-dasharray="6 4"/>
+      <g stroke="#4C5966" stroke-width="1.3"><rect x="1080" y="486" width="58" height="9" rx="2"/><rect x="1080" y="500" width="58" height="9" rx="2"/><rect x="1080" y="514" width="42" height="9" rx="2"/></g>
+      <text x="1175" y="496" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9" fill="#7C8896">2ND</text>
+      <text x="1175" y="508" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9" fill="#7C8896">DB?</text>
+      <line x1="1058" y1="560" x2="1224" y2="462" stroke="#FF8A8A" stroke-width="2.2" opacity="0.55"/>
+      <text x="1141" y="576" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" fill="#7C8896">AGENT'S OWN SEPARATE MEMORY</text>
+      <!-- rewire merging it down into the central core -->
+      <path d="M1066,524 C 980,540 1010,610 1014,648" fill="none" stroke="#5C6B7A" stroke-width="1.6" stroke-dasharray="5 4" marker-end="url(#ahCyan)"/>
+      <text x="952" y="556" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#5C6B7A">re-routed → merged</text>
+      <text x="952" y="570" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#5C6B7A">onto the one core</text>
+    </g>
+  </g>
+
+  <!-- ============ THE SHARED CORE (hero) ============ -->
+  <g id="core">
+    <rect x="618" y="588" width="409" height="289" rx="18" fill="none" stroke="#2DD4BF" stroke-width="1" opacity="0.18"/>
+    <rect x="630" y="600" width="385" height="265" rx="14" fill="url(#coreGlow)" stroke="#2DD4BF" stroke-width="2.4"/>
+    <rect x="630" y="600" width="385" height="265" rx="14" fill="url(#md)" clip-path="url(#coreClip)"/>
+
+    <!-- index rail (amber) along the top edge -->
+    <rect x="630" y="600" width="385" height="22" rx="6" fill="#1B1606" stroke="#E8A23D" stroke-width="1.1"/>
+    <g stroke="#E8A23D" stroke-width="1.4" opacity="0.9">
+      <line x1="652" y1="604" x2="652" y2="618"/><line x1="682" y1="604" x2="682" y2="618"/><line x1="712" y1="604" x2="712" y2="618"/><line x1="742" y1="604" x2="742" y2="618"/><line x1="772" y1="604" x2="772" y2="618"/><line x1="802" y1="604" x2="802" y2="618"/><line x1="832" y1="604" x2="832" y2="618"/><line x1="862" y1="604" x2="862" y2="618"/><line x1="892" y1="604" x2="892" y2="618"/><line x1="922" y1="604" x2="922" y2="618"/><line x1="952" y1="604" x2="952" y2="618"/><line x1="982" y1="604" x2="982" y2="618"/>
+    </g>
+    <text x="1006" y="615" text-anchor="end" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#E8A23D">INDEX — ONE LINE PER MEMORY</text>
+
+    <text x="640" y="640" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="14.5" font-weight="700" fill="#2DD4BF">SHARED MEMORY · PLAIN TEXT</text>
+
+    <!-- link traces (two-way) between cells -->
+    <g stroke="#1E8E82" stroke-width="1.3" opacity="0.8">
+      <line x1="730" y1="690" x2="744" y2="690" marker-start="url(#ahCyanS)" marker-end="url(#ahCyanS)"/>
+      <line x1="902" y1="690" x2="916" y2="690" marker-start="url(#ahCyanS)" marker-end="url(#ahCyanS)"/>
+      <line x1="730" y1="818" x2="744" y2="818" marker-start="url(#ahCyanS)" marker-end="url(#ahCyanS)"/>
+      <line x1="816" y1="818" x2="830" y2="818" marker-start="url(#ahCyanS)" marker-end="url(#ahCyanS)"/>
+      <line x1="866" y1="712" x2="866" y2="732" marker-start="url(#ahCyanS)" marker-end="url(#ahCyanS)"/>
+      <line x1="952" y1="712" x2="952" y2="732" marker-start="url(#ahCyanS)" marker-end="url(#ahCyanS)"/>
+    </g>
+    <!-- bright traversal pulse from the PROJECT cell out to its links -->
+    <g stroke="#2DD4BF" stroke-width="2" opacity="0.95">
+      <line x1="744" y1="754" x2="730" y2="754" marker-end="url(#ahCyanS)"/>
+      <line x1="816" y1="754" x2="830" y2="754" marker-end="url(#ahCyanS)"/>
+      <line x1="780" y1="732" x2="780" y2="712" marker-end="url(#ahCyanS)"/>
+      <line x1="780" y1="776" x2="780" y2="796" marker-end="url(#ahCyanS)"/>
+    </g>
+
+    <!-- CELLS : 4 cols x 3 rows, colour-typed (P pref off-white · S project-state cyan · D decision bright · R reference amber) -->
+    <!-- row 1 -->
+    <g font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9" font-weight="700">
+      <rect x="658" y="664" width="72" height="52" rx="5" fill="#0E2422" stroke="#2DD4BF" stroke-width="1.4"/><text x="664" y="678" fill="#2DD4BF">S</text><rect x="666" y="686" width="56" height="6" rx="2" fill="#2DD4BF" opacity="0.4"/><rect x="666" y="697" width="40" height="6" rx="2" fill="#2DD4BF" opacity="0.3"/>
+      <rect x="744" y="664" width="72" height="52" rx="5" fill="#1B1606" stroke="#E8A23D" stroke-width="1.4"/><text x="750" y="678" fill="#E8A23D">R</text><rect x="752" y="686" width="56" height="6" rx="2" fill="#E8A23D" opacity="0.4"/><rect x="752" y="697" width="40" height="6" rx="2" fill="#E8A23D" opacity="0.3"/>
+      <rect x="830" y="664" width="72" height="52" rx="5" fill="#10171E" stroke="#C6D0DA" stroke-width="1.4"/><text x="836" y="678" fill="#C6D0DA">P</text><rect x="838" y="686" width="56" height="6" rx="2" fill="#C6D0DA" opacity="0.35"/><rect x="838" y="697" width="40" height="6" rx="2" fill="#C6D0DA" opacity="0.25"/>
+      <rect x="916" y="664" width="72" height="52" rx="5" fill="#0E2422" stroke="#2DD4BF" stroke-width="1.4"/><text x="922" y="678" fill="#2DD4BF">S</text><rect x="924" y="686" width="56" height="6" rx="2" fill="#2DD4BF" opacity="0.4"/><rect x="924" y="697" width="40" height="6" rx="2" fill="#2DD4BF" opacity="0.3"/>
+      <!-- row 2 : PROJECT (hero traversal cell) at col2 -->
+      <rect x="658" y="728" width="72" height="52" rx="5" fill="#10171E" stroke="#C6D0DA" stroke-width="1.4"/><text x="664" y="742" fill="#C6D0DA">P</text><text x="694" y="760" text-anchor="middle" font-size="8" fill="#9CA8B5">people</text>
+      <rect x="744" y="728" width="72" height="52" rx="5" fill="#103A35" stroke="#2DD4BF" stroke-width="2.2"/><text x="750" y="742" fill="#2DD4BF">S</text><text x="780" y="762" text-anchor="middle" font-size="8.5" font-weight="700" fill="#E6ECF2">PROJECT</text>
+      <rect x="830" y="728" width="72" height="52" rx="5" fill="#0E2422" stroke="#2DD4BF" stroke-width="1.6"/><text x="836" y="742" fill="#2DD4BF">D</text><text x="866" y="760" text-anchor="middle" font-size="8" fill="#9CA8B5">decisions</text>
+      <rect x="916" y="728" width="72" height="52" rx="5" fill="#1B1606" stroke="#E8A23D" stroke-width="1.4"/><text x="922" y="742" fill="#E8A23D">R</text><rect x="924" y="750" width="56" height="6" rx="2" fill="#E8A23D" opacity="0.4"/><rect x="924" y="761" width="40" height="6" rx="2" fill="#E8A23D" opacity="0.3"/>
+      <!-- row 3 -->
+      <rect x="658" y="792" width="72" height="52" rx="5" fill="#10171E" stroke="#C6D0DA" stroke-width="1.4"/><text x="664" y="806" fill="#C6D0DA">P</text><rect x="666" y="814" width="56" height="6" rx="2" fill="#C6D0DA" opacity="0.35"/><rect x="666" y="825" width="40" height="6" rx="2" fill="#C6D0DA" opacity="0.25"/>
+      <rect x="744" y="792" width="72" height="52" rx="5" fill="#0E2422" stroke="#2DD4BF" stroke-width="1.6"/><text x="750" y="806" fill="#2DD4BF">D</text><text x="780" y="824" text-anchor="middle" font-size="8" fill="#9CA8B5">history</text>
+      <rect x="830" y="792" width="72" height="52" rx="5" fill="#0E2422" stroke="#2DD4BF" stroke-width="1.4"/><text x="836" y="806" fill="#2DD4BF">S</text><rect x="838" y="814" width="56" height="6" rx="2" fill="#2DD4BF" opacity="0.4"/><rect x="838" y="825" width="40" height="6" rx="2" fill="#2DD4BF" opacity="0.3"/>
+      <rect x="916" y="792" width="72" height="52" rx="5" fill="#10171E" stroke="#C6D0DA" stroke-width="1.4"/><text x="922" y="806" fill="#C6D0DA">P</text><rect x="924" y="814" width="56" height="6" rx="2" fill="#C6D0DA" opacity="0.35"/><rect x="924" y="825" width="40" height="6" rx="2" fill="#C6D0DA" opacity="0.25"/>
+    </g>
+
+    <text x="780" y="715" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9.5" font-weight="700" fill="#2DD4BF">▸ TRAVERSE LINKS · ASSEMBLE CONTEXT ON DEMAND</text>
+
+    <!-- one fact per file note + non-volatile badge -->
+    <text x="640" y="858" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#7C8896">ONE FACT PER FILE · TWO-WAY [[ LINKS ]]</text>
+    <g>
+      <rect x="876" y="846" width="134" height="22" rx="11" fill="#091416" stroke="#2DD4BF" stroke-width="1"/>
+      <circle cx="891" cy="857" r="6" fill="none" stroke="#2DD4BF" stroke-width="1.4"/><line x1="891" y1="851" x2="891" y2="857" stroke="#2DD4BF" stroke-width="1.4"/>
+      <text x="950" y="861" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9" fill="#2DD4BF">NON-VOLATILE · DISK</text>
+    </g>
+  </g>
+
+  <!-- ============ LEFT PORT : YOU (the human) ============ -->
+  <g id="portYou">
+    <rect x="250" y="636" width="206" height="150" rx="12" fill="#0C1219" stroke="#C6D0DA" stroke-width="1.6"/>
+    <text x="270" y="666" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="17" font-weight="700" fill="#E6ECF2">YOU</text>
+    <text x="270" y="685" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#8A97A6">· YOUR SECOND MIND ·</text>
+    <circle cx="296" cy="730" r="14" fill="none" stroke="#C6D0DA" stroke-width="2"/><circle cx="296" cy="725" r="5" fill="#C6D0DA"/><path d="M283,748 q13,-13 26,0" fill="none" stroke="#C6D0DA" stroke-width="2"/>
+    <text x="330" y="724" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" fill="#A7B2BF">READ your maps</text>
+    <text x="330" y="742" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" fill="#A7B2BF">WRITE your notes</text>
+    <text x="270" y="772" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#6E7C8A">you maintain it by hand — the fundamental</text>
+    <!-- two-way link to core : READ / WRITE -->
+    <line x1="456" y1="700" x2="624" y2="700" stroke="#C6D0DA" stroke-width="2" marker-end="url(#ahOff)"/>
+    <line x1="624" y1="724" x2="456" y2="724" stroke="#C6D0DA" stroke-width="1.6" marker-end="url(#ahOff)" opacity="0.85"/>
+    <text x="540" y="694" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#C6D0DA">⇄ READ / WRITE</text>
+  </g>
+
+  <!-- ============ RIGHT PORT : THE AGENT (run cycle) ============ -->
+  <g id="portAgent">
+    <!-- volatile context-window buffer (above the worker) -->
+    <rect x="1150" y="470" width="200" height="92" rx="10" fill="#0E1318" stroke="#5C6B7A" stroke-width="1.5" stroke-dasharray="6 4"/>
+    <text x="1164" y="492" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" font-weight="700" fill="#8A97A6">CONTEXT-WINDOW BUFFER</text>
+    <g><rect x="1164" y="502" width="120" height="8" rx="2" fill="#5C6B7A" opacity="0.5"/><rect x="1164" y="514" width="120" height="8" rx="2" fill="#5C6B7A" opacity="0.35"/><rect x="1164" y="526" width="80" height="8" rx="2" fill="#5C6B7A" opacity="0.25"/></g>
+    <g transform="translate(1300,500)"><path d="M0,5 a10,10 0 1 1 3,8" fill="none" stroke="#7C8896" stroke-width="1.6"/><path d="M0,-3 L0,6 L8,6" fill="none" stroke="#7C8896" stroke-width="1.6"/></g>
+    <text x="1311" y="554" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9" fill="#7C8896">SESSION WIPE</text>
+    <text x="1164" y="552" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#6E7C8A">volatile · clears each run</text>
+
+    <!-- worker unit -->
+    <rect x="1150" y="636" width="206" height="150" rx="12" fill="#0E1A1C" stroke="#2DD4BF" stroke-width="1.8"/>
+    <text x="1170" y="666" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="17" font-weight="700" fill="#E6ECF2">AGENT</text>
+    <text x="1170" y="685" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#2DD4BF">· THE ×AI BOLT-ON ·</text>
+    <rect x="1170" y="702" width="62" height="62" rx="7" fill="#0E2422" stroke="#2DD4BF" stroke-width="1.6"/>
+    <circle cx="1201" cy="726" r="9" fill="none" stroke="#2DD4BF" stroke-width="1.6"/><path d="M1194,726 q7,-8 14,0 t14,0" fill="none" stroke="#2DD4BF" stroke-width="1.4"/><path d="M1192,746 a12,8 0 1 0 24,0" fill="none" stroke="#2DD4BF" stroke-width="1.4" marker-end="url(#ahCyanS)"/>
+    <text x="1300" y="722" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" fill="#A7B2BF">RUN CYCLE</text>
+    <text x="1300" y="740" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#8A97A6">read at start ·</text>
+    <text x="1300" y="754" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#8A97A6">record at end</text>
+
+    <!-- two-way link agent <-> core -->
+    <line x1="1015" y1="700" x2="1148" y2="700" stroke="#2DD4BF" stroke-width="2" marker-start="url(#ahCyan)"/>
+    <line x1="1148" y1="724" x2="1015" y2="724" stroke="#2DD4BF" stroke-width="1.6" marker-end="url(#ahCyan)" opacity="0.9"/>
+    <text x="1082" y="694" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#2DD4BF">⇄ READ / WRITE</text>
+
+    <!-- RELOAD : core cells up into the buffer at run-START -->
+    <path d="M1015,648 C 1090,600 1120,560 1170,540" fill="none" stroke="#2DD4BF" stroke-width="1.8" stroke-dasharray="5 4" marker-end="url(#ahCyan)"/>
+    <rect x="1058" y="582" width="74" height="20" rx="10" fill="#0E1A1C" stroke="#2DD4BF" stroke-width="1"/><text x="1095" y="596" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" font-weight="700" fill="#2DD4BF">RELOAD ↑</text>
+  </g>
+
+  <!-- ============ REFINE GATE (on the write path into the core) ============ -->
+  <g id="refine">
+    <!-- write inlets converge to the gate, then up into the core -->
+    <path d="M335,786 C 360,860 540,892 700,902" fill="none" stroke="#C6D0DA" stroke-width="1.5" opacity="0.6" marker-end="url(#ahAmber)"/>
+    <path d="M1240,786 C 1180,866 980,894 940,900" fill="none" stroke="#2DD4BF" stroke-width="1.6" stroke-dasharray="5 4" marker-end="url(#ahAmber)"/>
+    <text x="1066" y="858" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#2DD4BF">RECORD ↓ one learned cell</text>
+    <rect x="664" y="884" width="312" height="48" rx="9" fill="#1B1606" stroke="#E8A23D" stroke-width="1.8"/>
+    <path d="M684,884 v48 M956,884 v48" stroke="#E8A23D" stroke-width="1" opacity="0.45"/>
+    <text x="820" y="905" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12" font-weight="700" fill="#E8A23D">REFINE — SHARPEN, DON'T DUPLICATE</text>
+    <text x="820" y="922" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#C6A86A">ALREADY COVERED?  ▸  UPDATE THE CELL IN PLACE</text>
+    <line x1="820" y1="884" x2="820" y2="867" stroke="#E8A23D" stroke-width="2" marker-end="url(#ahAmber)"/>
+  </g>
+
+  <!-- ============ THE ONE RED OBJECT : duplication / contradiction rot (lower-left of core) ============ -->
+  <g id="rot">
+    <rect x="372" y="876" width="248" height="120" rx="11" fill="#160C0E" stroke="#FF5C5C" stroke-width="1.5" stroke-dasharray="9 5"/>
+    <text x="388" y="902" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12.5" font-weight="700" fill="#FF5C5C">STALE · CONTRADICTION</text>
+    <rect x="388" y="914" width="96" height="40" rx="5" fill="#091416" stroke="#FF5C5C" stroke-width="1.4"/><text x="436" y="930" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#FF8A8A">FACT = A</text><text x="436" y="945" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="8.5" fill="#9CA8B5">cell · live</text>
+    <rect x="496" y="914" width="96" height="40" rx="5" fill="#091416" stroke="#FF5C5C" stroke-width="1.4"/><text x="544" y="930" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#FF8A8A">FACT = NOT-A</text><text x="544" y="945" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="8.5" fill="#9CA8B5">cell · live</text>
+    <line x1="484" y1="934" x2="496" y2="934" stroke="#FF5C5C" stroke-width="2" marker-start="url(#ahRed)" marker-end="url(#ahRed)"/>
+    <text x="496" y="982" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" fill="#FF8A8A">the base that only grows, dies</text>
+    <!-- the agent reads it and stalls -->
+    <path d="M700,832 C 660,880 640,900 622,918" fill="none" stroke="#FF5C5C" stroke-width="1.6" marker-end="url(#ahRed)"/>
+    <text x="648" y="876" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#FF8A8A">agent reads →</text>
+    <text x="660" y="889" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#FF8A8A">STALLS</text>
+  </g>
+
+  <!-- ============ MEMORY-TYPE LEGEND ============ -->
+  <g id="legend" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11">
+    <text x="166" y="500" font-size="11" font-weight="700" fill="#8A97A6">FOUR MEMORY TYPES · ONE FACT PER CELL</text>
+    <rect x="166" y="512" width="15" height="15" rx="3" fill="#10171E" stroke="#C6D0DA" stroke-width="1.4"/><text x="190" y="524" fill="#A7B2BF">P · preference</text>
+    <rect x="166" y="534" width="15" height="15" rx="3" fill="#0E2422" stroke="#2DD4BF" stroke-width="1.4"/><text x="190" y="546" fill="#A7B2BF">S · project state</text>
+    <rect x="166" y="556" width="15" height="15" rx="3" fill="#0E2422" stroke="#2DD4BF" stroke-width="1.8"/><text x="190" y="568" fill="#A7B2BF">D · decision + why</text>
+    <rect x="166" y="578" width="15" height="15" rx="3" fill="#1B1606" stroke="#E8A23D" stroke-width="1.4"/><text x="190" y="590" fill="#A7B2BF">R · reference</text>
+  </g>
+
+  <!-- ============ FOOTER RIBBON ============ -->
+  <line x1="56" y1="1188" x2="1584" y2="1188" stroke="#2A3540" stroke-width="1.2"/>
+  <text x="56" y="1218" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="15" letter-spacing="0.5" fill="#A7B2BF">PHYSICAL · TOOLKIT · WORKFLOW · KNOWLEDGE · JIT · AI-AS-WORKER  ——  <tspan fill="#2DD4BF" font-weight="700">THE STACK IS A LOOP, NOT A LADDER</tspan></text>
+  <text x="56" y="1252" font-size="26" font-weight="600" letter-spacing="-0.3" fill="#E6ECF2">FUNDAMENTALS UNCHANGED.  <tspan fill="#2DD4BF">AI RAISED EVERY CEILING.</tspan></text>
+  <text x="1584" y="1252" text-anchor="end" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#5C6B7A">SERIES FINALE · 13 / 13 PRODUCTIVITY ENHANCEMENT · CLOSES THE PRODUCTIVE PILLAR</text>
+  <text x="1584" y="1288" text-anchor="end" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#3A4753">FIG 7.2 · NEURAL SIGNAL SCHEMATIC · IF YOU'RE SO SMART, WHY ARE YOU NOT</text>
+</svg>

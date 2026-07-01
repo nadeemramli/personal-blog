@@ -133,6 +133,10 @@ This series will lean on habits constantly (a capture habit, a weekly review, a 
 
 If a layer in this series keeps collapsing (you set up the perfect capture inbox and then never open it), the problem isn't the system, it's the behaviour, and the fix is in the [[Part 1.0 - The Pursuit of Greatness|Behavioral Change]] series: identity and the lane, friction and the [[Part 4.0 - Friction and the 11 Constraints|11 constraints]], and [[Part 5.0 - The Regime|the Regime]] that holds it all together. ==Treat that series as the prerequisite reading.== A productivity stack is only as durable as the habits that run it.
 
+*Here's the whole series on one board: productivity as a six-layer stack wired in series, where the build-current climbs from the floor up and each layer only powers on once the one below it reports READY. It draws the inversion you just read (how people shop, top-down, versus how you build, bottom-up), keeps the fat [[Part 1.0 - The Productivity Stack#The stack, bottom to top|base layers]] as the real leverage, and bolts the AI [[Part 1.0 - The Productivity Stack#The fundamentals didn't change; the multiplier did|multiplier]] onto each fundamental only after it's live. Its one red mark is the apex slop fault (an agent lighting up over a dark stack), and the stack is grounded on [[Part 1.0 - The Productivity Stack#Where habits live|habits]], the prerequisite it runs on. Pin it up before Part 2 and build from the floor up.*
+
+![[Poster — Productive - Productivity Enhancement Part 1.0 - The Productivity Stack.png]]
+
 ---
 > [!check] Part 1 Takeaways
 > - Productivity is the **operating system** of the Productive section: Cognitive is the hardware, Learning is the software, this converts hours into output.

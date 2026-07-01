@@ -1,6 +1,6 @@
 ---
-title: "Wealth Part 2.2 - Financial Coordination"
-draft: true
+title: Wealth Part 2.2 - Financial Coordination
+draft: false
 tags:
   - successful
   - wealth

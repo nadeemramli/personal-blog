@@ -5,10 +5,15 @@ product_id: "acetyl-l-carnitine-500mgx180tab-iherb"
 compound: "Acetyl L-Carnitine"
 aliases:
   - "Acetyl L-Carnitine"
+  - "Nutricost, Acetyl L-Carnitine, 500 mg, 180 Caps"
 name: "Acetyl L-Carnitine"
 brand: "Nutricost"
 vendor: "iHerb"
 source: "iHerb"
+label_verified_as_of: 2026-06-19
+label_facts_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/acetyl-l-carnitine-500mgx180tab-iherb-supplement-facts.jpg"
+label_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/acetyl-l-carnitine-500mgx180tab-iherb-front.jpg"
+source_url: "https://nutricost.com/products/nutricost-acetyl-l-carnitine-500mg-180-capsules"
 pillar: "Productive"
 sub_series: "Cognitive Enhancement"
 category: "Nootropic"
@@ -60,6 +65,24 @@ notes: ""
 | early | 7 | RM0.36 | RM131.85 |
 | medium | 14 | RM0.72 | RM527.40 |
 
+
+
+## Label Facts
+
+> [!info] Official label captured 2026-06-19
+> - Source: [Nutricost ? Nutricost Acetyl L-Carnitine Capsules](https://nutricost.com/products/nutricost-acetyl-l-carnitine-500mg-180-capsules)
+> - Product image: ![[acetyl-l-carnitine-500mgx180tab-iherb-front.jpg]]
+> - Supplement facts image: ![[acetyl-l-carnitine-500mgx180tab-iherb-supplement-facts.jpg]]
+> - Brand dosage image: ![[acetyl-l-carnitine-500mgx180tab-iherb-dosage.jpg]]
+> - Package: 180 Capsules
+> - Serving size: 1 tab (inferred from stock spec; verify against saved label image)
+> - Stock protocol use: 500 mg/EOD
+
+| Label item | Amount |
+|---|---:|
+| Acetyl L-Carnitine | 500 mg per tab |
+
+Other ingredients and full label cautions: see saved Supplement Facts panel image.
 
 ## Purchase Log
 

@@ -34,10 +34,10 @@ date: 2026-05-31
 - *Cycle:* Oxandrolone 10 · Proviron 10 · **Cardarine 10–20mg** · *Drivers:* Pre-Workout (full) · Alpha-GPC 300
 
 **20:15 — Post-Workout**
-- Magnesium Glycinate (partial) 100 · Ashwagandha 300–600 *(on cycle/days)* · Whey Protein ~80g
+- Ashwagandha 300–600 *(on cycle/days)* · Whey Protein ~80g
 
 **22:30 — Sleep**
-- Magnesium Glycinate 200–300 · Melatonin · Apigenin · Calcium D-Glucarate *(on cycle)* · Trazodone/Glycine *(optional)*
+- Magnesium Glycinate 210mg PM daily · Melatonin · Apigenin · Calcium D-Glucarate *(on cycle)* · Trazodone/Glycine *(optional)*
 
 **Rules:** Copper:Zinc mandatory pairing (Cu 2mg AM / Zn PM) · prescriptions with water 30–60min before food · cycle glucose check q6–8wk on orals · EQ cocktail (Aspirin+ARB+tadalafil) + weekly BP/HR log.
 
@@ -54,7 +54,7 @@ date: 2026-05-31
 | **Overcounted (year-round, but situational)** | TUDCA, P5P, Calcium D-Glucarate | ✅ now `weeks_per_year`: TUDCA 16 (orals only), P5P 8 (Tren), CaDG 28 (−~RM79/mo) |
 | **Reconcile** | "Whey Protein" (schedule 80g ×2 = 160g/day) vs OS OTG 40g + SPI 60g (100g) | ⚠ **which is current?** Your earlier instruction said OTG 40 + SPI 60 |
 | **Food (not yet priced)** | mayonnaise, fish roe, olive oil (fat carriers) | → part of the whole-food premium TODO |
-| **Dose mismatches (minor cost)** | Astragalus (OS 1100 vs schedule 250), Alpha-GPC (300 vs 600 on training), Magnesium (EOD vs daily AM+PM) | flagged — confirm if you want exact |
+| **Dose mismatches (minor cost)** | Astragalus (OS 1100 vs schedule 250), Alpha-GPC (300 vs 600 on training) | flagged — confirm if you want exact |
 
 > [!important] The TUDCA rule you specified
 > Irbesartan (ARB) runs year-round for kidney/BP protection, so **TUDCA (liver) is only needed when a 17-alkylated oral is in the stack** (Anavar). Modeled at 16 weeks/year, not 52. P5P only with Tren (8wk). This is the situational cycle-support logic now baked into [[Monthly Nut]] via `weeks_per_year`.

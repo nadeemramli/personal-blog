@@ -7,9 +7,14 @@ name: "C8 MCT Powder"
 aliases:
   - Caprylic Acid MCT
   - MCT Powder
-brand: ""
+  - "Nutricost, C8 MCT Oil Powder, 907 g"
+brand: "Nutricost"
 vendor: iHerb
 source: iHerb
+label_verified_as_of: 2026-06-19
+label_facts_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/c8-mct-powder-907g-iherb-supplement-facts.jpg"
+label_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/c8-mct-powder-907g-iherb-front.jpg"
+source_url: "https://nutricost.com/products/nutricost-c8-mct-oil-unflavored-powder"
 pillar: Fit
 sub_series: Performance Enhancement
 category: Amino/Pre
@@ -51,6 +56,24 @@ notes: "PURCHASED 2026-06-08 (iHerb PO, RM244.86, Nutricost C8 MCT Oil Powder 90
 
 Pre-workout fuel stack with [[Glycerol (1000g) — Shopee|Glycerol]] + [[BHB Salts (442g) — iHerb|BHB Salts]] + [[Creatine Monohydrate (1000g) — Shopee|Creatine Monohydrate]] + [[HMB (500mg×240cap) — iHerb|HMB]].
 
+
+
+## Label Facts
+
+> [!info] Official label captured 2026-06-19
+> - Source: [Nutricost ? Nutricost C8 MCT Oil Powder](https://nutricost.com/products/nutricost-c8-mct-oil-unflavored-powder)
+> - Product image: ![[c8-mct-powder-907g-iherb-front.jpg]]
+> - Supplement facts image: ![[c8-mct-powder-907g-iherb-supplement-facts.jpg]]
+> - Brand dosage image: ![[c8-mct-powder-907g-iherb-dosage.jpg]]
+> - Package: Unflavored / 0.5 lb
+> - Serving size: see official Supplement Facts image
+> - Stock protocol use: 10 g/ITD
+
+| Label item | Amount |
+|---|---:|
+| Official Supplement Facts panel | See saved label image for complete powder formula |
+
+Other ingredients and full label cautions: see saved Supplement Facts panel image.
 
 ## Purchase Log
 

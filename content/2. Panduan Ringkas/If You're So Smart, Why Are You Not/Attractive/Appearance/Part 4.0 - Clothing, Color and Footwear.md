@@ -166,6 +166,10 @@ A footwear quick-rule that prevents 90% of outfit dissonance:
 
 These are mechanical rules. They eat zero cognitive cycle once internalized.
 
+![[Poster — Attractive - Appearance Part 4.0 - Clothing, Color and Footwear.png]]
+
+*The whole wardrobe system on one sheet: index by demand (Train, Lounge, Execute, High-Stakes) and the matched set is already built, so getting dressed is selection, not invention. Warm marks the few things that are measurable (the GSM gauge where shape comes from the fabric, not the body; fit; the leather→leather / metal→metal coherence ties); cool marks the convention you classify once (the four sets, undertone, contrast). Pin it to your wardrobe door: point at the demand, skip the decision.*
+
 ---
 
 ## What this article deliberately does NOT do

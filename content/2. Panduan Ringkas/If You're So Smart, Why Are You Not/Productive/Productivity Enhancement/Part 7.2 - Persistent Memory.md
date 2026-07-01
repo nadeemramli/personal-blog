@@ -90,6 +90,10 @@ Seven parts, one machine. From the ground up:
 
 ==The fundamentals never changed. AI just raised the ceiling on every layer, and a shared plain-text memory is the hinge that lets your second mind and your agents become one system.==
 
+*Here's the whole series resolved into one instrument: a dual-port memory core where your vault and the agent's memory turn out to be the same plain-text store. The bright cyan core is the shared brain ([[Part 7.2 - Persistent Memory#The answer is plain text|plain-text cells, an index rail, two-way links]]), with the off-white YOU port reading and writing from the left and the agent's RELOAD/RECORD run-cycle from the right, joined by the reveal that there was only ever ONE STORE, TWO PORTS ([[Part 7.2 - Persistent Memory#The loop closes: your vault is the agent's vault|your vault is the agent's vault]]). An amber REFINE gate ("sharpen, don't duplicate") guards every write while the lone red flag marks the duplication rot a base that only grows dies from ([[Part 7.2 - Persistent Memory#How the memory is structured|the maintenance discipline]]); the seven layers close into a ring, not a ladder, stamped with the series' last word, fundamentals unchanged and AI raised every ceiling ([[Part 7.2 - Persistent Memory#The whole stack on one page|the whole stack on one page]]). Pin this as the one-page map of everything you built.*
+
+![[Poster — Productive - Productivity Enhancement Part 7.2 - Persistent Memory.png]]
+
 ---
 > [!check] Series Takeaways
 > - A model's context window is short-term memory that gets wiped; an autonomous agent needs **persistent state** to be a real worker.

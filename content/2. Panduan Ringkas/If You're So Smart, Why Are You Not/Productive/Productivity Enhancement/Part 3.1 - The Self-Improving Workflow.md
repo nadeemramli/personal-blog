@@ -103,6 +103,10 @@ And one thing goes in *neither*: long-lived, evolving knowledge about your world
 > [!note] This is the Context node, previewed
 > When you reach [[Part 7.0 - The Agentic AI Framework|Part 7.0]], you'll see "Context" as a formal stage in the agentic pipeline: the dynamic information injected into the model so it makes better decisions. The self-improving workflow *is* context engineering, done by hand, on the small scale of a single repeatable task. Master it here on one workflow and the whole agentic layer in Part 7 becomes obvious.
 
+*Here's the whole self-improving loop as one memory bench: the chat drawn as a volatile RAM rail that wipes every session, the files as a persistent disk rail that only ever gains chips, and the hero between them is the [[Part 3.1 - The Self-Improving Workflow#The loop: do, correct, save, improve|SAVE]] latch that copies a correction down to disk (the step everyone skips). The disk splits into the two banks from [[Part 3.1 - The Self-Improving Workflow#The two files: context and procedure|context and procedure]] (project instructions about you, a skill about the task), the right-hand meter shows corrections decaying run over run (the model didn't improve, the instructions did), and the lower dock carries this blog's own saved rules from [[Part 3.1 - The Self-Improving Workflow#A worked example: this blog|the worked example]]. Its one red mark is the unsaved fix that re-emerges identical next session, so pin it up: an unsaved correction is a tax, a saved one is an asset.*
+
+![[Poster — Productive - Productivity Enhancement Part 3.1 - The Self-Improving Workflow.png]]
+
 ---
 > [!check] Part 3 Takeaways
 > - The reason AI feels like more work is that **corrections die with the chat**. You re-teach the same lesson every session.

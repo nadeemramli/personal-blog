@@ -5,10 +5,15 @@ product_id: "huperzine-a-200mcgx240tab-iherb"
 compound: "Huperzine-A"
 aliases:
   - "Huperzine-A"
+  - "Nutricost, Huperzine-A, 200 mcg, 240 Caps"
 name: "Huperzine-A"
 brand: "Nutricost"
 vendor: "iHerb"
 source: "iHerb"
+label_verified_as_of: 2026-06-19
+label_facts_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/huperzine-a-200mcgx240tab-iherb-supplement-facts.jpg"
+label_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/huperzine-a-200mcgx240tab-iherb-front.jpg"
+source_url: "https://nutricost.com/products/nutricost-huperzine-a-capsules-200mcg-240-capsules-non-gmo-vegan-friendly"
 pillar: "Productive"
 sub_series: "Cognitive Enhancement"
 category: "Nootropic"
@@ -59,6 +64,24 @@ notes: ""
 |---|---|---|---|
 | early | 7 | RM0.28 | RM102.66 |
 
+
+
+## Label Facts
+
+> [!info] Official label captured 2026-06-19
+> - Source: [Nutricost ? Nutricost Huperzine A Capsules](https://nutricost.com/products/nutricost-huperzine-a-capsules-200mcg-240-capsules-non-gmo-vegan-friendly)
+> - Product image: ![[huperzine-a-200mcgx240tab-iherb-front.jpg]]
+> - Supplement facts image: ![[huperzine-a-200mcgx240tab-iherb-supplement-facts.jpg]]
+> - Brand dosage image: ![[huperzine-a-200mcgx240tab-iherb-dosage.jpg]]
+> - Package: Default Title
+> - Serving size: 1 tab (inferred from stock spec; verify against saved label image)
+> - Stock protocol use: 200 mcg/EOD
+
+| Label item | Amount |
+|---|---:|
+| Huperzine-A | 200 mcg per tab |
+
+Other ingredients and full label cautions: see saved Supplement Facts panel image.
 
 ## Purchase Log
 

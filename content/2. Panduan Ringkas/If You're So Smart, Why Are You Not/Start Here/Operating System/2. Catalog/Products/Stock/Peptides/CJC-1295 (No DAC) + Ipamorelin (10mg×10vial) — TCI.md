@@ -5,6 +5,7 @@ product_id: "cjc-1295-no-dac-plus-ipamorelin-10mgx10vial-tci"
 compound: "CJC-1295 (No DAC) + Ipamorelin"
 aliases:
   - "CJC-1295 (No DAC) + Ipamorelin"
+  - "CJC 1295 NO DAC + IPAMORELIN"
 name: "CJC-1295 (No DAC) + Ipamorelin"
 brand: ""
 vendor: "TCI"

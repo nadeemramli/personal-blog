@@ -5,6 +5,7 @@ product_id: "insulin-syringe-30g-nipro-100pcs-shopee"
 compound: "Insulin Syringe 30g (NIPRO)"
 aliases:
   - "Insulin Syringe 30g (NIPRO)"
+  - "NIPRO Sterile Insulin Syringe"
 name: "Insulin Syringe 30g (NIPRO)"
 brand: "NIPRO"
 vendor: "Shopee"

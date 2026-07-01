@@ -86,7 +86,7 @@ Goal: raise baseline BMR, run mitochondrial efficiency, anchor cardiovascular pr
 **20:00 — HARD CUT-OFF** — water / non-caloric fluids only from here.
 
 **21:30 — HPA-axis de-escalation**
-- **[[Phosphatidylserine (200mg×120cap) — iHerb\|Phosphatidylserine]] 400–600 mg** *(wishlist — to source)* **or [[Ashwagandha (600mg×120tab) — iHerb\|Ashwagandha]]** (in stock) — forcefully blunt ACTH/cortisol after a day of stimulants + tren, so the CNS can drop into deep slow-wave sleep. Run one, not both.
+- **[[Phosphatidylserine (100mg×120cap) — iHerb\|Phosphatidylserine]] 200 mg** *(wishlist — to source; 2 caps, occasional post-heavy-workout / pre-bed tool)* **or [[Ashwagandha (600mg×120tab) — iHerb\|Ashwagandha]]** (in stock) — de-escalate HPA stress after hard training or a stimulant-heavy day so the CNS can shift into recovery. Reserve 400 mg for peak stress weeks; do not make 400–600 mg the casual daily baseline. Run one, not both.
 - **No Mirabegron here** — its full 50 mg sits in the 06:00 slot; the ~50 h half-life means a second dose would stack and disrupt sleep architecture + spill off Beta-3 selectivity.
 
 **22:30 — Sleep.**

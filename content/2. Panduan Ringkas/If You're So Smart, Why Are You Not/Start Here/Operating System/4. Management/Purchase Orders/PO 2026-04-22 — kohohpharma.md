@@ -15,10 +15,10 @@ tags:
 
 | Item | Qty | Unit (RM) | Total (RM) | Remark |
 |---|---|---|---|---|
-| Oxandroline | 1 | 200.00 | 200.00 |  |
-| Testolone C | 2 | 149.00 | 298.00 | corrected 2026-06-11: RM298 was the 2-vial total, originally mislogged as unit price |
-| Anastrolin | 1 | 200.00 | 200.00 |  |
-| Provilin | 1 | 168.00 | 168.00 |  |
+| [[Oxandrolone (Anavar) (10mg×100tab) — kohohpharma\|Oxandroline]] | 1 | 200.00 | 200.00 |  |
+| [[Testosterone Enanthate-Cypionate (250mg-ml ×10ml) — kohohpharma\|Testolone C]] | 2 | 149.00 | 298.00 | corrected 2026-06-11: RM298 was the 2-vial total, originally mislogged as unit price |
+| [[Anastrozole (Anastrolin) — kohohpharma\|Anastrolin]] | 1 | 200.00 | 200.00 |  |
+| [[Proviron (25mg×50tab) — kohohpharma\|Provilin]] | 1 | 168.00 | 168.00 |  |
 | **TOTAL** | | | **RM866.00** | |
 
 ## Links

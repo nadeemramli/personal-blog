@@ -79,6 +79,10 @@ The operating rules:
 
 The feeling you're aiming for: a short list of things genuinely in motion, a long list of things safely waiting, and no guilt about the difference. That calm is the whole reward of the system, and it's only possible because the layers beneath it mean nothing parked is ever lost.
 
+*Here's the whole system as one capacity governor: a vast field of [[Part 6.0 - Just-in-Time Project Management#Running it: a few active, the rest dormant|parked projects sitting dark and guilt-free]] (inventory waiting for demand, costing nothing) feeding a small active bay capped at three to five, where a [[Part 6.0 - Just-in-Time Project Management#Just-in-time, borrowed from the factory floor|deadline or opportunity]] is the only thing that closes a switch and pulls one in, while the push of "I feel bad about it" is blocked at the gate. The overload inset carries the counter-intuitive core (everything on browns out and finishes almost nothing, a few on run at full power and finish), each pulled project gets [[Part 6.0 - Just-in-Time Project Management#How the system pulls a project forward|assembled for you]] from PARA resources, maps, and a next action, and the single red object is the limiter tripping: everything on equals nothing finishes. Pull, don't stockpile: pin this, cap your active list, and let completion (not anxiety) free the next slot.*
+
+![[Poster — Productive - Productivity Enhancement Part 6.0 - Just-in-Time Project Management.png]]
+
 ---
 > [!check] Part 6 Takeaways
 > - Carrying every project at once is how you stay **busy and unfinished**. JIT pulls a project into active work only when it's genuinely due.

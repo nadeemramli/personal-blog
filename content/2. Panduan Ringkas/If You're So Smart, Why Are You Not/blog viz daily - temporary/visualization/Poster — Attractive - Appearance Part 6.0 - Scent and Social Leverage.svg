@@ -1,0 +1,238 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1700" width="1200" height="1700">
+<rect x="0" y="0" width="1200" height="1700" fill="#F4F1EA"/>
+<defs><pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.8" fill="#DED8CB"/></pattern></defs>
+<rect x="0" y="0" width="1200" height="1700" fill="url(#dots)" opacity="0.55"/>
+<rect x="26" y="26" width="1148" height="1648" rx="0" fill="none" stroke="#1E2024" stroke-width="1.6" opacity="1.0"/>
+<rect x="31" y="31" width="1138" height="1638" rx="0" fill="none" stroke="#1E2024" stroke-width="0.6" opacity="0.5"/>
+<line x1="19" y1="26" x2="33" y2="26" stroke="#1E2024" stroke-width="0.8" opacity="0.6" stroke-linecap="butt"/>
+<line x1="26" y1="19" x2="26" y2="33" stroke="#1E2024" stroke-width="0.8" opacity="0.6" stroke-linecap="butt"/>
+<line x1="1167" y1="26" x2="1181" y2="26" stroke="#1E2024" stroke-width="0.8" opacity="0.6" stroke-linecap="butt"/>
+<line x1="1174" y1="19" x2="1174" y2="33" stroke="#1E2024" stroke-width="0.8" opacity="0.6" stroke-linecap="butt"/>
+<line x1="19" y1="1674" x2="33" y2="1674" stroke="#1E2024" stroke-width="0.8" opacity="0.6" stroke-linecap="butt"/>
+<line x1="26" y1="1667" x2="26" y2="1681" stroke="#1E2024" stroke-width="0.8" opacity="0.6" stroke-linecap="butt"/>
+<line x1="1167" y1="1674" x2="1181" y2="1674" stroke="#1E2024" stroke-width="0.8" opacity="0.6" stroke-linecap="butt"/>
+<line x1="1174" y1="1667" x2="1174" y2="1681" stroke="#1E2024" stroke-width="0.8" opacity="0.6" stroke-linecap="butt"/>
+<rect x="210" y="42" width="946" height="40" rx="3" fill="#C2703D" fill-opacity="0.07" stroke="#C2703D" stroke-width="1.1" opacity="1.0"/>
+<text x="683.0" y="67" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="15" font-weight="600" fill="#1E2024" text-anchor="middle" letter-spacing="0.5" opacity="1.0">STILL SIGNALING — but for the first time, a signal you can’t see.</text>
+<circle cx="226" cy="62" r="3" fill="none" stroke="#C2703D" stroke-width="1.2" opacity="1.0"/>
+<circle cx="1140" cy="62" r="3" fill="none" stroke="#C2703D" stroke-width="1.2" opacity="1.0"/>
+<text x="210" y="124" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#5E7585" text-anchor="start" letter-spacing="2.0" opacity="1.0">APPEARANCE  ·  PART 6 OF 7  ·  THE ATTRACTIVE PILLAR</text>
+<line x1="210" y1="134" x2="1156" y2="134" stroke="#1E2024" stroke-width="0.6" opacity="0.4" stroke-linecap="butt"/>
+<text x="210" y="196" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="60" font-weight="700" fill="#1E2024" text-anchor="start" letter-spacing="-0.5" opacity="1.0">THE SIGNAL YOU CAN’T SEE.</text>
+<text x="210" y="228" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="400" fill="#5E7585" text-anchor="start" letter-spacing="0" opacity="1.0" font-style="italic">scent bypasses the eyes  ·  the deals happen in the invisible room</text>
+<line x1="192" y1="250" x2="192" y2="1545" stroke="#1E2024" stroke-width="0.6" opacity="0.4" stroke-linecap="butt"/>
+<text x="44" y="268" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#1E2024" text-anchor="start" letter-spacing="1.5" opacity="1.0">THE KEY</text>
+<text x="44" y="282" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0" font-style="italic">proportion = the argument</text>
+<rect x="44" y="300" width="26" height="26" rx="1.5" fill="#C2703D" fill-opacity="0.85" stroke="#1E2024" stroke-width="0.8"/>
+<text x="78" y="312" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#1E2024" text-anchor="start" letter-spacing="0" opacity="1.0">warm =</text>
+<text x="78" y="326" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#A85C2E" text-anchor="start" letter-spacing="0" opacity="1.0">MEASURABLE</text>
+<text x="46" y="352" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="400" fill="#1E2024" text-anchor="start" letter-spacing="0" opacity="1.0">· the tuned field</text>
+<text x="46" y="367" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="400" fill="#1E2024" text-anchor="start" letter-spacing="0" opacity="1.0">· the two pulse points</text>
+<text x="46" y="382" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="400" fill="#1E2024" text-anchor="start" letter-spacing="0" opacity="1.0">· the third space</text>
+<text x="46" y="397" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="400" fill="#1E2024" text-anchor="start" letter-spacing="0" opacity="1.0">· the refresh kit</text>
+<rect x="44" y="430" width="16" height="16" rx="1.5" fill="#5E7585" fill-opacity="0.85" stroke="#1E2024" stroke-width="0.8"/>
+<text x="68" y="438" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="700" fill="#1E2024" text-anchor="start" letter-spacing="0" opacity="1.0">cool =</text>
+<text x="68" y="451" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="700" fill="#5E7585" text-anchor="start" letter-spacing="0" opacity="1.0">CONVENTION</text>
+<text x="46" y="472" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#5E7585" text-anchor="start" letter-spacing="0" opacity="1.0">· which family</text>
+<text x="46" y="485" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#5E7585" text-anchor="start" letter-spacing="0" opacity="1.0">· which prop</text>
+<text x="46" y="498" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#5E7585" text-anchor="start" letter-spacing="0" opacity="1.0">· which pieces</text>
+<text x="46" y="511" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#5E7585" text-anchor="start" letter-spacing="0" opacity="1.0">· pick one, any one</text>
+<rect x="44" y="538" width="12" height="12" rx="1.5" fill="#D9483B" fill-opacity="0.85" stroke="#1E2024" stroke-width="0.8"/>
+<text x="64" y="545" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" font-weight="700" fill="#1E2024" text-anchor="start" letter-spacing="0" opacity="1.0">red =</text>
+<text x="64" y="557" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" font-weight="700" fill="#D9483B" text-anchor="start" letter-spacing="0" opacity="1.0">the cigarette</text>
+<text x="46" y="575" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#1E2024" text-anchor="start" letter-spacing="0" opacity="1.0">· the only real cost</text>
+<text x="44" y="1500" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" font-weight="700" fill="#1E2024" text-anchor="start" letter-spacing="1" opacity="1.0">READ ↓</text>
+<text x="44" y="1516" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0">1. field → dose 50%</text>
+<text x="44" y="1529" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0">2. pick two · test skin</text>
+<text x="44" y="1542" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0">3. the airlock kit</text>
+<text x="44" y="1555" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0">4. occupy the room</text>
+<text x="44" y="1568" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0">5. skip the smoke</text>
+<text x="210" y="268" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#A85C2E" text-anchor="start" letter-spacing="0.5" opacity="1.0">▸ TOP — THE SILLAGE FIELD  (shape it, apply less)</text>
+<circle cx="690" cy="440" r="60" fill="none" stroke="#C2703D" stroke-width="1.6" opacity="0.95"/>
+<circle cx="690" cy="440" r="108" fill="none" stroke="#C2703D" stroke-width="1.6" opacity="0.6"/>
+<circle cx="690" cy="440" r="162" fill="none" stroke="#C2703D" stroke-width="1.6" opacity="0.4"/>
+<text x="690" y="386" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="1" font-weight="400" fill="#1E2024" text-anchor="start" letter-spacing="0" opacity="1.0"></text>
+<text x="750" y="396" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#A85C2E" text-anchor="middle" letter-spacing="0" opacity="1.0">top</text>
+<text x="796" y="532" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#A85C2E" text-anchor="middle" letter-spacing="0" opacity="1.0">heart</text>
+<text x="690" y="616" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9" font-weight="400" fill="#A85C2E" text-anchor="middle" letter-spacing="0" opacity="1.0">base · the contained, correct field</text>
+<circle cx="690" cy="320" r="24" fill="none" stroke="#1E2024" stroke-width="1.5" opacity="1.0"/>
+<line x1="690" y1="344" x2="690" y2="360" stroke="#1E2024" stroke-width="1.5" opacity="1.0" stroke-linecap="butt"/>
+<path d="M612,374 Q690,354 768,374 L744,536 L636,536 Z" fill="none" stroke="#1E2024" stroke-width="1.5" opacity="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="620" y1="380" x2="598" y2="480" stroke="#1E2024" stroke-width="1.5" opacity="1.0" stroke-linecap="butt"/>
+<line x1="760" y1="380" x2="782" y2="480" stroke="#1E2024" stroke-width="1.5" opacity="1.0" stroke-linecap="butt"/>
+<circle cx="704" cy="384" r="5.5" fill="#C2703D" fill-opacity="0.25" stroke="#C2703D" stroke-width="1.6" opacity="1.0"/>
+<circle cx="704" cy="384" r="2" fill="#C2703D" stroke="#C2703D" stroke-width="1" opacity="1.0"/>
+<line x1="710" y1="384" x2="734" y2="374" stroke="#C2703D" stroke-width="0.9" opacity="1.0" stroke-linecap="butt"/>
+<text x="737" y="375" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#A85C2E" text-anchor="start" letter-spacing="0" opacity="1.0">behind-ear / chest</text>
+<circle cx="600" cy="478" r="5.5" fill="#C2703D" fill-opacity="0.25" stroke="#C2703D" stroke-width="1.6" opacity="1.0"/>
+<circle cx="600" cy="478" r="2" fill="#C2703D" stroke="#C2703D" stroke-width="1" opacity="1.0"/>
+<line x1="594" y1="478" x2="570" y2="468" stroke="#C2703D" stroke-width="0.9" opacity="1.0" stroke-linecap="butt"/>
+<text x="567" y="469" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#A85C2E" text-anchor="end" letter-spacing="0" opacity="1.0">inner wrist</text>
+<path d="M708,388 A60,60 0 0 1 744,416" fill="none" stroke="#BE8A2E" stroke-width="2.2" opacity="1.0" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 4"/>
+<line x1="840" y1="322" x2="768" y2="362" stroke="#BE8A2E" stroke-width="2.0" opacity="1.0" stroke-linecap="round"/>
+<path d="M768.0,362.0 L772.6,354.3 M768.0,362.0 L777.0,362.1" stroke="#BE8A2E" stroke-width="2.0" fill="none" stroke-linecap="round"/>
+<text x="844" y="312" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#BE8A2E" text-anchor="start" letter-spacing="0" opacity="1.0">HEAT ↑</text>
+<text x="844" y="326" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9" font-weight="400" fill="#BE8A2E" text-anchor="start" letter-spacing="0" opacity="1.0">tops burn 30–60 min</text>
+<text x="844" y="339" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0">(not 2–3 hr)</text>
+<circle cx="690" cy="448" r="185" fill="none" stroke="#928D81" stroke-width="1.3" opacity="0.7" stroke-dasharray="5 6"/>
+<line x1="540" y1="590" x2="502" y2="624" stroke="#5E7585" stroke-width="2.0" opacity="1.0" stroke-linecap="round"/>
+<path d="M502.0,624.0 L504.8,615.4 M502.0,624.0 L510.8,622.2" stroke="#5E7585" stroke-width="2.0" fill="none" stroke-linecap="round"/>
+<text x="390" y="590" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#5E7585" text-anchor="start" letter-spacing="0" opacity="1.0">HUMIDITY ↑</text>
+<text x="390" y="604" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9" font-weight="400" fill="#5E7585" text-anchor="start" letter-spacing="0" opacity="1.0">base projects louder in KL</text>
+<text x="390" y="617" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0">“moderate” in Paris = “loud” here</text>
+<path d="M644,690 A46,46 0 0 1 736,690" fill="none" stroke="#1E2024" stroke-width="1.4" opacity="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="644" y1="690" x2="736" y2="690" stroke="#1E2024" stroke-width="1.0" opacity="1.0" stroke-linecap="butt"/>
+<line x1="647.0" y1="690.0" x2="644.0" y2="690.0" stroke="#1E2024" stroke-width="0.7" opacity="0.6" stroke-linecap="butt"/>
+<line x1="649.1045697993084" y1="676.7122692418773" x2="646.251400250423" y2="675.7852182587524" stroke="#1E2024" stroke-width="0.7" opacity="0.6" stroke-linecap="butt"/>
+<line x1="655.2122692418773" y1="664.7252341514236" x2="652.7852182587524" y2="662.9618783945463" stroke="#1E2024" stroke-width="0.7" opacity="0.6" stroke-linecap="butt"/>
+<line x1="664.7252341514237" y1="655.2122692418773" x2="662.9618783945463" y2="652.7852182587524" stroke="#1E2024" stroke-width="0.7" opacity="0.6" stroke-linecap="butt"/>
+<line x1="676.7122692418773" y1="649.1045697993084" x2="675.7852182587524" y2="646.2514002504229" stroke="#1E2024" stroke-width="0.7" opacity="0.6" stroke-linecap="butt"/>
+<line x1="690.0" y1="647.0" x2="690.0" y2="644.0" stroke="#1E2024" stroke-width="0.7" opacity="0.6" stroke-linecap="butt"/>
+<line x1="703.2877307581227" y1="649.1045697993084" x2="704.2147817412476" y2="646.251400250423" stroke="#1E2024" stroke-width="0.7" opacity="0.6" stroke-linecap="butt"/>
+<line x1="715.2747658485763" y1="655.2122692418773" x2="717.0381216054537" y2="652.7852182587524" stroke="#1E2024" stroke-width="0.7" opacity="0.6" stroke-linecap="butt"/>
+<line x1="724.7877307581227" y1="664.7252341514237" x2="727.2147817412476" y2="662.9618783945463" stroke="#1E2024" stroke-width="0.7" opacity="0.6" stroke-linecap="butt"/>
+<line x1="730.8954302006916" y1="676.7122692418773" x2="733.748599749577" y2="675.7852182587524" stroke="#1E2024" stroke-width="0.7" opacity="0.6" stroke-linecap="butt"/>
+<line x1="733.0" y1="690.0" x2="736.0" y2="690.0" stroke="#1E2024" stroke-width="0.7" opacity="0.6" stroke-linecap="butt"/>
+<line x1="690" y1="690" x2="690.0" y2="652.0" stroke="#C2703D" stroke-width="3.0" opacity="1.0" stroke-linecap="round"/>
+<circle cx="690" cy="690" r="4" fill="#C2703D" stroke="#1E2024" stroke-width="1" opacity="1.0"/>
+<text x="690" y="636" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="17" font-weight="700" fill="#A85C2E" text-anchor="middle" letter-spacing="0" opacity="1.0">50%</text>
+<text x="690" y="708" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" font-weight="700" fill="#1E2024" text-anchor="middle" letter-spacing="0" opacity="1.0">APPLY 50% OF THE EUROPEAN DOSE</text>
+<text x="690" y="722" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9" font-weight="400" fill="#A85C2E" text-anchor="middle" letter-spacing="0" opacity="1.0" font-style="italic">the humidity does the projecting for you</text>
+<rect x="540" y="734" width="300" height="22" rx="11" fill="none" stroke="#C2703D" stroke-width="1.0" opacity="1.0"/>
+<text x="690" y="749" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="700" fill="#A85C2E" text-anchor="middle" letter-spacing="0.5" opacity="1.0">TWO SPRAYS · TWO PULSE POINTS · ONE REFRESH</text>
+<text x="210" y="312" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#5E7585" text-anchor="start" letter-spacing="0.5" opacity="1.0">PICK ONE, ANY ONE</text>
+<text x="210" y="325" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#8AA0AD" text-anchor="start" letter-spacing="0" opacity="1.0" font-style="italic">defaults, not laws</text>
+<rect x="210" y="336" width="152" height="56" rx="6" fill="#5E7585" fill-opacity="0.06" stroke="#5E7585" stroke-width="1.3" opacity="1.0"/>
+<text x="222" y="357" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#5E7585" text-anchor="start" letter-spacing="0" opacity="1.0">DAY</text>
+<text x="222" y="373" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="400" fill="#1E2024" text-anchor="start" letter-spacing="0" opacity="1.0">fresh / citrus</text>
+<text x="222" y="387" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="9" font-weight="400" fill="#5E7585" text-anchor="start" letter-spacing="0" opacity="1.0" font-style="italic">“competent &amp; clean”</text>
+<rect x="210" y="400" width="152" height="56" rx="6" fill="#5E7585" fill-opacity="0.12" stroke="#5E7585" stroke-width="1.6" opacity="1.0"/>
+<text x="222" y="421" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#5E7585" text-anchor="start" letter-spacing="0" opacity="1.0">EVENING</text>
+<text x="222" y="437" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="400" fill="#1E2024" text-anchor="start" letter-spacing="0" opacity="1.0">woody / spicy</text>
+<text x="222" y="451" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="9" font-weight="400" fill="#5E7585" text-anchor="start" letter-spacing="0" opacity="1.0" font-style="italic">“weight in the room”</text>
+<text x="210" y="474" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9" font-weight="400" fill="#5E7585" text-anchor="start" letter-spacing="0" opacity="1.0">+ a third = wildcard</text>
+<rect x="210" y="492" width="13" height="26" rx="2" fill="none" stroke="#B9B4A8" stroke-width="1.0" opacity="0.8"/>
+<rect x="231" y="492" width="13" height="26" rx="2" fill="none" stroke="#B9B4A8" stroke-width="1.0" opacity="0.8"/>
+<rect x="252" y="492" width="13" height="26" rx="2" fill="none" stroke="#B9B4A8" stroke-width="1.0" opacity="0.8"/>
+<rect x="273" y="492" width="13" height="26" rx="2" fill="none" stroke="#B9B4A8" stroke-width="1.0" opacity="0.8"/>
+<rect x="294" y="492" width="13" height="26" rx="2" fill="none" stroke="#B9B4A8" stroke-width="1.0" opacity="0.8"/>
+<rect x="315" y="492" width="13" height="26" rx="2" fill="none" stroke="#B9B4A8" stroke-width="1.0" opacity="0.8"/>
+<rect x="336" y="492" width="13" height="26" rx="2" fill="none" stroke="#B9B4A8" stroke-width="1.0" opacity="0.8"/>
+<line x1="207" y1="505" x2="360" y2="505" stroke="#928D81" stroke-width="2.0" opacity="0.85" stroke-linecap="butt"/>
+<text x="210" y="536" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0">past 3 = collection,</text>
+<text x="210" y="548" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0">not signature</text>
+<rect x="210" y="558" width="152" height="20" rx="4" fill="none" stroke="#BE8A2E" stroke-width="1.0" opacity="0.9"/>
+<text x="218" y="572" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.7" font-weight="400" fill="#BE8A2E" text-anchor="start" letter-spacing="0" opacity="1.0">leather / animalic = polarising</text>
+<text x="210" y="596" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.7" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0" font-style="italic">don’t rub wrists —</text>
+<text x="210" y="608" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.7" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0" font-style="italic">it breaks the top notes</text>
+<text x="902" y="312" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#1E2024" text-anchor="start" letter-spacing="0.5" opacity="1.0">CLIMATE DERATING</text>
+<line x1="902" y1="320" x2="1156" y2="320" stroke="#1E2024" stroke-width="0.6" opacity="0.4" stroke-linecap="butt"/>
+<ellipse cx="1020" cy="372" rx="120" ry="44" fill="#B9B4A8" fill-opacity="0.18" stroke="#928D81" stroke-width="1.0" stroke-dasharray="4 5"/>
+<text x="906" y="366" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="700" fill="#BE8A2E" text-anchor="start" letter-spacing="0" opacity="1.0">spray &gt;4× = you ARE the scent</text>
+<text x="906" y="382" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.7" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0">a room-filling cloud is the failure,</text>
+<text x="906" y="394" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.7" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0">not the goal</text>
+<rect x="902" y="430" width="254" height="92" rx="6" fill="#C2703D" fill-opacity="0.05" stroke="#C2703D" stroke-width="1.3" opacity="1.0"/>
+<text x="914" y="450" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#A85C2E" text-anchor="start" letter-spacing="0" opacity="1.0">SKIN-CHEMISTRY GATE</text>
+<text x="914" y="467" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="400" fill="#1E2024" text-anchor="start" letter-spacing="0" opacity="1.0">the bottle doesn’t predict the field —</text>
+<text x="914" y="480" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="600" fill="#1E2024" text-anchor="start" letter-spacing="0" opacity="1.0">your skin renders it.</text>
+<rect x="914" y="488" width="16" height="22" rx="2" fill="none" stroke="#C2703D" stroke-width="1.2" opacity="1.0"/>
+<text x="936" y="500" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9" font-weight="400" fill="#A85C2E" text-anchor="start" letter-spacing="0" opacity="1.0">decant 5–10 ml · wear 5–7 days</text>
+<text x="936" y="512" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.3" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0" font-style="italic">blotter = calibration only, never the verdict</text>
+<text x="902" y="536" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.7" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0" font-style="italic">before any RM 400–1,500 bottle</text>
+<rect x="210" y="770" width="946" height="150" rx="8" fill="none" stroke="#C2703D" stroke-width="1.6" opacity="1.0" stroke-dasharray="2 5"/>
+<rect x="210" y="770" width="946" height="150" rx="8" fill="#C2703D" fill-opacity="0.05"/>
+<line x1="423.0" y1="770" x2="423.0" y2="744" stroke="#C2703D" stroke-width="1.3" opacity="1.0" stroke-linecap="round" stroke-dasharray="3 4"/>
+<path d="M423.0,744.0 L426.5,750.1 M423.0,744.0 L419.5,750.1" stroke="#C2703D" stroke-width="1.3" fill="none" stroke-linecap="round"/>
+<line x1="423.0" y1="920" x2="423.0" y2="946" stroke="#C2703D" stroke-width="1.3" opacity="1.0" stroke-linecap="round" stroke-dasharray="3 4"/>
+<path d="M423.0,946.0 L419.5,939.9 M423.0,946.0 L426.5,939.9" stroke="#C2703D" stroke-width="1.3" fill="none" stroke-linecap="round"/>
+<text x="226" y="794" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#A85C2E" text-anchor="start" letter-spacing="0.5" opacity="1.0">THE REFRESH-KIT AIRLOCK</text>
+<text x="226" y="810" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0" font-style="italic">the one object shared by both halves</text>
+<rect x="250" y="824" width="70" height="78" rx="3" fill="none" stroke="#1E2024" stroke-width="1.2" opacity="1.0" stroke-dasharray="4 4"/>
+<circle cx="285" cy="842" r="7" fill="none" stroke="#1E2024" stroke-width="1.3" opacity="1.0"/>
+<line x1="285" y1="849" x2="285" y2="876" stroke="#1E2024" stroke-width="1.3" opacity="1.0" stroke-linecap="butt"/>
+<line x1="285" y1="858" x2="273" y2="868" stroke="#1E2024" stroke-width="1.3" opacity="1.0" stroke-linecap="butt"/>
+<line x1="285" y1="858" x2="297" y2="864" stroke="#1E2024" stroke-width="1.3" opacity="1.0" stroke-linecap="butt"/>
+<line x1="285" y1="876" x2="273" y2="894" stroke="#1E2024" stroke-width="1.3" opacity="1.0" stroke-linecap="butt"/>
+<line x1="285" y1="876" x2="298" y2="892" stroke="#1E2024" stroke-width="1.3" opacity="1.0" stroke-linecap="butt"/>
+<line x1="248" y1="863" x2="228" y2="863" stroke="#C2703D" stroke-width="1.4" opacity="1.0" stroke-linecap="round"/>
+<path d="M228.0,863.0 L234.1,859.5 M228.0,863.0 L234.1,866.5" stroke="#C2703D" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+<line x1="322" y1="863" x2="342" y2="863" stroke="#C2703D" stroke-width="1.4" opacity="1.0" stroke-linecap="round"/>
+<path d="M342.0,863.0 L335.9,866.5 M342.0,863.0 L335.9,859.5" stroke="#C2703D" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+<rect x="400" y="828" width="22" height="40" rx="2" fill="none" stroke="#C2703D" stroke-width="1.4" opacity="1.0"/>
+<rect x="406" y="820" width="10" height="10" rx="0" fill="none" stroke="#C2703D" stroke-width="1.2" opacity="1.0"/>
+<text x="412" y="882" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="700" fill="#A85C2E" text-anchor="middle" letter-spacing="0" opacity="1.0">atomiser</text>
+<text x="412" y="894" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8" font-weight="400" fill="#928D81" text-anchor="middle" letter-spacing="0" opacity="1.0">RM 30–80</text>
+<rect x="518" y="832" width="30" height="30" rx="5" fill="none" stroke="#C2703D" stroke-width="1.4" opacity="1.0"/>
+<line x1="518" y1="840" x2="548" y2="840" stroke="#C2703D" stroke-width="0.7" opacity="0.5" stroke-linecap="butt"/>
+<line x1="518" y1="847" x2="548" y2="847" stroke="#C2703D" stroke-width="0.7" opacity="0.5" stroke-linecap="butt"/>
+<line x1="518" y1="854" x2="548" y2="854" stroke="#C2703D" stroke-width="0.7" opacity="0.5" stroke-linecap="butt"/>
+<text x="532" y="882" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="700" fill="#A85C2E" text-anchor="middle" letter-spacing="0" opacity="1.0">mints</text>
+<text x="532" y="894" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8" font-weight="400" fill="#928D81" text-anchor="middle" letter-spacing="0" opacity="1.0">Tic-Tacs</text>
+<rect x="642" y="830" width="20" height="36" rx="3" fill="none" stroke="#C2703D" stroke-width="1.4" opacity="1.0"/>
+<rect x="646" y="820" width="12" height="12" rx="0" fill="none" stroke="#C2703D" stroke-width="1.2" opacity="1.0"/>
+<text x="652" y="882" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" font-weight="700" fill="#A85C2E" text-anchor="middle" letter-spacing="0" opacity="1.0">sanitiser</text>
+<text x="652" y="894" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8" font-weight="400" fill="#928D81" text-anchor="middle" letter-spacing="0" opacity="1.0">hand</text>
+<text x="833.0" y="828" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#1E2024" text-anchor="middle" letter-spacing="0" opacity="1.0">THE KIT THAT LETS YOU CROSS WITHOUT RESETTING.</text>
+<text x="833.0" y="850" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" font-weight="400" fill="#A85C2E" text-anchor="middle" letter-spacing="0" opacity="1.0">walk out  →  talk  →  refresh here  →  walk back in clean.</text>
+<text x="833.0" y="882" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" font-weight="400" fill="#5E7585" text-anchor="middle" letter-spacing="0" opacity="1.0">atomiser (RM 30–80)  ·  mints  ·  sanitiser</text>
+<text x="1140" y="906" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9" font-weight="400" fill="#928D81" text-anchor="end" letter-spacing="0" opacity="1.0" font-style="italic">→ Part 2.0  breath-economics</text>
+<text x="210" y="956" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#A85C2E" text-anchor="start" letter-spacing="0.5" opacity="1.0">▸ BOTTOM — THE THIRD-SPACE FLOOR PLAN  (occupy the room, skip the smoke)</text>
+<rect x="240" y="990" width="360" height="360" rx="0" fill="none" stroke="#5E7585" stroke-width="2.0" opacity="1.0"/>
+<rect x="240" y="990" width="360" height="360" fill="#5E7585" fill-opacity="0.05"/>
+<text x="420.0" y="1020" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#5E7585" text-anchor="middle" letter-spacing="1" opacity="1.0">INSIDE</text>
+<text x="420.0" y="1038" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" font-weight="700" fill="#5E7585" text-anchor="middle" letter-spacing="0" opacity="1.0">FORMAL MEETING ROOM</text>
+<text x="420.0" y="1053" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="400" fill="#5E7585" text-anchor="middle" letter-spacing="0" opacity="1.0" font-style="italic">where decisions get RATIFIED</text>
+<rect x="335" y="1110" width="170" height="120" rx="14" fill="none" stroke="#5E7585" stroke-width="1.4" opacity="0.9"/>
+<rect x="355" y="1088" width="30" height="16" rx="3" fill="none" stroke="#5E7585" stroke-width="1.0" opacity="0.7"/>
+<rect x="355" y="1236" width="30" height="16" rx="3" fill="none" stroke="#5E7585" stroke-width="1.0" opacity="0.7"/>
+<rect x="407" y="1088" width="30" height="16" rx="3" fill="none" stroke="#5E7585" stroke-width="1.0" opacity="0.7"/>
+<rect x="407" y="1236" width="30" height="16" rx="3" fill="none" stroke="#5E7585" stroke-width="1.0" opacity="0.7"/>
+<rect x="459" y="1088" width="30" height="16" rx="3" fill="none" stroke="#5E7585" stroke-width="1.0" opacity="0.7"/>
+<rect x="459" y="1236" width="30" height="16" rx="3" fill="none" stroke="#5E7585" stroke-width="1.0" opacity="0.7"/>
+<rect x="313" y="1134" width="16" height="30" rx="3" fill="none" stroke="#5E7585" stroke-width="1.0" opacity="0.7"/>
+<rect x="511" y="1134" width="16" height="30" rx="3" fill="none" stroke="#5E7585" stroke-width="1.0" opacity="0.7"/>
+<rect x="313" y="1186" width="16" height="30" rx="3" fill="none" stroke="#5E7585" stroke-width="1.0" opacity="0.7"/>
+<rect x="511" y="1186" width="16" height="30" rx="3" fill="none" stroke="#5E7585" stroke-width="1.0" opacity="0.7"/>
+<line x1="600" y1="990" x2="600" y2="1140" stroke="#5E7585" stroke-width="2.0" opacity="1.0" stroke-linecap="butt"/>
+<line x1="600" y1="1220" x2="600" y2="1350" stroke="#5E7585" stroke-width="2.0" opacity="1.0" stroke-linecap="butt"/>
+<path d="M600,1140 A80,80 0 0 1 640,1210" fill="none" stroke="#C2703D" stroke-width="1.2" opacity="1.0" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 4"/>
+<text x="606" y="1134" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#A85C2E" text-anchor="start" letter-spacing="0" opacity="1.0">doorway</text>
+<rect x="640" y="990" width="500" height="360" rx="0" fill="none" stroke="#C2703D" stroke-width="2.0" opacity="1.0" stroke-dasharray="1 0"/>
+<rect x="640" y="990" width="500" height="360" fill="#C2703D" fill-opacity="0.05"/>
+<text x="658" y="1016" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#A85C2E" text-anchor="start" letter-spacing="0" opacity="1.0">DOORWAY · THIRD SPACE</text>
+<text x="658" y="1032" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="400" fill="#A85C2E" text-anchor="start" letter-spacing="0" opacity="1.0" font-style="italic">where decisions get SOCIALISED</text>
+<text x="658" y="1050" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.7" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0">○ office smoking area    ○ conference lobby / bar</text>
+<text x="658" y="1063" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.7" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0">○ wedding courtyard    ○ late-night mamak table</text>
+<text x="658" y="1088" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="700" fill="#A85C2E" text-anchor="start" letter-spacing="0" opacity="1.0">DOORWAY PROTOCOL</text>
+<text x="658" y="1104" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.7" font-weight="400" fill="#1E2024" text-anchor="start" letter-spacing="0" opacity="1.0">① walk out with the group  ·  “come for some air”</text>
+<text x="658" y="1117" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.7" font-weight="400" fill="#1E2024" text-anchor="start" letter-spacing="0" opacity="1.0">② prop in hand (water · coffee · phone face-down)</text>
+<text x="658" y="1130" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.7" font-weight="400" fill="#1E2024" text-anchor="start" letter-spacing="0" opacity="1.0">③ stay 5–10 min  ·  leave when they leave</text>
+<text x="658" y="1143" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.7" font-weight="400" fill="#1E2024" text-anchor="start" letter-spacing="0" opacity="1.0">④ match the register  ·  substance arrives sideways</text>
+<text x="658" y="1156" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.7" font-weight="400" fill="#1E2024" text-anchor="start" letter-spacing="0" opacity="1.0">⑤ refresh → re-enter clean</text>
+<text x="658" y="1170" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.3" font-weight="400" fill="#BE8A2E" text-anchor="start" letter-spacing="0" opacity="1.0" font-style="italic">lingering after the group disperses = reads as dependence</text>
+<path d="M628,1186 L748,1186 C 958,1180 1098,1190 1098,1231 C 1098,1272 958,1276 748,1276 C 698,1276 658,1256 698,1220 L 628,1198" fill="none" stroke="#C2703D" stroke-width="2.0" opacity="0.95" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 6"/>
+<line x1="838" y1="1182" x2="872" y2="1183" stroke="#C2703D" stroke-width="2.0" opacity="1.0" stroke-linecap="round"/>
+<path d="M872.0,1183.0 L865.0,1186.8 M872.0,1183.0 L865.2,1178.8" stroke="#C2703D" stroke-width="2.0" fill="none" stroke-linecap="round"/>
+<line x1="872" y1="1279" x2="838" y2="1278" stroke="#C2703D" stroke-width="2.0" opacity="1.0" stroke-linecap="round"/>
+<path d="M838.0,1278.0 L845.0,1274.2 M838.0,1278.0 L844.8,1282.2" stroke="#C2703D" stroke-width="2.0" fill="none" stroke-linecap="round"/>
+<text x="706" y="1264" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.3" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0" font-style="italic">the figure-path: out → loop → back</text>
+<g><rect x="1020" y="1242" width="46" height="9" rx="1.5" fill="#F4F1EA" stroke="#D9483B" stroke-width="1.6"/><rect x="1054" y="1242" width="12" height="9" rx="1.5" fill="#D9483B" fill-opacity="0.55" stroke="#D9483B" stroke-width="1.6"/></g>
+<path d="M1020,1242 q-9,-10 -3,-20" fill="none" stroke="#D9483B" stroke-width="1.2" opacity="0.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 3"/>
+<text x="1014" y="1216" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#D9483B" text-anchor="end" letter-spacing="0" opacity="1.0">even 1–3/day is non-zero</text>
+<text x="1014" y="1228" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.3" font-weight="400" fill="#D9483B" text-anchor="end" letter-spacing="0" opacity="1.0">endothelial · plaque · ↑hematocrit</text>
+<path d="M1000,1272 q40,26 84,2" fill="none" stroke="#C2703D" stroke-width="2.2" opacity="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="1080" y1="1266" x2="1092" y2="1258" stroke="#C2703D" stroke-width="2.2" opacity="1.0" stroke-linecap="round"/>
+<path d="M1092.0,1258.0 L1088.5,1265.2 M1092.0,1258.0 L1084.0,1258.5" stroke="#C2703D" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+<text x="1030" y="1292" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.5" font-weight="400" fill="#A85C2E" text-anchor="start" letter-spacing="0" opacity="1.0">bypass</text>
+<text x="210" y="1500" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" fill="#1E2024" text-anchor="start" letter-spacing="0" opacity="1.0">THE LEVERAGE IS THE DOORWAY, NOT THE CIGARETTE.</text>
+<text x="210" y="1522" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#A85C2E" text-anchor="start" letter-spacing="0" opacity="1.0" font-style="italic">you can occupy the exact same space with none of the cost.</text>
+<rect x="912" y="1482" width="228" height="42" rx="5" fill="none" stroke="#BE8A2E" stroke-width="1.2" opacity="0.95"/>
+<rect x="922" y="1493" width="22" height="20" rx="4" fill="none" stroke="#BE8A2E" stroke-width="1.1" opacity="1.0"/>
+<text x="952" y="1500" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.7" font-weight="700" fill="#BE8A2E" text-anchor="start" letter-spacing="0" opacity="1.0">pouch (ZYN/Velo) = no combustion smoke</text>
+<text x="952" y="1512" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="8.7" font-weight="400" fill="#BE8A2E" text-anchor="start" letter-spacing="0" opacity="1.0">= less unsafe — NOT safe</text>
+<text x="952" y="1522" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="7.8" font-weight="400" fill="#928D81" text-anchor="start" letter-spacing="0" opacity="1.0">→ Part 4.0 Protection (PE): same CV mechanism</text>
+<line x1="210" y1="1556" x2="1156" y2="1556" stroke="#1E2024" stroke-width="0.8" opacity="0.5" stroke-linecap="butt"/>
+<text x="683.0" y="1592" font-family="Inter, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700" fill="#1E2024" text-anchor="middle" letter-spacing="0.5" opacity="1.0">BUILD THE FIELD.  WORK THE ROOM.  SKIP THE SMOKE.</text>
+<text x="683.0" y="1620" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" font-weight="400" fill="#5E7585" text-anchor="middle" letter-spacing="0" opacity="1.0">pick two (day + evening)  →  test on your skin  →  apply 50%  →  walk out with the group  →  5–10 min  →  refresh  →  walk back in clean.</text>
+<text x="683.0" y="1646" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9" font-weight="400" fill="#928D81" text-anchor="middle" letter-spacing="1" opacity="1.0">If You’re So Smart, Why Are You Not  ·  Attractive / Appearance  ·  6 of 7</text>
+</svg>

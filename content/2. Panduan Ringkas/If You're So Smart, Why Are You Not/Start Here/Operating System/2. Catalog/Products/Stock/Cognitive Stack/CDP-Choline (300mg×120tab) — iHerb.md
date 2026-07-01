@@ -5,10 +5,15 @@ product_id: "cdp-choline-300mgx120tab-iherb"
 compound: "CDP-Choline"
 aliases:
   - "CDP-Choline"
+  - "Nutricost, CDP Choline, 120 Caps"
 name: "CDP-Choline"
 brand: "Nutricost"
 vendor: "iHerb"
 source: "iHerb"
+label_verified_as_of: 2026-06-19
+label_facts_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/cdp-choline-300mgx120tab-iherb-supplement-facts.jpg"
+label_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/cdp-choline-300mgx120tab-iherb-front.jpg"
+source_url: "https://nutricost.com/products/nutricost-cdp-choline-300mg-capsules"
 pillar: "Productive"
 sub_series: "Cognitive Enhancement"
 category: "Nootropic"
@@ -58,6 +63,24 @@ notes: "Added +36,000mg to stock from [[PO 2026-06-13 — iHerb]]."
 |---|---|---|---|
 | early | 7 | RM1.04 | RM379.99 |
 
+
+
+## Label Facts
+
+> [!info] Official label captured 2026-06-19
+> - Source: [Nutricost ? Nutricost CDP Choline Capsules](https://nutricost.com/products/nutricost-cdp-choline-300mg-capsules)
+> - Product image: ![[cdp-choline-300mgx120tab-iherb-front.jpg]]
+> - Supplement facts image: ![[cdp-choline-300mgx120tab-iherb-supplement-facts.jpg]]
+> - Brand dosage image: ![[cdp-choline-300mgx120tab-iherb-dosage.jpg]]
+> - Package: 120 Capsules
+> - Serving size: 1 tab (inferred from stock spec; verify against saved label image)
+> - Stock protocol use: 300 mg/ED
+
+| Label item | Amount |
+|---|---:|
+| CDP-Choline | 300 mg per tab |
+
+Other ingredients and full label cautions: see saved Supplement Facts panel image.
 
 ## Purchase Log
 

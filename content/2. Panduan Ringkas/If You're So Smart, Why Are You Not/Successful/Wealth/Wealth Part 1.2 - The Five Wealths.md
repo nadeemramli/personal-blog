@@ -1,6 +1,6 @@
 ---
-title: "Wealth Part 1.2 - The Five Wealths"
-draft: true
+title: Wealth Part 1.2 - The Five Wealths
+draft: false
 tags:
   - successful
   - wealth

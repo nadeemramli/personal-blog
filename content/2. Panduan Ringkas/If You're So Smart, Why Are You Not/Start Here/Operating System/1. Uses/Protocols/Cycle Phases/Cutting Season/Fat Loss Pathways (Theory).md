@@ -152,7 +152,7 @@ high stimulants + tren + deficit → chronic cortisol → leptin resistance + wa
 ```
 
 - **Glucocorticoid-receptor antagonism** ([[Oxandrolone (Anavar) (10mg×100tab) — kohohpharma|Oxandrolone]]) — the *pharmacological* arm of this pathway, and the one most people miss. Beyond its mild anabolism, Oxandrolone is a **managed glucocorticoid-receptor antagonist**: it competitively blocks cortisol at the receptor, so the cortisol the morning stimulants + trenbolone + deficit generate can't drive muscle catabolism or sub-Q water retention. Blocking that fat-retention/water signal is itself a fat-loss lever, not just muscle protection. Timed at the two stress peaks — dawn (stimulant spike, fasted cardio) and pre-workout — it caps cortisol exactly when it's highest. (Same glucocorticoid-blocking mechanism as Trenbolone in [[Part 3.0 - The Eight Anabolic Pathways|Pathways 5 & 6]], but far milder/cleaner.)
-- **Phosphatidylserine (~400–600 mg/day)** — clinically blunts the ACTH/cortisol response to acute stress; take **evening or post-workout** to let the system drop into parasympathetic recovery. The direct counter to a stimulant-heavy day.
+- **Phosphatidylserine (~200 mg occasionally; 400 mg for peak-stress blocks)** — modest but plausible ACTH/cortisol and recovery support; take **post-workout or evening** to help the system drop into parasympathetic recovery after very heavy training or stimulant-heavy days. Do not treat 400–600 mg/day as the casual default.
 - **Ashwagandha (KSM-66 / Shoden, ~300–600 mg/day)** ([[Ashwagandha (600mg×120tab) — iHerb|product]]) — lowers cortisol and supports recovery/sleep quality.
 
 > [!tip] This pathway is mostly OTC and mostly free
@@ -230,7 +230,7 @@ Pulls from [[Bloodwork & Calculated Biomarkers]] and the protection protocols; t
 | P8 Infrastructure | Glycerol · Citrulline · BHB · MCT · electrolytes (pre-workout) |
 
 > [!note] Theory pass → now scheduled
-> The two pathways flagged as under-built in the first pass — **P4** (BAT/uncoupling) and **P7** (cortisol wall) — are now closed in [[Fat Loss Daily Schedule (Cut)]]: a daily cold shower opens the heat sink, and Oxandrolone + evening phosphatidylserine/ashwagandha cap cortisol. Oxandrolone is the upgrade worth noting — it makes P7 a *pharmacological* block (glucocorticoid antagonism), not just supplement support. **Phosphatidylserine** is now catalogued ([[Phosphatidylserine (200mg×120cap) — iHerb|wishlist — to source]]); [[Ashwagandha (600mg×120tab) — iHerb|Ashwagandha]] covers the slot in the meantime.
+> The two pathways flagged as under-built in the first pass — **P4** (BAT/uncoupling) and **P7** (cortisol wall) — are now closed in [[Fat Loss Daily Schedule (Cut)]]: a daily cold shower opens the heat sink, and Oxandrolone + occasional evening/post-workout phosphatidylserine or ashwagandha support recovery. Oxandrolone is the upgrade worth noting — it makes P7 a *pharmacological* block (glucocorticoid antagonism), not just supplement support. **Phosphatidylserine** is now catalogued ([[Phosphatidylserine (100mg×120cap) — iHerb|wishlist — to source]]); [[Ashwagandha (600mg×120tab) — iHerb|Ashwagandha]] covers the slot in the meantime.
 
 ## Links
 - Praxis: [[Cut Protocol]] · live run [[2026 Q3 Cut to 15%]]

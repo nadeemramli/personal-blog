@@ -16,8 +16,8 @@ tags:
 > Protocols are foldered by **purpose** (links are name-based, so moving them broke nothing):
 > - **Cycle Phases/** — how a training block is run: [[Bulk Protocol|Bulk]], [[Recomposition & Lean Bulk Protocol|Recompose / Lean Bulk]], [[Recomposition & Lean Bulk Deployment Protocol|Recompose/Lean-Bulk Deployment]], [[Cut Protocol|Cut]], [[Bulk Recovery & Partitioning Protocol|Bulk Recovery]], [[Cutting Cycle Deployment Protocol|Cutting Deployment]], [[Final Shred Deployment Protocol|Final Shred]], [[Off-Season Mini-Cut Protocol|Off-Season Mini-Cut]], [[Oral and Extreme Deployment Protocol|Oral & Extreme]], [[Off-Season Mini-Cut & Accelerator Tiers|Accelerator Tiers]].
 > - **PCT & Recovery/** — endocrine recovery: [[Coming-Off PCT Sequence]], [[Fertility Push Protocol|Fertility Push]], [[Intra-Cycle HCG Maintenance Protocol|HCG Maintenance]], [[PCT Support Layer Protocol|PCT Support]].
-> - **Protection & Support/** — manage health markers & side-effects (organ/marker-based): [[Year-Round Shield]], [[Blood Pressure & Fluid Escalation Protocol|Blood Pressure]], [[Lipid Management Protocol|Lipids]], [[Renal & Hepatic Support Protocol|Renal/Hepatic]], [[Glucose & Insulin Sensitivity Protocol|Glucose]], [[Neuroprotection Protocol (Tren)|Neuroprotection]], [[Methylene Blue Protocol|Methylene Blue]], [[Recovery & Repair Peptide Protocol|Recovery Peptides]].
-> - **Logistics & Nutrition/** — operational: [[Training Nutrition & Pre-Intra Protocol|Training Nutrition]], [[Injection Hygiene & Consumables Protocol|Injection Hygiene]].
+> - **Protection & Support/** — manage health markers & side-effects (organ/marker-based): [[Year-Round Shield]], [[Blood Pressure & Fluid Escalation Protocol|Blood Pressure]], [[Lipid Management Protocol|Lipids]], [[Renal & Hepatic Support Protocol|Renal/Hepatic]], [[Milk Thistle Recovery Protocol|Milk Thistle]], [[Glucose & Insulin Sensitivity Protocol|Glucose]], [[Neuroprotection Protocol (Tren)|Neuroprotection]], [[Methylene Blue Protocol|Methylene Blue]], [[Recovery & Repair Peptide Protocol|Recovery Peptides]].
+> - **Logistics & Nutrition/** — operational: [[Training Nutrition & Pre-Intra Protocol|Training Nutrition]], [[Electrolyte Protocol|Electrolytes]], [[Diet Micronutrient Coverage|Diet Micronutrient Coverage]], [[Injection Hygiene & Consumables Protocol|Injection Hygiene]].
 > - Root: this map + [[FFMI Trajectory & Calorie Targets]] + `0. Protocols.base`.
 
 > [!abstract] This is the protocol construction layer between [[Product List]] and the live cycle notes.
@@ -59,6 +59,7 @@ This is the key adjustment: the **same compound can be a different decision** de
 | [[Blood Pressure & Fluid Escalation Protocol]] | P4 | Draft v1 | ARB/PDE5/beta-blocker/diuretic decision tree |
 | [[Lipid Management Protocol]] | P4 | Draft v1 | Statin, ezetimibe, fish oil, oral-steroid lipid response |
 | [[Renal & Hepatic Support Protocol]] | P4 | Draft v1 | Kidney/liver support, oral support, hydration, cystatin C/eGFR |
+| [[Milk Thistle Recovery Protocol]] | P4 | Draft v1 | Post-oral/off-cycle silymarin recovery; not active oral-window support |
 | [[Glucose & Insulin Sensitivity Protocol]] | P2/P3/P4 | Draft v1 | Metformin, SGLT2, acarbose, berberine, retatrutide, glucose monitoring |
 | [[Off-Season Mini-Cut Protocol]] | P2/P3 | Draft v1 | 2-4 week bulk interruption and sensitivity reset |
 | [[Cutting Cycle Deployment Protocol]] | P2/P3 | Draft v1 | 8-20 week cut timing, escalation, refeeds, diet breaks |
@@ -71,6 +72,9 @@ This is the key adjustment: the **same compound can be a different decision** de
 | [[Fertility Push Protocol]] | PCT | Draft v1 | HCG/HMG fertility-specific path |
 | [[PCT Support Layer Protocol]] | PCT | Draft v1 | Nutrition, training deload, D3, zinc, boron, sleep |
 | [[Training Nutrition & Pre-Intra Protocol]] | P2 | Draft v1 | Protein, aminos, pre/intra, eggs, training-day support |
+| [[Electrolyte Protocol]] | P2/P4 | Draft v1 | Water, sodium, potassium, magnesium, calcium, sweat/SGLT2 adjustment |
+| [[Diet Micronutrient Coverage]] | P4 | Intake-needed | Recipes and food coverage for vitamin A/E, iodine, potassium, calcium, trace minerals |
+| [[Micronutrient Supplement Quality Audit]] | P4 | Draft v1 | Bioavailability/form audit for vitamins, minerals, omega-3, CoQ10, NR, amino/osmolyte support |
 | [[Injection Hygiene & Consumables Protocol]] | P0/P1 | Draft v1 | Syringes, alcohol swabs, handling rules |
 | [[Recovery & Repair Peptide Protocol]] | P4/Attractive | Draft v1 | BPC-157, TB-500, GHK-Cu, KPV, TA-1, tissue/immune/recovery peptides |
 
@@ -83,7 +87,8 @@ This is the key adjustment: the **same compound can be a different decision** de
 | [[Year-Round Shield]] | [[Aged Garlic Extract (300mg×300tab) — iHerb|Aged Garlic Extract]], [[Aspirin (100mg×60tab) — shopee-china|Aspirin]], [[CoQ10 (400mg×180tab) — iHerb|CoQ10]], [[Ezetimibe (10mg×10tab) — indiamart|Ezetimibe]], [[Irbesartan (150mg×120tab) — shopee-china|Irbesartan]], [[Nebivolol (2.5mg×100tab) — Jigar Healthcare|Nebivolol]], [[NAC (600mg×180tab) — iHerb|NAC]], [[Nicotinamide Riboside (250mg×60tab) — iHerb|Nicotinamide Riboside]], [[Rosuvastatin (10mg×28tab) — shopee-china|Rosuvastatin]], [[Tadalafil (10mg×100tab) — shopee-china|Tadalafil]], [[Telmisartan (40mg×30tab) — indiamart|Telmisartan]], [[TMG (Betaine) (750mg×120tab) — iHerb|TMG (Betaine)]], [[Vitamin C (1000mg×60tab) — iHerb|Vitamin C]], [[Vitamin D3-K2 (125mcg×180tab) — iHerb|Vitamin D3-K2]] |
 | [[Blood Pressure & Fluid Escalation Protocol]] | [[Irbesartan (150mg×120tab) — shopee-china|Irbesartan]], [[Telmisartan (40mg×30tab) — indiamart|Telmisartan]], [[Tadalafil (10mg×100tab) — shopee-china|Tadalafil]], [[Nebivolol (2.5mg×100tab) — Jigar Healthcare|Nebivolol]], [[Indapamide (2.5mg×60tab) — shopee-china|Indapamide]], [[Aged Garlic Extract (300mg×300tab) — iHerb|Aged Garlic Extract]], [[Magnesium Glycinate (210mg×240tab) — iHerb|Magnesium Glycinate]] |
 | [[Lipid Management Protocol]] | [[Rosuvastatin (10mg×28tab) — shopee-china|Rosuvastatin]], [[Ezetimibe (10mg×10tab) — indiamart|Ezetimibe]], [[Fish Oil (Omega-3) (1100mg×240softgel) — iHerb|Fish Oil (Omega-3)]], [[NAC (600mg×180tab) — iHerb|NAC]], [[CoQ10 (400mg×180tab) — iHerb|CoQ10]], [[Aspirin (100mg×60tab) — shopee-china|Aspirin]] |
-| [[Renal & Hepatic Support Protocol]] | [[Astragalus Root (550mg×240tab) — iHerb|Astragalus Root]], [[TUDCA (250mg×60tab) — iHerb|TUDCA]], [[NAC (600mg×180tab) — iHerb|NAC]], [[Selenium (100mcg×240tab) — iHerb|Selenium]], [[Copper (Bisglycinate) (2mg×100tab) — iHerb|Copper (Bisglycinate)]], [[Methyl B Complex (250mg×60tab) — iHerb|Methyl B Complex]], [[Vitamin C (1000mg×60tab) — iHerb|Vitamin C]], [[TMG (Betaine) (750mg×120tab) — iHerb|TMG (Betaine)]] |
+| [[Renal & Hepatic Support Protocol]] | [[Astragalus Root (550mg×240tab) — iHerb|Astragalus Root]], [[TUDCA (250mg×60tab) — iHerb|TUDCA]], [[NAC (600mg×180tab) — iHerb|NAC]], [[Silymarin Complex (300mg×360cap) — iHerb|Silymarin Complex]], [[Selenium (100mcg×240tab) — iHerb|Selenium]], [[Copper (Bisglycinate) (2mg×100tab) — iHerb|Copper (Bisglycinate)]], [[Methyl B Complex (250mg×60tab) — iHerb|Methyl B Complex]], [[Vitamin C (1000mg×60tab) — iHerb|Vitamin C]], [[TMG (Betaine) (750mg×120tab) — iHerb|TMG (Betaine)]] |
+| [[Milk Thistle Recovery Protocol]] | [[Silymarin Complex (300mg×360cap) — iHerb|Silymarin Complex]] |
 | [[Glucose & Insulin Sensitivity Protocol]] | [[Acarbose (50mg×100tab) — shopee-china|Acarbose]], [[Dihydroberberine (200mg×60tab) — iHerb|Dihydroberberine]], [[Empagliflozin (25mg×10tab) — indiamart|Empagliflozin]], [[Metformin (500mg×100tab) — indiamart|Metformin]], [[Retatrutide (60mg×10vial) — BFF-AMO|Retatrutide]], [[Methylene Blue (25g powder) — heiltropfen|Methylene Blue]], [[Nicotinamide Riboside (250mg×60tab) — iHerb|Nicotinamide Riboside]] |
 
 ### P2/P3 Cut And Deployment
@@ -118,7 +123,7 @@ This is the key adjustment: the **same compound can be a different decision** de
 
 | Protocol | Products |
 |---|---|
-| [[Renal & Hepatic Support Protocol]] | [[Astragalus Root (550mg×240tab) — iHerb|Astragalus Root]], [[Calcium D-Glucarate (500mg×120tab) — iHerb|Calcium D-Glucarate]], [[DIM (300mg×120tab) — iHerb|DIM]], [[TUDCA (250mg×60tab) — iHerb|TUDCA]], [[Zinc (50mg×120tab) — iHerb|Zinc]], [[Boron (5mg×240tab) — iHerb|Boron]] |
+| [[Renal & Hepatic Support Protocol]] | [[Astragalus Root (550mg×240tab) — iHerb|Astragalus Root]], [[Calcium D-Glucarate (500mg×120tab) — iHerb|Calcium D-Glucarate]], [[DIM (300mg×120tab) — iHerb|DIM]], [[TUDCA (250mg×60tab) — iHerb|TUDCA]], [[Silymarin Complex (300mg×360cap) — iHerb|Silymarin Complex]], [[Zinc (50mg×120tab) — iHerb|Zinc]], [[Boron (5mg×240tab) — iHerb|Boron]] |
 | [[Oral and Extreme Deployment Protocol]] | [[TUDCA (250mg×60tab) — iHerb|TUDCA]], [[NAC (600mg×180tab) — iHerb|NAC]], [[P5P (Pyridoxal-5-Phosphate) (50mg×240cap) — iHerb|P5P (Pyridoxal-5-Phosphate)]], [[Calcium D-Glucarate (500mg×120tab) — iHerb|Calcium D-Glucarate]], [[DIM (300mg×120tab) — iHerb|DIM]] |
 | [[Blood Pressure & Fluid Escalation Protocol]] | [[Magnesium Glycinate (210mg×240tab) — iHerb|Magnesium Glycinate]], [[Indapamide (2.5mg×60tab) — shopee-china|Indapamide]], [[Irbesartan (150mg×120tab) — shopee-china|Irbesartan]], [[Telmisartan (40mg×30tab) — indiamart|Telmisartan]], [[Nebivolol (2.5mg×100tab) — Jigar Healthcare|Nebivolol]], [[Tadalafil (10mg×100tab) — shopee-china|Tadalafil]] |
 
@@ -136,6 +141,8 @@ This is the key adjustment: the **same compound can be a different decision** de
 | Protocol | Products |
 |---|---|
 | [[Training Nutrition & Pre-Intra Protocol]] | [[Whole Eggs (30eggs) — Grocer|Whole Eggs]], [[On The Go Protein Isolate (OTG) (1000g) — Shopee|On The Go Protein Isolate (OTG)]], [[SPI (Soy Protein Isolate, HK) (1000g) — Shopee|SPI (Soy Protein Isolate, HK)]], [[Pre-Workout (1014g) — iHerb|Pre-Workout]], [[Intra-Workout (651g) — iHerb|Intra-Workout]], [[Beta-Alanine (1000g) — Shopee|Beta-Alanine]], [[L-Citrulline (1000g) — Shopee|L-Citrulline]], [[L-Carnitine (1000g) — Shopee|L-Carnitine]], [[Glutamine (1000g) — Shopee|Glutamine]], [[Glycerol (1000g) — Shopee|Glycerol]], [[Creatine Monohydrate (1000g) — Shopee|Creatine Monohydrate]], [[BHB Salts (442g) — iHerb|BHB Salts]], [[C8 MCT Powder (907g) — iHerb|C8 MCT Powder]] |
+| [[Electrolyte Protocol]] | [[Magnesium Glycinate (210mg×240tab) — iHerb|Magnesium Glycinate]], [[Intra-Workout (651g) — iHerb|Intra-Workout]], [[Pre-Workout (1014g) — iHerb|Pre-Workout]], iodized salt, food potassium, food calcium |
+| [[Diet Micronutrient Coverage]] | Daily meal prep / recipes; owns food coverage for vitamin A, vitamin E, iodine, potassium, calcium, chromium, manganese, and trace minerals |
 | [[Injection Hygiene & Consumables Protocol]] | [[Alcohol Swab (100pcs) — Shopee|Alcohol Swab]], [[Insulin Syringe 30g (NIPRO) (100pcs) — Shopee|Insulin Syringe 30g (NIPRO)]], [[Insulin Syringe 31g (100pcs) — Local Pharmacy|Insulin Syringe 31g]] |
 
 ### Series-Owned Protocols

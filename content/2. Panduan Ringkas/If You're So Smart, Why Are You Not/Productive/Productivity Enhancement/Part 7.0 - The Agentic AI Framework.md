@@ -101,6 +101,10 @@ The five stages above describe an agent's *anatomy*. The **harness** is its *bod
 
 ==The harness is the difference between an agent you *talk to* and an agent that *lives somewhere and works*.== Systems that host agentic workflows (whatever the brand) are all, underneath, a harness wrapping this pipeline. That spectrum, from a chat box to a full always-on machine, is important enough to get its own article: [[Part 7.1 - From Chat to Continuous Worker|Part 7.1]].
 
+*Here's the whole agent on one rail: the six stages from [[Part 7.0 - The Agentic AI Framework#The pipeline|Model through Harness]] drawn as a single signal chain that turns a model's text into real work (words become work). It marks where the word "agentic" is actually earned (the [[Part 7.0 - The Agentic AI Framework#Agentic Layer: the loop|run → evaluate → adjust loop]]) and the contrarian payoff that most of an agent's quality is [[Part 7.0 - The Agentic AI Framework#Context: better decisions each pass|context, not the model]], with the one red warning that an agent on chaos just makes chaos faster. Pin it up as the one-glance map of what an "AI agent" really is.*
+
+![[Poster — Productive - Productivity Enhancement Part 7.0 - The Agentic AI Framework.png]]
+
 ---
 > [!check] Part 7 Takeaways
 > - An "AI agent" is not one thing; it's a **pipeline**: Model → Tooling → Protocol → Agentic Layer → Context → Harness.

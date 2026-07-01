@@ -5,6 +5,7 @@ product_id: "propylene-glycol-usp-carrier-1000g-lazada"
 compound: "Propylene Glycol USP (carrier)"
 aliases:
   - "Propylene Glycol USP (carrier)"
+  - "Propylene Glycol USP 1KG"
 name: "Propylene Glycol USP (carrier)"
 brand: ""
 vendor: "Lazada"

@@ -3,36 +3,42 @@
 import os, glob, re, yaml, datetime, html, sys
 PROD = sys.argv[1] if len(sys.argv)>1 else "2. Catalog/Products"
 OUT  = sys.argv[2] if len(sys.argv)>2 else "4. Management/_Ledger/charts/overall_runway.svg"
-TODAY=datetime.date(2026,6,14); HEND=datetime.date(2027,12,31)
+TODAY=datetime.date.today(); HEND=datetime.date(2028,1,31)
 CUTS=[(datetime.date(2026,7,14),84),(datetime.date(2027,6,1),84)]
+LEANBULK=[(datetime.date(2026,10,1),182),(datetime.date(2027,9,1),182)]
+BUYING = (len(sys.argv)>3 and sys.argv[3]=="buying")
+SALES=[(datetime.date(2026,6,1),30,"mid-yr clearance"),(datetime.date(2026,9,1),30,"Anniversary ~28%"),(datetime.date(2026,11,1),30,"Black Friday / CM"),(datetime.date(2026,12,15),17,"year-end"),
+ (datetime.date(2027,6,1),30,"mid-yr clearance"),(datetime.date(2027,9,1),30,"Anniversary ~28%"),(datetime.date(2027,11,1),30,"Black Friday / CM"),(datetime.date(2027,12,15),17,"year-end")]
 DPW={"ED":7.0,"EOD":3.5,"ITD":4.0,"OCC":4.0,"TD":6.0,"5x":5.0,"1-2x":1.5,"E3D":2.33,"E4D":1.75}
 FREQ={"ED":"daily","EOD":"EOD","ITD":"intra-WO","OCC":"occ","TD":"training","5x":"5×/wk","1-2x":"1–2×/wk","E3D":"e3d","E4D":"e4d"}
 FRANK={"ED":0,"EOD":1,"5x":1,"ITD":2,"TD":3,"E4D":4,"E3D":4,"OCC":5,"1-2x":5}
 PED_CAL={"Etho Testosterone 450":(350,52),"Oxandrolone (Anavar)":(240,16),"MK-677":(140,24),
- "Trenbolone Acetate":(70,8),"Proviron":(175,8),"Levothyroxine (T4)":(700,16),
- "Cytolin (Cytomel / T3)":(175,16),"Cardarine (GW-501516)":(105,8)}
+ "Trenbolone Acetate":(70,52),"Etho Masteron 200":(150,52),"Levothyroxine (T4)":(700,16),
+ "Cytolin (Cytomel / T3)":(175,16),"Cardarine (GW-501516)":(105,8),"Boldenone Undecanoate":(400,26),"Oxymetholone (Anadrolin)":(350,8)}
 PED_ALIAS={"Acro Trenbolone 100":"Trenbolone Acetate"}
-SHORT={"Methylene Blue (USP pharma grade)":"Methylene Blue","Metformin+Empagliflozin FDC":"Metformin+Empagliflozin",
+SHORT={"Vitamin E (Tocotrienol Complex)":"Vitamin E","Etho Masteron 200":"Masteron","Oxymetholone (Anadrolin)":"Anadrol","Boldenone Undecanoate":"EQ (Boldenone)","Methylene Blue (USP pharma grade)":"Methylene Blue","Metformin+Empagliflozin FDC":"Metformin+Empagliflozin",
  "TB-500 (Thymosin Beta-4)":"TB-500","Cytolin (Cytomel / T3)":"Cytolin (T3)","Nicorette Gum (nicotine)":"Nicorette Gum",
  "P5P (Pyridoxal-5-Phosphate)":"P5P","Uridine Monophosphate":"Uridine","Cardarine (GW-501516)":"Cardarine",
  "Oral Minoxidil 5mg":"Oral Minoxidil","Zinc Picolinate":"Zinc","Vidalista 10mg":"Tadalafil","Zetiheal 10mg":"Ezetimibe",
  "Nebiheal 5mg":"Nebivolol","Momenta 5mg":"Memantine","Etho Testosterone 450":"Test Enanthate 450",
  "Acro Trenbolone 100":"Trenbolone Acetate"}
 GROUPS=[
- ("Daily Cognitive","C","#3E7BC2",["Uridine Monophosphate","CDP-Choline","Bacopa Monnieri","Saffron","Fish Oil (Omega-3)"]),
- ("Daily Antioxidant / CV","C","#1D9E75",["Taurine","Vitamin C","Aged Garlic Extract","Methyl B Complex","TMG (Betaine)","NAC"]),
- ("Daily Protection / Ancillary","C","#7F77DD",["Aspirin","Irbesartan","Zetiheal 10mg","Rosuvastatin","Oral Minoxidil 5mg","Nebiheal 5mg","Vidalista 10mg","GHK-Cu","KPV"]),
+ ("Daily Cognitive","C","#3E7BC2",["Uridine Monophosphate","CDP-Choline","Bacopa Monnieri","Fish Oil (Omega-3)"]),
+ ("Daily Antioxidant / Cardiovascular","C","#1D9E75",["Taurine","Vitamin C","Aged Garlic Extract","Methyl B Complex","TMG (Betaine)","NAC","TUDCA","Astragalus Root","Vitamin E (Tocotrienol Complex)"]),
+ ("Daily Protection / Ancillary","C","#7F77DD",["Aspirin","Irbesartan","Zetiheal 10mg","Rosuvastatin","Oral Minoxidil 5mg","Nebiheal 5mg","Tadalafil","GHK-Cu"]),
  ("Nutrient Partitioning","C","#639922",["Retatrutide","Metformin+Empagliflozin FDC"]),
- ("Every-Other-Day Cognitive","C","#6FA3D6",["L-Theanine","L-Tyrosine","Caffeine","Acetyl L-Carnitine","Nicorette Gum (nicotine)","Ginkgo Biloba","Huperzine-A"]),
- ("Every-Other-Day Androgen Support","C","#D69A3A",["Copper (Bisglycinate)","Selenium","Zinc Picolinate","Boron","DIM"]),
- ("Every-Other-Day Mitochondria Support","C","#0F6E56",["CoQ10","Nicotinamide Riboside","Vitamin D3/K2"]),
- ("Sleep / Recovery","C","#D4537E",["Magnesium Glycinate","Apigenin","Melatonin"]),
- ("Training-Day Performance","C","#D85A30",["Pre-Workout","Intra-Workout","Alpha-GPC","Creatine Monohydrate"]),
- ("TRT Base","C","#5F5E5A",["Etho Testosterone 450"]),
- ("Cut / Seasonal (Cycle-Gated)","S","#D6493F",["MK-677","Oxandrolone (Anavar)","Proviron","Cardarine (GW-501516)","Acro Trenbolone 100","Cytolin (Cytomel / T3)","Levothyroxine (T4)","Mirabegron","Clenbuterol","Ketotifen","Methylene Blue (USP pharma grade)","Momenta 5mg","BHB Salts","C8 MCT Powder","P5P (Pyridoxal-5-Phosphate)"]),
- ("Situational (As-Needed)","X","#9A968F",["Ashwagandha","Modaheal 200mg","Trazodone","Acarbose","BPC-157","TB-500 (Thymosin Beta-4)","TUDCA","Astragalus Root","Calcium D-Glucarate"]),
+ ("Every-Other-Day Cognitive","C","#6FA3D6",["L-Theanine","Caffeine","Acetyl L-Carnitine","Nicorette Gum (nicotine)","Ginkgo Biloba","Huperzine-A"]),
+ ("Every-Other-Day Androgen Support","C","#D69A3A",["Copper (Bisglycinate)","Selenium","Zinc Picolinate","Boron","DIM","Calcium D-Glucarate"]),
+ ("Every-Other-Day Mitochondria Support","C","#0F6E56",["CoQ10","Nicotinamide Riboside","Vitamin D3/K2","Methylene Blue (USP pharma grade)"]),
+ ("Sleep / Recovery / Joint Health","C","#D4537E",["Magnesium Glycinate","Apigenin","Melatonin","Boswellia Extract"]),
+ ("Training-Day Performance","C","#D85A30",["Pre-Workout","Intra-Workout","Alpha-GPC","Creatine Monohydrate","Beet Root Powder"]),
+ ("TRT Base / Year-Round Anabolic","C","#5F5E5A",["Etho Testosterone 450","Etho Masteron 200","Acro Trenbolone 100","P5P (Pyridoxal-5-Phosphate)"]),
+ ("Aggressive Cut (Cycle-Gated)","S","#D6493F",["Oxandrolone (Anavar)","Cardarine (GW-501516)","Cytolin (Cytomel / T3)","Levothyroxine (T4)","Mirabegron","Clenbuterol","Ketotifen","BHB Salts","C8 MCT Powder"]),
+ ("Lean Bulk / Recomposition (Phase-Gated)","L","#7A5C3E",["Boldenone Undecanoate","MK-677","Oxymetholone (Anadrolin)"]),
+ ("Situational (As-Needed)","X","#9A968F",["Modaheal 200mg","Trazodone","Acarbose","BPC-157","TB-500 (Thymosin Beta-4)","Saffron","L-Tyrosine","Momenta 5mg"]),
 ]
 SEASONAL_ORDER=["Trenbolone Acetate","Oxandrolone (Anavar)","Proviron","P5P","Memantine","MK-677","Levothyroxine (T4)","Cytolin (T3)","Mirabegron","Clenbuterol","Ketotifen","Methylene Blue","Cardarine","C8 MCT Powder","BHB Salts"]
+MANUAL_ORDER={"Test Enanthate 450":0,"Masteron":1,"Trenbolone Acetate":2,"P5P":3}
 GMAP={}
 for gi,(gn,gm,gc,members) in enumerate(GROUPS):
     for nm in members: GMAP[nm]=gi
@@ -63,9 +69,10 @@ for nm,d in prod.items():
     gi=GMAP.get(nm)
     if gi is None: gi=len(GROUPS); unsorted.append(nm)
     mode=GROUPS[gi][1] if gi<len(GROUPS) else "C"
-    if mode=="S" and incut:
+    if mode in ("S","L") and incut:
+        windows=CUTS if mode=="S" else LEANBULK
         rem=soh; ro=None
-        for cs,clen in CUTS:
+        for cs,clen in windows:
             dosed=clen
             if rem<=incut*dosed: ro=adddays(cs,rem/incut); break
             rem-=incut*dosed
@@ -74,43 +81,61 @@ for nm,d in prod.items():
         rdate=adddays(TODAY,soh/ann)
     items.append(dict(nm=SHORT.get(nm,nm),soh=soh,du=du,gi=gi,mode=mode,rdate=rdate,
         freq=FREQ.get(dosing,dosing.lower() or "—"),frank=FRANK.get(dosing,9),incut=incut,wpy=wpy))
-W=900; X0=300; X1=872; span=(HEND-TODAY).days; ppd=(X1-X0)/span
+W=1140; X0=232; X1=1112; span=(HEND-TODAY).days; ppd=(X1-X0)/span
 def X(dt): return max(X0,min(X1,X0+(dt-TODAY).days*ppd))
 def urg(rdate):
     if rdate is None: return "green"
     if rdate<=adddays(TODAY,56): return "red"
-    if rdate<=datetime.date(2026,12,31): return "amber"
+    if rdate<=datetime.date(TODAY.year,12,31): return "amber"
     if rdate<=HEND: return "blue"
     return "green"
 ULAB={"red":"#2F2D2A","amber":"#2F2D2A","blue":"#2F2D2A","green":"#2F2D2A"}
-rowH=18; top=96
+rowH=20; top=96
 order=list(range(len(GROUPS)))+([len(GROUPS)] if unsorted else [])
 grp_items={gi:[] for gi in order}
 for it in items: grp_items[it["gi"]].append(it)
 def sortkey(it):
+    if it["nm"] in MANUAL_ORDER: return (-1, MANUAL_ORDER[it["nm"]])
     if it["mode"]=="S":
         try: return (0, SEASONAL_ORDER.index(it["nm"]))
         except ValueError: return (0, 999)
     return (it["frank"], it["rdate"] or datetime.date(2099,1,1))
 nrows=sum(len(v) for v in grp_items.values()); ngrp=sum(1 for gi in order if grp_items[gi])
-modehead={"C":"CONTINUOUS — year-round","S":"SEASONAL — cut-gated (depletes only in cuts)","X":"SITUATIONAL — as-needed"}
-h=top+nrows*rowH+ngrp*22+3*16+70
+modehead={"C":"CONTINUOUS — year-round","S":"SEASONAL — cut-gated (depletes only in cuts)","L":"LEAN BULK / RECOMP — phase-gated (depletes only in lean-bulk blocks)","X":"SITUATIONAL — as-needed"}
+h=top+nrows*rowH+ngrp*22+4*16+96
 s=[]
 s.append(f'<svg viewBox="0 0 {W} {h}" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system,Segoe UI,Roboto,sans-serif" role="img">')
 s.append(f'<title>Stock runway by functional stack</title><desc>Days of supply per product grouped into functional stacks, ordered by dosing frequency, with cut-aligned seasonal depletion.</desc>')
 s.append(f'<rect x="0" y="0" width="{W}" height="{h}" rx="10" fill="#FCFCFB"/>')
-s.append(f'<text x="20" y="32" font-size="18" font-weight="600" fill="#2F2D2A">Stock runway — by functional stack</text>')
-s.append(f'<text x="20" y="51" font-size="12" fill="#6B6862">Colour = stack · grey shaded columns = cut windows · seasonal bars burn only inside cuts · date red=buy now, amber=this year, green=covered · 2026-06-14 → 2027-12-31</text>')
-for cs,clen in CUTS:
-    ce=adddays(cs,clen)
-    s.append(f'<rect x="{X(cs):.1f}" y="{top-4}" width="{X(ce)-X(cs):.1f}" height="{h-top-46}" fill="#D6493F" fill-opacity="0.06"/>')
-    s.append(f'<text x="{(X(cs)+X(ce))/2:.1f}" y="{top-14}" font-size="9.5" text-anchor="middle" fill="#CC0066" fill-opacity="0.85">{cs.year} cut</text>')
+s.append(f'<text x="20" y="32" font-size="18" font-weight="600" fill="#2F2D2A">{"Buying cadence — runway vs iHerb sale windows" if BUYING else "Stock runway — by functional stack"}</text>')
+s.append(f'<text x="20" y="51" font-size="12" fill="#6B6862">{"Gold bands = iHerb sale windows (June · Sept Anniversary ~28% · Nov BF/CM · Dec) — time restocks into a sale" if BUYING else "Colour = stack · red bands = aggressive cut (12 wk) · green bands = lean bulk (6 mo) · phase bars burn only inside their window"} · date red=buy now, amber=this year, green=covered · {TODAY} → {HEND}</text>')
+if BUYING:
+    for sd,slen,slab in SALES:
+        if sd>HEND: continue
+        se=adddays(sd,slen)
+        s.append(f'<rect x="{X(sd):.1f}" y="{top-4}" width="{max(X(se)-X(sd),2):.1f}" height="{h-top-46}" fill="#E0A93B" fill-opacity="0.16"/>')
+        s.append(f'<text x="{(X(sd)+X(se))/2:.1f}" y="{top-14}" font-size="9" text-anchor="middle" fill="#B97D0A" fill-opacity="0.95">{slab}</text>')
+else:
+    for cs,clen in CUTS:
+        ce=adddays(cs,clen)
+        s.append(f'<rect x="{X(cs):.1f}" y="{top-4}" width="{X(ce)-X(cs):.1f}" height="{h-top-46}" fill="#D6493F" fill-opacity="0.06"/>')
+        s.append(f'<text x="{(X(cs)+X(ce))/2:.1f}" y="{top-14}" font-size="9.5" text-anchor="middle" fill="#CC0066" fill-opacity="0.85">{cs.year} agg. cut</text>')
+    for lb,llen in LEANBULK:
+        le=adddays(lb,llen)
+        s.append(f'<rect x="{X(lb):.1f}" y="{top-4}" width="{X(le)-X(lb):.1f}" height="{h-top-46}" fill="#1D9E75" fill-opacity="0.07"/>')
+        s.append(f'<text x="{(X(lb)+X(le))/2:.1f}" y="{top-14}" font-size="9.5" text-anchor="middle" fill="#0F8A5F" fill-opacity="0.9">{lb.year} lean bulk</text>')
 d=datetime.date(2026,7,1)
 while d<=HEND:
-    x=X(d); lab=d.strftime("%b") if d.month!=1 else d.strftime("%b ’%y")
-    s.append(f'<line x1="{x:.1f}" y1="{top-2}" x2="{x:.1f}" y2="{h-48}" stroke="#ECEAE6" stroke-width="1"/>')
-    s.append(f'<text x="{x:.1f}" y="{top-4}" font-size="9" text-anchor="middle" fill="#9A968F">{lab}</text>')
-    mm=d.month+2; yy=d.year+(mm-1)//12; mm=(mm-1)%12+1; d=datetime.date(yy,mm,1)
+    x=X(d)
+    if d.month==1:
+        s.append(f'<line x1="{x:.1f}" y1="{top-6}" x2="{x:.1f}" y2="{h-48}" stroke="#A8A39B" stroke-width="1.8"/>')
+        s.append(f'<text x="{x:.1f}" y="{top-4}" font-size="9.5" font-weight="600" text-anchor="middle" fill="#6B6862">{d.strftime("%b ’%y")}</text>')
+    elif d.month in (4,7,10):
+        s.append(f'<line x1="{x:.1f}" y1="{top-2}" x2="{x:.1f}" y2="{h-48}" stroke="#CFC9C1" stroke-width="1" stroke-dasharray="2 3"/>')
+        s.append(f'<text x="{x:.1f}" y="{top-4}" font-size="9" text-anchor="middle" fill="#9A968F">{d.strftime("%b")}</text>')
+    else:
+        s.append(f'<line x1="{x:.1f}" y1="{top-2}" x2="{x:.1f}" y2="{h-48}" stroke="#F0EEE9" stroke-width="1"/>')
+    mm=d.month+1; yy=d.year+(mm-1)//12; mm=(mm-1)%12+1; d=datetime.date(yy,mm,1)
 y=top+12; lastmode=None
 for gi in order:
     g=grp_items[gi]
@@ -125,13 +150,14 @@ for gi in order:
     y+=22
     for it in sorted(g,key=sortkey):
         c=gc; lbl=html.escape(it["nm"][:26]); sub=f'{it["soh"]:g}{it["du"]}'; u=urg(it["rdate"])
-        s.append(f'<text x="244" y="{y+3}" font-size="10.5" text-anchor="end" fill="#2F2D2A">{lbl}</text>')
-        s.append(f'<text x="250" y="{y+3}" font-size="9" fill="#A8A49C">{it["freq"]}</text>')
-        if it["mode"]=="S":
+        s.append(f'<text x="176" y="{y+3}" font-size="10.5" text-anchor="end" fill="#2F2D2A">{lbl}</text>')
+        s.append(f'<text x="182" y="{y+3}" font-size="9" fill="#A8A49C">{it["freq"]}</text>')
+        if it["mode"] in ("S","L"):
+            windows=CUTS if it["mode"]=="S" else LEANBULK
             end=X(it["rdate"]) if it["rdate"] else X1
             s.append(f'<line x1="{X0}" y1="{y-0.5}" x2="{end:.1f}" y2="{y-0.5}" stroke="{c}" stroke-width="1.4" stroke-opacity="0.30"/>')
             rem=it["soh"]; done=False
-            for cs,clen in CUTS:
+            for cs,clen in windows:
                 if done: break
                 dseg=clen
                 if rem<=it["incut"]*dseg:

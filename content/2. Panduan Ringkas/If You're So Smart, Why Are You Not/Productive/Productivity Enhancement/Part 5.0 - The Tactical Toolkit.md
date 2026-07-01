@@ -95,6 +95,10 @@ Here's the honest problem: reading is the *slowest* way to get information into 
 
 The shortest section on purpose. Password management is critical and people overthink it. ==Just use your platform's native manager== (Google Password Manager, or Apple's Keychain): it generates strong unique passwords, syncs across your devices, autofills, and warns you about breaches, for free, with no extra app to maintain. Turn on a passkey or two-factor on the account that holds it, and you're done. The goal here is "solved and forgotten," not "optimised." Don't spend an afternoon comparing password vaults; spend ten minutes turning the built-in one on.
 
+*Here's the whole toolkit as one command bench: six parallel modules (email, shortcuts, calendar, reading, anti-library, passwords) all fed by one bright [[Part 5.0 - The Tactical Toolkit#AI as the default interface|"describe the outcome" bus]] that replaces the old menu maze, with a twin meter carrying the thesis as geometry (return high, status low, which is why most people skip it). Every tactic is a fundamental plus its ×AI multiplier, and the single red object is the [[Part 5.0 - The Tactical Toolkit#Passwords: just use the native manager|password vault over-engineered]] (the 10-minute job gold-plated) while the 10× [[Part 5.0 - The Tactical Toolkit#Email: inbox zero, finally easy|email triage]] win sits dark. Name it, don't navigate to it: pin this, pick your two or three weakest bays, and upgrade only those.*
+
+![[Poster — Productive - Productivity Enhancement Part 5.0 - The Tactical Toolkit.png]]
+
 ---
 > [!check] Part 5 Takeaways
 > - The literacy layer has the **highest hourly return and lowest status**. Pick your two or three weakest tactics; don't do all at once.

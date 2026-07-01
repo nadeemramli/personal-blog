@@ -5,10 +5,15 @@ product_id: "alpha-gpc-300mgx120tab-iherb"
 compound: "Alpha-GPC"
 aliases:
   - "Alpha-GPC"
+  - "Nutricost, Alpha GPC, 120 Caps (300 mg)"
 name: "Alpha-GPC"
 brand: "Nutricost"
 vendor: "iHerb"
 source: "iHerb"
+label_verified_as_of: 2026-06-19
+label_facts_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/alpha-gpc-300mgx120tab-iherb-supplement-facts.jpg"
+label_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/alpha-gpc-300mgx120tab-iherb-front.jpg"
+source_url: "https://nutricost.com/products/nutricost-alpha-gpc-300mg"
 pillar: "Productive"
 sub_series: "Cognitive Enhancement"
 category: "Nootropic"
@@ -61,6 +66,24 @@ notes: "Shared with PE stack"
 | early | 7 | RM0.83 | RM301.39 |
 | medium | 14 | RM1.66 | RM1,205.57 |
 
+
+
+## Label Facts
+
+> [!info] Official label captured 2026-06-19
+> - Source: [Nutricost ? Nutricost Alpha GPC Capsules](https://nutricost.com/products/nutricost-alpha-gpc-300mg)
+> - Product image: ![[alpha-gpc-300mgx120tab-iherb-front.jpg]]
+> - Supplement facts image: ![[alpha-gpc-300mgx120tab-iherb-supplement-facts.jpg]]
+> - Brand dosage image: ![[alpha-gpc-300mgx120tab-iherb-dosage.jpg]]
+> - Package: 120 capsules
+> - Serving size: 1 tab (inferred from stock spec; verify against saved label image)
+> - Stock protocol use: 600 mg/TD
+
+| Label item | Amount |
+|---|---:|
+| Alpha-GPC | 300 mg per tab |
+
+Other ingredients and full label cautions: see saved Supplement Facts panel image.
 
 ## Purchase Log
 

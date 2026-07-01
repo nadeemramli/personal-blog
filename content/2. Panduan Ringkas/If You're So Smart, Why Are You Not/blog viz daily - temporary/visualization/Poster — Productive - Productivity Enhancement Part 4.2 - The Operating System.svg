@@ -1,0 +1,238 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1080" width="1600" height="1080">
+<defs>
+<linearGradient id="wake" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0B0F14"/><stop offset="0.45" stop-color="#0B1014"/><stop offset="0.72" stop-color="#0A1413"/><stop offset="1" stop-color="#0A1A18"/></linearGradient>
+<radialGradient id="toolglow" cx="0.5" cy="0.42" r="0.75"><stop offset="0" stop-color="#2DD4BF" stop-opacity="0.13"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
+<radialGradient id="ledcyan" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#2DD4BF" stop-opacity="0.95"/><stop offset="0.55" stop-color="#2DD4BF" stop-opacity="0.45"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
+<radialGradient id="ledred" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FF5C5C" stop-opacity="0.95"/><stop offset="0.55" stop-color="#FF5C5C" stop-opacity="0.4"/><stop offset="1" stop-color="#FF5C5C" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="34" height="34" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#18222C"/></pattern>
+<marker id="acy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2DD4BF"/></marker>
+<marker id="agr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#74838F"/></marker>
+<marker id="aam" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E8A23D"/></marker>
+<marker id="ard" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FF5C5C"/></marker>
+<marker id="amu" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#586571"/></marker>
+</defs>
+<rect x="0" y="0" width="1600" height="1080" fill="#0B0F14" stroke="none" stroke-width="1"/>
+<rect x="0" y="0" width="1600" height="1080" fill="url(#wake)" stroke="none" stroke-width="1"/>
+<text x="50" y="58" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="46" fill="#E8ECEF" font-weight="700" text-anchor="start" letter-spacing="0.5">STOP STORING. START RUNNING.</text>
+<text x="52" y="88" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="13.5" fill="#8B98A5" font-weight="600" text-anchor="start" letter-spacing="2">PRODUCTIVE  ·  PRODUCTIVITY ENHANCEMENT  ·  PART 4.2  —  THE OPERATING SYSTEM</text>
+<text x="1550" y="50" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="20" fill="#2DD4BF" font-weight="700" text-anchor="end" letter-spacing="1">BUILD TOOLS</text>
+<text x="1550" y="76" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="20" fill="#2DD4BF" font-weight="700" text-anchor="end" letter-spacing="1">THAT CONCLUDE.</text>
+<text x="1550" y="96" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11.5" fill="#586571" font-weight="400" text-anchor="end" letter-spacing="1">note · database · TOOL</text>
+<line x1="50" y1="110" x2="1550" y2="110" stroke="#28343F" stroke-width="1.2" stroke-linecap="butt"/>
+<rect x="50" y="132" width="1500" height="560" fill="#10171F" stroke="#28343F" stroke-width="1" rx="10"/>
+<rect x="50" y="132" width="1500" height="560" fill="url(#dots)" stroke="none" stroke-width="1" opacity="0.5"/>
+<text x="1538" y="156" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#586571" font-weight="400" text-anchor="end" letter-spacing="1" opacity="0.55">BRIGHTER = MORE ALIVE  →</text>
+<rect x="62" y="228" width="232" height="378" fill="#0C1116" stroke="#46525E" stroke-width="1.4" rx="8" opacity="0.95"/>
+<text x="178.0" y="258" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" fill="#586571" font-weight="600" text-anchor="middle" letter-spacing="3">STAGE 1</text>
+<line x1="156.0" y1="280" x2="200.0" y2="280" stroke="#46525E" stroke-width="3" stroke-linecap="butt"/>
+<line x1="156.0" y1="288" x2="200.0" y2="288" stroke="#46525E" stroke-width="3" stroke-linecap="butt"/>
+<line x1="178.0" y1="272" x2="178.0" y2="280" stroke="#46525E" stroke-width="2" stroke-linecap="butt"/>
+<line x1="178.0" y1="288" x2="178.0" y2="296" stroke="#46525E" stroke-width="2" stroke-linecap="butt"/>
+<text x="178.0" y="313" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9" fill="#586571" font-weight="400" text-anchor="middle" letter-spacing="1">UNLIT MEMORY CELL</text>
+<rect x="84" y="332" width="188" height="92" fill="#0A0E12" stroke="#2C3742" stroke-width="1" rx="5"/>
+<text x="96" y="352" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10.5" fill="#74838F" font-weight="400" text-anchor="start" opacity="0.85" font-style="normal">creatine 5g</text>
+<text x="96" y="368" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10.5" fill="#74838F" font-weight="400" text-anchor="start" opacity="0.85" font-style="normal">NMN  500mg</text>
+<text x="96" y="384" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10.5" fill="#74838F" font-weight="400" text-anchor="start" opacity="0.85" font-style="normal">omega-3  2g</text>
+<text x="96" y="400" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10.5" fill="#74838F" font-weight="400" text-anchor="start" opacity="0.85" font-style="normal">vit-D  4000IU</text>
+<text x="96" y="416" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10.5" fill="#586571" font-weight="400" text-anchor="start" opacity="0.85" font-style="italic">“buy more soon?”</text>
+<line x1="176" y1="430" x2="152" y2="466" stroke="#74838F" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="150" cy="470" r="4.5" fill="#0B0F14" stroke="#74838F" stroke-width="2.2"/>
+<text x="180" y="426" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#8B98A5" font-weight="600" text-anchor="start" letter-spacing="1">MANUAL PROBE</text>
+<text x="180" y="439" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9" fill="#586571" font-weight="400" text-anchor="start">you read it</text>
+<path d="M 102 534 q -22 26 12 30 q 40 4 60 -14" fill="none" stroke="#46525E" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="4 4"/>
+<path d="M 170 546 l 9 4 l -8 6" fill="none" stroke="#46525E" stroke-width="1.6"/>
+<text x="178.0" y="568" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9" fill="#586571" font-weight="400" text-anchor="middle">you do the math, every time</text>
+<text x="178.0" y="640" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="26" fill="#74838F" font-weight="700" text-anchor="middle" letter-spacing="1">NOTE</text>
+<text x="178.0" y="660" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10.5" fill="#586571" font-weight="400" text-anchor="middle">remembers for you · you do the thinking</text>
+<line x1="300" y1="417.0" x2="338" y2="417.0" stroke="#74838F" stroke-width="2" stroke-linecap="butt" opacity="0.8"/>
+<line x1="300" y1="417.0" x2="338" y2="417.0" stroke="#74838F" stroke-width="2" marker-end="url(#agr)" opacity="0.85"/>
+<rect x="350" y="228" width="290" height="378" fill="#0D1319" stroke="#74838F" stroke-width="1.6" rx="8"/>
+<text x="495.0" y="258" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" fill="#8B98A5" font-weight="600" text-anchor="middle" letter-spacing="3">STAGE 2</text>
+<rect x="374" y="278" width="242" height="24" fill="#16202A" stroke="#74838F" stroke-width="1"/>
+<text x="382" y="294" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" fill="#E8ECEF" font-weight="600" text-anchor="start">COMPOUND</text>
+<text x="492" y="294" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" fill="#E8ECEF" font-weight="600" text-anchor="start">DOSE</text>
+<text x="544" y="294" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" fill="#E8ECEF" font-weight="600" text-anchor="start">U/BTL</text>
+<text x="592" y="294" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" fill="#E8ECEF" font-weight="600" text-anchor="start">DAILY</text>
+<path d="M 470 286 l 4 -4 l 4 4" fill="none" stroke="#1E8B7E" stroke-width="1.4"/>
+<path d="M 470 293 l 4 4 l 4 -4" fill="none" stroke="#74838F" stroke-width="1.4"/>
+<rect x="374" y="302" width="242" height="26" fill="#0C121830" stroke="#283441" stroke-width="0.8"/>
+<line x1="362" y1="315" x2="372" y2="315" stroke="#74838F" stroke-width="1.4" stroke-linecap="butt" opacity="0.7"/>
+<text x="382" y="319" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#74838F" font-weight="400" text-anchor="start">Creatine</text>
+<text x="492" y="319" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#74838F" font-weight="400" text-anchor="start">5g</text>
+<text x="544" y="319" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#74838F" font-weight="400" text-anchor="start">100</text>
+<text x="592" y="319" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#74838F" font-weight="400" text-anchor="start">1</text>
+<rect x="374" y="328" width="242" height="26" fill="#0A0F14" stroke="#283441" stroke-width="0.8"/>
+<line x1="362" y1="341" x2="372" y2="341" stroke="#74838F" stroke-width="1.4" stroke-linecap="butt" opacity="0.7"/>
+<text x="382" y="345" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#74838F" font-weight="400" text-anchor="start">NMN</text>
+<text x="492" y="345" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#74838F" font-weight="400" text-anchor="start">500mg</text>
+<text x="544" y="345" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#74838F" font-weight="400" text-anchor="start">60</text>
+<text x="592" y="345" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#74838F" font-weight="400" text-anchor="start">1</text>
+<rect x="374" y="354" width="242" height="26" fill="#0C121830" stroke="#283441" stroke-width="0.8"/>
+<line x1="362" y1="367" x2="372" y2="367" stroke="#74838F" stroke-width="1.4" stroke-linecap="butt" opacity="0.7"/>
+<text x="382" y="371" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#74838F" font-weight="400" text-anchor="start">Omega-3</text>
+<text x="492" y="371" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#74838F" font-weight="400" text-anchor="start">1g</text>
+<text x="544" y="371" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#74838F" font-weight="400" text-anchor="start">120</text>
+<text x="592" y="371" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#74838F" font-weight="400" text-anchor="start">2</text>
+<rect x="374" y="380" width="242" height="26" fill="#0A0F14" stroke="#283441" stroke-width="0.8"/>
+<line x1="362" y1="393" x2="372" y2="393" stroke="#74838F" stroke-width="1.4" stroke-linecap="butt" opacity="0.7"/>
+<text x="382" y="397" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#74838F" font-weight="400" text-anchor="start">Vit-D</text>
+<text x="492" y="397" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#74838F" font-weight="400" text-anchor="start">5000IU</text>
+<text x="544" y="397" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#74838F" font-weight="400" text-anchor="start">90</text>
+<text x="592" y="397" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#74838F" font-weight="400" text-anchor="start">1</text>
+<line x1="506" y1="430" x2="482" y2="466" stroke="#74838F" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="480" cy="470" r="4.5" fill="#0B0F14" stroke="#74838F" stroke-width="2.2"/>
+<text x="510" y="426" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#8B98A5" font-weight="600" text-anchor="start" letter-spacing="1">MANUAL PROBE</text>
+<text x="510" y="439" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9" fill="#586571" font-weight="400" text-anchor="start">you read it</text>
+<rect x="380" y="562" width="230" height="24" fill="#1C140A" stroke="#E8A23D" stroke-width="1.1" rx="12"/>
+<text x="495.0" y="578" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#E8A23D" font-weight="400" text-anchor="middle" letter-spacing="0.5">queryable, but still unread</text>
+<text x="495.0" y="640" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="26" fill="#E8ECEF" font-weight="700" text-anchor="middle" letter-spacing="0.5">DATABASE</text>
+<text x="495.0" y="660" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10.5" fill="#8B98A5" font-weight="400" text-anchor="middle">queryable · sortable · still just sits there</text>
+<text x="950.0" y="178" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" fill="#2DD4BF" font-weight="600" text-anchor="middle" letter-spacing="3">THE JUMP THAT MATTERS</text>
+<text x="950.0" y="208" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#E8ECEF" font-weight="700" text-anchor="middle" letter-spacing="0.5">DATA YOU CONSULT  →  A TOOL THAT CONCLUDES</text>
+<line x1="700.0" y1="226" x2="700.0" y2="608" stroke="#2DD4BF" stroke-width="1.6" stroke-linecap="butt" stroke-dasharray="3 6" opacity="0.8"/>
+<polygon points="693.0,391.0 705.0,391.0 698.0,414.0 709.0,414.0 691.0,445.0 697.0,419.0 689.0,419.0" fill="#2DD4BF" stroke="none" stroke-width="1" opacity="0.95"/>
+<text x="700.0" y="612" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#2DD4BF" font-weight="600" text-anchor="middle" letter-spacing="2">POWERED</text>
+<line x1="644" y1="417.0" x2="684.0" y2="417.0" stroke="#74838F" stroke-width="2" stroke-linecap="butt" opacity="0.6"/>
+<line x1="710.0" y1="417.0" x2="736" y2="417.0" stroke="#2DD4BF" stroke-width="2.4" marker-end="url(#acy)"/>
+<rect x="732" y="218" width="522" height="398" fill="url(#toolglow)" stroke="none" stroke-width="1"/>
+<rect x="742" y="228" width="502" height="378" fill="#0A1715" stroke="#2DD4BF" stroke-width="1.8" rx="8"/>
+<text x="760" y="256" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" fill="#2DD4BF" font-weight="600" text-anchor="start" letter-spacing="3">STAGE 3</text>
+<text x="1228" y="256" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" fill="#1E8B7E" font-weight="600" text-anchor="end" letter-spacing="1">NO PROBE · FIRES ITSELF</text>
+<rect x="760" y="268" width="466" height="60" fill="#0C1A18" stroke="#1E8B7E" stroke-width="1.1" rx="5"/>
+<text x="772" y="290" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="13" fill="#2DD4BF" font-weight="700" text-anchor="start" letter-spacing="1">① HOLDS</text>
+<text x="868" y="290" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10.5" fill="#8B98A5" font-weight="400" text-anchor="start">the inventory database (bonded on top)</text>
+<rect x="774" y="304" width="438" height="6" fill="#0E2522" stroke="#1c413b" stroke-width="0.7"/>
+<rect x="774" y="312" width="438" height="6" fill="#0E2522" stroke="#1c413b" stroke-width="0.7"/>
+<rect x="774" y="320" width="438" height="6" fill="#0E2522" stroke="#1c413b" stroke-width="0.7"/>
+<rect x="760" y="342" width="466" height="150" fill="#0C1A18" stroke="#1E8B7E" stroke-width="1.1" rx="5"/>
+<text x="772" y="364" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="13" fill="#2DD4BF" font-weight="700" text-anchor="start" letter-spacing="1">② FORECASTS</text>
+<rect x="774" y="376" width="176" height="28" fill="#0E2522" stroke="#1E8B7E" stroke-width="1"/>
+<text x="784" y="395" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" fill="#E8ECEF" font-weight="600" text-anchor="start">STOCK ÷ DAILY DOSE</text>
+<line x1="950" y1="390" x2="984" y2="390" stroke="#2DD4BF" stroke-width="2" marker-end="url(#acy)"/>
+<text x="992" y="395" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" fill="#2DD4BF" font-weight="700" text-anchor="start">DAYS LEFT</text>
+<text x="774" y="424" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" fill="#8B98A5" font-weight="400" text-anchor="start">Creatine</text>
+<rect x="836" y="416" width="284" height="9" fill="#08110F" stroke="#173a35" stroke-width="0.7" rx="2"/>
+<rect x="836" y="416" width="221.52" height="9" fill="#2DD4BF" stroke="none" stroke-width="1" rx="2"/>
+<text x="1128" y="424" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" fill="#2DD4BF" font-weight="600" text-anchor="start">92 d</text>
+<text x="774" y="439" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" fill="#8B98A5" font-weight="400" text-anchor="start">NMN</text>
+<rect x="836" y="431" width="284" height="9" fill="#08110F" stroke="#173a35" stroke-width="0.7" rx="2"/>
+<rect x="836" y="431" width="34.08" height="9" fill="#E8A23D" stroke="none" stroke-width="1" rx="2"/>
+<text x="1128" y="439" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" fill="#E8A23D" font-weight="600" text-anchor="start">7 d</text>
+<text x="774" y="454" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" fill="#8B98A5" font-weight="400" text-anchor="start">Omega-3</text>
+<rect x="836" y="446" width="284" height="9" fill="#08110F" stroke="#173a35" stroke-width="0.7" rx="2"/>
+<rect x="836" y="446" width="51.12" height="9" fill="#E8A23D" stroke="none" stroke-width="1" rx="2"/>
+<text x="1128" y="454" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" fill="#E8A23D" font-weight="600" text-anchor="start">11 d</text>
+<text x="774" y="469" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" fill="#8B98A5" font-weight="400" text-anchor="start">Vit-D</text>
+<rect x="836" y="461" width="284" height="9" fill="#08110F" stroke="#173a35" stroke-width="0.7" rx="2"/>
+<rect x="836" y="461" width="176.08" height="9" fill="#2DD4BF" stroke="none" stroke-width="1" rx="2"/>
+<text x="1128" y="469" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" fill="#2DD4BF" font-weight="600" text-anchor="start">70 d</text>
+<text x="772" y="484" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9" fill="#E8A23D" font-weight="400" text-anchor="start">low stock → the reorder window (ships before it lapses)</text>
+<rect x="760" y="504" width="466" height="94" fill="#0C1A18" stroke="#2DD4BF" stroke-width="1.3" rx="5"/>
+<text x="772" y="526" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="13" fill="#2DD4BF" font-weight="700" text-anchor="start" letter-spacing="1">③ TELLS YOU</text>
+<rect x="776" y="533" width="22" height="26" fill="#0E2522" stroke="#2DD4BF" stroke-width="1.3" rx="2"/>
+<line x1="769" y1="546" x2="776" y2="546" stroke="#2DD4BF" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="798" y1="546" x2="805" y2="546" stroke="#2DD4BF" stroke-width="1.6" stroke-linecap="butt"/>
+<path d="M 780 546 q 3 -7 6 0 q 3 7 6 0" fill="none" stroke="#2DD4BF" stroke-width="1.4" stroke-linecap="butt" stroke-linejoin="miter"/>
+<text x="788" y="574" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9" fill="#1E8B7E" font-weight="400" text-anchor="middle">CLOCK · ticks itself</text>
+<polygon points="930,531 930,561 958,546" fill="none" stroke="#2DD4BF" stroke-width="1.6"/>
+<text x="936" y="574" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9" fill="#1E8B7E" font-weight="400" text-anchor="start">OUTPUT DRIVER</text>
+<text x="772" y="586" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" fill="#1E8B7E" font-weight="400" text-anchor="start">the conclusion comes to you · you never go and get it</text>
+<line x1="958" y1="546" x2="1238" y2="546" stroke="#2DD4BF" stroke-width="2.4"/>
+<line x1="1238" y1="546" x2="1274" y2="546" stroke="#2DD4BF" stroke-width="2.4" marker-end="url(#acy)"/>
+<circle cx="1286" cy="546" r="18" fill="url(#ledcyan)" stroke="none" stroke-width="1"/>
+<circle cx="1286" cy="546" r="6" fill="#2DD4BF" stroke="none" stroke-width="1"/>
+<rect x="1310" y="522" width="238" height="48" fill="#0A1715" stroke="#2DD4BF" stroke-width="1.5" rx="6"/>
+<text x="1322" y="541" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="13" fill="#2DD4BF" font-weight="700" text-anchor="start">REORDER NMN + OMEGA-3</text>
+<text x="1322" y="561" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10.5" fill="#E8ECEF" font-weight="400" text-anchor="start">THIS WEEK · unprompted</text>
+<text x="993.0" y="640" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="26" fill="#2DD4BF" font-weight="700" text-anchor="middle" letter-spacing="1">TOOL</text>
+<text x="993.0" y="660" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10.5" fill="#1E8B7E" font-weight="400" text-anchor="middle">computes · concludes · tells you unprompted</text>
+<rect x="50" y="716" width="360" height="300" fill="#10171F" stroke="#33271590" stroke-width="1.2" rx="10"/>
+<rect x="50" y="716" width="360" height="30" fill="#1C140A" stroke="none" stroke-width="1" rx="10"/>
+<text x="66" y="736" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="13" fill="#E8A23D" font-weight="700" text-anchor="start" letter-spacing="1">THE BUILD TRIGGER</text>
+<text x="66" y="774" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#8B98A5" font-weight="400" text-anchor="start">RECURRING computation</text>
+<path d="M 68 788 L 76 788 L 82 766 L 90 766 L 96 788 L 114 788 L 122 788 L 128 766 L 136 766 L 142 788 L 160 788 L 168 788 L 174 766 L 182 766 L 188 788 L 206 788" fill="none" stroke="#E8A23D" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter"/>
+<line x1="206" y1="788" x2="238" y2="788" stroke="#E8A23D" stroke-width="2" marker-end="url(#aam)"/>
+<line x1="250" y1="788" x2="274" y2="788" stroke="#2DD4BF" stroke-width="2.2" stroke-linecap="butt"/>
+<circle cx="250" cy="788" r="3" fill="#2DD4BF" stroke="none" stroke-width="1"/>
+<circle cx="274" cy="788" r="3" fill="#2DD4BF" stroke="none" stroke-width="1"/>
+<rect x="280" y="776" width="70" height="24" fill="#0A1715" stroke="#2DD4BF" stroke-width="1.3" rx="4"/>
+<text x="315" y="793" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" fill="#2DD4BF" font-weight="700" text-anchor="middle">BUILD</text>
+<text x="66" y="852" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#586571" font-weight="400" text-anchor="start">ONE-OFF computation</text>
+<path d="M 68 866 L 128 866 L 140 842 L 152 866 L 218 866" fill="none" stroke="#586571" stroke-width="1.8" stroke-linecap="butt" stroke-linejoin="miter"/>
+<line x1="218" y1="866" x2="246" y2="866" stroke="#586571" stroke-width="1.8" marker-end="url(#amu)"/>
+<line x1="258" y1="866" x2="268" y2="858" stroke="#586571" stroke-width="2" stroke-linecap="butt"/>
+<circle cx="258" cy="866" r="3" fill="#586571" stroke="none" stroke-width="1"/>
+<circle cx="282" cy="866" r="3" fill="#586571" stroke="none" stroke-width="1"/>
+<text x="290" y="870" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10.5" fill="#586571" font-weight="400" text-anchor="start">skip</text>
+<rect x="66" y="958" width="328" height="42" fill="#1C140A" stroke="#E8A23D" stroke-width="1" rx="6"/>
+<text x="74" y="978" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" fill="#E8A23D" font-weight="700" text-anchor="start">AUTOMATE THE RECURRING</text>
+<text x="74" y="994" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" fill="#E8A23D" font-weight="700" text-anchor="start">COMPUTATION, NOT THE ONE-OFF</text>
+<rect x="430" y="716" width="560" height="300" fill="#10171F" stroke="#28343F" stroke-width="1.1" rx="10"/>
+<text x="446" y="740" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="13" fill="#E8ECEF" font-weight="700" text-anchor="start" letter-spacing="1">SAME MOVE, ELSEWHERE</text>
+<text x="446" y="758" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#8B98A5" font-weight="400" text-anchor="start">wrap the computation you keep doing by hand</text>
+<circle cx="458" cy="800" r="7" fill="none" stroke="#46525E" stroke-width="1.6"/>
+<line x1="465" y1="800" x2="483" y2="800" stroke="#74838F" stroke-width="1.4" stroke-linecap="butt"/>
+<rect x="483" y="793" width="16" height="14" fill="none" stroke="#74838F" stroke-width="1.4"/>
+<line x1="499" y1="800" x2="516" y2="800" stroke="#2DD4BF" stroke-width="1.6" marker-end="url(#acy)"/>
+<circle cx="526" cy="800" r="8" fill="url(#ledcyan)" stroke="none" stroke-width="1"/>
+<circle cx="526" cy="800" r="3.5" fill="#2DD4BF" stroke="none" stroke-width="1"/>
+<text x="546" y="796" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11.5" fill="#E8ECEF" font-weight="600" text-anchor="start">FINANCES (Area)</text>
+<text x="546" y="812" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10.5" fill="#8B98A5" font-weight="400" text-anchor="start">→ forecasting dashboard</text>
+<line x1="446" y1="842" x2="974" y2="842" stroke="#28343F" stroke-width="0.8" stroke-linecap="butt" opacity="0.6"/>
+<circle cx="458" cy="864" r="7" fill="none" stroke="#46525E" stroke-width="1.6"/>
+<line x1="465" y1="864" x2="483" y2="864" stroke="#74838F" stroke-width="1.4" stroke-linecap="butt"/>
+<rect x="483" y="857" width="16" height="14" fill="none" stroke="#74838F" stroke-width="1.4"/>
+<line x1="499" y1="864" x2="516" y2="864" stroke="#2DD4BF" stroke-width="1.6" marker-end="url(#acy)"/>
+<circle cx="526" cy="864" r="8" fill="url(#ledcyan)" stroke="none" stroke-width="1"/>
+<circle cx="526" cy="864" r="3.5" fill="#2DD4BF" stroke="none" stroke-width="1"/>
+<text x="546" y="860" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11.5" fill="#E8ECEF" font-weight="600" text-anchor="start">READING LIST</text>
+<text x="546" y="876" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10.5" fill="#8B98A5" font-weight="400" text-anchor="start">→ queryable anti-library</text>
+<text x="972" y="868" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#1E8B7E" font-weight="400" text-anchor="end">→ 5.0</text>
+<line x1="446" y1="906" x2="974" y2="906" stroke="#28343F" stroke-width="0.8" stroke-linecap="butt" opacity="0.6"/>
+<circle cx="458" cy="928" r="7" fill="none" stroke="#46525E" stroke-width="1.6"/>
+<line x1="465" y1="928" x2="483" y2="928" stroke="#74838F" stroke-width="1.4" stroke-linecap="butt"/>
+<rect x="483" y="921" width="16" height="14" fill="none" stroke="#74838F" stroke-width="1.4"/>
+<line x1="499" y1="928" x2="516" y2="928" stroke="#2DD4BF" stroke-width="1.6" marker-end="url(#acy)"/>
+<circle cx="526" cy="928" r="8" fill="url(#ledcyan)" stroke="none" stroke-width="1"/>
+<circle cx="526" cy="928" r="3.5" fill="#2DD4BF" stroke="none" stroke-width="1"/>
+<text x="546" y="924" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11.5" fill="#E8ECEF" font-weight="600" text-anchor="start">CONTENT PIPELINE</text>
+<text x="546" y="940" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10.5" fill="#8B98A5" font-weight="400" text-anchor="start">→ stage-tracking board</text>
+<text x="450" y="968" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" fill="#586571" font-weight="400" text-anchor="start" letter-spacing="1">AND ONE HOP FURTHER:</text>
+<rect x="450" y="976" width="124" height="26" fill="#0A1715" stroke="#2DD4BF" stroke-width="1.3" rx="5"/>
+<text x="512" y="993" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" fill="#2DD4BF" font-weight="700" text-anchor="middle">TOOL</text>
+<line x1="574" y1="989" x2="600" y2="989" stroke="#16433C" stroke-width="1.6" marker-end="url(#acy)"/>
+<rect x="600" y="976" width="124" height="26" fill="#0B1113" stroke="#16433C" stroke-width="1.0" rx="5" stroke-dasharray="3 3"/>
+<text x="662" y="993" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" fill="#16433C" font-weight="700" text-anchor="middle">SCHEDULED</text>
+<line x1="724" y1="989" x2="750" y2="989" stroke="#16433C" stroke-width="1.6" marker-end="url(#acy)"/>
+<rect x="750" y="976" width="124" height="26" fill="#0B1113" stroke="#16433C" stroke-width="1.0" rx="5" stroke-dasharray="3 3"/>
+<text x="812" y="993" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" fill="#16433C" font-weight="700" text-anchor="middle">AUTONOMOUS</text>
+<text x="874" y="968" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" fill="#16433C" font-weight="400" text-anchor="end">→ Part 7</text>
+<rect x="1010" y="716" width="540" height="96" fill="#0A1715" stroke="#2DD4BF" stroke-width="1.3" rx="10"/>
+<text x="1026" y="742" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="20" fill="#2DD4BF" font-weight="700" text-anchor="start">×AI</text>
+<text x="1080" y="738" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="12.5" fill="#E8ECEF" font-weight="700" text-anchor="start">DESCRIBE THE CONCLUSION  ·  AI BUILDS THE TOOL</text>
+<text x="1080" y="760" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10.5" fill="#1E8B7E" font-weight="400" text-anchor="start">plain language  →  schema · logic · interface</text>
+<text x="1026" y="788" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10.5" fill="#8B98A5" font-weight="400" text-anchor="start">skill ceiling drops:  “can you code”  →  “can you describe the conclusion”</text>
+<text x="1534" y="742" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" fill="#586571" font-weight="400" text-anchor="end">the build barrier</text>
+<text x="1534" y="756" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" fill="#586571" font-weight="400" text-anchor="end">just collapsed</text>
+<rect x="1010" y="828" width="540" height="188" fill="#160C0E" stroke="#FF5C5C" stroke-width="1.4" rx="10"/>
+<text x="1026" y="852" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="12" fill="#FF5C5C" font-weight="700" text-anchor="start" letter-spacing="2">THE ONE FAILURE</text>
+<text x="1026" y="878" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" fill="#586571" font-weight="400" text-anchor="start">DATA FEED</text>
+<line x1="1026" y1="892" x2="1160" y2="892" stroke="#586571" stroke-width="2" stroke-linecap="butt" stroke-dasharray="5 4"/>
+<path d="M 1168 884 l 14 16 M 1182 884 l -14 16" stroke="#FF5C5C" stroke-width="2"/>
+<line x1="1192" y1="892" x2="1260" y2="892" stroke="#586571" stroke-width="2" stroke-linecap="butt" stroke-dasharray="5 4" opacity="0.4"/>
+<text x="1026" y="914" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="10" fill="#586571" font-weight="400" text-anchor="start">“KEEP IT FED”  ·  severed / stale</text>
+<rect x="1260" y="868" width="84" height="60" fill="#110A0B" stroke="#5a4548" stroke-width="1.3" rx="6"/>
+<text x="1302" y="894" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="12" fill="#7d6164" font-weight="700" text-anchor="middle">TOOL</text>
+<text x="1302" y="912" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9" fill="#7d6164" font-weight="400" text-anchor="middle">still runs</text>
+<line x1="1344" y1="898" x2="1388" y2="898" stroke="#FF5C5C" stroke-width="2.4" marker-end="url(#ard)"/>
+<circle cx="1410" cy="898" r="16" fill="url(#ledred)" stroke="none" stroke-width="1"/>
+<circle cx="1410" cy="898" r="5.5" fill="#FF5C5C" stroke="none" stroke-width="1"/>
+<rect x="1026" y="946" width="508" height="50" fill="#1B0C0E" stroke="#FF5C5C" stroke-width="1.5" rx="6"/>
+<text x="1042" y="968" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#FF5C5C" font-weight="700" text-anchor="start">A TOOL ON STALE DATA LIES:</text>
+<text x="1042" y="987" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" fill="#f3b4b4" font-weight="400" text-anchor="start">worse than no tool  (confident · unprompted · wrong)</text>
+<text x="1026" y="1010" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="9.5" fill="#586571" font-weight="400" text-anchor="start" font-style="italic">passive stages aren’t failures, just unfinished. the only fault: a confident tool feeding on rot.</text>
+<line x1="50" y1="1034" x2="1550" y2="1034" stroke="#28343F" stroke-width="1" stroke-linecap="butt"/>
+<text x="50" y="1058" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="12" fill="#8B98A5" font-weight="600" text-anchor="start" letter-spacing="1">NOTE  →  DATABASE  →  TOOL</text>
+<text x="360" y="1058" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11.5" fill="#586571" font-weight="400" text-anchor="start" font-style="italic">the knowledge stops being something you read and starts being something that runs.</text>
+<text x="1550" y="1058" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace" font-size="11" fill="#1E8B7E" font-weight="400" text-anchor="end" letter-spacing="0.5">← 4.1 sharpen the map      4.2 make it run      → 7.0 let it run itself</text>
+</svg>

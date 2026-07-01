@@ -67,7 +67,7 @@ notes: "RESTOCK 2026-06-08 ([[PO 2026-06-08 — Shopee]]): +2×105 = 210 tabs (n
 | Date | Event | PO / source | Change or balance | Usage at update | Note |
 |---|---|---|---|---|---|
 | 2026-06-08 | Stock update | Manual/model snapshot | 630 mg on hand | 4 mg/EOD | Latest recorded aggregate balance; forecast empty 2026-10-08 |
-| 2026-06-08 | Purchase | [[PO 2026-06-08 — Shopee]] | +210 tabs | - | Nicorette Gum 4mg 105s; line total 326.00; +210 tabs |
+| 2026-06-08 | Purchase | [[PO 2026-06-08 — Shopee]] | +840 mg purchased | - | Nicorette Gum 4mg ×2 boxes (210 tabs × 4 mg = 840 mg; was logged as "+210 tabs" and misread by the audit); line total 326.00 |
 
 > Append future events newest-first: `Purchase`, `Stock check`, `Usage change`, or `Depletion`. Every stock check must also update `stock_on_hand` and `stock_as_of`.
 

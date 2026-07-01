@@ -5,6 +5,7 @@ product_id: "ru58841-99pct-raw-powder-lazada"
 compound: "RU58841 (99% raw powder)"
 aliases:
   - "RU58841 (99% raw powder)"
+  - "99% RU58841 Raw Powder"
 name: "RU58841 (99% raw powder)"
 brand: ""
 vendor: "Lazada"

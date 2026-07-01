@@ -176,6 +176,10 @@ That closes the loop. The biological hardware ([[Part 1.0 - What Healthy Actuall
 
 ==The numbers were never separate from the life.==
 
+![[Poster — Healthy - Blueprint Part 4.0 - Mental and Emotional Wellbeing.png]]
+
+*Here's the capstone of the whole Blueprint as one clinical instrument: your mind is the regulated power rail every downstream number runs on, so the trace cleans up from a stressed, sympathetic-noisy line on the left to a steady in-range one on the right ([[Part 4.0 - Mental and Emotional Wellbeing#Why this lives in Blueprint|stress is a biomarker]]). It wires sleep and mood as [[Part 4.0 - Mental and Emotional Wellbeing#The two-way street with sleep|a loop, not a chain]], feeds the rail with the [[Part 4.0 - Mental and Emotional Wellbeing#The tools, practical first|sixty-second tools]] sized by evidence, rests it on the connection strut, and marks one red clinical bright-line where wellness ends and care begins. Pin it up as the lid on the set: steady the line, and everything stacked on top comes back into range.*
+
 ---
 ## Part 4 Takeaways
 

@@ -83,6 +83,10 @@ The supplement app is a Retool build, but increasingly you describe the tool you
 
 And it sets up the final layers of the series. A tool that *computes* something is one step from a tool an agent *operates* on a schedule. The supplement forecaster that flags a reorder is a short hop from an agent that drafts the iHerb order for your approval, then a shorter hop from one that places it. That progression (a tool, then a scheduled tool, then an autonomous one) is exactly the [[Part 7.1 - From Chat to Continuous Worker|hierarchy of the harness]] in Part 7. ==The Operating System is where your knowledge stops being something you read and starts being something that runs.==
 
+*Here's the whole chapter as one activation bench: your life-knowledge climbing the three stages of [[Part 4.2 - The Operating System#The progression: note, database, tool|note → database → tool]], across "the jump that matters" (+ logic, + power) into a live [[Part 4.2 - The Operating System#The worked example: the supplement forecaster|tool that concludes]] and fires an unprompted "reorder NMN and omega-3 this week" with no hand involved. The ×AI arm is the [[Part 4.2 - The Operating System#The barrier just collapsed|collapsed build barrier]] (describe it, AI builds it), gated by the rule to [[Part 4.2 - The Operating System#When to build a tool (and when not to)|automate only the computation you keep doing by hand]], and the single red object is the stale feed whose tool lies, which is worse than no tool. Don't store it, run it: pin this and use it to spot the recurring by-hand computation that's secretly a tool waiting to be built.*
+
+![[Poster — Productive - Productivity Enhancement Part 4.2 - The Operating System.png]]
+
 ---
 > [!check] Part 4 Takeaways
 > - The knowledge layer's goal is **not storage**. A brain that only stores is a museum. Build an **Operating System** that acts.

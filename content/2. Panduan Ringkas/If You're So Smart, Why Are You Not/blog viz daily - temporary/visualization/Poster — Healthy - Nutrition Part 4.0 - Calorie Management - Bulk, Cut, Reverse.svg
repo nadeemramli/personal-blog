@@ -1,0 +1,349 @@
+<svg viewBox="0 0 1600 1040" xmlns="http://www.w3.org/2000/svg" font-family="'Inter','Helvetica Neue',Arial,system-ui,sans-serif">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0E1320"/>
+      <stop offset="0.42" stop-color="#0B0F16"/>
+      <stop offset="1" stop-color="#070A10"/>
+    </linearGradient>
+    <linearGradient id="surplusBand" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141a26"/>
+      <stop offset="1" stop-color="#0d121c"/>
+    </linearGradient>
+    <pattern id="amberHatch" width="10" height="10" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <rect width="10" height="10" fill="#241c10"/>
+      <line x1="0" y1="0" x2="0" y2="10" stroke="#9c7330" stroke-width="2.2"/>
+    </pattern>
+    <pattern id="redHatch" width="9" height="9" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <rect width="9" height="9" fill="#2c1417"/>
+      <line x1="0" y1="0" x2="0" y2="9" stroke="#7a2f36" stroke-width="2.2"/>
+    </pattern>
+    <pattern id="recorderGrid" width="34" height="28" patternUnits="userSpaceOnUse">
+      <rect width="34" height="28" fill="none"/>
+      <line x1="0" y1="0" x2="34" y2="0" stroke="#141c2c" stroke-width="0.8"/>
+      <line x1="0" y1="0" x2="0" y2="28" stroke="#141c2c" stroke-width="0.8"/>
+    </pattern>
+    <filter id="cyanGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3.0" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="redGlow" x="-90%" y="-90%" width="280%" height="280%">
+      <feGaussianBlur stdDeviation="3.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="amberGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <marker id="cyArrow" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#2DD4BF"/>
+    </marker>
+    <marker id="amArrow" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#E8A23D"/>
+    </marker>
+  </defs>
+
+  <!-- ===================== BACKGROUND ===================== -->
+  <g id="bg">
+    <rect x="0" y="0" width="1600" height="1040" fill="url(#bgGrad)"/>
+    <rect x="14" y="14" width="1572" height="1012" fill="none" stroke="#1B2336" stroke-width="2"/>
+  </g>
+
+  <!-- ===================== HEADER ===================== -->
+  <g id="header">
+    <text x="44" y="42" font-size="13" letter-spacing="2.2" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" fill="#8A93A6">PART 4 / 5 · NUTRITION · CALORIE MANAGEMENT — BULK · CUT · REVERSE</text>
+    <text x="1556" y="42" text-anchor="end" font-size="13" letter-spacing="2.2" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" fill="#2DD4BF">THE TRANSITION RECORDER</text>
+    <text x="1556" y="62" text-anchor="end" font-size="11" letter-spacing="2.4" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" fill="#59617A">HEALTHY · CLINICAL NOCTURNE</text>
+
+    <text x="42" y="120" font-size="62" font-weight="600" letter-spacing="0.5" fill="#EDEFF4">THE SWITCH, <tspan fill="#FF5C5C">NOT THE DIET.</tspan></text>
+    <text x="44" y="154" font-size="14.5" letter-spacing="0.9" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" fill="#9aa2b4">THE DAMAGE ISN'T THE DIET. IT'S HOW VIOLENTLY YOU SWITCH. RAMP SLOW — THE TARGET ALREADY MOVED.</text>
+    <line x1="42" y1="172" x2="1558" y2="172" stroke="#27314A" stroke-width="1.5"/>
+  </g>
+
+  <!-- ===================== PANEL A · PHASE SELECTOR ===================== -->
+  <g id="phase-selector" font-family="'JetBrains Mono','SF Mono',Consolas,monospace">
+    <rect x="40" y="192" width="210" height="640" rx="11" fill="#0F1726" stroke="#33405e" stroke-width="1.4"/>
+    <text x="60" y="222" font-size="14" font-weight="700" letter-spacing="0.6" font-family="'Inter',sans-serif" fill="#E6E8EE">PHASE SELECTOR</text>
+    <text x="60" y="240" font-size="9.5" letter-spacing="1.1" fill="#6f7890">SETS WHERE THE TRACE STARTS</text>
+    <line x1="60" y1="250" x2="230" y2="250" stroke="#1f2940" stroke-width="1"/>
+
+    <!-- three input dials -->
+    <g>
+      <circle cx="82" cy="296" r="20" fill="#0c111a" stroke="#39455f" stroke-width="1.4"/>
+      <line x1="82" y1="296" x2="95" y2="286" stroke="#2DD4BF" stroke-width="2"/>
+      <text x="82" y="332" text-anchor="middle" font-size="8.5" fill="#9aa2b4">BODY-FAT %</text>
+
+      <circle cx="145" cy="296" r="20" fill="#0c111a" stroke="#39455f" stroke-width="1.4"/>
+      <line x1="145" y1="296" x2="133" y2="288" stroke="#2DD4BF" stroke-width="2"/>
+      <text x="145" y="332" text-anchor="middle" font-size="8.5" fill="#9aa2b4">TRAIN AGE</text>
+
+      <circle cx="208" cy="296" r="20" fill="#0c111a" stroke="#39455f" stroke-width="1.4"/>
+      <line x1="208" y1="296" x2="208" y2="280" stroke="#2DD4BF" stroke-width="2"/>
+      <text x="208" y="332" text-anchor="middle" font-size="8.5" fill="#9aa2b4">GOAL</text>
+    </g>
+
+    <!-- three channels, one lit -->
+    <g font-size="11">
+      <rect x="60" y="356" width="170" height="58" rx="7" fill="#0e2a27" stroke="#2DD4BF" stroke-width="1.6" filter="url(#cyanGlow)"/>
+      <circle cx="78" cy="385" r="5" fill="#2DD4BF"/>
+      <text x="94" y="382" font-size="13" font-weight="700" font-family="'Inter',sans-serif" fill="#2DD4BF">CUT</text>
+      <text x="94" y="400" font-size="9" fill="#79c6bc">high body fat → strip first</text>
+
+      <rect x="60" y="424" width="170" height="58" rx="7" fill="#10151f" stroke="#2b3550" stroke-width="1.2"/>
+      <circle cx="78" cy="453" r="5" fill="none" stroke="#4a5570" stroke-width="1.4"/>
+      <text x="94" y="450" font-size="13" font-weight="700" font-family="'Inter',sans-serif" fill="#7a8498">BULK</text>
+      <text x="94" y="468" font-size="9" fill="#5b6478">lean + untrained / new</text>
+
+      <rect x="60" y="492" width="170" height="58" rx="7" fill="#10151f" stroke="#2b3550" stroke-width="1.2"/>
+      <circle cx="78" cy="521" r="5" fill="none" stroke="#4a5570" stroke-width="1.4"/>
+      <text x="94" y="518" font-size="13" font-weight="700" font-family="'Inter',sans-serif" fill="#7a8498">RECOMP</text>
+      <text x="94" y="536" font-size="9" fill="#5b6478">lean + trained · mini-cycles</text>
+    </g>
+
+    <!-- stamp -->
+    <g transform="rotate(-3 145 606)">
+      <rect x="58" y="582" width="174" height="62" rx="6" fill="none" stroke="#2DD4BF" stroke-width="2"/>
+      <text x="145" y="608" text-anchor="middle" font-size="12.5" font-weight="700" letter-spacing="0.5" font-family="'Inter',sans-serif" fill="#2DD4BF">PICK ONE</text>
+      <text x="145" y="626" text-anchor="middle" font-size="11" font-weight="700" letter-spacing="0.5" font-family="'Inter',sans-serif" fill="#2DD4BF">DIRECTION</text>
+    </g>
+    <text x="145" y="676" text-anchor="middle" font-size="11" letter-spacing="0.8" fill="#9aa2b4">RUN IT 8–12 WEEKS</text>
+
+    <line x1="60" y1="700" x2="230" y2="700" stroke="#1f2940" stroke-width="1"/>
+    <text x="60" y="724" font-size="9" fill="#6f7890">the phases are the easy part:</text>
+    <text x="60" y="740" font-size="9" fill="#6f7890">flat runs you simply hold.</text>
+    <text x="60" y="772" font-size="9.5" fill="#8A93A6">the drama is the ramps</text>
+    <text x="60" y="787" font-size="9.5" fill="#8A93A6">between them. →</text>
+    <text x="60" y="816" font-size="8.5" fill="#59617A">full decision tree → Fit 1.2</text>
+  </g>
+
+  <!-- ===================== PANEL B · TRANSITION RECORDER (HERO) ===================== -->
+  <g id="recorder">
+    <rect x="262" y="192" width="888" height="640" rx="11" fill="#0c111a" stroke="#33405e" stroke-width="1.4"/>
+    <text x="284" y="222" font-size="15" font-weight="700" letter-spacing="0.6" font-family="'Inter',sans-serif" fill="#E6E8EE">THE TRANSITION RECORDER</text>
+    <text x="540" y="222" font-size="10.5" letter-spacing="1.2" font-family="'JetBrains Mono',monospace" fill="#6f7890">· ENERGY BALANCE vs TIME · SLEW-LIMITED</text>
+    <text x="1128" y="222" text-anchor="end" font-size="10.5" letter-spacing="1.4" font-family="'JetBrains Mono',monospace" fill="#2DD4BF">● RECORDING</text>
+    <line x1="284" y1="234" x2="1128" y2="234" stroke="#1f2940" stroke-width="1"/>
+
+    <!-- plot frame + grid -->
+    <rect x="322" y="320" width="806" height="518" fill="url(#recorderGrid)" stroke="#243149" stroke-width="1.2"/>
+
+    <!-- three bands -->
+    <g font-family="'JetBrains Mono',monospace">
+      <rect x="322" y="320" width="806" height="172" fill="#11192a" opacity="0.55"/>
+      <rect x="322" y="665" width="806" height="173" fill="#0f1622" opacity="0.55"/>
+      <line x1="322" y1="492" x2="1128" y2="492" stroke="#2a3550" stroke-width="1" stroke-dasharray="2 5"/>
+      <line x1="322" y1="665" x2="1128" y2="665" stroke="#2a3550" stroke-width="1" stroke-dasharray="2 5"/>
+      <text x="332" y="342" font-size="11" letter-spacing="1.5" fill="#7a8498">SURPLUS · BULK</text>
+      <text x="332" y="585" font-size="11" letter-spacing="1.5" fill="#7a8498">MAINTENANCE</text>
+      <text x="332" y="828" font-size="11" letter-spacing="1.5" fill="#7a8498">DEFICIT · CUT</text>
+    </g>
+
+    <!-- axis labels -->
+    <text x="298" y="580" font-size="11" letter-spacing="1.4" font-family="'JetBrains Mono',monospace" fill="#8A93A6" transform="rotate(-90 298 580)">DAILY CALORIES · ENERGY BALANCE</text>
+    <text x="725" y="862" text-anchor="middle" font-size="10.5" letter-spacing="1.8" font-family="'JetBrains Mono',monospace" fill="#8A93A6">TIME · WEEKS → MONTHS</text>
+
+    <!-- PROMISED maintenance ghost line (struck) -->
+    <line x1="690" y1="360" x2="1128" y2="360" stroke="#5a6172" stroke-width="1.4" stroke-dasharray="7 5" opacity="0.8"/>
+    <g font-family="'JetBrains Mono',monospace">
+      <text x="700" y="352" font-size="9.5" fill="#7a8392">PROMISED maintenance — "reverse lets you eat WAY more"</text>
+      <line x1="700" y1="348" x2="1002" y2="348" stroke="#FF5C5C" stroke-width="1.4" opacity="0.7"/>
+    </g>
+
+    <!-- TRUE-MAINTENANCE drifting setpoint (signature device) -->
+    <path d="M322,545 L590,545 L812,620 L1128,560" fill="none" stroke="#2DD4BF" stroke-width="1.8" stroke-dasharray="9 6" opacity="0.92"/>
+    <text x="600" y="538" font-size="9" font-family="'JetBrains Mono',monospace" fill="#5fb7ac">TRUE MAINTENANCE (it moves)</text>
+    <!-- sag annotation -->
+    <g font-family="'JetBrains Mono',monospace">
+      <line x1="700" y1="582" x2="700" y2="608" stroke="#E8A23D" stroke-width="1.4" marker-end="url(#amArrow)"/>
+      <text x="712" y="598" font-size="9" fill="#caa05a">adapts down · NEAT drops · 2,800 → 2,550</text>
+    </g>
+    <!-- recovered bracket -->
+    <g font-family="'JetBrains Mono',monospace">
+      <path d="M1090,538 L1104,538 L1104,553" fill="none" stroke="#5fb7ac" stroke-width="1.2"/>
+      <text x="1088" y="534" text-anchor="end" font-size="8.5" fill="#5fb7ac">lands back near start</text>
+    </g>
+
+    <!-- MAIN TRUNK trace: bulk -> ramp -> cut -->
+    <path d="M322,408 L486,392" fill="none" stroke="#d8dde6" stroke-width="3.2"/>
+    <path d="M486,392 L590,755" fill="none" stroke="#d8dde6" stroke-width="3.2"/>
+    <path d="M590,755 L812,755" fill="none" stroke="#d8dde6" stroke-width="3.2"/>
+
+    <!-- rate limiter glyph on the down ramp -->
+    <g transform="translate(538,573)" font-family="'JetBrains Mono',monospace">
+      <rect x="-15" y="-13" width="30" height="26" rx="4" fill="#11192a" stroke="#E8A23D" stroke-width="1.4"/>
+      <line x1="-9" y1="-5" x2="9" y2="-5" stroke="#E8A23D" stroke-width="1.6"/>
+      <line x1="-9" y1="5" x2="9" y2="5" stroke="#E8A23D" stroke-width="1.6"/>
+      <text x="0" y="33" text-anchor="middle" font-size="8.5" fill="#caa05a">RATE LIMITER</text>
+      <text x="0" y="44" text-anchor="middle" font-size="8" fill="#8a7b4f">slope = the controlled variable</text>
+    </g>
+
+    <!-- bulk + cut micro-tags -->
+    <g font-family="'JetBrains Mono',monospace">
+      <text x="328" y="430" font-size="9" fill="#9aa2b4">BULK: +250–500 kcal · surplus = carbs</text>
+      <text x="328" y="442" font-size="8.5" fill="#6f7890">+0.5–1.0 kg/mo novice → 0.1–0.25 adv</text>
+      <text x="598" y="778" font-size="9" fill="#9aa2b4">CUT: −400 kcal ≈ 0.5%/wk · protein↑ fat=floor carbs↓</text>
+      <text x="598" y="790" font-size="8.5" fill="#6f7890">run it — don't nibble at it</text>
+    </g>
+
+    <!-- fork node -->
+    <circle cx="812" cy="755" r="5.5" fill="#0c111a" stroke="#d8dde6" stroke-width="2"/>
+    <text x="812" y="744" text-anchor="middle" font-size="8.5" font-family="'JetBrains Mono',monospace" fill="#8A93A6">THE FORK</text>
+
+    <!-- PATH A · violent switch (amber base) -->
+    <path d="M812,755 L846,430" fill="none" stroke="#E8A23D" stroke-width="2.8" stroke-dasharray="6 4" opacity="0.9"/>
+    <!-- PATH A · overshoot + ring (the one red) -->
+    <path d="M846,430 L860,358 L892,500 L922,398 L952,468 L984,422 L1014,448 L1050,436 L1128,439"
+          fill="none" stroke="#FF5C5C" stroke-width="3.2" filter="url(#redGlow)"/>
+    <circle cx="860" cy="358" r="4" fill="#FF5C5C"/>
+    <!-- red rebound stamp -->
+    <g transform="rotate(-5 968 318)" font-family="'Inter',sans-serif">
+      <rect x="876" y="296" width="184" height="44" rx="5" fill="#160d0f" stroke="#FF5C5C" stroke-width="1.8"/>
+      <text x="968" y="314" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="0.6" fill="#FF5C5C">THE SWITCH,</text>
+      <text x="968" y="330" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="0.6" fill="#FF5C5C">NOT THE DIET</text>
+    </g>
+    <g font-family="'JetBrains Mono',monospace">
+      <text x="1124" y="478" text-anchor="end" font-size="9" fill="#ff8a8a">overshoot → ring → FAT REBOUND</text>
+      <text x="1124" y="490" text-anchor="end" font-size="9" fill="#ff8a8a">+5 kg in a month</text>
+      <text x="1124" y="502" text-anchor="end" font-size="8.5" fill="#caa05a">"jump straight back · eat what I want"</text>
+    </g>
+
+    <!-- PATH B · reverse glide (cyan staircase win) -->
+    <path d="M812,755 L836,755 L836,730 L866,730 L866,706 L896,706 L896,684 L926,684 L926,662 L956,662 L956,640 L986,640 L986,618 L1016,618 L1016,598 L1046,598 L1046,580 L1076,580 L1076,565 L1106,565 L1106,560 L1128,560"
+          fill="none" stroke="#2DD4BF" stroke-width="3.4" filter="url(#cyanGlow)" stroke-linejoin="round"/>
+    <!-- cardio up arrows during climb -->
+    <g stroke="#2DD4BF" stroke-width="1.6">
+      <line x1="888" y1="742" x2="888" y2="724" marker-end="url(#cyArrow)"/>
+      <line x1="958" y1="700" x2="958" y2="682" marker-end="url(#cyArrow)"/>
+      <line x1="1028" y1="660" x2="1028" y2="642" marker-end="url(#cyArrow)"/>
+    </g>
+    <text x="900" y="772" font-size="8.5" font-family="'JetBrains Mono',monospace" fill="#5fb7ac">CARDIO ↑ during the climb</text>
+    <!-- cardio taper down after flat -->
+    <line x1="1112" y1="572" x2="1112" y2="588" stroke="#E8A23D" stroke-width="1.6" marker-end="url(#amArrow)"/>
+    <text x="1062" y="600" font-size="8.5" font-family="'JetBrains Mono',monospace" fill="#caa05a">then CARDIO taper ↓</text>
+    <!-- path B label -->
+    <g font-family="'JetBrains Mono',monospace">
+      <text x="832" y="812" font-size="9.5" font-weight="700" font-family="'Inter',sans-serif" fill="#2DD4BF">REVERSE GLIDE · +50–100 kcal/wk</text>
+      <text x="832" y="826" font-size="8.5" fill="#79c6bc">add slow · carbs first · stop on the flat · then sit · wk0 2,400 → +75/wk → flatten wk 6–10</text>
+    </g>
+
+    <!-- phase ribbon under axis -->
+    <g font-family="'JetBrains Mono',monospace" font-size="8.5" fill="#59617A">
+      <text x="404" y="876" text-anchor="middle">BULK PHASE</text>
+      <text x="700" y="876" text-anchor="middle">CUT PHASE</text>
+      <text x="970" y="876" text-anchor="middle">THE SWITCH — made or wrecked here</text>
+    </g>
+  </g>
+
+  <!-- ===================== PANEL C · TREND READER ===================== -->
+  <g id="trend-reader" font-family="'JetBrains Mono',monospace">
+    <rect x="1162" y="192" width="396" height="306" rx="11" fill="#0F1726" stroke="#33405e" stroke-width="1.4"/>
+    <text x="1184" y="222" font-size="14" font-weight="700" letter-spacing="0.5" font-family="'Inter',sans-serif" fill="#E6E8EE">TREND READER</text>
+    <text x="1184" y="240" font-size="9.5" letter-spacing="1" fill="#6f7890">SMOOTH THE NOISE BEFORE YOU MOVE</text>
+    <line x1="1184" y1="250" x2="1536" y2="250" stroke="#1f2940" stroke-width="1"/>
+
+    <!-- noisy raw + 7-day average -->
+    <rect x="1184" y="266" width="352" height="120" rx="6" fill="#0a0e15" stroke="#243149" stroke-width="1"/>
+    <polyline points="1192,352 1206,318 1220,358 1234,300 1248,344 1262,312 1276,356 1290,296 1304,340 1318,308 1332,348 1346,292 1360,332 1374,300 1388,340 1402,286 1416,326 1430,296 1444,330 1458,282 1472,318 1486,290 1500,322 1514,278 1528,310"
+              fill="none" stroke="#3b4658" stroke-width="1.3"/>
+    <polyline points="1192,346 1248,332 1304,322 1360,312 1416,302 1472,292 1528,284"
+              fill="none" stroke="#2DD4BF" stroke-width="2.6" filter="url(#cyanGlow)"/>
+    <text x="1192" y="378" font-size="8" fill="#6f7890">raw daily = noise</text>
+    <text x="1528" y="378" text-anchor="end" font-size="8" fill="#2DD4BF">7-day avg = signal</text>
+
+    <text x="1184" y="408" font-size="11.5" font-weight="700" font-family="'Inter',sans-serif" fill="#2DD4BF">THE DAY IS NOISE · TWO WEEKS IS SIGNAL</text>
+    <text x="1184" y="424" font-size="9" fill="#8A93A6">trust two weeks of trend before you react.</text>
+
+    <!-- cross-check trio -->
+    <g>
+      <rect x="1184" y="436" width="110" height="50" rx="6" fill="#10151f" stroke="#283346" stroke-width="1"/>
+      <text x="1239" y="458" text-anchor="middle" font-size="10" font-weight="700" font-family="'Inter',sans-serif" fill="#cfd4df">TAPE</text>
+      <text x="1239" y="474" text-anchor="middle" font-size="8.5" fill="#8A93A6">weekly</text>
+
+      <rect x="1305" y="436" width="110" height="50" rx="6" fill="#10151f" stroke="#283346" stroke-width="1"/>
+      <text x="1360" y="458" text-anchor="middle" font-size="10" font-weight="700" font-family="'Inter',sans-serif" fill="#cfd4df">MIRROR</text>
+      <text x="1360" y="474" text-anchor="middle" font-size="8.5" fill="#8A93A6">bi-weekly</text>
+
+      <rect x="1426" y="436" width="110" height="50" rx="6" fill="#10151f" stroke="#283346" stroke-width="1"/>
+      <text x="1481" y="458" text-anchor="middle" font-size="10" font-weight="700" font-family="'Inter',sans-serif" fill="#cfd4df">LIFTS</text>
+      <text x="1481" y="474" text-anchor="middle" font-size="8.5" fill="#8A93A6">every session</text>
+    </g>
+  </g>
+
+  <!-- ===================== PANEL D · RATE GOVERNOR + AUTOPILOT ===================== -->
+  <g id="governor" font-family="'JetBrains Mono',monospace">
+    <rect x="1162" y="512" width="396" height="320" rx="11" fill="#0F1726" stroke="#33405e" stroke-width="1.4"/>
+    <text x="1184" y="542" font-size="14" font-weight="700" letter-spacing="0.5" font-family="'Inter',sans-serif" fill="#E6E8EE">RATE GOVERNOR</text>
+    <text x="1184" y="560" font-size="9.5" letter-spacing="1" fill="#6f7890">HOW FAST YOU MAY CROSS BANDS</text>
+    <line x1="1184" y1="570" x2="1536" y2="570" stroke="#1f2940" stroke-width="1"/>
+
+    <!-- slew dial -->
+    <g>
+      <path d="M1230,664 A60,60 0 0 1 1350,664" fill="none" stroke="#243149" stroke-width="8"/>
+      <path d="M1230,664 A60,60 0 0 1 1290,604" fill="none" stroke="#2DD4BF" stroke-width="8"/>
+      <line x1="1290" y1="664" x2="1326" y2="630" stroke="#2DD4BF" stroke-width="2.4"/>
+      <circle cx="1290" cy="664" r="5" fill="#2DD4BF"/>
+      <text x="1290" y="688" text-anchor="middle" font-size="8.5" fill="#8A93A6">SLEW · slow ↔ fast</text>
+    </g>
+    <!-- three engraved arcs -->
+    <g font-size="9.5">
+      <rect x="1366" y="592" width="170" height="30" rx="5" fill="#10151f" stroke="#283346" stroke-width="1"/>
+      <text x="1378" y="611" fill="#cfd4df">BULK</text>
+      <text x="1528" y="611" text-anchor="end" fill="#9aa2b4">0.1 → 1.0 kg/mo</text>
+
+      <rect x="1366" y="628" width="170" height="30" rx="5" fill="#10151f" stroke="#283346" stroke-width="1"/>
+      <text x="1378" y="647" fill="#cfd4df">CUT</text>
+      <text x="1528" y="647" text-anchor="end" fill="#9aa2b4">0.25 → 1.0 %bw/wk</text>
+
+      <rect x="1366" y="664" width="170" height="30" rx="5" fill="#0e2a27" stroke="#1d7a70" stroke-width="1.1"/>
+      <text x="1378" y="683" fill="#2DD4BF">REVERSE</text>
+      <text x="1528" y="683" text-anchor="end" fill="#5fb7ac">+50–100 kcal/wk</text>
+    </g>
+
+    <!-- subordinate autopilot -->
+    <g>
+      <rect x="1184" y="710" width="352" height="104" rx="7" fill="#10151f" stroke="#2b3550" stroke-width="1.2"/>
+      <text x="1200" y="732" font-size="11.5" font-weight="700" font-family="'Inter',sans-serif" fill="#cfd4df">AUTOPILOT · MacroFactor</text>
+      <text x="1524" y="732" text-anchor="end" font-size="9" fill="#8A93A6">RM ~30/mo</text>
+      <text x="1200" y="752" font-size="9" fill="#9aa2b4">re-estimates the moving setpoint every</text>
+      <text x="1200" y="766" font-size="9" fill="#9aa2b4">few days · nudges calories to hold the rate</text>
+      <text x="1200" y="788" font-size="8.5" fill="#6f7890">the closed loop itself lives in Part 1.0 —</text>
+      <text x="1200" y="801" font-size="8.5" fill="#6f7890">here it just holds the glide.</text>
+    </g>
+  </g>
+
+  <!-- ===================== BOTTOM RAIL · RAMPS ARE MACROS ===================== -->
+  <g id="macro-rail" font-family="'JetBrains Mono',monospace">
+    <rect x="40" y="850" width="1110" height="86" rx="10" fill="#0d121c" stroke="#283346" stroke-width="1.2"/>
+    <text x="62" y="878" font-size="12" font-weight="700" letter-spacing="0.6" font-family="'Inter',sans-serif" fill="#E6E8EE">THE RAMPS ARE MADE OF MACROS</text>
+
+    <!-- cut ramp -->
+    <g>
+      <text x="62" y="906" font-size="10" fill="#caa05a">CUT ramp</text>
+      <line x1="128" y1="902" x2="172" y2="902" stroke="#E8A23D" stroke-width="2" marker-end="url(#amArrow)"/>
+      <text x="182" y="906" font-size="10" fill="#cfd4df">protein ↑ 2.2 · fat = floor 0.8 · carbs ↓ (the deficit)</text>
+    </g>
+    <!-- bulk / reverse ramp -->
+    <g>
+      <text x="62" y="926" font-size="10" fill="#5fb7ac">BULK / REVERSE ramp</text>
+      <line x1="190" y1="922" x2="234" y2="922" stroke="#2DD4BF" stroke-width="2" marker-end="url(#cyArrow)"/>
+      <text x="244" y="926" font-size="10" fill="#cfd4df">protein hold · fat slight · carbs ↑ (the surplus / the refill)</text>
+    </g>
+    <line x1="660" y1="866" x2="660" y2="920" stroke="#283346" stroke-width="1"/>
+    <text x="686" y="894" font-size="11.5" font-weight="700" font-family="'Inter',sans-serif" fill="#2DD4BF">carbs are the lever you move;</text>
+    <text x="686" y="914" font-size="11.5" font-weight="700" font-family="'Inter',sans-serif" fill="#9aa2b4">protein &amp; fat are the rails you don't break.</text>
+  </g>
+
+  <!-- right-side mini takeaway block under panel D -->
+  <g id="takeaway" font-family="'Inter',sans-serif">
+    <rect x="1162" y="850" width="396" height="86" rx="10" fill="#0e2a27" stroke="#2DD4BF" stroke-width="1.5"/>
+    <text x="1184" y="882" font-size="13" font-weight="700" fill="#2DD4BF">DON'T STOP A DIET —</text>
+    <text x="1184" y="904" font-size="13" font-weight="700" fill="#2DD4BF">GLIDE OFF IT.</text>
+    <text x="1184" y="924" font-size="9" font-family="'JetBrains Mono',monospace" fill="#79c6bc">a hard step rings · a rate-limited ramp settles.</text>
+  </g>
+
+  <!-- ===================== FOOTER ===================== -->
+  <g id="footer">
+    <line x1="40" y1="970" x2="1558" y2="970" stroke="#1B2336" stroke-width="1"/>
+    <text x="42" y="998" font-size="10.5" letter-spacing="1.4" font-family="'JetBrains Mono',monospace" fill="#59617A">IF YOU'RE SO SMART, WHY ARE YOU NOT — HEALTHY · NUTRITION 4.0</text>
+    <text x="1558" y="998" text-anchor="end" font-size="10.5" letter-spacing="1.4" font-family="'JetBrains Mono',monospace" fill="#59617A">MAINTENANCE IS A MOVING TARGET. RAMP SLOW.</text>
+  </g>
+</svg>

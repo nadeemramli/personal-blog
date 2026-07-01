@@ -5,6 +5,7 @@ product_id: "on-the-go-protein-isolate-otg-1000g-shopee"
 compound: "On The Go Protein Isolate (OTG)"
 aliases:
   - "On The Go Protein Isolate (OTG)"
+  - "ONTHEGO Pure Protein Isolate 1KG"
 name: "On The Go Protein Isolate (OTG)"
 brand: "On The Go"
 vendor: "Shopee"

@@ -1,6 +1,6 @@
 ---
-title: "Wealth Part 2.1 - The Beauty of Compounding"
-draft: true
+title: Wealth Part 2.1 - The Beauty of Compounding
+draft: false
 tags:
   - successful
   - wealth

@@ -1,0 +1,215 @@
+<svg viewBox="0 0 1640 1180" xmlns="http://www.w3.org/2000/svg" font-family="Inter, 'Liberation Sans', 'DejaVu Sans', sans-serif">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#121A23" stroke-width="1"/>
+    </pattern>
+    <marker id="ahCyan" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0,0 L6.5,3 L0,6 z" fill="#2DD4BF"/></marker>
+    <marker id="ahAmber" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0,0 L6.5,3 L0,6 z" fill="#E8A23D"/></marker>
+    <marker id="ahGrey" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0,0 L6.5,3 L0,6 z" fill="#5C6B7A"/></marker>
+    <marker id="ahRed" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0,0 L6.5,3 L0,6 z" fill="#FF5C5C"/></marker>
+    <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5C6B7A"/><stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ground -->
+  <rect x="0" y="0" width="1640" height="1180" fill="#0B0F14"/>
+  <rect x="0" y="0" width="1640" height="1180" fill="url(#grid)" opacity="0.55"/>
+
+  <!-- ============ HEADER ============ -->
+  <text x="56" y="60" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="15" letter-spacing="1.5" fill="#8A97A6">IF YOU'RE SO SMART, WHY ARE YOU NOT  ·  PRODUCTIVE / PRODUCTIVITY ENHANCEMENT  ·  PART 7.0</text>
+  <text x="54" y="134" font-size="66" font-weight="600" letter-spacing="-0.5" fill="#E6ECF2">WORDS BECOME <tspan fill="#2DD4BF">WORK.</tspan></text>
+  <text x="56" y="176" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="18" letter-spacing="0.5" fill="#A7B2BF">A MODEL, GIVEN TOOLS, RUN IN A LOOP, FED CONTEXT, INSIDE A HARNESS.</text>
+  <text x="1584" y="58" text-anchor="end" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="14" fill="#8A97A6">FIG. 7.0 — SIGNAL-TRANSDUCTION / GAIN CHAIN</text>
+  <text x="1584" y="80" text-anchor="end" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="13" fill="#5C6B7A">additive · read left → right as a sentence</text>
+
+  <!-- ============ CAPABILITY LADDER (above chassis) ============ -->
+  <text x="56" y="206" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12.5" fill="#5C6B7A">THE CAPABILITY LADDER ▸ each stage adds exactly one capability the stage before it lacked</text>
+  <g font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="15" font-weight="600" text-anchor="middle">
+    <text x="172" y="224" font-size="12.5" fill="#5C6B7A">( BRAIN · WORDS ONLY )</text>
+    <text x="440" y="224" fill="#2DD4BF">+ HANDS</text>
+    <text x="720" y="224" fill="#2DD4BF">+ PLUG-AND-PLAY</text>
+    <text x="945" y="224" fill="#2DD4BF">+ PERSISTENCE</text>
+    <text x="1150" y="224" fill="#2DD4BF">+ JUDGMENT</text>
+    <text x="1300" y="224" fill="#2DD4BF">+ A HOME</text>
+  </g>
+  <g stroke="#2DD4BF" stroke-width="1" opacity="0.45">
+    <line x1="440" y1="230" x2="440" y2="248"/><line x1="720" y1="230" x2="720" y2="248"/>
+    <line x1="945" y1="230" x2="945" y2="248"/><line x1="1150" y1="230" x2="1150" y2="248"/>
+    <line x1="1300" y1="230" x2="1300" y2="248"/>
+  </g>
+
+  <!-- ============ HARNESS CHASSIS (stage 6, holds 1-5) ============ -->
+  <rect x="72" y="250" width="1264" height="458" rx="16" fill="#0C1219" stroke="#38444F" stroke-width="1.6"/>
+  <text x="92" y="278" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="14" letter-spacing="0.5" fill="#9CA8B5">⑥ HARNESS  ·  STAGE 6 — THE RUNTIME IT LIVES IN, HOLDS ITS FILES, GIVES IT COMPUTE</text>
+
+  <!-- ============ THE RAIL ============ -->
+  <!-- segment 1: dotted grey abstract text-signal (MODEL -> TOOLING) -->
+  <path d="M206,408 q11.5,-20 23,0 t23,0 t23,0 t23,0 t23,0 t23,0 t23,0" fill="none" stroke="#5C6B7A" stroke-width="2.6" stroke-dasharray="2 6" stroke-linecap="round"/>
+  <!-- segment 2: solid cyan current (TOOLING -> loop entry) -->
+  <line x1="396" y1="408" x2="853" y2="408" stroke="#2DD4BF" stroke-width="3.4"/>
+  <!-- segment 3: loop exit -> output terminal -->
+  <line x1="1037" y1="408" x2="1336" y2="408" stroke="#2DD4BF" stroke-width="3.4" marker-end="url(#ahCyan)"/>
+  <!-- exit chassis -> WORK -->
+  <line x1="1336" y1="408" x2="1398" y2="408" stroke="#2DD4BF" stroke-width="3.4" marker-end="url(#ahCyan)"/>
+
+  <!-- ===== STAGE 1: MODEL (signal source) ===== -->
+  <circle cx="172" cy="408" r="28" fill="#0C1219" stroke="#5C6B7A" stroke-width="2.4"/>
+  <path d="M156,408 q8,-13 16,0 t16,0" fill="none" stroke="#7C8896" stroke-width="2"/>
+  <text x="172" y="455" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="700" fill="#E6ECF2">① MODEL</text>
+  <text x="172" y="474" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#8A97A6">LLM · predicts text</text>
+  <text x="172" y="493" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" font-style="italic" fill="#7C8896">“just words — no power to touch”</text>
+  <text x="280" y="376" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" font-style="italic" fill="#6E7A88">abstract text-signal · dotted = no power</text>
+
+  <!-- ===== STAGE 2: TOOLING — the TRANSDUCTION BOUNDARY (visual soul) ===== -->
+  <text x="378" y="430" transform="rotate(-90 378 430)" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" font-weight="700" fill="#2DD4BF">TRANSDUCTION BOUNDARY</text>
+  <line x1="392" y1="338" x2="392" y2="500" stroke="#2DD4BF" stroke-width="2.2"/>
+  <path d="M384,400 l8,8 l-8,8" fill="none" stroke="#2DD4BF" stroke-width="2.2"/>
+  <text x="470" y="356" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12.5" font-weight="700" fill="#2DD4BF">words become action ▸</text>
+  <!-- tool taps fan -->
+  <text x="540" y="300" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#7C8896">TOOL TAPS · reaching into the world (the hands)</text>
+  <g stroke="#2DD4BF" stroke-width="2">
+    <line x1="415" y1="406" x2="445" y2="328"/><line x1="415" y1="406" x2="513" y2="328"/>
+    <line x1="415" y1="406" x2="583" y2="328"/><line x1="415" y1="406" x2="650" y2="334"/>
+  </g>
+  <g fill="#2DD4BF"><circle cx="445" cy="328" r="3"/><circle cx="513" cy="328" r="3"/><circle cx="583" cy="328" r="3"/><circle cx="650" cy="334" r="3"/></g>
+  <g font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" text-anchor="middle" fill="#CFE9E5">
+    <text x="445" y="316">SEARCH</text><text x="513" y="316">READ FILE</text><text x="583" y="316">QUERY DB</text><text x="650" y="320">SEND MSG</text>
+  </g>
+  <text x="440" y="455" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="700" fill="#E6ECF2">② TOOLING</text>
+  <text x="440" y="474" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#8A97A6">FUNCTION CALLING · words become actions</text>
+  <text x="440" y="493" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" font-style="italic" fill="#7C8896">“model decides WHAT · tools are HOW”</text>
+  <text x="440" y="512" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" font-style="italic" fill="#5C6B7A">↳ your 4.2 OS tools, handed to the agent</text>
+
+  <!-- ===== STAGE 3: PROTOCOL — MCP coupler vs custom tangle ===== -->
+  <g>
+    <rect x="684" y="392" width="72" height="32" rx="4" fill="#0C1219" stroke="#2DD4BF" stroke-width="2.2"/>
+    <line x1="700" y1="392" x2="700" y2="424" stroke="#2DD4BF" stroke-width="1.4"/>
+    <line x1="720" y1="392" x2="720" y2="424" stroke="#2DD4BF" stroke-width="1.4"/>
+    <line x1="740" y1="392" x2="740" y2="424" stroke="#2DD4BF" stroke-width="1.4"/>
+  </g>
+  <text x="720" y="455" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="700" fill="#E6ECF2">③ PROTOCOL</text>
+  <text x="720" y="474" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#8A97A6">MCP · the USB of tools</text>
+  <text x="720" y="493" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" font-style="italic" fill="#7C8896">“custom integrations → plug-and-play”</text>
+  <!-- ghosted amber custom-wired tangle -->
+  <g stroke="#E8A23D" stroke-width="1.5" fill="none" opacity="0.5">
+    <path d="M636,520 q14,-22 30,-6 q16,16 34,-4 q18,-18 36,6"/>
+    <path d="M640,534 q22,18 44,-8 q20,-20 42,4"/>
+    <path d="M648,508 q18,26 40,2 q22,-22 40,8"/>
+  </g>
+  <g fill="#E8A23D" opacity="0.6"><circle cx="636" cy="520" r="2.4"/><circle cx="690" cy="510" r="2.4"/><circle cx="742" cy="522" r="2.4"/><circle cx="726" cy="534" r="2.4"/></g>
+  <text x="690" y="552" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11" font-style="italic" fill="#E8A23D" opacity="0.85">custom-wired tangle · the world without a standard</text>
+
+  <!-- ===== STAGE 4: AGENTIC LAYER — the embedded LOOP (hero) ===== -->
+  <text x="945" y="300" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="700" fill="#E6ECF2">④ AGENTIC LAYER — where “agentic” is earned</text>
+  <!-- glow ring -->
+  <circle cx="945" cy="408" r="92" fill="none" stroke="#2DD4BF" stroke-width="14" opacity="0.10"/>
+  <!-- main ring -->
+  <circle cx="945" cy="408" r="92" fill="none" stroke="#2DD4BF" stroke-width="5"/>
+  <!-- clockwise arrowheads -->
+  <path d="M1019,352 l13,3 l-6,12 z" fill="#2DD4BF"/>
+  <path d="M956,498 l-13,4 l-1,-14 z" fill="#2DD4BF"/>
+  <path d="M866,358 l-1,-14 l13,5 z" fill="#2DD4BF"/>
+  <!-- loop words -->
+  <text x="945" y="352" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="700" fill="#2DD4BF">RUN</text>
+  <text x="1002" y="455" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="13" fill="#2DD4BF">EVALUATE</text>
+  <text x="889" y="450" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#2DD4BF">OBSERVE</text>
+  <text x="889" y="465" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#2DD4BF">/ ADJUST</text>
+  <!-- iteration counter -->
+  <rect x="905" y="396" width="80" height="25" rx="4" fill="#0C1219" stroke="#2DD4BF" stroke-width="1.2"/>
+  <text x="945" y="413" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12.5" fill="#2DD4BF">↻ ITER 04</text>
+  <text x="1052" y="404" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" font-style="italic" fill="#9FE3DB">works to</text>
+  <text x="1052" y="419" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" font-style="italic" fill="#9FE3DB">completion ▸</text>
+  <text x="846" y="372" text-anchor="end" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" font-style="italic" fill="#5C6B7A">same shape as</text>
+  <text x="846" y="386" text-anchor="end" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" font-style="italic" fill="#5C6B7A">3.0 Execute ▸</text>
+
+  <!-- one-shot bypass (ghosted amber, beneath, with gap for context trunk) -->
+  <line x1="853" y1="548" x2="930" y2="548" stroke="#E8A23D" stroke-width="2" stroke-dasharray="5 5" opacity="0.55"/>
+  <line x1="960" y1="548" x2="1004" y2="548" stroke="#E8A23D" stroke-width="2" stroke-dasharray="5 5" opacity="0.55" marker-end="url(#ahAmber)"/>
+  <rect x="1006" y="542" width="9" height="12" fill="#E8A23D" opacity="0.55"/>
+  <text x="892" y="566" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11" font-style="italic" fill="#E8A23D" opacity="0.9">ONE-SHOT BYPASS · answers once, then stops</text>
+
+  <!-- ===== STAGE 5: CONTEXT — injection rising from lower layers ===== -->
+  <!-- single trunk into loop bottom -->
+  <line x1="945" y1="640" x2="945" y2="502" stroke="#2DD4BF" stroke-width="3" marker-end="url(#ahCyan)"/>
+  <circle cx="945" cy="500" r="4" fill="#2DD4BF"/>
+  <text x="958" y="528" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#9FE3DB">CONTEXT INJECTION PORT</text>
+  <text x="958" y="612" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" font-style="italic" fill="#9FE3DB">injected each pass ↑</text>
+  <!-- 4 feed rails from bus up to merge -->
+  <g stroke="#2DD4BF" stroke-width="2.4" fill="none">
+    <path d="M700,748 C700,690 945,700 945,648"/>
+    <path d="M840,748 C840,700 945,700 945,648"/>
+    <path d="M980,748 C980,700 945,700 945,648"/>
+    <path d="M1108,748 C1108,700 945,700 945,648"/>
+  </g>
+  <!-- lower layers bus -->
+  <rect x="628" y="748" width="560" height="9" rx="3" fill="#2DD4BF" opacity="0.85"/>
+  <text x="620" y="744" text-anchor="end" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#8A97A6">LOWER LAYERS ▸</text>
+  <text x="620" y="762" text-anchor="end" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#5C6B7A">built earlier</text>
+  <g font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" text-anchor="middle" fill="#CFE9E5">
+    <text x="700" y="775">INSTRUCTIONS → 3.1</text>
+    <text x="840" y="775">KNOWLEDGE → 4.0/4.1</text>
+    <text x="980" y="775">OS TOOLS → 4.2</text>
+    <text x="1108" y="775">PREFERENCES</text>
+  </g>
+  <text x="908" y="665" text-anchor="end" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11" font-style="italic" fill="#8A97A6">live rails → bright output · “this is why the whole series came first”</text>
+
+  <!-- CONTEXT stage tab + twin meter (model choice vs context quality) -->
+  <text x="1170" y="470" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="700" fill="#E6ECF2">⑤ CONTEXT</text>
+  <text x="1170" y="488" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#8A97A6">better decisions each pass</text>
+  <text x="1170" y="512" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11" font-style="italic" fill="#9FE3DB">“most of an agent's quality is</text>
+  <text x="1170" y="527" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11" font-style="italic" fill="#9FE3DB">context, not the model”</text>
+  <line x1="1104" y1="690" x2="1246" y2="690" stroke="#5C6B7A" stroke-width="1.2"/>
+  <rect x="1130" y="650" width="34" height="40" fill="#E8A23D"/>
+  <rect x="1192" y="566" width="34" height="124" fill="#2DD4BF"/>
+  <text x="1147" y="706" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#E8A23D">MODEL</text>
+  <text x="1147" y="718" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#E8A23D">CHOICE</text>
+  <text x="1209" y="706" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#2DD4BF">CONTEXT</text>
+  <text x="1209" y="718" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#2DD4BF">QUALITY</text>
+
+  <!-- ===== HARNESS SPECTRUM GAUGE (lower-left interior) ===== -->
+  <text x="118" y="620" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#8A97A6">HARNESS SPECTRUM — where it runs</text>
+  <line x1="140" y1="660" x2="540" y2="660" stroke="url(#spectrum)" stroke-width="4"/>
+  <circle cx="140" cy="660" r="7" fill="#5C6B7A"/>
+  <circle cx="540" cy="660" r="7" fill="#2DD4BF"/>
+  <text x="140" y="642" text-anchor="start" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#7C8896">CHAT BOX</text>
+  <text x="540" y="642" text-anchor="end" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#2DD4BF">ALWAYS-ON MACHINE · VPS</text>
+  <text x="340" y="686" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" font-style="italic" fill="#8A97A6">“talk to it ───▸ it lives somewhere and works”</text>
+
+  <!-- ===== OUTPUT TERMINAL -> WORK (right, outside chassis) ===== -->
+  <rect x="1326" y="396" width="14" height="24" rx="2" fill="#2DD4BF"/>
+  <circle cx="1418" cy="408" r="22" fill="#0C1219" stroke="#2DD4BF" stroke-width="3"/>
+  <path d="M1409,408 l6,6 l11,-13" fill="none" stroke="#2DD4BF" stroke-width="3"/>
+  <rect x="1346" y="356" width="150" height="24" rx="12" fill="none" stroke="#2DD4BF" stroke-width="1.3"/>
+  <text x="1421" y="372" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#2DD4BF">▶ AUTONOMOUS RUNNER</text>
+  <text x="1418" y="452" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="15" font-weight="700" fill="#E6ECF2">WORK</text>
+  <text x="1418" y="470" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#8A97A6">real, delegated task done</text>
+  <text x="1418" y="490" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10.5" font-style="italic" fill="#7C8896">→ Part 7.1: pick the right harness</text>
+
+  <!-- ============ THE ONE RED OBJECT — failure callout ============ -->
+  <rect x="1196" y="744" width="388" height="182" rx="10" fill="#160C0E" stroke="#FF5C5C" stroke-width="1.6"/>
+  <text x="1390" y="770" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="13" font-weight="700" fill="#FF5C5C">AN AGENT ON CHAOS MAKES CHAOS — FASTER</text>
+  <!-- spinning loop (still cyan — it IS working) -->
+  <circle cx="1268" cy="846" r="30" fill="none" stroke="#2DD4BF" stroke-width="4"/>
+  <path d="M1295,838 l11,3 l-4,11 z" fill="#2DD4BF"/>
+  <text x="1268" y="850" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#2DD4BF">↻ full</text>
+  <text x="1268" y="900" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#8A97A6">loop runs fine</text>
+  <!-- dead context rails (dark / grey) -->
+  <g stroke="#2A3340" stroke-width="3" stroke-dasharray="4 5"><line x1="1240" y1="910" x2="1258" y2="878"/><line x1="1268" y1="912" x2="1268" y2="878"/><line x1="1296" y1="910" x2="1278" y2="878"/></g>
+  <text x="1268" y="924" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="9" fill="#4A5664">dead context feed</text>
+  <!-- red runaway output -->
+  <line x1="1300" y1="846" x2="1372" y2="846" stroke="#FF5C5C" stroke-width="3.4" marker-end="url(#ahRed)"/>
+  <path d="M1384,838 q8,8 0,16 q-8,8 0,16" fill="none" stroke="#FF5C5C" stroke-width="2.2"/>
+  <text x="1470" y="840" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="14" font-weight="700" fill="#FF5C5C">CHAOS</text>
+  <text x="1470" y="858" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="14" font-weight="700" fill="#FF5C5C">FASTER</text>
+  <text x="1470" y="900" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11" font-style="italic" fill="#FF5C5C">build the lower</text>
+  <text x="1470" y="915" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11" font-style="italic" fill="#FF5C5C">layers first</text>
+
+  <!-- ============ SENTENCE LOCKUP ============ -->
+  <text x="72" y="968" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#5C6B7A">READ THE CHAIN AS A SENTENCE ▸</text>
+  <text x="72" y="1000" font-size="20" fill="#A7B2BF">a <tspan font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-weight="700" fill="#2DD4BF">MODEL</tspan> is given <tspan font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-weight="700" fill="#2DD4BF">TOOLS</tspan>, reached through a <tspan font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-weight="700" fill="#2DD4BF">PROTOCOL</tspan>, run in a <tspan font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-weight="700" fill="#2DD4BF">LOOP</tspan>, fed <tspan font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-weight="700" fill="#2DD4BF">CONTEXT</tspan> each pass, all inside a <tspan font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-weight="700" fill="#2DD4BF">HARNESS</tspan>.</text>
+
+  <!-- ============ FOOTER ============ -->
+  <line x1="72" y1="1030" x2="1584" y2="1030" stroke="#1E2630" stroke-width="1"/>
+  <text x="1584" y="1056" text-anchor="end" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#5C6B7A">← 3.1 instructions · 4.0/4.1 knowledge · 4.2 OS tools feed CONTEXT      → 7.1 harness levels · → 7.2 persistent memory</text>
+</svg>

@@ -90,6 +90,10 @@ Put the four enemies against the stack and the whole series snaps into focus. Th
 > [!note] Distraction is the one you can't tool your way out of
 > Three of the four enemies fall cleanly to a layer of the stack. Distraction is the exception: tools help, but the deepest version of it is a behavioural and dopaminergic problem, not a software one. That's why [[Part 1.0 - The Productivity Stack|Part 1.0]] insists the [[Part 1.0 - The Pursuit of Greatness|Behavioral Change]] series is prerequisite reading. ==You can buy your way out of noise, mindlessness, and forgetfulness. You mostly have to *train* your way out of distraction.==
 
+*Here's the same stack from Part 1.0 turned on its side: one attention signal running from input to finished work, with the four enemies you just met wired in as threat zones along it (Noise, Mindlessness, Forgetfulness, and the dominant [[Part 1.1 - The Enemy of Productivity#Enemy 1: Distraction (the main threat)|Distraction]]), each met by the stack layer built to kill it. The board's whole point is the asymmetry [[Part 1.1 - The Enemy of Productivity#The map: each layer kills an enemy|the map]] lands on: you can buy your way out of three, but you have to train your way out of distraction (its kill-wire runs off the board to a habit). Its one red mark is the classic misdiagnosis, a focus app patched onto a memory leak. Use it to name the enemy that's winning before you build anything.*
+
+![[Poster — Productive - Productivity Enhancement Part 1.1 - The Enemy of Productivity.png]]
+
 ---
 > [!check] Part 1 Takeaways
 > - The stack exists to kill four specific enemies: **Distraction, Noise, Mindlessness, Forgetfulness.** They are different problems with different fixes.

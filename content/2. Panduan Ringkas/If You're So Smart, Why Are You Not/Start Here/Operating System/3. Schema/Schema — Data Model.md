@@ -33,7 +33,7 @@ One note per physical product, stored in `Operating System/Products/` — split 
 | `warehouse` | text | Vendor's shipping warehouse — drives shipping cost/minimums and feasibility (e.g. anabolicpharmacist: Turkish/Indian/PharmaQo; beligaspharmacy: International/**Thailand (MY feasibility untested)**) |
 | `availability` | text | Stock state **at capture date**, e.g. `in_stock (2026-06-08)` — for fast-sellout vendors like Beligas; re-check before ordering |
 | `source` | text | Links to a [[#5. Source|Source]] note — the sourcing/shipping cost model |
-| `pillar` | text | Attractive / Fit / Healthy / Productive / Rich / Successful |
+| `pillar` | text | Attractive / Fit / Healthy / Productive / Rich / Successful / **Recovery** / **Antioxidant** — Recovery + Antioxidant are *functional* pillars registered 2026-06-19 (Recovery = joint/tissue recovery, e.g. Boswellia; Antioxidant = oxidative defence, e.g. Vitamin E), alongside the original life-domain pillars |
 | `sub_series` | text | e.g. Performance Enhancement, Blueprint, Cognitive Enhancement |
 | `category` | text | Steroid, Pharmacology, SARM, Supplement, Cycle support, Ancillary, Nootropic, Topical/Pharma |
 | `importance` | text | Very / Moderate / Slight / Non-essential (restock priority) |

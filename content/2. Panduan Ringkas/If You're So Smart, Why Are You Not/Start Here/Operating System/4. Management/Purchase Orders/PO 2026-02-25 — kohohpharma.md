@@ -15,10 +15,10 @@ tags:
 
 | Item | Qty | Unit (RM) | Total (RM) | Remark |
 |---|---|---|---|---|
-| MK677 | 2 | 159.00 | 318.00 |  |
-| Cytolin | 2 | 106.00 | 212.00 |  |
-| GW501516 | 1 | 106.00 | 106.00 |  |
-| Clenbuterlin | 1 | 106.00 | 106.00 |  |
+| [[MK-677 (10mg×50tab) — kohohpharma\|MK677]] | 2 | 159.00 | 318.00 |  |
+| [[Cytolin (25mcg×100tab) — kohohpharma\|Cytolin]] | 2 | 106.00 | 212.00 |  |
+| [[Cardarine (GW-501516) (10mg×50tab) — kohohpharma\|GW501516]] | 1 | 106.00 | 106.00 |  |
+| [[Clenbuterol (40mcg×100tab) — kohohpharma\|Clenbuterlin]] | 1 | 106.00 | 106.00 |  |
 | **TOTAL** | | | **RM742.00** | |
 
 ## Links

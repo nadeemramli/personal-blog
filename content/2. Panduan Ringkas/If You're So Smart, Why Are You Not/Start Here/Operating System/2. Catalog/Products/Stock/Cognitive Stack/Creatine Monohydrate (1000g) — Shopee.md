@@ -5,6 +5,7 @@ product_id: "creatine-monohydrate-1000g-shopee"
 compound: "Creatine Monohydrate"
 aliases:
   - "Creatine Monohydrate"
+  - "Pure Creatine Monohydrate"
 name: "Creatine Monohydrate"
 brand: "Shopee"
 vendor: "Shopee"

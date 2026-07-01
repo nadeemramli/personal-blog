@@ -5,10 +5,15 @@ product_id: "pre-workout-1014g-iherb"
 compound: "Pre-Workout"
 aliases:
   - "Pre-Workout"
+  - "Nutricost, PRE-X Pre-Workout, Peach Mango, 1014 g"
 name: "Pre-Workout"
 brand: "Nutricost"
 vendor: "iHerb"
 source: "iHerb"
+label_verified_as_of: 2026-06-19
+label_facts_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/pre-workout-1014g-iherb-supplement-facts.jpg"
+label_image: "Start Here/Operating System/2. Catalog/Products/_Product Images/pre-workout-1014g-iherb-front.jpg"
+source_url: "https://nutricost.com/products/nutricost-pre-workout-complex-powder-30-servings"
 pillar: "Fit"
 sub_series: "Performance Enhancement"
 category: "Supplement"
@@ -59,6 +64,24 @@ notes: "Added +1,014g to stock from [[PO 2026-06-13 — iHerb]]. Forecast uses t
 |---|---|---|---|
 | early | 7 | RM1.79 | RM653.33 |
 
+
+
+## Label Facts
+
+> [!info] Official label captured 2026-06-19
+> - Source: [Nutricost ? Nutricost Pre-X Workout Complex Powder](https://nutricost.com/products/nutricost-pre-workout-complex-powder-30-servings)
+> - Product image: ![[pre-workout-1014g-iherb-front.jpg]]
+> - Supplement facts image: ![[pre-workout-1014g-iherb-supplement-facts.jpg]]
+> - Brand dosage image: ![[pre-workout-1014g-iherb-dosage.jpg]]
+> - Package: Blue Raspberry / 30 Servings
+> - Serving size: See official Supplement Facts image
+> - Stock protocol use: 8 g/TD
+
+| Label item | Amount |
+|---|---:|
+| Official Supplement Facts panel | See saved label image for complete multi-ingredient formula |
+
+Other ingredients and full label cautions: see saved Supplement Facts panel image.
 
 ## Purchase Log
 
