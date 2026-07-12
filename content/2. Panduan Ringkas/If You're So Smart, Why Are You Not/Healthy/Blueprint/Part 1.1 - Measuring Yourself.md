@@ -250,7 +250,7 @@ That logic generalises. The table below is the set worth computing, the formula,
 | **MAP** (mean arterial pressure) | DBP + (SBP − DBP) ÷ 3 | your home BP cuff |
 
 > [!tip] The budget rule for add-ons
-> Only pay for an add-on if it is a **true assay you cannot derive** from cheaper inputs. The short list worth paying for: **SHBG, fasting insulin, ApoB, Lp(a) (once in your life), hs-CRP, DHEA-S, DHT**. Everything in the table above is arithmetic. Buy the inputs once, compute the rest forever. The full computable list and a calculator live in the Operating System's [[Bloodwork & Calculated Biomarkers]] reference.
+> Only pay for an add-on if it is a **true assay you cannot derive** from cheaper inputs. The short list worth paying for: **SHBG, fasting insulin, ApoB, Lp(a) (once in your life), hs-CRP, DHEA-S, DHT**. Everything in the table above is arithmetic. Buy the inputs once, compute the rest forever. The full computable list and calculator are maintained privately in the Operating System; this public article retains the governing principle without exposing personal operating records.
 
 > [!warning] Where the shortcuts break
 > Calculated markers are reliable for **day-to-day tracking and budgeting**, not for edge-case diagnosis. The Friedewald LDL becomes invalid when triglycerides are very high (roughly >4.5 mmol/L), surrogate insulin-resistance indices (TyG, HOMA-IR) are trends not diagnoses, and FIB-4 over- and under-reads at the extremes of age. When a *calculated* number looks alarming, that is the moment to pay for the direct assay, not to panic.
