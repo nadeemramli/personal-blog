@@ -57,4 +57,4 @@ flowchart TD
 
 [^steve]: VigorousSteve (with Kurt Havens and Dr Dean St Mart), "Do Roids Make You Stupid? Neuro-Inflammation, Excitotoxicity, Dopamine Vs Serotonin, Brain Deep-Dive," YouTube (https://www.youtube.com/watch?v=iuVG0JRzAB0). The framing spark for this series.
 
-[^sayin]: Sayin, H. Ümit. "Neurological Correlates and the Mechanisms of Expanded Pleasures in Women: Novel Findings on ESR." *EC Neurology* 11.6 (2019): 419–442 (https://ecronicon.net/assets/ecne/pdf/ECNE-11-00520.pdf). Used here for its survey of reward neurochemistry (dopamine, oxytocin, serotonin), with the caveat that its headline ESR claims are the author's own hypotheses rather than established consensus.
+[^sayin]: Sayin, H. Ümit. "Neurological Correlates and the Mechanisms of Expanded Pleasures in Women: Novel Findings on ESR." *EC Neurology* 11.6 (2019): 419–422 (https://ecronicon.net/assets/ecne/pdf/ECNE-11-00520.pdf). Used here for its survey of reward neurochemistry (dopamine, oxytocin, serotonin), with the caveat that its headline ESR claims are the author's own hypotheses rather than established consensus.
