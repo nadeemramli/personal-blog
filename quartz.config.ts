@@ -16,8 +16,16 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "nadeemramli.com",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "essays.nadeemramli.com",
+    ignorePatterns: [
+      "private",
+      "templates",
+      ".obsidian",
+      "**/Fit/Performance Enhancement/_archive/**",
+      "**/Fit/Performance Enhancement/roadmap-app.html",
+      "**/blog viz daily - temporary/**/*.md",
+      "**/blog viz daily - temporary/**/*Performance Enhancement*",
+    ],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
